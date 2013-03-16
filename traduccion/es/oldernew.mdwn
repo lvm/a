@@ -1,0 +1,1069 @@
+Introduction
+============
+
+Here is a list of all the new additions to the FAQ from (approximately)
+the beginning of February 1997. This should make it far easier for the
+return visitor to find out what has changed since the last visit.
+
+Also it is worthwhile to explain how the version number of the FAQ
+changes. If we are including a new section (filling an incomplete
+section, for example) or including a new sub-section in an existing
+section (for example, adding A.2.20 to section A.2) then the version
+number is increased by one (from version 2.2 to version 3, for example).
+If we are updating an old section with new information or an improved
+argument, then the current version is increased by 0.1 (for example,
+from version 2.2 to 2.3).
+
+As far as new anarchist and libertarian links are concerned, we will add
+them when we get enough to make an update worthwhile. These updates have
+no effect on the FAQ version number as we don't want to inflate it
+higher than the content deserves.
+
+We hope that this makes it clear to visitors!
+
+What's New in the FAQ?
+======================
+
+Version
+
+Date
+
+What's New
+
+10.0
+
+18-MAR-04
+
+[Section H](secHcon.html) \
+Reorganisation of section H. Some sections have been moved around (for
+example, section H.5 on the Makhnovist movement is now [section
+H.11](secH11.html) and section H.8 on vanguardism is now [section
+H.5](secH5.html)). In addition, sections from [section H.6](secH6.html)
+(what was section H.4) have been added. Some changes have been made to
+other sections. For example the section on Kronstadt (now [section
+H.7](secH7.html)), the section on various Bolshevik Oppositions
+([section H.10](secH10.html)) and the critique of Engels' essay on
+Authority is now a new section ([section H.4](secH4.html)) instead of
+being part of [section H.1](secH1.html).
+
+The following subsections of section H.6 are now available:
+
+[Section H.6](secH6.html) \
+Introduction to section H.6 \
+[Section H.6.3](secH6.html#sech63) \
+Surely the Russian Revolution proves that vanguard parties work? \
+[Section H.6.4](secH6.html#sech64) \
+Was Lenin's "State and Revolution" applied after October? \
+[Section H.6.5](secH6.html#sech65) \
+Did the Bolsheviks really aim for Soviet power? \
+[Section H.6.6](secH6.html#sech61) \
+What happened to the soviets after October?
+
+9.10
+
+09-JAN-04
+
+[Section H.9](secH9.html) \
+New section on how Marxist and Leninist ideology helped cause the
+degeneration of the Russian Revolution. Why only rejecting the
+centralised, state capitalist Bolshevik vision can lead to real
+socialism.
+
+[Section H.10](secH10.html) \
+New section on the better know oppositions within Bolshevism: The "Left
+Communists" of 1918, the "Workers' Opposition" of 1920/1 and the "Left
+Opposition" of 1923-7. Explains why they were not real oppositions and
+what that says about the essence of Leninism. Talks about the little
+know "Workers' Group" (a real opposition as it argued for workers
+political and economic freedom) and what its repression by Lenin and
+Trotsky says about the essence of Bolshevism.
+
+9.9
+
+26-AUG-03
+
+[Section H.7](secH7.html) \
+ New section on why the Russian Revolution failed. Covers most of the
+common Leninist explanations of why Bolshevism became authoritarian and
+shows why they are flawed. Includes replies to such classics as the
+"declassing" of the working class and lots more.
+
+9.8
+
+27-JAN-03
+
+[Section H.5](secH5.html) \
+[Section H.5.4](secH5.html#sech54) \
+[Section H.5.5](secH5.html#sech55) \
+[Section H.5.6](secH5.html#sech56) \
+[Section H.5.8](secH5.html#sech58) \
+[Section H.5.10](secH5.html#sech510) \
+Additions to various sub-sections to section H.5 (***"What was the
+Kronstadt Rebellion?"***). These additions are from recently published
+Soviet Archive documents.
+
+[Section B.4](secB4.html) \
+A slight addition on company towns to the section on ***How does
+capitalism affect liberty?***
+
+[Section H.2.2](secH2.html#sech22) \
+Addition of an Emma Goldman quote to the section on ***"Do anarchists
+reject "class conflict" as "the motor of change" and "collective
+struggle" as the "means"?"***. This quote reiterates that Goldman, like
+all social anarchists, placed collective class struggle at the core of
+her politics.
+
+[Section A.5.5](secA5.html#seca55) \
+Slight change to the section on ***"Anarchists in the Italian Factory
+Occupations"*** to include a quote by Gramsci on the Communist's
+disgraceful position on the anti-fascist Arditi del Popolo organisation.
+
+[Section G](secGint.html) \
+[Section G.2](secG2.html) \
+[Section G.2.1](secG2.html#secg21) \
+[Section G.2.2](secG2.html#secg22) \
+A few additions to clarify a few points on the ideas of individualist
+anarchism, its support of "free markets" and why it is anti-capitalist.
+
+9.7
+
+27-JUNE-02
+
+[Section H.3](secH3.html) \
+New section on the "myths of Marxism." Covers the contradictions in the
+Marxist and Leninist theories of the state, whether the state is simply
+an instrument of class rule and whether anarchists and Marxists want the
+same thing. In addition, covers whether Marxists seek to place power in
+the hands of workers' organisation and their position on "workers'
+control." Plus lots more.
+
+[Section H.8](secH8.html) \
+New section on why anarchists oppose Leninist vanguard parties.
+Discusses their anti-socialist and elitist tendencies and explains why
+they are "bureaucratic centralist" rather than "democratic centralist."
+Plus lots more.
+
+9.6
+
+29-MAY-02
+
+[Section H.5](secH5.html) \
+A few additions to the section on the Kronstadt Rebellion, to include
+Fedotoff-White's book **The Growth of the Red Army**
+
+[Appendix - The Symbols of Anarchy](append2.html) \
+A few minor changes to the appendix on anarchist symbols.
+
+9.5
+
+5-FEB-02
+
+[Section H.6](secH6.html) \
+New section on the Makhnovist movement. The Makhnovist movement was an
+anarchist influenced peasant partisan army which fought in the Ukraine
+for working class freedom and autonomy against the tyrannts of the right
+and left. The Makhnovists show that there was a viable alternative to
+the authoritarianism of the Bolsheviks and that Bolshevik ideology
+played a key role in the degeneration of the revolution. This section
+summarises the military history of the movement, its constructive social
+ideas and its attempts to apply them. In addition it refutes common
+allegations against the Makhnovists (such as they were anti-Semitic,
+worked with the Whites, were Nationalists, anti-town and so on).
+
+9.4
+
+7-DEC-01
+
+[Section H.2](secH2.html) \
+New section on how Marxists have distorted anarchist ideas.
+
+[Section I.3](secI3.html) \
+[Section I.4](secI4.html) \
+[Section I.5](secI5.html) \
+[Section I.8](secI8.html) \
+[Marxists and Spanish Anarchism](append32.html) \
+[Reply to errors and distortions in the SWP's "Marxism and
+Anarchism"](append34.html) \
+[Reply to errors and distortions in John Fisher's "Why we must further
+Marxism and not Anarchism"](append35.html) \
+Minor updates of these sections and appendices to make the quotes
+Peirats' **CNT in the Spanish Revolution** and Christies' **We, the
+Anarchists!** consistent with the newly published book versions.
+
+9.3
+
+27-OCT-01
+
+[Section H.1](secH1.html) \
+New section on how anarchists have opposed state socialism (including
+Marxism) from the start. Indicates Stirner's and Proudhon's opposition
+to state socialism and gives a short summary of Bakunin's critique of
+Marxism. Discusses the key differences between anarchism and Marxism.
+Also indicates why Engels' infamous essay "On Authority" does not refute
+anarchism.
+
+9.2
+
+01-SEP-01
+
+[Section A.5.4](secA5.html#seca54) \
+Extensive revision and expansion of the section on ***"Anarchists in the
+Russian Revolution."*** More details on the Makhnovist movement as well
+as the degeneration of the revolution under the Bolshevik government.
+
+[Section A.5.5](secA5.html#seca55) \
+Expansion of the section on ***"Anarchists in the Italian Factory
+Occupations."** Indicates the key role anarchists played in this
+movement.*
+
+[Section A.5.7](secA5.html#seca57) \
+Slight revision to include a reference to the Situationists and their
+influence in the May, 1968 events in Paris.
+
+[Section D.5](secD5.html) \
+Extensive revision of ***"What causes imperialism?"***. Provides an
+anarchist analysis of what causes imperialism, how it has changed over
+time and how "globalisation" is just another, more modern, form of it.
+
+[Did Trotsky keep alive Leninism's *"democratic
+essence"*?](append31.html#app15) \
+A new section to [Reply to errors and distortions in David McNally's
+pamphlet *"Socialism from Below"*.](append31.html) This section
+discusses Trotsky's support for party dictatorship during the 1920s and
+1930s, so showing the inaccuracy of McNally's account of his ideas
+**and** putting in question his assertions about Leninism's *democratic
+essence."*
+
+[Marxists and Spainish Anarchism](append32.html) \
+Slight addition to [section 6](append32.html#app6) on the Asturias
+uprising and the addition of Trotsky's suggestion that the CNT leaders
+take *"dictatorship for themselves"* to [section
+20](append32.html#app20).
+
+9.1
+
+27-JUN-01
+
+[Anarchism and Marxism](append3.html) \
+New reply to another (highly inaccurate) Trotskyist attack on anarchism.
+We show how the "New Youth" article ["Why we must further Marxism and
+not Anarchism"](append3.html#app35) is little more than a series of
+inventions and does not present an honest account of anarchist ideas. We
+also indicate the authoritarian nature of Trotskyist politics.
+
+9.0
+
+01-MAY-01
+
+[Section I](secIcon.html) \
+Massive revision and extension to section I (***"What would an anarchist
+society look like?"***). New sub-sections, new and improved arguments,
+ideas, facts and quotes. Find out about the kind of society anarchists
+want and fight for.
+
+8.7
+
+17-MAR-01
+
+[Section H.5](secH5.html) \
+New section on the Kronstadt Uprising against the Communists in 1921. It
+presents an indepth discussion and analysis of the rising and places it
+in the context of the revolution. It refutes Leninist claims that it was
+a White conspiracy, counter-revolutionary or expressed the exasperation
+of the peasants. It shows the continuity of the the revolutionary
+sailors and their politics in 1917 with the revolt of 1921 and discusses
+what the suppression of the revolt tells us about the politics of
+Leninism.
+
+[Section H -- Introduction](secHint.html) \
+Slight change to include a quote by Lenin noting that the
+Council/Anti-Parliamentarian Communists were close to anarchism.
+
+8.6
+
+14-DEC-00
+
+[The Symbols of Anarchy](append2.html) \
+Slight revision on the histories of the Black and Red-and-Black Flags.
+Includes Louise Michels comments on both the Black and Red flags and why
+the Black Flag ("the flag of strikes") may have become an anarchist
+symbol. Also shows that anarchists used the red-and-black flag in Mexico
+in the 1870s.
+
+[Anarchism and Marxism](append3.html) \
+Slight revisions to two parts of this appendix. Now quotes from the
+Paris Commune's "Declaration to the French People" in our discussion of
+*[Why is Marxist "class analysis" of anarchism
+contradictory?](append31.html#app12)* This makes clearer the anarchistic
+nature of the Commune. In addition, the comment by Marx that revolution
+*"from below"* was *"nonsense"* has been added to the section on [why
+SWP/ISO use of the expression *"Socialism from below"* is
+dishonest](append31.html#app14). Also a discussion of the Bolshevik
+hostility towards workers' councils in the 1905 Russian Revolution as
+another example of the [ineffectiveness of the "vanguard" parties like
+the SWP.](append34.html#app1)
+
+8.5
+
+27-OCT-00
+
+[Anarchism and Marxism](append3.html) \
+Slight revisions of each of the existing appendices to fix minor typing
+errors. Plus a reply to the recent British SWP article on ["Marxism and
+Anarchism"](append3.html#app34) in which we discuss the errors in the
+article and indicate that the disgraceful behaviour of the SWP in the
+recent "Battle of Prague" shows that the SWP are hypocrites as well as
+why such behaviour flows naturally from their authoritarian politics.
+
+8.4
+
+19-JUL-00
+
+[Section B.4.5](secB4.html#secb45) \
+Expansion on why capitalism cannot "leave you alone". Includes
+information on self-management schemes and why they management stop them
+and what this implies for capitalism. Plus it discusses the ambiguity of
+the slogan "leave me alone" in a hierarchical society.
+
+[Section J.5.12](secJ5.html#secj512) \
+Expansion on why capitalism selects against workers' self-management
+even though it is usually more productive and efficient than wage
+labour. The hierarchical nature of the company ensures that such
+experiments do not grow and expand.
+
+[Section F.1](secF1.html) \
+Slight expansion of ***"Are 'anarcho'-capitalists really anarchists?"**
+Adds the point we make elsewhere that they cannot be considered as
+anarchists because capitalist property, like the state, is
+hierarchical.*
+
+[Anarchism and Marxism](append3.html) \
+Two new additions to this appendix. The first one is on **[Marxists and
+Spanish Anarchism](append3.html#app32)** in which we discuss various
+claims made by Marxists (particularly Trotskyists) about the history and
+politics of the Spanish anarchist movement. The second is a [reply to a
+Marxist diatribe](append3.html#app33) against the various "direct
+action" and anti-globalisation events and organisations, particularly
+**Reclaim the Streets** in London. In addition, [section
+12](append31.html#app12) of the appendix on the pamphlet **"Socialism
+from Below"** has been expanded to include more details about anarchist
+involvement during the Russian Revolution and their links with the
+masses as well as details of the politics of Parisian workers of the
+1860s.
+
+8.3
+
+13-APR-00
+
+[Section B.2](secB2.html) \
+Expansion and revision on the section ***"Why are anarchists against the
+state?"***. Indicates that the state bureaucracy has its own interests
+and so the state is not only the tool of the economically dominant
+class. Also indicates the role of the state as protector of the system
+**as a whole** and how it does this.
+
+[Section J.1](secJ1.html) \
+Revision of the section on ***"Are Anarchists involved in social
+struggles?"**.*
+
+[Section D.1](secD1.html)\
+ [Section D.2](secD2.html)\
+ [Section D.11](secD11.html) \
+Slight expanision of each of these sections.
+
+[Anarchism and Marxism](append3.html) \
+Revision to fix various minor typos.
+
+8.2
+
+18-MAR-00
+
+[Anarchism and Marxism](append3.html) \
+New appendix for replies to on-line anti-anarchist webpages and works.
+Currently contains an indepth reply to the SWP/ISO pamphlet
+***"Socialism from Below."*** We expose their *"The Myth of Anarchist
+Libertarianism"* to be a mish-mash of lies, half-truths and nonsense and
+indicate why Marxism is **not** *Socialism from Below* and why anarchism
+is.
+
+[Section C.1](secC1.html) \
+Revision and expansion of our critique of marginalism and general
+equilibrium theory.
+
+[Section J.2.10](secJ2.html#secj210) \
+Slight expansion on why the claim that anarchism is apolitical because
+it rejects electioneering is false.
+
+[Section J.3.7](secJ3.html#secj37) \
+Slight expansion on Bakunin's ideas on the tactics of anarchist groups
+and why Marxist accounts of them are false.
+
+[Section J.7.2](secJ7.html#secj72) \
+Slight change to the end of the section on ***Is social revolution
+possible?** Stresses that people change themselves when they change the
+world and that libertarian characteristics are generated by struggle and
+so co-operative/libertarian tendencies are a product of struggle, not
+idealised notions with little basis in reality.*
+
+[Section E.7](secE7.html) \
+Slight expansion on why Green Consumerism cannot stop ecological
+destruction. Expands on the use of PR firms, *"greenwashing"* and how
+apparently "green" firms may not be.
+
+[Section F.1.3](secF1.html#secF13)\
+ [Section F.2.2](secF2.html#secF22) \
+Slight revision of these sections.
+
+8.1
+
+19-JAN-00
+
+[Section A.2.9](secA2.html#seca29) \
+Expansion on the section on ***"What sort of society do anarchists
+want?"*** Clarifies the important difference between delegates and
+representatives. The former is the basis for eliminating government, the
+latter is a form of government.
+
+[Section A.5](secA5.html) \
+Slight expansion to introduction of this sub-section to hight that
+anarchists aim for a ***revolution from below** and that our examples of
+***Anarchy in Action** are expressions of this.**
+
+[Section A.5.1](secA5.html#seca51) \
+Expansion of the section on ***"The Paris Commune"** to include more
+information on its anarchistic elements and to provide more anarchist
+analysis of it.*
+
+[Section A.5.2](secA5.html#seca52) \
+Expansion of the section on the ***"Haymarket Martyrs"* to include more
+of the history of the event, details of the ***"Chicago Idea"** which
+inspired them as well as why anarchists still consider it important.***
+
+[Section J.5](secJ5.html) \
+Slight modification to ***"What alternative social organisations do
+anarchists create?"***
+
+[Appendix 1](append12.html) \
+Slight changes to the appendix on ***"Anarchism and
+'Anarcho'-capitalism"***
+
+8.0
+
+14-DEC-99
+
+[Section G](secGcon.html) \
+Revision and expansion of section G which is on the Individualist
+Anarchists. In addition to new arguments in existing sections on why
+they were libertarian ***socialists*** and **not** fore-fathers of
+"anarcho"-capitalism, there are three new sub-sections: \
+[G.1.1 Why is the social context important in evaluating Individualist
+Anarchism?](secG1.html#secg11) \
+[G.2.1 What about their support of the free market?](secG2.html#secg21);
+\
+[G.2.2 What about their support of "private
+property"?](secG2.html#secg22);
+
+[Section C.2.6](secC2.html#secc26)\
+ [Section C.2.7](secC2.html#secc27) \
+Addition of a couple of Proudhon quotes on why interest is exploitative
+and unjustifiable.
+
+[Section H -- Introduction](secHint.html) \
+New section. Introduction to the section on why Anarchists are opposed
+to Marxism and other forms of state socialism. Also refutes some of the
+silly anti-anarchist assertions by Marxists.
+
+[Section J.7](secJ7.html) \
+New section on ***What do anarchists mean by social revolution?**. Find
+out what anarchists mean when they talk about social revolution, what it
+would involve and why most anarchists think it is required (and also why
+some anarchists reject it).*
+
+7.8
+
+11-NOV-99
+
+[Section A.1.4](secA1.html#seca14)\
+ Slight change to the section on ***Are anarchists socialists?***
+
+[Section A.1.5](secA1.html#seca15)\
+ Expansion of the section on ***Where does anarchism come from?**. While
+still stressing that anarchism is a product of working class struggle
+against the modern state and capitalism (and for freedom and equality),
+it also notes that anarchistic tendencies have existed in society before
+anarchism existed as a specific political theory.*
+
+[Section A.2.7](secA2.html#seca27) \
+Expansion to the section on ***Why do anarchists argue for
+self-liberation?** in order to stress that it is the process of
+rebellion, of self-liberation, that holds the key to a free society.*
+
+[Section A.2.9](secA2.html#seca29) \
+Addition of Kropotkin quote to the section on ***What sort of society do
+anarchists want?***
+
+[Section A.2.14](secA2.html#seca214)\
+ Revision to the section on ***Why is voluntarism not enough?** to
+include a few quotes and to clarify a few things.*
+
+[Section A.2.19](secA2.html#seca219)\
+ Very slight addition to the section on ***What ethical views do
+anarchists hold?** to include how inequality erodes ethical behaviour.*
+
+[Section B.7.1](secB7.html#secb71)\
+ Inclusion of more information on classes to the section on ***But do
+classes actually exist?**. International comparisions show that the US
+has more poverty and the smallest middle class compared to social
+democratic states in Europe. Not surprisingly, as its more free market
+based.*
+
+[Section B.7.3](secB7.html#secb73)\
+ Slight expansion of the section on ***What do anarchists mean by "class
+consciousness"?***
+
+[Section C.2](secC2.html)\
+ Slight expansion of the section on ***Where do profits come from?***
+
+[Section D.10](secD10.html)\
+ Expansion of the section on ***How does capitalism affect
+technology?**. In a hierarchical society, technology cannot be truly
+neutral -- as anarchists have been aware of since Proudhon -- and will
+be used to enchance the power and profit of the bosses.*
+
+[Section F.5](secF5.html)\
+ Expansion of the section on why privatising everything will not
+increase freedom. Discover why a right-libertarian society implies the
+end of freedom of travel and the end of other civil liberties such as
+freedom of speach.
+
+[Section J.2](secJ2.html)\
+ Expansion of the section on ***What is Direct Action?***. Find out why
+anarchists support direct action, why we are against voting and what our
+alternative is to electioneering.
+
+[An Anarchist FAQ Bibilography](biblio.html) \
+The bibliography for the books we reference in the FAQ has been
+considerably added to.
+
+7.7
+
+14-JUL-99
+
+[Section J.4](secJ4.html)\
+ New section on ***What trends in society aid anarchist activity?***
+This section includes discussion of the importance of social struggle
+and the myth that its counter-production. In addition, it discusses
+anarchist use of the Internet, popular discontent with the state and big
+business as well as economic crisis.
+
+[Appendix - Anarchism and "anarcho"-capitalism](append1.html) \
+Revision and expansion on our reply and critique to Bryan Caplan's
+"Anarchist Theory FAQ." Explains why "anarcho"-capitalism is not
+anarchist and not part of the anarchist tradition.
+
+[An Anarchist FAQ Bibilography](biblio.html) \
+Incomplete bibliography for the books we reference in the FAQ. It will
+be added to as time permits.
+
+[Section A.1.1](secA1.html#seca11)\
+ Slight revision to the section on ***What does "anarchy" mean?** to
+stress that anarchy means far more than just "no government."*
+
+[Section A.3.1](secA3.html#seca31)\
+ [Section A.3.2](secA3.html#seca32)\
+ Expansion to the discussion on the differences between social and
+individualist anarchists, as well as between different kinds of social
+anarchist.
+
+[Section A.5.5](secA5.html#seca55)\
+ Expansion of the section on ***Anarchists in the Italian Factory
+Occupations**. Includes more details of the Anarchist struggle against
+fascism and refutes claims that Italian Fascism was somehow related to
+anarcho-syndicalism.*
+
+[Section A.2.18](secA2.html#seca218)\
+ Expansion and revision of the infamous ***"propaganda by the deed"**
+period of anarchist history.*
+
+[Section F.8](secF8.html)\
+ Slight changes to the section on the role of the state in creating
+capitalism in the first place.
+
+[Section A](secAcon.html)\
+ Minor changes in section A.
+
+[Section B](secBcon.html)\
+ Minor changes in section B.
+
+7.6
+
+23-APR-99
+
+[Section J.3](secJ3.html)\
+ New section on ***What kinds of organisation do anarchists build?***.
+This section discusses the different kinds of organisations anarchists
+create and what role they play in anarchist theory, as part of society
+and in the class struggle. Anarcho-syndicalism is also discussed, as is
+why many anarchists are not anarcho-syndicalists. Also covered is
+Bakunin's ideas on the role of revolutionary organisations.
+
+[Appendix - The Symbols of Anarchy](append2.html) \
+New appendix on the history of the common anarchist symbols: the black
+flag, the red-and-black flag and the circled-A
+
+7.5
+
+15-MAR-99
+
+[Section C.8](secC8.html) \
+Expansion of section on the role of credit and state control of money in
+the business cycle. Discusses Monetarism and free banking and why they
+fail to stop the business cycle.
+
+[Section C.11](secC11.html) \
+Slight revision and expansion on the section which discusses why Chile
+shows that free-market capitalism does not benefit everyone and that it
+was no "economic miracle".
+
+[Section A.2.2](secA2.html#seca22)\
+ Slight modification to the section on ***"Why do anarchists emphasise
+liberty?"***.
+
+[Section A.2.5](secA2.html#seca25)\
+ Extension on ***"why anarchists are in favour of equality?"* to clarify
+a few points.**
+
+[Section A.2.8](secA2.html#seca28)\
+ More arguments explaining why it is impossible to be an anarchist
+without opposing hierarchy, including the hierarchy associated with
+private property.
+
+[Introduction](intro.html)\
+ Slight up-date of the introduction.
+
+7.4
+
+17/12/98
+
+[Section C.7](secC7.html)\
+ Expansion, revision and reorganisation of section on ***"What causes
+the capitalist business cycle?"**. Includes new facts and figures and
+expands on original arguments. Why boom and bust is inherent in
+capitalism and the role of class struggle, investment and the price
+mechanism in it.*
+
+[Section C.9](secC9.html)\
+ Expansion, revision and reorganisation of section on ***Would
+laissez-faire policies reduce unemployment, as "free market" capitalists
+claim?**. Reorganisation includes new subsections on empirical evidence
+that suggests high wages are associated with low unemployment and why
+"flexible" labour markets do not seem to be the solution to
+unemployment.*
+
+[Section C.3](secC3.html)\
+ Revision on ***What determines the distribution between profits and
+wages within companies?**, stressing the importance of organisation and
+collective struggle in increasing wages by increasing bargaining power
+and indicating that rising productivity can be associated with lower
+wages, in contradiction to the claims of capitalist economics.*
+
+7.3
+
+08/12/98
+
+[Section A.3.3](secA3.html#seca33)\
+ Revision and expansion of ***"What types of Green anarchism are
+there?"**, indicating the links between ecological and anarchist
+thought, the different types of green anarchism there are and where they
+agree and disagree.*
+
+[Section A.3.4](secA3.html#seca34)\
+ Revision and expansion of ***"Is anarchism pacifistic?"*** in which we
+discuss why many anarchists are pacifists and why anarchism has close
+links with pacifist ideas. It also indicates why most anarchists are not
+pacifists.
+
+[Section A.1.4](secA1.html#seca14)\
+ Revision of the section on ***"Are Anarchists Socialists?** to clarify
+a couple of points and provide a few more quotes from Individualist
+anarchists.*
+
+[Section B.4.3](secB4.html#secb43)\
+ Revision of the section on ***"No one forces you to work for them"**
+which indicates that this refrain of supporters of capitalism misses the
+point.*
+
+[Section G.6](secG6.html)\
+ Slight expansion on ***"What are the ideas of Max Stirner?*** in
+relation to his ***Union of Egoists** and why it implies
+self-management, not hierarchy.*
+
+[Section C.5.1](secC5.html#secc51)\
+ Inclusion of a few quotes by Peter Kropotkin on how Big Business gets
+more profits. Big isn't beautiful, but it helps you make more profits!
+
+7.2
+
+22/05/98
+
+[Section C.1](secC1.html)\
+ [Section C.2](secC2.html)\
+ Revision and expansion of the anarchist critique of capitalist
+economics and why exploitation (unpaid labour) is the root source of
+profits, interest and rent.
+
+[Section C.10](secC10.html)\
+ Expansion of the section on why "free market" capitalism will not
+benefit all, *especially* the poor.
+
+[Section C Introduction](secCint.html)\
+ [Section C.9](secC9.html)\
+ Slight changes to these two sub-sections of section C.
+
+7.1
+
+27/03/98
+
+[Section A.3.5](secA3.html#seca35)\
+ Revision and expansion of ***"What is Anarcha-Feminism?"***. Includes a
+few more quotes and a discussion on why anarchists and anarcha-feminism
+are critical of mainstream feminism.
+
+[Section A.2.11](secA2.html#seca211)\
+ Expansion of the section explaining why most anarchists support direct
+democracy and consider it as the complement to free association and
+individual freedom.
+
+[Section A.2.13](secA2.html#seca213)\
+ Slight expansion on the section explaining why anarchists reject
+"individualism" and "collectivism" as two sides of the same (capitalist)
+coin.
+
+[Section A.1](secA1.html)\
+ [Section A.2.2](secA2.html#seca22)\
+ [Section A.2.12](secA2.html#seca212)\
+ [Section A.5.2](secA5.html#seca52)\
+ Slight revisions to all the above sections.
+
+[Section J.5](secJ5.html)\
+ Slight revisions for grammar.
+
+7.0
+
+10/03/98
+
+[Section A.3.7](secA3.html#seca37)\
+ New sub-section on ***Are there religious anarchists?*** Includes
+information on various forms of religious anarchism with particular
+reference to Tolstoy.
+
+[Section A.3.8](secA3.html#seca38)\
+ New sub-section on ***What is "anarchism without adjectives"?*. Gives
+the history of this form of anarchism, what it is and why it came
+about.**
+
+[Section A.4](secA4.html)\
+ Slight revision of this section on ***Who are the major anarchist
+thinkers*** to include information on religious anarchism.
+
+[Section C.11](secC11.html)\
+ Slight arrangement of sections C.11 and C.12 on the "free market"
+capitalist experiment in Pinochet's Chile. C.12 is now included as a
+subsection of C.11.
+
+[Section C.12](secC12.html)\
+ New section C.12 on Hong Kong and why it does not show the benefits of
+laissez-faire capitalism as is often claimed.
+
+[Section F](secFcon.html)\
+ Extensive revision of section F on why "anarcho"-capitalism is not a
+form of anarchism. Expanded, revised and spell checked.
+
+[Replies to the FAQ](replies.html)\
+ New appendix which will list webpages that reply to the FAQ. Currently
+it includes a reply to reply on section F.1 done by an
+"anarcho"-capitalist.
+
+6.8
+
+07/01/98
+
+[Section J.5](secJ5.html)\
+ New sub-section on ***"What alternative social organisations do
+anarchists create?***. Includes information about community organising,
+industrial unionism and networking, mutual/co-operative credit systems,
+producer co-operatives (and why capitalism is inefficient), libertarian
+education and schools, a discussion on Libertarian Municipalism and
+anarchist views on state and private welfare and self-managed
+alternatives to both. Essential reading if you are interested in
+***anarchy in action***
+
+[Section A.1](secA1.html)\
+ Slightly revised sub-section on ***"What is Anarchism?"***.
+
+[Section B.1.4](secB1.html#secb14)\
+ Slight revision on the section on racism, sexism and homophobia and why
+they exist to include a summary of a study into the effects of racism in
+the USA. The study indicates that racism makes all working people worse
+off, including the "white" workers who are often said to benefit from
+it.
+
+6.7
+
+18/12/97
+
+[Section G.6](secG6.html)\
+ Slight revision to the section on Max Stirner and his ideas.
+
+Sections [J introduction,](secJintro.html)[J.1](secJ1.html),
+[J.2](secJ2.html) and [J.6](secJ6.html) \
+Minor revision on these sections of J for spelling and grammar
+
+6.6
+
+15/12/97
+
+[Section B.7](secB7.html)\
+ Slight revision to include more details on the concentration of wealth
+within the ruling class.
+
+Sections [C.4,](secC4.html)[C.5](secC5.html) and [C.6](secC6.html) \
+Major revision on the sections on Big Business and oligopoly. Why it
+develops, its impact on society and why and how it enriches the few at
+the expense of the many.
+
+[Section D](secDcon.html) \
+Revised, expanded and spell checked section D on ***How does capitalism
+and statism effect society*. Even more arguments and facts against
+capitalism and statism.**
+
+6.5
+
+28/10/97
+
+Slight corrections to sections [A](secAcon.html), [B](secBcon.html) and
+[C](secCcon.html)
+
+6.4
+
+03/09/97
+
+[Section J.6](secJ6.html)\
+ Anarchist ideas on and methods for bringing up children.
+
+[Section B](secBcon.html)\
+ Revised, expanded and spell checked section B on ***Why do anarchists
+oppose the current system*. Even more arguments and facts against
+capitalism and statism.**
+
+Section C [Introduction](secCintro.html), [C.2](secC2.html),
+[C.6](secC6.html), [C.7.2](secC7.html#secc72) and [C.9](secC9.html) \
+Slightly revised and expended sections on capitalist economics.
+
+Sections
+[F](http://www.geocities.com/CapitolHill/Lobby/3998/secFcon.html) and
+[G](http://www.geocities.com/CapitolHill/Lobby/3998/secGcon.html) have
+been moved to another geocities address for space reasons. \
+
+6.3
+
+17/07/97
+
+[Section C](secCcon.html)\
+ Revised, expanded and spell checked section C on ***The Myths of
+Capitalist Economics***. Even more quotes from your favourite anarchists
+and libertarians!. Even more arguments and facts against capitalism!
+
+[Section E](secEcon.html)\
+ Revised and spell checked section e on ***What do anarchists think
+causes ecological problems?***.
+
+[Section
+G](http://www.geocities.com/CapitolHill/Lobby/3998/secGcon.html)\
+ Renamed, improved, expanded, revised and spell checked section G on
+***Is individualist anarchism capitalistic?*** - the short answer being
+"no"! Indicates how and why individualist anarchism was opposed to
+capitalism **plus** why social anarchists are critical of the theory.
+
+6.2
+
+23/05/97
+
+[Section J.1](secJ1.html)\
+ Newly completed sub-section. Find out why social struggle is important
+to anarchists and how anarchists take part in it. For anarchists, social
+struggle is the key from getting from capitalism to anarchy.
+
+[Section A](secAcon.html)\
+ Revised section A on ***What is Anarchism?***. Improved and updated
+arguments and evidence, plus spell checked, and so on!
+
+Section J - [introduction](secJintro.html) and [J.2](secJ2.html)\
+ Spell checked and slightly revised.
+
+6.1
+
+01/05/97
+
+[Section J.2](secJ2.html)\
+ Newly completed sub-section. Find out all about ***direct action***,
+why anarchists support it, why we reject electioneering as a means of
+change and why we do not vote.
+
+Minor update of section [B.3](secB3.html) to include a couple of nice
+Proudhon quotes on how ***"property is despotism."***
+
+Minor updates of sections [C.2](secC2.html) and
+[F.2.1](http://www.geocities.com/CapitolHill/Lobby/3998/secF2.html#secf26)
+to make the quotes from Proudhon's **What is Property** consistent in
+terms of edition. All quotes now from B.R. Tucker's translation, Bellamy
+Library edition, London.
+
+Minor updates to sections [I.3](secI3.html), [I.3.1](secI3.html#seci31),
+[I.3.4](secI3.html#seci34),
+[I.3.5,](secI3.html#seci35)[I.4.4](secI4.html#seci44) and
+[I.4.13](secI4.html#seci413) in order to make the possible nature and
+workings of an anarchist "economy" clearer.
+
+Minor update to section [I.8.7](secI8.html#seci87) on the Aragon rural
+collectives and how they were the product of the radicalisation of the
+population during the 1930s.
+
+6.0
+
+26/03/97
+
+[Section B.3.4](secB3.html#secb34)\
+ New sub-section. Analysis of the claims that private property,
+particularly in land, can be justified in terms of self-ownership. Also
+indicates the authoritarian nature of private property and the way
+Robert Nozick ignores the liberty of the dispossessed in his attempts to
+justify appropriation of land. If land ownership cannot be justified,
+then capitalism is based upon stolen goods.
+
+[Section B.7.1](secB7.html#secb71)\
+ This section on classes is slightly expanded to give details of income
+mobility within capitalism. Argues that even high income mobility cannot
+justify a class system and presents evidence that income mobility is
+moderate at best.
+
+[Section
+F.2.2](http://www.geocities.com/CapitolHill/Lobby/3998/secF2.html#secf28)\
+ New sub-section. Short discussion on why we should reject the
+right-Libertarian "entitlement theory of justice." The means do not
+justify the ends, and if the ends involve authoritarian social
+relationships, inequalities in liberty, wealth and power, even
+"civilised" slavery, then the theory stinks.
+
+[Appendix](append1.html)\
+ New appendix on Anarchism and "anarcho"-capitalism. As well as
+including the old section F.10, this appendix contains new work - a
+reply to the claim that [the Individualist Anarchists were not part of
+the socialist movement](append11.html#app1), a discussion on [What
+socialism actually stands for](append11.html#app2), analysis on whether
+[Proudhon](append11.html#app3) and [Tucker](append11.html#app4) were
+socialists or capitalists, a reply to claims that ["anarcho"capitalism
+is a form of anarchism](append11.html#app5) and a discussion on why
+[anarchism cannot be defined using dictionaries.](append11.html#app6)
+
+5.1
+
+10/03/97
+
+Minor updates to sections [C.11](secC11.html) and
+[C.12](secC11.html#secc111) on the Chilean "economic miracle." Why did
+it require mass murder, dictatorship and state terror to create "free
+market" capitalism in Chile and what was its actual results?
+
+5.0
+
+28/02/97
+
+[Section D.5](secD5.html)\
+ A slight update expanding upon the anarchist analysis of imperialism
+and how it has developed over time.
+
+[Section C.7](secC7.html)\
+ An updated analysis of the capitalist business cycle. Argues that the
+class struggle both outside and inside the workplace has an impact in
+creating the business cycle. Old version ignored social struggle outside
+the workplace and put too much emphasis on technological innovation by
+big business. This has been corrected.
+
+Sections [C.8.1](secC8.html#secc81),[C.8.2](secC8.html#secc82) and
+[C.8.3](secC8.html#secc83) \
+ Anarchist analysis of the rise of social Keynesianism and its fall into
+a combination of free markets and Pentagon-style Keynesianism. Even
+reformed capitalist is not immune to the struggle for freedom against
+hierarchy and the objective limits of capitalism.
+
+[Section
+F.1](http://www.geocities.com/CapitolHill/Lobby/3998/secF1.html) \
+Expanded arguments on why "anarcho"-capitalism is not anarchist.
+Contains an excellent quote by Noam Chomsky on what he considers would
+happen if it was tried in practice. Also contains the new sub-sections
+[F.1.2](http://www.geocities.com/CapitolHill/Lobby/3998/secF1.html#secf12)
+and
+[F.1.3](http://www.geocities.com/CapitolHill/Lobby/3998/secF1.html#secf13)
+on how libertarian right-libertarian theory is (not very!) and how most
+right-Libertarians reject the scientific method in favour of dogma,
+respectively.
+
+[Section
+G.5](http://www.geocities.com/CapitolHill/Lobby/3998/secG5.html) \
+An updated analysis of the ideas of Individualist Anarchist Benjamin
+Tucker. More quotes from Tucker on the socialistic nature of his ideas
+and his support for labour struggle.
+
+[Section I.7.4](secI7.html#seci74)\
+ Expanded analysis on why capitalism does not protect individuality and
+why competition puts out the flame of individuality and rebellion.
+
+[Section J - Introduction](secJintro.html) \
+Introduction to the section on ***"What do Anarchists do?"**. Gives a
+short overview of the anarchist approach to social struggles and why its
+so important for creating an anarchist future. Plus updated [contents
+page](secJcon.html) - what to look forward to in the near future!*
+
+4.1
+
+14/02/97
+
+Minor updates to sections [A.1.5](secA1.html#seca15),
+[A.2.9](secA2.html#seca29), [I.5.8](secI5.html#seci58) and
+[I.6.1](secI6.html#seci61).
+
+4.0
+
+10/02/97
+
+[Introduction](intro.html)\
+ At long last an introduction to the FAQ and its history. Also names the
+guilty parties.
+
+**What's New?**\
+ This "What's New" page will be a welcome addition to regular visitors
+to the FAQ.
+
+[Section
+F.2.1](http://www.geocities.com/CapitolHill/Lobby/3998/secF2.html#secf26)
+\
+Do Libertarian-capitalists support slavery? Yes is the answer and find
+out why this indicates that right-libertarians are not libertarians at
+all.
+
+[Section
+F.9](http://www.geocities.com/CapitolHill/Lobby/3998/secF9.html) \
+Update with new evidence of the nature of Medieval Iceland and why it
+indicates that private property produces statism. More reasons why
+Medieval Iceland demonstrates how "anarcho-"capitalism will not work in
+practice.
+
+3.3
+
+06/02/97
+
+[Section
+F.6](http://www.geocities.com/CapitolHill/Lobby/3998/secF6.html) \
+New analysis on how the "anarcho"-capitalist system of private states
+will become a public state. Builds on and extends original argument.

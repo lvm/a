@@ -1,0 +1,63 @@
+Apendice: Anarquismo y "anarco"-capitalismo
+=============================================
+
+Este apendice existe por una razon, esto es para explicar por que la
+idea de "anarco"-capitalismo es falsa. A pesar de haber cubierto este
+topico en la [Seccion F](secFcon.html), pensamos que este apendice
+debe ser creado para discutir con mas detalle porque los anarquistas
+rechazan al "anarco"-capitalismo y sus razones para ser anarquistas.
+
+Este apendice tiene tres partes. Las primeras dos secciones son 
+nuestras criticas sobre ["Anarchist Theory
+FAQ."](http://www.gmu.edu/departments/economics/bcaplan/anarfaq.htm), 
+un trabajo "anarco"-capitalista de Bryan Caplan. El trabajo de Caplan
+es un intento online de darle validez al oximoron "anarco"-capitalismo
+por lo que vale la pena explicar, que utilizando este FAQ como base, 
+tal intento falla. La ultima parte del apendice es la version original
+de la [Seccion F](secFcon.html).
+
+Probaremos que el FAQ de Caplan falla en su intento de demostrar que
+el "anarco" capitalismo puede ser considerado parte del movimiento
+anarquista y que de hecho implica una extensa revision de la historia.
+Este apendice esta dividido en dos partes, una respuesta a la version
+mas reciente del FAQ de Caplan (version 5.2) y una hacia la version
+anterior 4.1.1 (que fue originalmente la seccion F.10 del AAFAQ). La
+[introduccion](append12.html) a la respuesta a la version 4.1.1 indica
+que la mayoria de los anarquistas piensa que tanto el FAQ como su
+"objetividad" no nos representan.
+
+Dedicimos reemplazar a la version original de esta seccion F con una
+version editada simplemente porque la version original era demasiado
+larga respecto al resto del FAQ. A pesar de haber comenzado como una
+refutacion a los reclamos "anarco"-capitalistas de ser anarquistas, 
+ya no se trata de eso. Como tal, en un FAQ ***anarquista*** la seccion
+F paso a ser redundante considerando que "anarco"-capitalismo es una 
+franja ideologica incluso dentro de Estados Unidos. Si no fuera por
+su presencia en la web y algunos academicos que toman sus reclamos de
+ser anarquistas como validos, solo nos preocupariamos de mencionarlos
+de pasada.
+
+Hemos decidido incluir este apendice ya que realmente es una adicion
+al cuerpo del FAQ. Las partes interesadas en por que los reclamos
+ "anarco"-capitalistas son falsos pueden explorar este apendice, 
+aquellos que se interesen en el anarquismo pueden leer este FAQ
+sin tener la necesidad de leer muchas discusiones entre anarquistas
+y capitalistas. Deberiamos, quizas, agradecer a Caplan por permitirnos
+explicar las ideas de gente como Proudhon y Tucker, permitiendonos
+citarlos y extender sus ideas a una audiencia mas amplia y por 
+indicarnos que el anarquismo, en tods sus formas, siempre se ha
+opuesto al capitalismo y siempre lo hara.
+
+
+[Respuesta a Algunos Errores y Distorsiones en "Anarchist Theory FAQ" 
+version 5.2 de Bryan Caplan](append11.html)
+
+### 
+
+[Respeusta a Algunos Errores y Distorsiones en "Anarchist Theory FAQ" 
+version 4.1.1 de Bryan Caplan](append12.html)
+
+
+### 
+
+[Es "anarco"-capitalismo un tipo de anarquismo?](append13.html)

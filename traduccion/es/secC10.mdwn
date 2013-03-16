@@ -1,0 +1,2004 @@
+C.10 Is "free market" capitalism the best way to reduce poverty?
+================================================================
+
+It is far to say that supporters of "free-market" capitalism make the
+claim that their system not only benefits everyone, but especially
+working class people (indeed, the very poorest sectors of society). This
+was the position during the so-called "anti-globalisation" protests at
+the turn of the 21st century, when the issue of global inequality and
+poverty was forced to the front of politics (for a time). In response,
+the likes of the Economist portraying itself and the big businesses
+seeking lower costs and higher profits as the real champions of the poor
+(particularly in the third world).
+
+In this perspective growth is the key to reducing (absolute) poverty
+rather than, say, redistribution, struggle for reforms by means of
+direct action and popular self-organisation or (heaven forbid!) social
+revolution. The logic is simple. Economic growth of 1% per year will
+double an economy in 70 years, while 3% does so in just over 23 years
+and 5% growth takes a mere 15 years. Thus the standard right-wing
+argument is that we should promote "free market" capitalism as this is a
+growth machine par excellence. In fact, any form of redistribution or
+social struggle is considered counter-productive in this viewpoint as it
+is harms overall growth by either scaring away capital from a country or
+blunts the incentives of the elite to strive to "produce" more wealth.
+Over time, wealth will (to coin a well-worn phrase) "trickle down" from
+the wealthy to the many.
+
+What to make of this claim? Again, it does contain an element of truth.
+As capitalism is a "grow or die" economy (see [section
+D.4](secD4.html)), obviously the amount of wealth available to society
+increases for **all** as the economy expands. So the poor will, in
+general, be better off **absolutely** in any growing economy (at least
+in economic terms). This was the case under Soviet state capitalism as
+well: the poorest worker in the 1980s was obviously far better off
+economically than one in the 1920s. As such, what counts is **relative**
+differences between classes and periods within a growth economy. Given
+the thesis that free-market capitalism will benefit the poor
+**especially,** we have to ask: is this actually true and, of so, can
+the other classes benefit equally well? This means we need to ask
+whether the assumption to concentrate on **absolute** poverty or
+inequality rather that **relative** values makes more sense. Similarly,
+we need to question the assumption that "free market" capitalism is the
+growth machine its supporters assert and whether the benefits of the
+growth it produces does, in fact, "trickle down." Questioning these
+assumptions is essential.
+
+The key problem with evaluating such claims is, of course, the fact that
+an economy, like a society, is a very complex system which evolves
+through time. There are few opportunities for "controlled experiments"
+with which to test differing analyses and theories. This means that any
+attempt to analysis these claims must be based on looking at different
+countries and time periods in order to contrast them. Thus we will look
+at the same countries at different periods (the more social democratic
+post-war period to the more neo-liberal post-1980s and more neo-liberal
+countries with those in which free-market "reforms" have not been pushed
+as far). As we will show, the track record of "free(r) market"
+capitalism has been, at best, distinctly unimpressive and, at worse,
+significantly poorer.
+
+However, this appeal to reality will not convince many supporters of
+capitalism. For the true believer in the capitalist market, this kind of
+evidence does not create doubt in their ideas, only the conviction that
+the experiments did not go far enough. Thus, for the ideologue, freer
+market capitalism handily tell us nothing about free market capitalism
+-- unless, of course, they can be portrayed as an "economic miracle"
+(regardless of the facts). For "advocates of the market," the sanctity
+of private property and private contracts is held as an inalienable
+natural right. To refute charges that this Will simply benefit the
+already wealthy they spend much time arguing that unfettered capitalism
+is also the only economic system which will produce the greatest benefit
+for the greatest number. In other words, that absolute capitalist
+markets and private property rights coincides **exactly** with personal
+interest. A clearer example of wishful thinking could hardly be asked
+for. Yet it is not hard to see what function this plays. Few people will
+be persuaded by their assumptions on property and markets, given the
+common sense objection that free exchange between the weak and the
+strong will, obviously, benefit the latter more. Yet more people may be
+convinced to go along with "free market" proposals by considerations of
+economic efficiency and the hope that the poor will see their living
+standards improve over time (particularly if "experts" with economics
+degrees are involved as people often assume they know what they are
+talking about).
+
+Now, the empirical track-record of what is called capitalism is
+decidedly mixed. There are three courses of action open to the market
+advocate. The first is to embrace the property-rights argument
+wholeheartedly, and say that we should adopt pure capitalism even if it
+hurts a large percentage of the population because it is the right thing
+to do. This would be unconvincing for most people as economic austerity
+and serf-like working conditions in return for protecting the power and
+property rights of the few who actually own the wealth would find few
+(sane or disinterested) supporters. Then it could be argues that the
+empirical track-record of "actually existing" capitalism should be
+ignored in favour of economic ideology as reality is simply not pure
+enough. That, again, would be unconvincing for the obvious reason that
+we would be being asked to have faith in the validity of economics (as
+we have noted before, this would not be wise given its surreal
+assumptions and non-scientific nature). This would have one positive
+side-effect, as doing this would mean that that "market advocates" would
+have to stop claiming that all the good things we have are due to
+something (capitalism) that does not exist. So that option is unlikely
+to have many supporters or convince many. Finally, it could be argued
+that contrary to appearances capitalism really **does** benefit
+everyone. While this option is not compatible with intellectual honesty,
+it is by the far the most popular within the ranks of "market
+advocates." This is undoubtedly because the wealth and corporations are
+always willing to pay well for people happy to defend their power and
+profits against the reality they produce.
+
+So what of the claim that capitalism is the best way to help them poor,
+that capitalism will especially benefit working class people? To make
+sense (i.e. to be more than simply a rhetoric assertion), it must rest
+on two basic notions. Firstly, that "free market" capitalism will have a
+higher growth rate than alternative forms of that system (such state
+capitalism or regulated capitalism). Secondly, that inequality will be
+less and share of wages in the national income more in "free market"
+than in other systems (this must be the case, otherwise "free market"
+reforms do not **especially** help working class people). We will
+discuss the first claim here, before discussing the track record of
+neo-liberalism in the [next section](secC10.html#secc101) followed a
+discussion of the history of capitalism and free trade in section
+[C.10.2](secC10.html#secc102). We then analysis the failings of the
+equality defence in section [C.10.3](secC10.html#secc103) before ending
+with a discussion on the limitations of looking at income and growth in
+evaluating how capitalism benefits the working class ([section
+C.10.4](secC10.html#secc104)). As we show, there is substantial evidence
+to suggest that the standard defences of "free market" capitalism are
+not up to much. Let us be clear and state there is generally a positive
+correlation between economic growth and the income of the poor. We are
+not attacking economic growth as such but rather asking whether
+neo-liberalism's own defence actually stands up.
+
+Looking at the historical picture, then, yes, capitalism does produce
+much more economic growth than previous social systems such as slavery
+and feudalism. However, defending capitalism on the basis that it better
+than a slave based economy is hardly a strong foundation (particularly
+when capitalists are happy to locate to dictatorships which have
+slave-like labour conditions). The more substantive argument is based on
+the assumption that "free market" capitalism produces faster economic
+growth than other forms of that system and that growth of the economic
+pie is more important than how it is distributed. In other words, the
+same (or even smaller) share of a bigger pie in the future is better
+than a bigger share of the existing pie. This means we need to look at
+the economic performance of capitalist economies, comparing the
+neo-liberal ones to regulated social democratic ones. We would expect
+the former to be performing significantly better than the latter in
+addition to being more dynamic **after** reforms than before. The
+reality hardly matches the claims.
+
+The attempt to compare and contrast economies can be found in, say, the
+works of Milton Friedman to show the superiority of his beloved "free
+market" capitalism. However, as economist Thomas Balogh notes, to prove
+that *"socialistic policies"* had crippled Britain's economic growth
+since 1945 Friedman began *"by misrepresenting the size of the public
+sector . . . he chooses a ratio which, though irrelevant, gives spurious
+support to his thesis."* Equally, Friedman compares post-war Britain to
+post-war Japan and West Germany, conveniently failing to note that both
+hardly had minimal states (for example, West Germany had approximately
+the same level of state spending as the UK and Japan had the social
+planning of its Ministry of Industry and Trade). As Balogh notes, the
+*"consequences of socialism are then illustrated by reference to the
+weak economic performance of Britain in comparison with Japan and
+Germany since 1945. This is an odd comparison to choose when judging the
+impact of 'socialism' on Britain. Surely what we need is to compare the
+British performance during a period of sustained boom under
+'Friedmanism', e.g. in the period 1900-13, with the record under
+'socialism,' say 1945-75."* However, to do that would mean noting that
+the average annual rate of growth per head of GNP between 1900 and 1913
+was a mere 0.2%, compared to 2.2% between 1948 and 1975. Even taking
+other starting dates (such as the slump year 1893) produces a smaller
+rate of growth that the post-war period. [**The Irrelevance of
+Conventional Economics**, p. 181]
+
+Nor do things get better when we look at the Friedman influenced
+Thatcher government which turned the UK into a poster-child for
+neo-liberalism. Here, yet again, the facts do not really support the
+claims in favour of "free(r) markets". As Ian Gilmore, a moderate
+conservative MP at the time, points out *"[d]uring the Thatcher years
+growth was lower than in any period of similar length since the war."*
+He notes *"the vast discrepancy between what the Thatcherites claimed
+for their policies and what actually happened."* Unsurprisingly, there
+was an *"unparalleled rise in poverty,"* as *"relative poverty grew
+significantly during the 1980s,"* from a nearly a tenth in 1979 to
+nearly a fifth in 1987. In 1979, the poorest fifth had just under 10% of
+post-tax income and the richest fifth had 37%. Ten years later, this had
+fallen to 7% and risen to 43% (*"The rich got rich, and the poor got
+poorer"*). *"Not only did the poor not share in the limited growth that
+took place between 1979 and 1990, the poor were relatively poorer than
+they had been on 1979."* [**Dancing with Dogma**, pp. 83-4, p. 87, p.
+142, p. 138 and p. 172] we will return to this issue in [section
+C.10.3](secC10.html#secc103).
+
+Things did not get any better in the 1990s. Growth in GDP per capita was
+steadily decreased in the UK, from 2.3% per annum between 1950 and 1970,
+to 2.1% between 1970 and 1979 and to 1.9% between 1979 and 1997. For the
+US, a similar process was at work (from 2.0%, to 2.3% to 1.5%). At best,
+it can be said that the growth rates of Germany and France between 1979
+and 1997 were worse (at 1.7% and 1.4%, respectively). However, before
+1979 their growth was much higher (at 5.1%/4.5% between 1950 and 1970
+and 2.8%/3.3% between 1970 and 1979, respectively). Growth in labour
+productivity per hour worked is hardly impressive, being 2.3% between
+1979 and 1997 compared to 0.8% for the US, 2.4% for France and 2.2% for
+Germany. This is well below the 1950-1970 figure of 3.0% and only
+slightly better than 2.1% during the strike bound 1970s. In 1979, the UK
+was 9th of 15 EU members in OECD measures of prosperity. By 1995, it was
+11th before rising back to 10th in 1999. In summary, *"the idea that
+Britain has a clearly superior economy to the continent is a delusion."*
+[Adair Turner, **Just Capital: The Liberal Economy**, p. 200, pp.
+199-200 and p. 196]
+
+The best that can be said of Thatcherism is that during the 1980s,
+*"Britain put an end to three decades of relative decline and caught up
+some lost ground versus continental leaders . . . But Britain's absolute
+productivity and prosperity performance is still below the European
+average and its pace of catch-up has been slow."* Combine this with
+longer working hours compared to the rest of Europe, we have a situation
+in the UK where *"too many companies relying on low wages and a flexible
+labour market to remain competitive, rather than on investment in
+capital equipment and technique."* Looking at the historical picture, it
+should be stressed that the UK has been in decline since the 1880s, when
+it remained the only developed nation to embrace free trade and that
+between the 1950s and 1970s, the *"absolute growth rates per capita . .
+. compared well with the inter-war years and with the period of British
+leadership in the nineteenth century."* This lack of success for
+neo-liberal reforms can also be seen in New Zealand. The economic
+results of its liberalisation project were just as poor. Between 1984-98
+per capita income grew only about 5.4%, or 0.4% per annum, well below
+the EU average and one of the lowest rates of increase among the OECD
+countries. [Turner, **Op. Cit.**, p. 196, p. 212, p. 199 and p. 240fn]
+Needless to say, be cause the rich got richer and rebellious workers
+controlled, both the UK and New Zealand were proclaimed "economic
+miracles."
+
+This lack of dynamism is not limited just to the UK or New Zealand. As
+left-wing economist Andrew Glyn notes, the *"fact that there was no
+general improvement in growth in the 1980s could be explained away by
+the fact that the . . . policies . . . were only picking up steam. But
+the real puzzle is the 15 years since 1990. Why [have these free market
+policies] . . . failed to bring an increase in the growth rate."* In
+fact, growth per year has steadily fallen since 1973 with 1990-2004 the
+lowest rate yet for the USA, Europe and Japan. This applies to other
+economic indicators as well. *"The fact that output per head has been
+growing more slowly since 1990 than it did in the turbulent period
+1973-9, never mind the Golden Age, must be a severe disappointment to
+those who believed that unleashing the free market would restore rapid
+growth."* He summarises the evidence by pointing out that *"economic
+performance overall has been unspectacular."* [**Capitalism Unleashed**,
+pp. 130-1 and p. 151]
+
+As Chomsky summarises, *"neoliberal-style programs began to take shape
+in the 1970s"* and since then real wages *"for the majority have largely
+stagnated or declined . . . the relatively weak benefits system has
+declines as well. Incomes are maintained only be extending working hours
+well beyond those in similar societies, while inequality has soared"*
+(as has personal debt). Moreover, *"this is a vast change from the
+preceding quarter century, when economic growth was the highest on
+record for a protracted period and also egalitarian. Social indicators,
+which closely tracked economic growth until the mid-1970s, then
+diverged, declining to the level of 1960 by the year 200O."* [**Failed
+States**, p. 211]
+
+The assumption is that producing free(r) markets and a pure(r)
+capitalism will result in higher growth and so rising living standards.
+*"So far,"* note two experts, *"the promises have not been realised. As
+trade and financial markets have been flung open, incomes have risen not
+faster, but slower. Equality among nations has not improved, with many
+of the poorest nations suffering an absolute decline in incomes. Within
+nations, inequality seems to have worsened . . . the trend to towards
+more inequality."* In the two decades after 1980, *"overall income
+growth slowed dramatically."* For example, the rich countries saw annual
+per capita income growth fall from 4.8% (1965-80) to 1.4% (1980-95).
+Medium countries saw a fall from 3.8% to 3.1% (excluding China, this was
+3.2% to 0.6% as China rose from 4.1% to 8.6%). For the poorest nations,
+there was a rise from 1.4% to 2.0% but this becomes 1.2% to 0.1% when
+India is excluded (India saw a rise from 1.5% to 3.2%). In fact, income
+dropped by -0.4% a year between 1980 and 1995 for the least developed
+countries (it had risen 0.4% a year between 1965 and 1980). *"In more
+advanced countries . . . income growth was lower in the 1990s than in
+the 1980s. Over the entire post-1980 period, it was substantially below
+that of the 1960s and 1970s."* In America, for example, annual growth of
+per capita income has dropped from 2.3% between 1960-79, to 1.5% between
+1979 and 1989 and 1.0% between 1989 and 1996 (per capita income growth
+up to 1998 was 1.4% per year, still less than the 1.6% per cent between
+1973 and 1980 and 1980s and about half the growth over the 1960 to 1973
+period). Given that income equality improved during the 1960s and 1970s,
+before worsening after 1980 for most countries, particularly the USA,
+this means that even these most increases flowed overwhelming to those
+at the top of the income hierarchy. In America, the working hours for a
+middle-class family has increased by 10.4% between 1979 and 1997. In
+other words, working class people are working more for less. In most
+advanced nations, there has *"not been a sizeable increase in poverty,"*
+the *"exceptions [being] the USA and the United Kingdom, where poverty
+grew, respectively, by 2.4 and 5.4 percentage points between 1979 and
+1991."* [Jeff Faux and Larry Mishel, *"Inequality and the Global
+Economy"*, pp. 93-111, Will Hutton and Anthony Giddens (eds.), **On The
+Edge**, pp. 93-4, p. 96, p. 97, p. 98, p. 101, p. 102 and p. 100]
+
+This lack of rise in growth is a definite feature of neo-liberalism. The
+promises of the "free market" capitalism have not borne fruit:
+
+> "Growth did not accelerate. It slowed down. During the 1960s, the
+> average rate of growth of world GDP per capita was 3.5% per annum . .
+> . The average rate of growth of world GDP per capital was 2.1% per
+> annum during the 1970s, 1.3% per annum during the 1980s and 1% per
+> annum during the 1990s. This growth was more volatile compared with
+> the past, particularly in the developing world. the growth was also
+> unevenly distributed across countries . . .
+> "Economic inequalities have increased in the late twentieth century as
+> the income gap between rich and poor countries, between rich and the
+> poor in the world's population, as also between rich and poor people
+> within countries, has widen. The ratio of GDP per capital in the
+> richest country to GDP per capita in the poorest country of the world
+> rose from 35:1 in 1950 to 42:1 in 1970 and 62:1 in 1990. The ratio of
+> GDP per capita in the 20 richest countries to GDP per capita in the
+> poorest 20 countries of the world rose from 54:1 during 1960-62 to
+> 121:1 during 2000-20002. The income gap between people has also
+> widened over time. The ratio of the average GNP per capita in the
+> richest quintile of the world's population to the poorest quintile in
+> the world's population rose from 31:1 in 1965 to 60:1 in 1990 and 74:1
+> in 1997 . . . Income distribution within countries also worsened . . .
+> Between 1975 and 2000, the share of the richest 1% in gross income
+> rose from 8% to 17% in the US, from 8.8% to 13.3% in Canada and from
+> 6.1% to 13% in the UK." [Deepak Nayyar, *"Globalisation, history and
+> development: a tale of two centuries,"* pp. 137-159, **Cambridge
+> Journal of Economics**, Vol. 30, No. 1, pp. 153-4 and p. 154]
+
+In fact, between 1950 and 1973 there was a vastly superior economic
+performance compared to what came before and what came after. If
+laissez-faire capitalism would benefit "everyone" more than "really
+existing capitalism," the growth rate would be **higher** during the
+later period, which more closely approximated laissez faire. It is not.
+As such, we should always remember that if anything is proclaimed an
+"economic miracle" it is unlikely to actually be so, at least for the
+working class. Looking at the American triumphantism of the late 1990s,
+it was easy to forget that in the 1980s and early 1990s, despair at the
+US economy was commonplace. Then people looked to Japan, just as they
+had looked to Europe in the 1960s.
+
+We must also note that there is a standard response by believers on
+"laissez-faire" capitalism when inconvenient facts are presented to
+them, namely to stress that we have not reached the market utopia yet
+and more reforms are required (*"a feature of hard-line free-market
+analysis [is] that when liberalisation does not work the reason is
+always timidity and the solution is obvious. Complete the job."* [Glyn,
+**Op. Cit.**, p. 143]). Another possible defence would be to stress that
+the results would have been worse if the reforms had not been
+implemented. These are, of course, possibilities but given the rhetoric
+used by the defenders of capitalism on the wonders and efficiency of
+free markets, it seems strange that making them freer would have such
+negative effects.
+
+Looking at the history of capitalism, it appears that social-democratic
+capitalism, with strong unions and a welfare state, produces not only
+more growth but also more equitable growth (as one expert notes, *"[i]f
+the 'welfare state' were abolished and taxes reduced accordingly,
+society would become a great deal more unequal."* [John Hills,
+**Inequality and the State**, p. 195]). Movements to more laissez-faire
+capitalism has resulted not only in lower growth but also growth which
+accumulates in fewer hands (which makes sense considering the basic
+anarchist insight that a free exchange benefits the stronger of the two
+parties). As such, based on its own criteria (namely economic growth),
+then neo-liberalism has to be judged a failure. Do not get us wrong. It
+is possible to still advocate laissez-faire capitalism on ethical
+grounds (if that is the right word). It is simply doubtful that it will
+produce the boost in economic growth (or employment) that its advocates
+suggest. It may do, of course, as "actually existing" capitalism is
+still far from the pure system of the textbooks but it is significant
+that movements towards the ideal have produced **less** growth along
+with greater inequality and relative poverty.
+
+This is **not** to suggest that anarchists support social-democratic
+capitalism rather than more laissez-faire forms. Far from it -- we seek
+to end all forms of that system. However, it is significant that the
+more equal forms of capitalism based on strong and militant unions
+produced better results than "free(r) market" forms. This suggests that
+the standard right-wing argument that collective organising and fighting
+to keep an increased share of the wealth we produce harms the overall
+economy and so harmful in the long run are deeply flawed. Instead, it is
+the **lack** of any struggle for equality and freedom that is correlated
+with bad overall economic performance. Of course, such struggles are a
+pain for the capitalist class. Rather than produce a *"road to
+serfdom,"* social-democracy created the full employment environment
+which produced a rebellious population. The move towards "free(r)
+markets" was a response to this social struggle, an attempt to enserf
+the population which has proven to be somewhat successful. As such,
+Kalecki's 1940s prediction we quoted in [section
+B.4.4](secB4.html#secb44) has been proven correct: the ruling class
+would prefer social peace (i.e. obedience) rather than higher growth
+(particularly if they get to monopolise most of the gains of that lower
+growth).
+
+Finally, we should note that there is a slight irony to see
+right-wingers saying that "pure(r)" capitalism would benefit the poor
+especially. This is because they usually reject the idea that aggregate
+economic statistics are a meaningful concept or that the government
+should collate such data (this is a particular feature of the "Austrian"
+school of economics). As such, it would be near impossible to determine
+if living standards had improved any faster than under the current
+system. Given the history of "actually existing" capitalism, it is
+probably wise that many "market advocates" do so. Moreover, any
+subjective evaluation, such as asking people, which resulted in a
+negative response would be dismissed out of hand as "envy." Ironically,
+for an ideology which says it bases itself on "subjective" evaluations,
+economists are always ready to ignore any which conflict with their
+ideas. Needless to say, even if it could be proven beyond doubt that
+"pure(r)" capitalism did **not** help the poor but rather enriched the
+wealthy then almost all "free market" capitalists would **not** change
+their ideas. This is because, for them, the outcomes of the market are
+hallowed and if they result in increased poverty then so be it. It just
+shows that the poor are lazy and not worth higher incomes. That they
+sometimes utilise the rhetoric of social concern simply shows that most
+people still have concern and solidarity for their fellows, a concern
+which capitalism has not managed to totally remove (much to the chagrin
+of the likes of von Hayek -- see chapter 11 of Alan Haworth's
+**Anti-Libertarianism** for a short but relevant discussion of this).
+
+C.10.1 Hasn't neo-liberalism benefited the world's poor?
+--------------------------------------------------------
+
+Until the wave of so-called "anti-globalisation" protests (a more
+accurate term would be "global justice" protests) erupted in the late
+1990s, there was no real need for the neo-liberal agenda to justify its
+performance. When opposition could not be ignored, then it had to be
+undermined. This lead to a host of articles and books justifying
+neo-liberalism in terms of it helping the world's poorest peoples. This
+has meant denying the reality of 30 years of neo-liberal reforms in
+favour of concentrating on absolute poverty figures.
+
+This is understandable. As we discuss in the [section
+C.10.4](secC10.html#secc104), absolute inequality and poverty is a good
+means of making discussion of the real issues meaningless. Moreover, as
+noted above, as capitalism must grow to survive wealth will tend to
+increase for all members of society over time. The real question is
+whether "free(r) markets increase or reduce growth rates and how they
+impact on relative levels of poverty and inequality. Given that the last
+few decades indicate how free(r) markets result in increased inequality,
+it is obvious why defenders of capitalism would seek to focus attention
+on absolute income. While denied by some, inequality has risen under
+globalisation. Those who deny it usually do so because the doctrines of
+the powerful are at stake. Some, in spite of the evidence, are that
+world-wide economic inequality has fallen thanks to global capitalism.
+
+At the forefront of such claims is **the Economist** magazine, which
+played its usual role of ideological cheerleader for the ruling class.
+Discussing *"Global economic inequality"*, the magazine argued that the
+claim that inequality has risen is false. Ironically, their own article
+refutes its own conclusions as it presented a graph which showed an
+upward relationship between economic growth from 1980 to 2000 and
+original income level for a large group of countries. This means that
+global economic inequality **has** increased -- as they admit, this
+means *"that the poor are falling behind, and that cross-country
+inequality is getting worse."* [*"More or less equal?"*, **The
+Economist**, 11th March, 2004]
+
+However, this conclusion is ideologically incorrect and so something
+must be done to achieve the correct position in order to defend
+capitalism against the anti-capitalist bias of reality. They did this by
+adding another chart which weights each point by population. This showed
+that two of the largest countries of their group, China and India, grew
+among the fastest. Using this data they make the claim that inequality
+has, in fact, fallen under neo-liberalism. Once you look at individuals
+rather than countries then the claim can be made that world-wide
+inequality has been falling under "free(r) market" capitalism. While an
+impressive piece of ideological obfuscation, the argument ignores
+changes **within** countries. The article states that *"average incomes
+in India and China are going up extremely rapidly"* but not every person
+receives the average. The average hides a lot. For example, 9 homeless
+people have an average income of £0 but add a multi-millionaire and the
+average income of the ten people is in the millions. On average, at the
+end of a game of poker everyone has the same amount of money they
+started with. As such, to ignore the fact that inequality increased
+dramatically both countries during the 1990s is disgraceful when trying
+to evaluate whether poverty has actually decreased or not. And it should
+be obvious that if inequality is increasing **within** a country then it
+must also be increasing internationally as well.
+
+Significantly, *"where governments adopted the [neo-liberal] Washington
+Consensus, the poor have benefited less from growth."* [Joseph E.
+Stiglitz, **Globalization and its Discontents**, p. 79] The mantra that
+economic growth is so wonderful is hard to justify when the benefits of
+that growth are being enjoyed by a small proportion of the people and
+the burdens of growth (such as rising job insecurity, loss of benefits,
+wage stagnation and decline for the majority of workers, declining
+public services, loss of local communities and so forth) are being borne
+by so many. Which does seem to be the case under neo-liberalism (which,
+undoubtedly, explains why it is portrayed so positively in the business
+press).
+
+To be fair, the article does note the slow and declining incomes in the
+past 20 years in sub-Saharan Africa but rest assured, the magazine
+stresses, this area *"suffers not from globalisation, but from lack of
+it."* This means that this area can be ignored when evaluating the
+results of neo-liberalism. Yet this is unconvincing as these nations are
+hardly isolated from the rest of the world. As they are suffering from
+debt and western imposed structural adjustment programs it seems
+illogical to ignore them -- unless it is a way to improve
+neo-liberalism's outcomes by evading its greatest failures.
+
+Then there is the comparison being made. The Economist looks solely at
+the years 1980-2000 yet surely the right comparison would be between
+this period and the twenty years before 1980? Once that is done, it
+becomes clear why the magazine failed to do so for *"economic growth and
+almost all of the other indicators, the last 20 years have shown a very
+clear decline in progress as compared with the previous two decades."*
+While it is *"commonly believed that the shift towards globalisation has
+been a success, at least regarding growth,"* in fact *"the progress
+achieved in the two decades of globalisation has been considerably less
+than the progress in the period from 1960 to 1980."* For low and
+middle-income countries, performance is *"much worse . . . than the
+period from 1960 to 1980."* *"Summing up the evidence on per capita
+income growth, countries at every level of per capita GDP performed
+worse on average in the period of globalisation than in the period from
+1960 to 1980."* [Mark Weisbrot, Dean Baker, Egor Kraev and Judy Chen,
+**The Scorecard on Globalization 1980-2000: Twenty Years of Diminished
+Progress**] In fact:
+
+> *"The poorest group went from a per capita GDP growth rate of 1.9
+> percent annually in 1960-80, to a decline of 0.5 percent per year
+> (1980-2000). For the middle group (which includes mostly poor
+> countries), there was a sharp decline from an annual per capita growth
+> rate of 3.6 percent to just less than 1 percent. Over a 20-year
+> period, this represents the difference between doubling income per
+> person, versus increasing it by just 21 percent."* [**Op. Cit.**]
+
+Nor should we forget that there is a *"gallery of nations whose
+economies soured shortly after their leaders were lauded by the global
+policy elite for pursuing sound economic fundamentals."* [Jeff Faux and
+Larry Mishel, **Op. Cit.**, p. 94] This process of proclaiming the
+success of neo-liberalism before it implodes started with the original
+neo-liberal experiment, namely Pinochet's Chile whose economy imploded
+just after Milton Friedman proclaimed it an "economic miracle" (see
+[section C.11](secC11.html)).
+
+Latin America has suffered the most attention from neo-liberalism and
+its institutions so it would be useful to look there for evaluating the
+claims of its supporters (*"the IMF talks with pride about the progress
+that Latin America made in market reforms"* [Stiglitz, **Op. Cit.**, p.
+79]). Rather than success story, there has been *"a long period of
+economic failure: for the prior 20 years, 1980-1999, the region grew by
+only 11 percent (in per capita terms) over the whole period. This is the
+worst 20-year growth performance for more than a century, even including
+the years of the Great Depression."* By comparison, *"for the two
+decades from 1960-1979, Latin America experienced per capita GDP growth
+of 80 percent."* In fact, *"using the 1960-1979 period as a baseline,
+the quarter century for 1980-2004 is dismal. Annual growth in GDP per
+capita registers a mere 0.5 percent, as opposed to 3.0 percent over the
+previous period. Countries that are now considered relatively successful
+are not doing very well compared to past performance. For example,
+Mexico registers 0.8 percent annual per capita growth for 1980-2004, as
+compared with 3.3 percent for 1960-79. For Brazil, which one had one of
+the fastest growing economies in the world, per capita growth is only
+0.8 percent annually for 1980-2004, as compared with 4.9 percent for
+1960-79."* For Latin America as a whole, real per-capita growth was 3.0%
+in the 1960s, 2.9% in the 1970s, -0.3% in the 1980s and 1.4% in the
+1990s. This means that for 1980-1999, *"the region's per capita GDP grew
+at an annual rate of only 0.5 percent, a cumulative total of 11 percent
+for the two decades."* By comparison, *"from 1960-1979, per capita
+growth was 3.0 percent, or 80 percent for these two decades."* [Mark
+Weisbrot and David Rosnick, **Another Lost Decade?: Latin America's
+Growth Failure Continues into the 21st Century**] Looking at Mexico, for
+example, since NAFTA per capita GDP growth in Mexico has averaged less
+than 1.0% annually. This is an extremely poor growth record for a
+developing country. Successful developing countries, such as South Korea
+and Taiwan have managed to sustain per capita GDP growth rates that have
+averaged more than 4.0% since the sixties. In fact, Mexico managed to
+sustain a per capita GDP growth rate of more than 4.0% in the period
+from 1960 to 1980, when it was following a path of import substitution.
+But, then, neither South Korea nor Taiwan followed the dictates of
+neo-liberalism.
+
+Over all it is important to stress that neo-liberalism has failed its
+own test:
+
+> *"Economic growth over the last twenty years, the period during which
+> [neo-liberalism] policies . . . have been put into place, has been
+> dramatically reduced . . . to assume that the World Bank and the IMF
+> have brought 'growth-enhancing policies' to their client countries
+> goes against the overwhelming weight of the evidence over the last two
+> decades . . . In short, there is no region of the world that the Bank
+> or Fund can point to as having succeeded through adopting the policies
+> that they promote -- or in many cases, impose -- upon borrowing
+> countries."* [Mark Weisbrot, Dean Baker, Robert Naiman, and Gila Neta,
+> **Growth May Be Good for the Poor -- But are IMF and World Bank
+> Policies Good for Growth?**]
+
+As Chomsky summarises, the periods of fastest and prolonged growth have
+not coincide with phases of extensive liberalisation. In fact,
+neoliberal reforms have *"been accompanied by much slower rates of
+growth and reduced progress on social indicators . . . There are
+exceptions to the general tendency: high growth rates were recorded
+among those who ignored the rules (and with tremendous inequality and
+other severe side effects in China and India)."* Growth rates have, in
+fact, fell by *"over half"* compared to the preceding period of statist
+policies (particularly when measured per capita). [**Op. Cit.**, pp.
+216-7] For most countries, growth was higher in the 1950s, 1960s and
+even the 1970s. This suggests that neo-liberalism fails even its own
+tests as noted by one economist who compared the reality of successful
+development to the neo-liberal myth:
+
+> *"the poor growth records of developing countries over the last two
+> decades suggest this line of defence [i.e. it brings higher growth] is
+> simply untenable . . . The plain fact is that the Neo-Liberal 'policy
+> reforms' have not been able to deliver their central promise --
+> namely, economic growth."* [Ha-Joon Chang, **Kicking Away the
+> Ladder**, p. 128]
+
+Then there is the issue of what the magazine fails to mention. For a
+start, it excludes the ex-Stalinist regimes in Eastern Europe. This is
+understandable for obvious reasons. If these nations were included, then
+their rising inequality and poverty since they became part of the global
+market would have to be mentioned and this would make its defence of
+neo-liberalism much harder (as would the fact life expectancies fell to
+Third World levels). As economist Joseph Stiglitz points out, the
+neo-liberal reforms brought the ex-Stalinist countries *"unprecedented
+poverty."* In 1989, only 2% of Russians lived in poverty, by the late
+1998 that number had soared to 23.8%, using the \$2 a day standard. More
+than 40% had less that \$4 a day. Other post-Stalinist countries *"have
+seen comparable, if not worse, increases in poverty."* Overall, these
+reform package has *"entailed one of the largest increases in poverty in
+history."* [**Globalization and its Discontents**, p. 6, p. 153 and p.
+182]
+
+The GDP in the former Stalinist states fell between 20% and 40% in the
+decade after 1989, an economic contraction which can only be compared to
+the Great Depression of the 1930s. Of the 19 ex-Stalinist economies,
+only Poland's GDP exceeded that of 1989, the year transition began. In
+only 5 was GDP per capita more than 80% of the 1989 level. [Chang, **Op.
+Cit.**, p. 129] Only a small minority saw their real wages rise; the
+vast majority experienced a spectacular fall in living standards. It
+took the Czech Republic, for example eight years until average real
+wages reached their 1989 level. Unemployment became widespread. In 2005,
+Slovakia had 27% of its under-25s are unemployed while in Poland 39% of
+under-25s were without a job (the highest figure in Europe) and 17% of
+the population were below the poverty line.
+
+Overall, between 1985 and 2000, growth in GDP per capita was negative in
+17 transition countries while the *"incidence of poverty increased in
+most countries of Latin America, the Caribbean and Sub-Saharan Africa
+during the 1980s and the 1990s. Much of Eastern Europe and Central Asia
+experiences a sharp rise in poverty during the 1990s."* East, Southwest
+and South Asia did experience a steady decline in the incidence of
+poverty, but *"most of this improvement is accounted for by changes in
+just two countries, with large populations, China and India."* [Deepak
+Nayyar, **Op. Cit.**, p. 154, pp. 154-5 and p. 155] Hardly an inspiring
+result.
+
+And what of the actual economic regimes in China and India? One
+left-wing economist notes that *"in the early stages of China's high
+growth period there was an expansion of state employment, including in
+the dynamic and crucial manufacturing sector . . . in its most recent
+phase, private capital accumulation dominates the growth process in
+China, although the state still strongly influences the pattern of
+investment through its control of the credit system and its policy of
+creating 'national champions' in sectors such as cars and steel."* Not
+to mention, of course, its role in the labour market. There is no
+freedom to organise -- the country is, in effect, one big workplace and
+the state bosses do not tolerate freedom of association, assembly and
+speech any more than any other company. Unsurprisingly, labour
+discipline *"is very harsh"* and workers may find it difficult to change
+jobs and migrate to urban areas. [Andrew Glyn, **Op. Cit.**, p. 87 and
+p. 94]
+
+As one expert notes, in the case of both India and China *"the main
+trade reforms took place **after** the onset of high growth. Moreover,
+these countries' trade restrictions remain among the highest in the
+world."* In India, its *"trend growth rate increased substantially in
+the early 1980s"* while *"serious trade reform did not start until
+1991-93 . . . tariffs were actually higher in the rising growth period
+of the 1980s than in the low-growth 1970s."* Thus claims of *"the
+beneficial effects of trade liberalisation on poverty have to be seen as
+statements based on faith rather than evidence."* [Dani Rodrik,
+**Comments on 'Trade, Growth, and Poverty by D. Dollar and A. Kraay**]
+As Chomsky notes, there is a deliberate policy which *"muddles export
+orientation with neo-liberalism, so that if a billion Chinese experience
+high growth under export-orientated policies that radically violate
+neo-liberal principles, the increase in average global growth rates can
+be hailed as a triumph of the principles that are violated."* [**Op.
+Cit.**, p. 217] It should also be mentioned that both these states
+avoided the 1980s debt crisis by avoiding Western banks in the 1970s.
+They also maintain capital controls, so that hot money cannot flow
+freely in and out, and have large state sectors.
+
+At least the **Economist** itself notes that *"[n]either country is an
+exemplar of free market capitalism -- far from it."* That says it all
+about the defenders of free market capitalism; they defend their ideas
+by pointing to countries which do not apply them!
+
+It should be stressed that this praise for the "free market" using
+regimes which hardly meet the criteria has a long history. This has
+included both Japan and the East Asian Tigers in the 1970s and 1980s as
+*"the spectacular growth of these countries . . . is fundamentally due
+to activist industrial, trade and technology policies (ITT) by the
+state."* [Chang, **Op. Cit.**, p. 49] As an expert on these economies
+notes, *"the legend is not fully consistent with the way the governments
+have in practice behaved,"* namely adopting *"over a long period of time
+a much more aggressive, dirigistic set of industrial policies than
+free-trading principles would justify."* In fact, their *"governments
+were deeply committed to increasing and sustaining high levels of
+investment and to steering its composition."* He bemoans the
+*"assumption that only those features of economic policy consistent with
+neoclassical principles could have contributed to good economic
+performance"* and so explanations for such *"accordingly ignore
+non-neoclassical features."* [Robert Wade, *"What can Economics Learn
+from East Asian Success?"*, pp. 68-79, **Annals of the American Academy
+of Political and Social Science**, vol. 505, pp. 70-1, p. 72 and p. 68]
+
+This analysis was proved right when, ironically, the praise turned to
+attack when the 1997 crisis erupted and all the features previously
+ignored or denied where brought onto the central stage to explain the
+slump (*"When their bubbles imploded, the same countries were denounced
+by the policy elites for something called 'crony capitalism' -- a year
+earlier, the term had been 'business-friendly environment.'"* [Jeff Faux
+and Larry Mishel, **Op. Cit.**, p. 94]). As Robert Wade noted, *"the
+perception shifted from 'miracle Asia' to 'Asian crony state capitalism'
+almost over night,"* a term used *"to convey a told-you-so moral about
+the dangers of government intervention."* [*"From 'miracle' to
+'cronyism': explaining the Great Asian Slump"*, pp. 673-706, **Cambridge
+Journal of Economics**, Vol. 22, No. 6, p. 699 and p. 700] Ironically,
+Japan's 1990s woes and the 1997 crisis both occurred **after** those
+states liberalised their economies (as recommended by, of course,
+economists and the IMF). Unsurprisingly, we discover Milton Friedman
+pointing (in 2002!) to the *"dramatic success of the market-orientated
+policies of the East Asian tigers"* as if they gave support to his
+ideological position of laissez-faire capitalism. [**Op. Cit.**, p. ix]
+
+Then there is the issue of "economic liberty" as such. Milton Friedman
+stated in 2002 that the *"limited increase in economic freedom has
+changed the face of China, strikingly confirming our faith in the power
+of free markets."* [**Op. Cit.**, pp. viii-ix] Faith is the right word,
+as only the faithful could fair to note that there is no free market in
+China as it does not have basic freedoms for labour. How much "economic
+freedom" is there for workers under a brutal dictatorship? How can it be
+claimed, with a straight face, that there is an *"increase in economic
+freedom"* in such regimes? It seems, therefore, that for right-wing
+economists that their *"faith"* in "free markets" is *"confirmed"* by an
+authoritarian system that obviously and constantly violates the freedom
+of labour. But then again, workers have never been considered highly by
+the profession. What has always counted is the freedom of the boss and,
+consequently, a regime that secures that is always praised (and we
+discuss in [section C.11](secC11.html), Friedman has a track record in
+this).
+
+The selectively of the supporters of "free market" capitalists is truly
+staggering. Take, as an example, globalisation and anti-globalisation
+protests. Supports of the trade deals accused critics as being against
+"free trade" and, by implication, against freedom. Yet the deals they
+supported were based on accepting the current labour standards across
+the world. This means accepting the labour conditions of states, usually
+dictatorships, which habitually deny a free market (even a capitalist
+one) to its workers -- all in the name of the free market! Which makes
+the "free market" supporters of neo-liberalism utter hypocrites. They
+are happy to accept a "free market" in which the denial of freedom of
+workers to form unions is an intrinsic part. It also suggests that the
+much attacked critics of "trade" deals who demand that basic standards
+of freedom for workers be incorporated into them are those who truly
+support "free trade" and the "free market." Those who advocate
+unrestricted trade with dictatorial regimes (where workers are thrown in
+prison, at best, or assassinated, at worse, if they organise or talk
+about unions and protests) are engaging in the worse form of doublethink
+when they appropriate the term "freedom" for their position.
+
+It is easy to understand why supporters of capitalism do so. In such
+regimes, capital is free and the many abuses of freedom are directed
+towards the working class. These suppress wages and the resulting
+competition can be used to undermine workers wages, conditions and
+freedoms back home. This is why neo-liberals and such like agree to a
+range of global policies that give substantial freedoms to capitalists
+to operate unhindered around the world while, at the same time, fiercely
+resistant to any demands that the freedom of workers be given equal
+concern (this why Chomsky talks about the *"international global justice
+movement, ludicrously called 'anti-globalisation' because they favour
+globalisation that privileges the interests of people, not investors and
+financial institutions."* [**Op. Cit.**, p. 259]). In other words, free
+markets are fine for capitalists, but not for workers. And if anyone
+disagrees, they turn round and accuse their critics of being opposed to
+"freedom"! As such, anti-globalisation protesters are right. People in
+such regimes are not free and it is meaningless to talk of the benefits
+of "free markets" when a free market in labour does not exist. It does,
+of course, show how genuine the defenders of capitalism are about
+freedom.
+
+So has global poverty fallen since the rise of neo-liberalism in 1970s?
+Perhaps it has, but only if you apply the World Bank measure (i.e. a
+living standard of less than a dollar a day). If that is done then the
+number of individuals in dire poverty is (probably) falling (although
+Joseph Stiglitz states that *"the actual number of people living in
+poverty . . . actually increased by almost 100 million"* in the 1990s
+and he argues that globalisation as practised *"has not succeeded in
+reducing poverty."* [**Op. Cit.**, p. 5 and p. 6]). However, the vast
+bulk of those who have risen out of dire poverty are in China and India,
+that is in the two countries which do not follow the neo-liberal dogma.
+In those that did follow the recommendations of neo-liberalism, in
+Africa, Latin America and Eastern Europe, poverty and growth rates are
+much worse. Chang states the obvious:
+
+> *"So we have an apparent 'paradox' here -- at least if you are a
+> Neo-Liberal economist. All countries, but especially developing
+> countries, grew much faster when they used 'bad' policies during the
+> 1960-1980 period than when they used 'good' ones during the following
+> two decades . . . Now, the interesting thing is that these 'bad;
+> policies are basically those that the NDCs [Now Developed Countries]
+> had pursued when they were developing countries themselves. Given
+> this, we can only conclude that, in recommending the allegedly 'good'
+> policies, the NDCs are in effect 'kicking away the ladder' by which
+> they have climbed to the top."* [**Op. Cit.**, p. 129]
+
+Hardly a glowing recommendation for the prescriptions favoured by the
+Economist and other supporters of free market capitalism. Nor very
+convincing support for solving the problems of neo-liberalism with yet
+more globalisation (of the same, neo-liberal, kind). One thing is true,
+though. The accepted wisdom of the age if that the road to prosperity
+and international acceptance is "economic liberalisation" or some of
+euphemism for opening economies to foreign investment. What this really
+means is that authoritarian regimes that allow their subjects to be
+exploited by international capital rather than state bureaucracies will
+find apologists among those who profit from such transactions or get
+paid by them. That this involves violation of the freedom of working
+class people and the labour "market" does not seem to bother them for,
+they stress, in long term material benefits this will create outweigh
+such restrictions on the eternal and sacred laws of economics. That
+"freedom" is used to justify this just shows how debased that concept
+has become under capitalism and within capitalist ideology.
+
+C.10.2 Does "free trade" benefit everyone?
+------------------------------------------
+
+As we discussed in the [last section](secC10.html#secc101), the
+post-1980 era of neo-liberal globalisation and "free(r) markets" has not
+been as beneficial to the developing world as the defenders of
+neo-liberalism suggest. In fact, these economies have done worse under
+neo-liberalism than they did under state-aided forms of development
+between 1950 and 1980. The only exceptions post-1980 have been those
+states which have rejected the dogmas of neo-liberalism and used the
+state to foster economic development rather than rely on "free trade."
+
+It would, of course, be churlish to note that this is a common feature
+of capitalist development. Industrialisation has always been associated
+with violations of the sacred laws of economics and freedom for workers.
+In fact, the central conceit of neo-liberalism is that it ignores the
+evidence of history but this is unsurprising (as noted in [section
+C.1.2](secC1.html#secc12), economics has a distinct bias against
+empirical evidence). This applies to the notion of free trade as well as
+industrialisation, both of which show the economists lack of concern
+with reality.
+
+Most economists are firm supporters of free trade, arguing that it
+benefits all countries who apply it. The reason why was first explained
+by David Ricardo, one of the founding fathers of the discipline. Using
+the example of England and Portugal and wine and cloth, he argued that
+international trade would benefit both countries even if one country
+(Portugal) produced both goods more cheaply than the other because it
+was relative costs which counted. This theory, called comparative
+advantage, meant that it would be mutually beneficial for both countries
+to specialise in the goods they had a relative advantage in and trade.
+So while it is cheaper to produce cloth in Portugal than England, it is
+cheaper still for Portugal to produce excess wine, and trade that for
+English cloth. Conversely, England benefits from this trade because its
+cost for producing cloth has not changed but it can now get wine at
+closer to the cost of cloth. By each country specialising in producing
+one good, the sum total of goods internationally increases and,
+consequently, everyone is better off when these goods are traded. [**The
+Principles of Political Economy and Taxation**, pp. 81-3]
+
+This argument is still considered as the bed-rock of the economics of
+international trade and is used to refute arguments in favour of
+policies like protectionism. Strangely, though, economists have rarely
+compared the outcome of these policies. Perhaps because as Chomsky
+notes, *"if you want to know how well those theorems actually work, just
+compare Portugal and England after a hundred years of development."*
+[**Understanding Power**, p. 254] One economist who did was the German
+Friedrich List who, in 1837, urged people *"to turn his attention to
+Portugal and to England and to compare the economies of these two
+countries. I am sure that he can have no doubts as to which country is
+prosperous and which has lost its economic independence, is dead from an
+intellectual, commercial and industrial point of view, and is decadent,
+poverty stricken and weak."* [**The Natural System of Political
+Economy**, pp. 169-70] Unsurprisingly, List used this example to bolster
+his case for protectionism. Little has changed. Allan Engler notes that
+*"[a]fter nearly 200 years, comparative advantage had given Portugal no
+noticeable advantage."* While the UK became the leading industrial
+power, Portugal remained a poor agricultural economy: *"Britain's
+manufacturing industries were the most efficient in the world, Portugal
+had little choice but to be an exporter of agricultural products and raw
+materials."* In 1988, Portugal's per capita GDP was less than one third
+that of the UK. When "Purchasing power parity" is factored in,
+Portugal's per capita GDP was barely more than half of the UK.
+[**Apostles of Greed**, p. 132]
+
+Nor should we forget that free trade takes the economic agent as the
+country. Unlike an individual, a nation is divided by classes and marked
+by inequalities of wealth, power and influence. Thus while free trade
+may increase the sum-total of wealth in a specific country, it does not
+guarantee that its benefits or losses will be distributed equally
+between social classes, never mind individuals. Thus capitalists may
+favour free trade at specific times because it weakens the bargaining
+power of labour, so allowing them to reap more income at the workers'
+expense (as producers and consumers). Taking the example of the
+so-called "free trade" agreements of the 1990s, there was no reason to
+believe that benefits of such trade may accrue to all within a given
+state nor that the costs will be afflicted on all classes. Subsequent
+developments confirmed such a perspective, with the working class
+suffering the costs of corporate-led "globalisation" while the ruling
+class gained the benefits. Not that such developments bothered most
+economists too much, of course. Equally, while the total amount of goods
+may be increased by countries pursuing their comparative advantage it
+does not automatically follow that trade between them will distribute
+the benefits equally either between the countries or within them. As
+with exchange between classes, trade between countries is subject to
+economic power and so free trade can easily lead to the enrichment of
+one at the expense of the other. This means that the economically
+powerful will tend to support free trade as they will reap more from it.
+
+Therefore the argument for free trade cannot be abstracted from its
+impact or the interests it serves, as Joan Robinson pointed out:
+
+> *"When Ricardo set out the case against protection he was supporting
+> British economic interests. Free trade ruined Portuguese industry.
+> Free trade for **others** is in the interests of the strongest
+> competitor in world markets, and a sufficiently strong competitor has
+> no need for protection at home. Free trade doctrine, in practice, is a
+> more subtle form of Mercantilism. When Britain was the workshop of the
+> world, universal free trade suited her interests. When (with the aid
+> of protection) rival industries developed in Germany and the United
+> States, she was still able to preserve free trade for her own exports
+> in the Empire."* [**Collected Economic Papers**, vol. 5, p. 28]
+
+This echoes the analysis of List who that the British advocacy of free
+trade was primarily political in nature and not to mention hypocritical.
+Its political aim was to destroy potential competitors by flooding their
+markets with goods, so ruining their industrial base and making them
+exporters of raw materials for British industry rather than producers of
+finished goods. He argued that a *"study of the true consequences"* of
+free trade *"provide the key to England's commercial policy from that
+day to this. The English have always been cosmopolitans and
+philanthropists in theory but always monopolists in practice."* [**Op.
+Cit.**, p. 167] Moreover, such a position was hypocritical because
+Britain industrialised by means of state intervention and now sought to
+deny that option to other nations.
+
+List advocated that the state should protect infant industries until
+such time as they could survive international competition. Once
+industrialised, the state could then withdraw. He did not deny that free
+trade may benefit agricultural exporters, but only at the expense of
+industrial development and spill-over benefits it generates for the
+economy as a whole. In other words, free trade harmed the less-developed
+nation in terms of its economic prosperity and independence in the long
+run. Protectionism allowed the development of local industrial
+capitalism while free trade bolstered the fortunes of foreign capitalist
+nations (a Hobson's choice, really, from an anarchist perspective). This
+was the situation with British capitalism, as *"Britain had very high
+tariffs on manufacturing products as late as the 1820s, some two
+generations after the start of its Industrial Revolution . . . Measures
+other than tariff protection were also deployed"* (such as banning
+imports from competitors). [Chang, **Op. Cit.**, p. 22] Needless to say,
+trade unions were illegal during this period of industrialisation and
+troops were regularly deployed to crush strikes, riots and rebellions.
+Economist Thomas Balogh confirms this analysis:
+
+> "The fact is that Britain's economic growth forged ahead of its
+> European competitors while it was exploiting an effective monopoly of
+> the steam engine, from 1780 to 1840. Through most of that period the
+> nation had a high and complicated tariff . . ., massive public
+> investment and spending . . . and an extensive public welfare system
+> with wage supplements and welfare allowances indexed to basic costs of
+> living . . .
+> "There followed a long period, from about 1840 to 1931, when Britain
+> did indeed have the freest trade and relatively speaking the cheapest
+> government and (until 1914) the smallest public sector among the
+> industrially developing nations, Yet, for competitiveness, that
+> century saw the relative decline of the country. Numerous competing
+> countries, led by the US and Germany, emerged and overtook and passed
+> Britain in output and income per head. Every one of them had
+> protective tariffs, and a bigger (relative) public sector than the
+> British." [**Op. Cit.**, p. 180]
+
+Significantly, and highly embarrassingly for neo-classical economists,
+the one nation which embraced free trade ideology most, namely the UK in
+the latter half of the 19th century, suffered economic decline in
+comparison to its competitors who embraced protectionist and other
+statist economic policies. It would be churlish to note that this is the
+exact opposite of what the theory predicts.
+
+In historical terms, List has been proven correct numerous times. If the
+arguments for free trade were correct, then the United States and
+Germany (plus Japan, South Korea, etc., more recently), would be
+economic backwaters while Portugal would have flourished. The opposite
+happened. By the 1900s, Britain was overtaken economically by America
+and Germany, both of whom industrialised by means of protectionism and
+other forms of state intervention. As such, we should not forget that
+Adam Smith confidently predicted that protectionism in America would
+*"would retard instead of accelerating the further increase in the value
+of their annual progress, and would obstruct instead of promoting the
+progress of their country towards real wealth and greatness."* He
+considered it best that capital be *"employed in agriculture"* rather
+than manufacturing. [**The Wealth of Nations**, p. 328 and p. 327]). The
+historical record hardly supports Smith's predictions as *"throughout
+the nineteenth century and up to the 1920s, the USA was the fastest
+growing economy in the world, despite being the most protectionist
+during almost all of this period . . . Most interestingly, the two best
+20-year GDP per capita growth performances during the 1830-1910 period
+were 1870-1890 (2.1 per cent) and 1890-1910 (two per cent) -- both
+period of particularly high protectionism. It is hard to believe that
+this association between the degree of protectionism and overall growth
+is purely coincidental."* [**Op. Cit.**, p. 30]
+
+As with the UK, America *"remained the most ardent practitioner of
+infant industry protection until the First World War, and even until the
+Second."* Like UK, the state played its role in repressing labour, for
+while unions were usually not technically illegal, they were subject to
+anti-trust laws (at state and then federal level) as well as force
+during strikes from troops and private police forces. It was *"only
+after the Second World War that the USA -- with its industrial supremacy
+unchallenged - finally liberalised it trade and started championing the
+cause of free trade."* [Chang, **Op. Cit.**, p. 28 and p. 29]
+Unsurprisingly, faced with growing international competition it
+practised protectionism and state aid while keeping the rhetoric of free
+trade to ensure that any potential competitor has its industries ruined
+by being forced to follow policies the US never applied in the same
+situation. Chomsky summarises:
+
+> *"So take a look at one of the things you don't say if you're an
+> economist within one of the ideological institutions, although surely
+> every economist has to know it. Take the fact that there is not a
+> single case on record in history of any country that has developed
+> successfully through adherence to 'free market' principles: none."*
+> [**Op. Cit.**, p. 255]
+
+Not that this has disabused most economists from repeating Ricardo's
+theory as if it told the full story of international trade or has been
+empirically verified. As Chang puts it, his approach of studying the
+actual history of specific countries and generalising conclusions *"is
+concrete and inductive"* and *"contrasts strongly with the currently
+dominant Neoclassical approach based on abstract and deductive
+methods."* This has meant that *"contemporary discussion on economic
+development policy-making has been peculiarly ahistoric."* [**Op.
+Cit.**, p. 6] This is unsurprising, as there is a distinct tendency
+within mainstream economics not to check to see if whether the theory
+conforms to reality. It is as if we **know** that capitalist economics
+is true, so why bother to consider the evidence. So no matter how
+implausible a given theory is, capitalist economics simply asks us to
+take them on trust. Perhaps this is because they are nothing more than
+logical deductions from various assumptions and comparing them to
+reality would expose not only the bankruptcy of the theory but also the
+bogus claims that economics relates to reality or is a science?
+
+That these theories survive at all is due to their utility to vested
+interests and, of course, their slightly complicated logical beauty. It
+should be noted, in passing, that the free trade argument is based on
+**reducing** international competition. It recommends that different
+countries specialise in different industries. That this would make sense
+for, say, a country with industry (marked by increasing returns to scale
+and significant spill-over effects into other areas of the economy)
+rather than one based on agriculture (marked by decreasing returns to
+scale) goes without saying. That the policy would turn the world into a
+provider of raw materials and markets rather than a source of
+competitors for the most advanced nation is just one of these
+co-incidences capitalist economics suffers from.
+
+As such, it is not a coincidence that both the classic "free trade" and
+current neo-liberal position does allow a nation to secure its dominance
+in the market by forcing the ruling elites in **other** nations to
+subscribe to rules which hinder their freedom to develop in their own
+way. As we discuss in [section D.5](secD5.html), the rise of
+neo-liberalism can be viewed as the latest in a long series of
+imperialist agendas designed to secure benefits of trade to the West as
+well as reducing the number of rivals on the international market. As
+Chang notes, Britain's move to free trade after 1846 *"was based on its
+then unchallenged economic superiority and was intricately linked with
+its imperial policy."* The stated aim was to halt the move to
+industrialisation in Europe by promoting agricultural markets. Outside
+of the West, *"most of the rest of the world was forced to practice free
+trade through colonialism and . . . unequal treaties."* These days, this
+policy is implemented via international organisations which impose
+Western-dominated rules. As Chang notes, the *"developed countries did
+not get where they are now through policies and the institutions that
+they recommend to developing countries today. Most of them actively used
+'bad' trade and industrial policies . . . practices that these days are
+frowned upon, if not actively banned, by the WTO."* [**Op. Cit.**, p.
+16, p. 23, p. 16 and p. 2]
+
+In other words, the developed countries are making it difficult for the
+developing countries to use policies and institutions which they
+themselves so successfully used previously. This, as with the "free
+trade" arguments of the 19th century, is simply a means of controlling
+economic development in other countries to reduce the number of
+potential competitors and to secure markets in other countries. In
+addition, we must also stress that the threat of capital flight within
+western countries also raises competitive pressures for labour and so
+has the added benefit of helping tame rebellious workers in the
+imperialist nations themselves. These factors help explain the continued
+support for free trade theory in economic circles in spite of the lack
+of empirical evidence in its favour. But then again, given that most
+economists cannot understand how one class exploits another by means of
+exchange within a national market due to its economic power, it would be
+surprising if they could see it within international markets.
+
+To generalise, it appears that under capitalism there are two main
+options for a country. Either it submits itself to the dictates of
+global finance, embracing neo-liberal reforms and seeing its growth fall
+and inequality rise or (like every other successful industrialiser) it
+violates the eternal laws of economics by using the state to protect and
+govern its home market and see growth rise along with inequality. As
+Chang notes, looking at the historical record a *"consistent pattern
+emerges, in which all the catching-up economies use activist industrial,
+trade and technology (ITT) policies . . . to promote economic
+development."* He stresses *"it was the UK and the USA, the supposed
+homes of free trade policy, which used tariff protection most
+aggressively."* The former *"implemented the kinds of ITT policies that
+became famous for their use in . . . Japan, Korea and Taiwan."* [**Op.
+Cit.**, pp. 125-6, p. 59 and pp. 60-1] In addition, another aspect of
+this process involves repressing the working class so that **we** pay
+the costs for industrialising. Unions were illegal when Britain used its
+ITT policies while the *"labour market in Taiwan and Korea, for example,
+has been about as close to a free market as it is possible to get, due
+in part to government repression of unions."* [*"What can Economics
+Learn from East Asian Success?"*, **Op. Cit.**, p. 70] Given that unions
+are anathema to neo-classical and Austrian economics, it is
+understandable why their repression should be considered relatively
+unproblematic (in fact, according to economic ideology repressing unions
+can be considered to be in the interests of the working class as, it is
+claimed, unions harm non-unionised workers -- who knew that bosses and
+their states were such philanthropists?).
+
+Neither option has much to recommend it from an anarchist perspective.
+As such, our stating of facts associated with the history of "actually
+existing" capitalism should not be construed to imply that anarchists
+support state-run development. Far from it. We are simply noting that
+the conclusion of history seems to be that countries industrialise and
+grow faster when the state governs the market in significant ways while,
+at the same time, repressing the labour movement. This is unsurprising,
+for as we discuss in [section D.1](secD1.html), this process of state
+intervention is part and parcel of capitalism and, as noted in [section
+F.8](secF8.html), has always been a feature of its rise in the first
+place (to use Marx's expression, a process of *"primitive accumulation"*
+has always been required to create capitalism). This does not mean, just
+to state the obvious, that anarchists support protectionism against
+"free trade." In a class system, the former will tend to benefit local
+capitalists while the latter will benefit foreign ones. Then there is
+the social context. In a predominantly rural economy, protectionism is a
+key way to create capitalism. For example, this was the case in 19th
+century America and it should be noted that the Southern slave states
+were opposed to protectionism, as where the individualist anarchists. In
+other words, protectionism was a capitalist measure which
+pre-capitalists and anti-capitalists opposed as against their interests.
+Conversely, in a developed capitalist economy "free trade" (usually very
+selectively applied) can be a useful way to undermine workers wages and
+working conditions as well as foreign capitalist competitors (it may
+also change agriculture itself in developing countries, displacing small
+peasant farmers from the land and promoting capitalist agriculture, i.e.
+one based on large estates and wage labour).
+
+For the anarchist, while it is true that in the long run option two does
+raise the standard of living faster than option one, it should always be
+remembered that we are talking about a **class** system and so the costs
+and benefits will be determined by those in power, not the general
+population. Moreover, it cannot be assumed that people in developing
+countries actually want a Western lifestyle (although the elites who run
+those countries certainly do, as can be seen from the policies they are
+imposing). As Bookchin once noted, *"[a]s Westerners, 'we' tend to
+assume out of hand that 'they' want or need the same kind of
+technologies and commodities that capitalism produced in America and
+Europe . . . With the removal of imperialism's mailed fist, a new
+perspective could open for the Third World."* [**Post-Scarcity
+Anarchism**, pp. 156-7]
+
+Suffice to say, there are other means to achieve development (assuming
+that is desired) based on working class control of industry. Given this,
+the only genuine solution for developing countries would be to get rid
+of their class systems and create a society where working people take
+control of their own fates, i.e. anarchism. Hence we find Proudhon, for
+example, stating he *"oppose[d] the free traders because they favour
+interest, while they demand the abolition of tariffs."* He advocated the
+opposite, supporting free trade *"as a consequence of the abolition of
+interest"* (i.e. capitalism). Thus the issue of free trade cannot be
+separated from the kind of society practising it nor from the creation
+of a free society. Abolishing capitalism in one country, he argued,
+would lead to other nations reforming themselves, which would
+*"emancipate their lower classes; in a word, to bring about revolution.
+Free trade would then become equal exchange."* [**The General Idea of
+the Revolution**, pp. 235-8] Unless that happens, then no matter whether
+protectionism or free trade is applied, working class people will suffer
+its costs and will have to fight for any benefits it may bring.
+
+C.10.3 Does "free market" capitalism benefit everyone, *especially* working class people?
+-----------------------------------------------------------------------------------------
+
+One defence of capitalism is that, appearances and popular opinion to
+the contrary, it is benefits working class people **more** than the
+ruling class.
+
+This argument can be found in right-liberal economist Milton Friedman's
+defence of capitalism in which he addresses the claim that *"the
+extension and development of capitalism has meant increased
+inequality."* Not so, he states. *"Among the Western countries alone,"*
+he argues, *"inequality appears to be less, in any meaningful sense, the
+more highly capitalist the country is . . . With respect to changes over
+time, the economic progress achieved in the capitalist countries has
+been accompanied by a drastic diminution in inequality."* In fact, *"a
+free society [i.e. capitalism] in fact tends towards greater material
+equality than any other yet tried."* Thus, according to Friedman, a
+*"striking fact, contrary to popular conception, is that capitalism
+leads to less inequality than alternative systems of organisation and
+that the development of capitalism has greatly lessened the extent of
+inequality. Comparisons over space and time alike confirm this."*
+[**Capitalism and Freedom**, p. 168, pp. 169-70, p. 195 and p. 169]
+
+Friedman makes other claims to the superiority of capitalism. Thus he
+states that not only do non-capitalist societies *"tend to have wider
+inequality than capitalist, even as measured by annual income"* in such
+systems inequality *"tends to be permanent, whereas capitalism
+undermines status and introduces social mobility."* Like most
+right-wingers, he stresses the importance of social mobility and argues
+that a society with little change in position *"would be the more
+unequal society."* Finally, he states that *"[o]ne of the most striking
+facts which run counter to people's expectations has to do with the
+source of income. The more capitalistic a country is, the smaller the
+fraction of income for the use of what is generally regarded as capital,
+and the larger the fraction paid for human services."* [**Op. Cit.**,
+pp. 171-2, p. 171 and pp. 168-9]
+
+Friedman, as he regularly did, failed to present any evidence to support
+his claims or any of his *"striking fact[s]"* so it is hard to evaluate
+the truthfulness of any of this specific assertions. One possible way of
+doing so would be to consider the actual performance of specific
+countries before and after 1980. That year is significant as this marked
+the assumption of office of Thatcher in the UK and Reagan in the US,
+both of whom were heavily influenced by Friedman and other supporters of
+"free market" capitalism. If his claims were true, then we would expect
+**decreases** in equality, social mobility and the share of *"human
+services"* before 1980 (the period of social Keynesian policies) and
+**increases** in all three after. Sadly for Friedman (and us!), the
+facts are counter to his assertions -- equality, mobility and share of
+income for *"human services"* all decreased post-1980.
+
+As we showed in [section B.7](secB7.html), inequality rose **and**
+social mobility fell since 1980 in the USA and the UK (social democratic
+nations have a better record on both). As far as the share of income
+goes, that too has failed to support his assertions. Even in 1962, the
+facts did not support his assertion as regards the USA. According to
+figures from the U.S. Department of Commerce the share of labour in 1929
+was 58.2% and this rose to 69.5% by 1959. Even looking at just private
+employees, this was a rise from 52.5% to 58% (income for government
+employees, including the military went from 5.7% to 12.2%). In addition,
+"proprietor's income" (which represents income to the owner of a
+business which combines work effort and ownership, for example a farmer
+or some other self-employed worker) fell, with farm income going from
+6.8% to 3.0%, while other such income dropped from 10.1% to 8.7%.
+[Walter S. Measday, *"Labor's Share in the National Income,"* **The
+Quarterly Review of Economics & Business**, Vol. 2, No. 3, August 1962]
+Unless Friedman would argue that 1929 America was more statist than
+1959, it seems that his assertion was false even when it was first made.
+How did his comment fare after he made it? Looking at the period after
+1959 there was continuing increase in labour share in the national
+income, peaking in the 1970s before steadily dropping over the following
+decades (it dropped to below 1948 levels in 1983 and stayed there).
+[Alan B. Krueger, *"Measuring Labor's Share"*, **The American Economic
+Review**, vol. 89, No.2, May 1999] Since then the downward trend has
+continued.
+
+It would be churlish to note that the 1970s saw the rise of influence of
+Friedman's ideas in both countries and that they were applied in the
+early 1980s.
+
+There are problems with using labour share. For example it moves with
+the business cycle (rising in recessions and falling in booms). In
+addition, there can be other forms of labour compensation as well as
+wages. Looking at total compensation to labour, this amounts to around
+70% of total US income between 1950 and 2000 (although this, too, peaked
+in the 1970s before falling [Krueger, **Op. Cit.**]). However, this
+"labour" income can be problematic. For example, employer provided
+health care is considered as non-wage compensation so it is possible for
+rising health care costs to be reflected in rising labour compensation
+yet this hardly amounts to a rising labour share as the net gain would
+be zero. Then there is the question of government employees and welfare
+benefits which, of course, are considered labour income. Unfortunately,
+Friedman provides no clue as to which statistics he is referring to, so
+we do not know whether to include total compensation or not in
+evaluating his claims.
+
+One group of economists have taken the issue of government transfers
+into account. Since 1979, there has been an *"increased share of capital
+income (such as rent, dividends, interest payments, and capital gains)
+and a corresponding smaller share earned as wages and salaries."* Most
+families receive little or no capital income, but it is *"a very
+important source of income to the top 1% and especially the top 0.1%
+(who receive more than a third of all capital income)."* In 1959, total
+labour income was 73.5% while capital income was 13.3% of market-based
+income (personal income less government transfers). By 1979, these were
+75.8% and 15.1%, respectively. The increases for both are due to a fall
+in "proprietor's income" from 13.3% to 9.1%. By 2000, capital income had
+risen to 19.1% while labour's share had fallen to 71.8% (proprietor's
+income remained the same). This *"shift away from labour income and
+toward capital income is unique in the post-war period and is partly
+responsible for the ongoing growth of inequality since 1979."* [Lawrence
+Mishel, Jered Bernstein, and Sylvia Allegretto, **The State of Working
+America 2006/7**, p. 76 and p. 79]
+
+It should be noted that Friedman repeated the standard economist (and
+right-wing) argument that a better way to increase wages than unions or
+struggle is to make workers more productive. That lifts everyone's
+standard of living. At least it used to. Between 1945 and 1980, worker
+wages did, indeed, track productivity increases. This was also the high
+period of union density in America. After 1980, that link was broken. By
+a strange co-incidence, this was the Friedman-inspired Reagan
+effectively legalised and encouraged union busting. Since then,
+productivity increases are going almost entirely to the top tenth of the
+population, while median incomes have stagnated. Without unions and
+robust worker bargaining power, productivity increases have not been
+doing much for workers. Not that people like Friedman actually mentioned
+that rather significant fact.
+
+Then there is the issue of *"human services"* itself. This is **not**
+the same as labour income at all as it includes, for example, management
+pay. As we indicated in [section C.3](secC3.html), this "labour" income
+is better thought of as **capital** income as that specific labour is
+rooted in the control of capital. That this is the case can be seen by
+the numerous defences of exploding CEO pay by right-wing think tanks,
+journals and economists as well as the lack of concern about the
+inflationary nature of such massive "pay" rises (particularly when
+contrasted to the response over very slight increases in workers' pay).
+This means that "labour" income could remain constant while CEO salaries
+explode and worker wages stagnant or even fall, as is the case in both
+the US (and UK) since 1980. In such circumstances, looking at "human
+services" becomes misleading as returns to capital are listed as
+"labour" simply because they are in the form of bosses pay. Equally, CEO
+perks and bonuses would be included as "labour" non-wage compensation.
+
+To see what this means we must use an example. Take a country with 100
+people with a combined income of £10,000. The average income would be
+£100 each. Taking a labour/capital split of 70/30, we get an income of
+labour of £7000 and an income to capital of £3000. Assuming that 5% of
+the population own the capital stock, that is an average income of £600
+each while labour gets an average of £73.68. However, 10% of the
+population are managers and assuming another 70/30 split between
+management and worker income this means that management gets £2100 in
+total (an average of £210) while workers get £4900 (an average of
+£57.65). This means that the owners of capital get 6 times the national
+average income, managers just over twice that amount and workers just
+over half the average. In other words, a national statistic of 70%
+labour income hides the reality that workers, who make up 85% of the
+population, actually get less than half the income (49%). Capital
+income, although less, is distributed to fewer people and so causes
+massive inequality (15% of the population get an average income of £340,
+nearly 6 times more than the average for the remaining 85% while the
+upper 5% get over 10 times). If the share of management in labour income
+rises to 35%, then workers wages fall and inequality rises while labour
+income remains constant at 70% (management's average income rises to
+£363.33 while workers' falls to £53.53). It should be stressed this
+example **underestimates** inequality in capitalist economies,
+particularly ones which had the misfortunate to apply Friedman's ideas.
+
+Looking further a field, this pattern has been repeated everywhere
+"free(r) market" capitalism has been imposed. In Chile equality and
+labour's share increased during the 1960s and early 1970s, only for both
+to plummet under Pinochet's Friedman-inspired neo-liberal regime (see
+[section C.11](secC11.html) for the grim details of *"economic liberty"*
+there). In Thatcher's Britain, inequality rose while labour share and
+social mobility fell. Between 1978 and 1990, the share of wages and
+salaries in household income in the UK fell from 65.8% to 57.4%. The
+share for capital income (rent, interest and dividends) more than
+doubled (from 4.9% to 10.0%).Unsurprisingly, this rise *"directly
+contributed to the increase in overall inequality"* (48% of all
+investment income went to the richest tenth of households). [John Hill,
+**Inequality and the State**, p. 88]
+
+Looking at how increases in income and wealth were distributed, we find
+that gains since 1979 went predominantly to the rich. Before that, the
+income of all sections of society grew at roughly the same level between
+1961 and 1979. Most of the increase was near the mean, the one exception
+was the lowest tenth whose incomes rose significantly higher than the
+rest). This meant that *"over the 1960s and 1970s as a whole all income
+groups benefited from rising incomes, the lowest rising fastest."* After
+1978 *"the pattern broke down"* and incomes for the highest tenth rose
+by 60-68 percent while at the medium it grew by about 30% between 1979
+and 1994/5. The lower down the income distribution, the lower the growth
+(in fact, after housing costs the income of bottom 10% was 8% lower in
+1994/5 than in 1979). As in America during the same period a fence
+turned into stairs as the nearer to the bottom the slower income grew,
+the nearer the top the faster income grew (i.e. roughly equal growth
+turned into growth which increased as income increased -- see [section
+B.7.1](secB7.html#secb71)). Between 1979 and 1990/91, the bottom 70% saw
+their income share fall. During the Major years, from 1992 to 1997,
+inequality stopped growing simply because hardly anyone's income grew.
+Over all, between 1979 and 2002/3, the share of all incomes received by
+the bottom half fell from 22% to 37%. This is more than the whole of the
+bottom half combined. The bottom 10% saw their share of income fall from
+4.3% to 3% (after housing costs, this was 4.0% to 2.0%). Only the top
+tenth saw their income increase (from 20.6% to 28%). About 40% of the
+total increase in real net incomes went to the top tenth between 1979
+and 2002-3. 17% of the increase in after-tax incomes went to the top 1%,
+about 13% went to the top 0.5% (*"Wealth is much more unequally
+distributed than incomes."*). [John Hills, **Op. Cit.**, p. 20, p. 21,
+p. 23 and p. 37]
+
+Unsurprisingly, income inequality widened considerably (which more than
+reversed all the moves towards equality of income that had taken place
+since 1945) and Britain went from being one of the more equal countries
+in the industrialised countries to being one of the most unequal. The
+numbers below half the median income rose. In the 1960s, this was
+roughly 10%, before falling to 6% in 1977. It then *"the rose sharply"*
+and peaked at 21% in 1991/92 before stabilising at 18-19%. After housing
+costs, this meant a rise from 7% to 25% below half the average income,
+falling to 23%. It should be noted that the pre-Thatcher period gives
+*"the lie to the notion that 'relative' poverty can never be reduced."*
+In summary, by the early 1990s *"relative poverty was twice the level it
+had been in the 1960s, and three times what it had been in the late
+1970s."* It seems needless to add that social mobility fell. [John
+Hills, **Op. Cit.**, p. 48, p. 263 and pp. 120-1]
+
+The same can be said of Eastern Europe. This is particularly
+significant, for if Friedman's assertions were right then we would
+expect that the end of Stalinism in Eastern Europe would have seen a
+decrease in inequality. As in Chile, Britain, New Zealand and America,
+the opposite occurred -- inequality exploded. By the start of the 21st
+century Eastern Europe was challenging neo-liberal Britain at the top of
+the European income inequality tables.
+
+The historical record does not give much support to claims that free(r)
+market capitalism is best for working class people. Real wage growth
+rose to around 5% per year in the early 1970s, before falling
+substantially to under 2% from the 1980s onwards for 13 OECD countries.
+In fact, *"real wage have growth very slowly in OECD countries since
+1979, an extraordinary turn-round from the 3-5% growth rates of the
+1960s."* In the US, the median wage was actually less in 2003 than in
+1979. Average wages actually declined until 1995, then they increased
+somewhat so that the average growth rate for the 1990s was less than
+0.5% a year. Europe and Japan have done only a little better, with
+growth of around 1% per year. This is unsurprising, given the rise in
+returns to capital after 1979 for *"real wages do not automatically grow
+as fast as labour productivity. The general increase in the share of
+profits . . pulls real wage growth behind productivity growth."* Within
+the labour force, inequality has risen. Wage differentials *"are
+considerably higher in the UK/US group than in Europe"* and have grown
+faster. Real wages for the top 10% grew by 27.2% between 1979 and 2003,
+compared to 10.2% in the middle (real wages for the bottom 10% did not
+grow). In Europe, *"real wages grew at the bottom at a similar rate to
+the average."* The top 1% of wage-earners in the USA doubled their total
+wage share between 1979 and 1998 from 6.2% to 10.9%, whilst the top 0.1%
+nearly tripled their share to 4.1%. Almost all of the increase in the
+top 10% went to the top 5%, and about two-thirds to the top 1%. In
+France, the share of the top 1% remained the same. Overall, *"labour's
+position tended to be more eroded in the more free market economies like
+the USA and UK than in European economies where social protection
+[including trade unionism] was already stronger."* [Andrew Glyn, **Op.
+Cit.**, p. 6 p. 116, p. 117, p. 118 and p. 127]
+
+Looking at inequality and poverty, the conclusion is that liberalisation
+of markets *"tend to bring greater inequality."* In fact, the rise in
+the UK was strongest in the 1980s, the Thatcher period while New Zealand
+*"saw as big an increase in inequality as the UK."* The USA *"maintained
+its position as the most unequal country with inequality increasing in
+both decades."* In summary, *"the increase in inequality has been
+noticeably greater in the inegalitarian liberal economies than in
+Northern Europe."* Moreover, *"liberal countries have larger proportions
+of their populations in poverty"* than European ones. Unsurprisingly,
+New Zealand and the UK (both poster-childs for neo-liberalism) *"had the
+biggest increases in numbers in poverty between the mid-1980s and
+2000."* In the mid-1990s, 20-25% of workers in the UK, Canada and USA
+were earning less than 65% of median earnings, compared to 5-8% in
+Scandinavia and Belgium. This rise income inequality *"tend to reproduce
+themselves through the generations."* There *"is far **less** social
+mobility in the USA"* than in Scandinavia, Germany and Canada and there
+has been a *"severe decline in social mobility"* in the UK after the
+Friedman-inspired Thatcherism of the 1980s and 1990s. Unsurprisingly,
+there has been *"a rise in the importance of property incomes."*, with
+the ratio of property income to labour income rising from 15% in the USA
+in 1979 to 18% in 2002. In France it went from 7% to 12% and is around
+8% in Norway and Finland. [**Op. Cit.**, p. 167, p. 168, p. 169, p. 171,
+p. 169, p. 173, p. 174 and p. 170]
+
+Needless to say, given the lack of evidence presented when Friedman
+first published his book in 1962, the 40th anniversary edition was
+equally fact free. Given that 40 years is more than enough time to
+evaluate his claims particularly given that approximately half-way
+through this period, Friedman's ideas became increasingly influential
+and applied, in varying degrees in many countries (particularly in the
+UK under Thatcher and the US under Reagan). Friedman does not mention
+the developments in equality, mobility or labour share in 2002, simply
+making the general statement that he was *"enormously gratified by how
+well the book has withstood time."* Except, of course, where reality
+utterly contradicted it! This applies not only to his claims on
+equality, income shares and poverty, but also the fundamental basis of
+his Monetarist dogma, namely the aim to control the *"behaviour of the
+stock of money"* by means of *"a legislated rule instructing the
+monetary authority to achieve a specified rates of growth in the stock
+of money."* [**Op. Cit.**, p. ix and p. 54] As we indicated in [section
+C.8](secC8.html), the devastating results of applying this centre-piece
+of his ideology means that it hardly *"withstood time"* by any stretch
+of the imagination! In other words, we have a case of self-refutation
+that has few equals.
+
+To conclude, as defences of capitalism based on equality are unlikely to
+survive contact with reality, the notion that this system is really the
+best friend of the working person and the poor needs to be defended by
+other means. This is where the growth argument we debunked in the last
+two sections comes in. Neither has much basis in reality.
+
+Of course, the usual excuse should be noted. It could be argued that the
+reason for this lack of correlation of reality with ideology is that
+capitalism is not "pure" enough. That, of course, is a valid argument
+(as Friedman notes, Thatcher and Reagan *"were able to curb leviathan,
+through not to cut it down."* [**Op. Cit.**, p. vii]). State
+intervention has hardly disappeared since 1980 but given the lush praise
+given to the "magic" of the market you would expect **some**
+improvement. When Friedman died in 2006, the praise from the right-wing
+and business press was extensive, listing him as one of the most, if not
+**the** most, influential economist of the late 20th century. It seems
+strange, then, to suggest that the market is now **less** free than at
+the height of the post-war Keynesian period. To do so would suggest that
+Reagan, Thatcher and Pinochet had little or no impact on the economy (or
+that they made it worse in terms of state intervention). In other words,
+that Friedman was, in fact, the **least** influential economist of the
+late 20th century (as opposed to one of the worse, if we compare his
+assertions to reality before and after the policies they inspired were
+implemented). However, he helped make the rich richer, so the actual
+impact of what he actually suggested for the bulk of the population can
+be cheerfully ignored.
+
+C.10.4 Does growth automatically mean people are better off?
+------------------------------------------------------------
+
+In the above sections we have discussed the effects of neo-liberal
+reforms purely in terms of economic statistics such as growth rates and
+so on. This means we have critiqued capitalism in its own terms, in
+terms of its supporters own arguments in its favour. As shown, in terms
+of equality, social mobility and growth the rise of "free(r) market"
+capitalism has not been all its supporters have asserted. Rather than
+produce more equality, less poverty and increased growth, the opposite
+has occurred. Where some progress on these areas have occurred, such as
+in Asia, the countries have **not** embraced the neo-liberal model.
+
+However, there is a deeper critique to be made of the notion that
+capitalism benefits everyone, especially the poor. This relates to the
+**quality** of life, rather than the quantity of money available. This
+is an extremely important aspect to the question of whether "free
+market" capitalism will result in everyone being "better off." The
+typical capitalist tendency is to consider quantitative values as being
+the most important consideration. Hence the concern over economic
+growth, profit levels, and so on, which dominate discussions on modern
+life. However, as E.P. Thompson makes clear, this ignores important
+aspects of human life:
+
+> "simple points must be made. It is quite possible for statistical
+> averages and human experiences to run in opposite directions. A per
+> capita increase in quantitative factors may take place at the same
+> time as a great qualitative disturbance in people's way of life,
+> traditional relationships, and sanctions. People may consume more
+> goods and become less happy or less free at the same time . . . [For
+> example] real wages [may have] advanced . . . but at the cost of
+> longer hours and greater intensity of labour . . . In statistical
+> terms, this reveals an upward curve. To the families concerned it
+> might feel like immiseration.
+> "Thus it is perfectly possible . . . [to have an] improvement in
+> average material standards . . . [at the same time as] intensified
+> exploitation, greater insecurity, and increasing human misery . . .
+> most people [can be] 'better off' than their forerunners had been
+> fifty years before, but they had suffered and continued to suffer this
+> . . . improvement as a catastrophic experience." [**The Making of the
+> English Working Class**, p. 231]
+
+Thompson was specifically referring to the experience of the British
+industrial revolution on the working class but his analysis is of
+general note (its relevance goes far beyond evaluating past or current
+industrialisation processes). This means that concentrating on, say,
+absolute poverty or income growth (as defenders of neo-liberalism do)
+means to ignore the quality of life which this increased income is
+associated with. For example, a peasant farmer who has to leave his farm
+for employment in a factory may consider having bosses dictating his
+every move, an increased working day and intensity of work more
+significant than, say, a net increase in his income. That this farmer
+may have been driven off his farm as a result of neo-liberal or other
+"reforms" is another factor which has to be taken into account. If, to
+suggest another possibility, Health and Safety regulations reduce work
+speeds, then national output will be reduced just as unions will stop
+firms making their workers labour more intensely for longer. However,
+increased output at the expense of those who do the work is not
+unproblematic (i.e. real wages may increase but at the cost of longer
+hours, less safety and greater intensity of labour). Another obvious
+example would be the family where the husband gets "downsized" from a
+good manufacturing job. He may get a lower paying service industry job,
+which forces his wife (and perhaps children) to get a job in order to
+make ends meet. Family income may increase slightly as a result, but at
+a heavy cost to the family and their way of life. Therefore the standard
+of living in the abstract may have increased, but, for the people in
+question, they would feel that it had deteriorated considerably. As
+such, economic growth need not imply rising standards of living in terms
+if the **quality** of life decreases as incomes rise.
+
+This is, in part, because if the economy worked as neoclassical theory
+demanded, then people would go to work not knowing how much they would
+be paid, how long they would be employed for or, indeed, whether they
+had a job at all when they got there. If they rented their home, they
+would not even know whether they had a home to come back to. This is
+because every price would have to be subject to constant change in order
+to adjust to equilibrium. Insecurity, in other words, is at the heart of
+the economy and this is hardly productive of community or "family"
+values (and other expressions used in the rhetoric of the right while
+they promote an economic system which, in practice, undermines them in
+the name of profit). In other words, while a society may become
+materially better off over time, it becomes worse off in terms of
+**real** wealth, that is those things which make life worth living. Thus
+capitalism has a corrosive effect on human relationships, the pleasure
+of productive activity (work), genuine freedom for the many, how we
+treat each other and so on. The corrosive effects of economics are not
+limited simply to the workplace but seep into all other aspects of your
+life.
+
+Even assuming that free market capitalism could generate high growth
+rates (and that assumption is not borne out in the real world), this is
+not the end of the matter. How the growth is distributed is also
+important. The benefits of growth may accumulate to the few rather than
+the many. Per capita and average increases may hide a less pleasant
+reality for those at the bottom of the social hierarchy. An obvious
+example would be a society in which there is massive inequality, where a
+few are extremely rich and the vast majority are struggling to make ends
+meet. Such a society could have decent growth rates and per capita and
+average income may grow. However, if such growth is concentrated at the
+top, in the hands of the already wealthy, the reality is that economic
+growth does not benefit the many as the statistics suggest. As such, it
+is important to stress that average growth may not result in a bettering
+for all sections of a society. In fact, *"there are plenty of instances
+in which the poor, and the majority of the population. have been left
+behind in the era of globalisation -- even where per capita income has
+grown."* This is not limited to just developing countries. Two episodes
+like this occurred in the United States, with data showing that *"the
+per capita income of the poor falling from 1979-84, and 1989-94, while
+per capita income rose."* Overall, the US has seen its median wage and
+real wages for the bottom 20th of its populations fall between 1973 and
+1997 while *"per capita income in the US has risen by 70 percent. For
+the median wage and bottom-quintile wage to actually **fall** during
+this same period is an economic change of momentous proportions, from
+the point of view of the majority of Americans."* [Mark Weisbrot, Dean
+Baker, Robert Naiman, and Gila Neta, **Growth May Be Good for the Poor
+-- But are IMF and World Bank Policies Good for Growth?**] This is a
+classic example of society with substantial inequality seeing the
+benefits of growth accrue to the already rich. To state the obvious,
+**how** the benefits of growth are distributed cannot be ignored.
+
+In addition, consumerism may not lead to the happiness or the "better
+society" which many economists imply to be its results. If consumerism
+is an attempt to fill an empty life, it is clearly doomed to failure. If
+capitalism results in an alienated, isolated existence, consuming more
+will hardly change that. The problem lies within the individual and the
+society within which they live. Hence, quantitative increases in goods
+and services may not lead to anyone "benefiting" in any meaningful way.
+Similarly, there is the issue of the quality of the production and
+consumption produced by economic growth. Values like GDP do not tell us
+much in terms of what was produced and its social and environmental
+impact. Thus high growth rates could be achieved by the state expanding
+its armed forces and weaponry (i.e. throwing money to arms corporations)
+while letting society go to rot (as under Reagan). Then there is awkward
+fact that negative social developments, such as pollution and rising
+crime, can contribute to a rising value for GDP). This happens because
+the costs of cleaning up, say, an oil spill involves market transactions
+and so gets added to the GDP for an economy.
+
+As such, the notion of growth **as such** is good should be rejected in
+favour of a critical approach to the issue which asks growth for what
+and for whom. As Chomsky puts it, *"[m]any indigenous people apparently
+do not see any reason why their lives, societies, and cultures should be
+disrupted or destroyed so that New Yorkers can sit in SUVs in traffic
+gridlock."* [**Failed States**, p. 259] Under capitalism, much
+"productivity" is accounted for by economic activity that is best
+described as wasteful: military spending; expanding police and prison
+bureaucracies; the spiralling cost of (privatised) healthcare; suburban
+sprawl; the fast-food industry and its inevitable ill effects on health;
+cleaning up pollution; specifying and defending intellectual and other
+property rights; treating the illnesses caused by over-work, insecurity
+and stress; and so on. As Alexander Berkman once noted, capitalism
+spawns many forms of "work" and "productive" activity which only make
+sense within that system and could *"be automatically done away with"*
+in a sane society. [**What is Anarchism?**, pp. 223-5] Equally,
+"productivity" and living standards can stand at odds with each other.
+For example, if a country has a lower working week and take longer
+holidays, these would clearly depress GDP. This is the case with America
+and France, with approximately equal productivity the later spends less
+time in work and more time off. Yet it takes a capitalist ideologue to
+say that such a country is worse off as a nation for all that time
+people spend enjoying themselves.
+
+These issues are important to remember when listening to "free market"
+gurus discussing economic growth from their "gated communities,"
+insulated from the surrounding deterioration of society and nature
+caused by the workings of capitalism. In other words, quality is often
+more important than quantity. This leads to the important idea that some
+(even many) of the requirements for a truly human life cannot be found
+on any market, no matter how "free" it may be. Equally, a "free" market
+can lead to unfree people as they driven to submit themselves to the
+authority of bosses do to economic pressures and the threat of
+unemployment.
+
+So it can be said that laissez-faire capitalism will benefit all,
+**especially** the poor, only in the sense that all can potentially
+benefit as an economy increases in size. Of course, the mantra that
+economic growth is so wonderful is hard to justify when the benefits of
+that growth are being enjoyed by a small proportion of the people and
+the burdens of growth (such as rising job insecurity, loss of benefits,
+wage stagnation and decline for the majority of workers, declining
+public services, loss of local communities and so forth) are being borne
+by so many (as is the case with the more to freer markets from the
+1980s). If we look at actually existing capitalism, we can start to draw
+some conclusions about whether a pure laissez-faire capitalism will
+actually benefit working people. The United States has a small public
+sector by international standards and in many ways it is the closest
+large industrial nation to the unknown ideal of pure capitalism. It is
+also interesting to note that it is also number one, or close to it, in
+the following areas [Richard Du Boff, **Accumulation and Power**, pp.
+183-4]:
+
+> lowest level of job security for workers, with greatest chance of
+> being dismissed without notice or reason.\
+> greatest chance for a worker to become unemployed without adequate
+> unemployment and medical insurance.\
+> less leisure time for workers, such as holiday time.\
+> one of the most lopsided income distribution profiles.\
+> lowest ratio of female to male earnings, in 1987 64% of the male
+> wage.\
+> highest incidence of poverty in the industrial world.\
+> among the worse rankings of all advanced industrial nations for
+> pollutant emissions into the air.\
+> highest murder rates.\
+> worse ranking for life expectancy and infant morality.\
+
+It seems strange that the more laissez-faire system has the worse job
+security, least leisure time, highest poverty and inequality if
+laissez-faire will **especially** benefit the poor or working people. In
+fact, we find the more free market the regime, the worse it is for the
+workers. Americans have longer hours and shorter holidays than Western
+Europeans and more people live in poverty. 22% of American children grow
+up in poverty, which means that it ranks 22nd out of the 23
+industrialised nations, ahead of only Mexico and behind all 15 of the
+pre-2004 EU countries.
+
+According to a 2007 United Nation report, the worse places to be a child
+are in neo-liberal societies such as the UK and USA (the UK was bottom,
+at number 21 one below the US). The UNICEF report dealt with the
+condition of children in advanced capitalist countries and found that
+both the UK and US are way down the list on education, health, poverty,
+and well-being. While UNICEF preferred to state that this is because of
+a "dog eat dog society", it is hardly a coincidence that these two
+societies have most embraced the principles of neo-liberalism and have
+repeatedly attacked the labour movement, civil society in general as
+well as the welfare state in the interests of capital. In contrast, the
+social democratic northern European countries which have best results.
+One could also point out, for example, that Europeans enjoy more leisure
+time, better health, less poverty, less inequality and thus more
+economic security, greater intergenerational economic mobility, better
+access to high-quality social services like health care and education,
+and manage to do it all in a far more environmentally sustainable way
+(Europe generates about half the CO2 emissions for the same level of
+GDP) compared to the US or the UK.
+
+A definite case of what is good for the economy (profits) is bad for
+people. To state the obvious, an economy and the people in that economy
+are not identical. The former can be doing well, but not the latter --
+particularly if inequality is skewing distribution of any rising
+incomes. So while the economy may be doing well, its (median)
+participant (and below) may see very little of it.
+
+Of course, defenders of laissez-faire capitalism will point out that the
+United States, like the UK and any other real country, is far from being
+laissez-faire. This is true, yet it seems strange that the further an
+economy moves from that "ideal" the better conditions get for those who,
+it is claimed, will especially benefit from it. As such, non-believers
+in pure capitalism have cause for dissent although for the typical
+"market advocate" such comparisons tell us littler -- unless they happen
+to bolster their case then "actually existing" capitalism can be used as
+an example.
+
+Ultimately, the real issue is to do with quality of life and relative
+changes. Yet the argument that capitalism helps the poorest most via
+high economic growth is rooted in comparing "free market" capitalism
+with historical example, i.e. in the notion of **absolute** inequality
+rather than **relative** inequality and poverty. Thus poverty (economic,
+cultural and social) in, say, America can be dismissed simply on the
+grounds that poor people in 2005 have more and better goods than those
+in 1905. The logic of an absolute position (as intended, undoubtedly) is
+such as to make even discussing poverty and inequality pointless as it
+is easy to say that there are **no** poor people in the West as no one
+lives in a cave. But, then again, using absolute values it is easy to
+prove that there were no poor people in Medieval Europe, either, as they
+did not live in caves and, compared to hunter gatherers or the slaves of
+antiquity, they had much better living standards. As such, any regime
+would be praiseworthy, by the absolute standard as even slavery would
+have absolutely better living standards than, say, the earliest humans.
+
+In this respect, the words of Adam Smith are as relevant as ever. In
+**The Wealth of Nations** Smith states the following:
+
+> *"By necessaries I understand not only the commodities which are
+> indispensably necessary for the support of life, but whatever the
+> custom of the country renders it indecent for creditable people, even
+> of the lowest order, to be without. A linen shirt, for example, is,
+> strictly speaking, not a necessary of life. The Greeks and Romans
+> lived, I suppose, very comfortably though they had no linen. But in
+> the present times, through the greater part of Europe, a creditable
+> day-labourer would be ashamed to appear in public without a linen
+> shirt, the want of which would be supposed to denote that disgraceful
+> degree of poverty which, it is presumed, nobody can well fall into
+> without extreme bad conduct . . . Under necessaries, therefore, I
+> comprehend not only those things which nature, but those things which
+> the established rules of decency have rendered necessary to the lowest
+> rank of people."* (Book Five, Chapter II, Article IV)
+
+As usual, Adam Smith is right while his erstwhile ideological followers
+are wrong. They may object, noting that strictly speaking Smith was
+talking of *"necessaries"* rather than poverty. However, his concept of
+necessaries implies a definition of poverty and this is obviously based
+not on some unchanging biological concept of subsistence but on whatever
+*"the custom of the country"* or *"the established rules of decency"*
+consider necessary Marx made the same point his later works, when he
+distanced himself from his earlier notion that capitalism resulted in
+**absolute** impoverishment. As he put it in volume 1 of **Capital**,
+*"the number and extent of [the worker's] so-called necessary
+requirements, as also the manner and extent they are satisfied, are
+themselves products of history, and depend therefore to a great extent
+on the level of civilisation attained by a country . . . In contrast,
+therefore, with the case of other commodities, the determination of the
+value of labour-power contains a historical and moral element."* [p.
+275]
+
+It is ironic that those today who most aggressively identify themselves
+as disciples of Smith are also the people who are most opposed to
+definitions of poverty that are consistent with this definition of
+"necessaries" (this is unsurprising, as those who invoke his name most
+usually do so in pursuit of ideas alien to his work). This is done for
+the usual self-interested motives. For example, Thatcher's government
+originally had little problem with the concept of relative poverty and
+*"[o]nly when its policies had led to a conspicuous growth of relative
+poverty was the idea denounced, and the decision taken by the government
+. . . that absolute poverty (undefined and unqualified) was the only
+reality."* [Ian Gilmore, **Op. Cit.**, p. 136] Smith's perspective,
+significantly, is that followed by most poverty researchers, who use a
+relative measure in evaluating poverty rates. The reason is unsurprising
+as poor is relative to the living standards and customs of a time and
+place. Some sceptic might regurgitate the unoriginal response that the
+poor in the West are rich compared to people in developing countries,
+but they do not live in those countries. True, living standards have
+improved considerably over time but comparing the poor of today with
+those of centuries past is also meaningless. The poor today are poor
+relative to what it takes to live and develop their individual
+potentials in their own societies, not in (for example) 18th century
+Scotland or half-way across the globe (even Milton Friedman had to
+grudging admit that *"poverty is in part a relative matter."* [**Op.
+Cit.**, p. 191]). Considering the harmful effects of relative inequality
+we indicated in [section B.1](secB1.html), this position is perfectly
+justified.
+
+The notion of absolute poverty being the key dates back to at least
+Locke who argued in his **Second Treatise** on government that in
+America *"a King of a large and fruitful Territory there feeds, lodges,
+and is clad worse than a day Labourer in England."* (section 41)
+Ignoring the dubious anthropological assertions, his claim was made as
+part of a general defence of enclosing common land and turning
+independent workers into dependent wage slaves. The key to his argument
+is that the accumulation of property and land beyond that useable by an
+individual along with the elimination of customary rights for poor
+individuals was justified because owners of the enclosed land would hire
+workers and increase the overall wealth available. This meant that the
+dispossessed workers (and particularly their descendants) would be
+better off materially (see C.B MacPherson's **The Political Theory of
+Possessive Individualism: From Hobbes to Locke** for an excellent
+discussion of this). The links with the current debate on globalisation
+are clear, with so-called "market advocates" and "individualists"
+providing extensive apologetics for capital moving to authoritarian
+regimes which systematically violate individual rights and the
+principles of the "free" market precisely in terms of the increased
+material wealth this (eventually) produces. But then it is easy for
+bosses, tenured professors and well paid think-tank experts to
+pontificate that such sacrifices (for others, of course) are worth it in
+the long run.
+
+This apparently strange transformation of "individualists" into
+"collectivists" (justifying the violation of individual rights in terms
+of the greater good) has a long precedent. Indeed, it can only be
+considered strange if you are ignorant of the nature and history of
+capitalism as well as the contortions its defenders have inflicted on
+themselves (and by yet another of these strange co-incidences that so
+regularly afflicts capitalism and its supporters, the individuals whose
+liberty and rights are considered expendable are always members of the
+working class). So the notion of absolute poverty has always been
+associated with defending inequalities of wealth and power as well as
+providing justification in terms of long term benefit for the violation
+of the "freedom" and "individual rights" they claim to defend.
+Significantly, the contemporary representatives of the landlords who
+imposed enclosures framed their arguments precisely in terms of
+restricting the independence (i.e. freedom) of the working population.
+As Marxist David McNally summarises after providing extensive quotes, it
+was *"precisely these elements of material and spiritual independence
+that many of the most outspoken advocates of enclosure sought to
+destroy."* They *"were remarkably forthright in this respect. Common
+rights and access to common lands, they argued, allowed a degree of
+social and economic independence, and thereby produced a lazy, dissolute
+mass of rural poor . . . Denying such people common lands and common
+rights would force them to conform to the harsh discipline imposed by
+the market in labour."* [**Against the Market**, p. 19] This would only
+be considered paradoxical if you equate freedom with capitalism.
+
+The underlying assumption under all this is that liberty (at least for
+working class people) is less important than material wealth, a vision
+rightly attacked when Stalinism seemed to be out-performing the West in
+terms of growth before the 1970s. Yet the question, surely, is would
+individuals freely agree to be subjected to the dictates of a boss for
+10-12 hours a day if other alternatives had not closed off by state
+intervention? As we discuss in [section F.8](secF8.html), the answer has
+always been no. This is the case today. For example, Naomi Klein
+interviews one boss of a third-world sweatshop who explained that *"for
+the lowly province worker, working inside an enclosed factory is better
+than being outside."* One of his workers rebutted this, stating *"Our
+rights are being trampled"* and the he said that *"because he has not
+experienced working in a factory and the conditions inside."* Another
+noted that *"of course he would say that we prefer this work -- it is
+beneficial to him, but not to us."* Another states the obvious: *"But we
+are landless, so we have no choice but to work in the economic zone even
+though it is very hard and the situation is unfair."* [quoted by Klein,
+**No Logo**, p. 220 and p. 221] It should noted that the boss has, of
+course, the backing of a great many economists (including many
+moderately left-wing ones) who argue that sweatshops are better than no
+jobs and that these countries cannot afford basic workers' rights (as
+these are class societies, it means that their ruling class cannot
+afford to give their workers the beneficial aspects of a free market,
+namely the right to organise and associate freely). It is amazing how
+quickly an economist or right-liberal will proclaim that a society
+cannot expect the luxury of a free market, at least for the working
+class, and how these "individualists" will proclaim that the little
+people must suffer in order for the greater good to be achieved.
+
+As for the regimes within these factories, Klein notes that they are
+extremely authoritarian. The largest free-trade zone in the Philippines
+is *"a miniature military state inside a democracy"* and the
+*"management is military-style, the supervisors often abusive."* As
+would be expected, *"no questioning of authority is expected or
+permitted"* and in some *"strikes are officially illegal"* (rather than
+unofficially banned). [**Op. Cit.**, p. 204, p. 205 and p. 214] As with
+the original industrial revolution, capitalism takes advantages of other
+forms of social hierarchy in developing countries. As Stephen A. Marglin
+noted, the women and children, *"who by all accounts constituted the
+overwhelming majority of factory workers in the early days, were there
+not because they choose to be but because their husbands and fathers
+told them to be. The application of revealed preference to their
+presence in the factory requires a rather elastic view of the concept of
+individual choice."* [*"What do Bosses do?"*, pp. 60-112, **The Review
+of Radical Political Economics**, vol. 6, No. 2, p. 98] In other words,
+while the workers **may** be better off in terms of wages they are not
+better off in terms of liberty, equality and dignity. Luckily there are
+economists around to explain, on their behalf, that these workers cannot
+afford such luxuries.
+
+Looking beyond the empirical investigation, we should point out the
+slave mentality behind these arguments. After all, what does this
+argument actually imply? Simply that economic growth is the only way for
+working people to get ahead. If working people put up with exploitative
+working environments, in the long run capitalists will invest some of
+their profits and so increase the economic cake for all. So, like
+religion, "free market" economics argue that we must sacrifice in the
+short term so that (perhaps) in the future our living standards will
+increase (*"you'll get pie in the sky when you die"* as Joe Hill said
+about religion). Moreover, any attempt to change the "laws of the
+market" (i.e. the decisions of the rich) by collective action will only
+harm the working class. If the defenders of capitalism were genuinely
+interested in individual freedom they would be urging the oppressed
+masses to revolt rather than defending the investing of capital in
+oppressive regimes in terms of the freedom they are so willing to
+sacrifice when it comes to workers. But, of course, these defenders of
+"freedom" will be the first to point out that such revolts make for a
+bad investment climate -- capital will be frightened away to countries
+with a more "realistic" and "flexible" workforce (usually made so by
+state repression).
+
+In other words, capitalist economics praises servitude over
+independence, kow-towing over defiance and altruism over egoism. The
+"rational" person of neo-classical economics does not confront
+authority, rather he accommodates himself to it. For, in the long run,
+such self-negation will pay off with a bigger cake with (it is claimed)
+correspondingly bigger crumbs "trickling" downwards. In other words, in
+the short-term, the gains may flow to the elite but in the future we
+will all gain as some of it will trickle (back) down to the working
+people who created them in the first place. But, unfortunately, in the
+real world uncertainty is the rule and the future is unknown. The
+history of capitalism shows that economic growth is quite compatible
+with stagnating wages, increasing poverty and insecurity for workers and
+their families, rising inequality and wealth accumulating in fewer and
+fewer hands (the example of the USA and Chile from the 1970s to 1990s
+and Chile spring to mind). And, of course, even **if** workers kow-tow
+to bosses, the bosses may just move production elsewhere anyway (as tens
+of thousands of "down-sized" workers across the West can testify). For
+more details of this process in the USA see Edward S. Herman's article
+*"Immiserating Growth: The First World"* in Z Magazine, July 1994.
+
+For anarchists it seems strange to wait for a bigger cake when we can
+have the whole bakery. If control of investment was in the hands of
+those it directly effects (working people) then it could be directed
+into socially and ecologically constructive projects rather than being
+used as a tool in the class war and to make the rich richer. The
+arguments against "rocking the boat" are self-serving (it is obviously
+in the interests the rich and powerful to defend a given income and
+property distribution) and, ultimately, self-defeating for those working
+people who accept them. In the end, even the most self-negating working
+class will suffer from the negative effects of treating society as a
+resource for the economy, the higher mobility of capital that
+accompanies growth and effects of periodic economic and long term
+ecological crisis. When it boils down to it, we all have two options --
+you can do what is right or you can do what you are told. "Free market"
+capitalist economics opts for the latter.

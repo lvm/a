@@ -1,0 +1,887 @@
+E.4 Can laissez-faire capitalism protect the environment?
+=========================================================
+
+In a word, no. Here we explain why using as our example the arguments of
+a leading right-"libertarian."
+
+As discussed in the [last section](secE3.html), there is plenty of
+reason to doubt the claim that private property is the best means
+available to protect the environment. Even in its own terms, it does not
+do so and this is compounded once we factor in aspects of any real
+capitalist system which are habitually ignored by supporters of that
+system (most obviously, economic power derived from inequalities of
+wealth and income). Rather than the problem being too little private
+property, our environmental problems have their source not in a failure
+to apply market principles rigorously enough, but in their very spread
+into more and more aspects of our lives and across the world.
+
+That capitalism simply cannot have an ecological nature can be seen from
+the work of right-"libertarian" Murray Rothbard, an advocate of extreme
+laissez-faire capitalism. His position is similar to that of other free
+market environmentalists. As pollution can be considered as an
+infringement of the property rights of the person being polluted then
+the solution is obvious. Enforce "absolute" property rights and end
+pollution by suing anyone imposing externalities on others. According to
+this perspective, only absolute private property (i.e. a system of
+laissez-faire capitalism) can protect the environment.
+
+This viewpoint is pretty much confined to the right-"libertarian"
+defenders of capitalism and those influenced by them. However, given the
+tendency of capitalists to appropriate right-"libertarian" ideas to
+bolster their power much of Rothbard's assumptions and arguments have a
+wider impact and, as such, it is useful to discuss them and their
+limitations. The latter is made extremely easy as Rothbard himself has
+indicated why capitalism and the environment simply do not go together.
+While paying lip-service to environmental notions, his ideas (both in
+theory and in practice) are inherently anti-green and his solutions, as
+he admitted himself, unlikely to achieve their (limited) goals.
+
+Rothbard's argument seems straight forward enough and, in theory,
+promises the end of pollution. Given the problems of externalities, of
+companies polluting our air and water resources, he argued that their
+root lie not in capitalist greed, private property or the market
+rewarding anti-social behaviour but by the government refusing to
+protect the rights of private property. The remedy is simple: privatise
+everything and so owners of private property would issue injunctions and
+pollution would automatically stop. For example, if there were
+"absolute" private property rights in rivers and seas their owners would
+not permit their pollution:
+
+> *"if private firms were able to own the rivers and lakes . . . then
+> anyone dumping garbage . . . would promptly be sued in the courts for
+> their aggression against private property and would be forced by the
+> courts to pay damages and to cease and desist from any further
+> aggression. Thus, only private property rights will insure an end to
+> pollution-invasion of resources. Only because rivers are unowned is
+> there no owner to rise up and defend his precious resource from
+> attack."* [**For a New Liberty**, p. 255]
+
+The same applies to air pollution:
+
+> *"The remedy against air pollution is therefore crystal clear . . .
+> The remedy is simply for the courts to return to their function of
+> defending person and property rights against invasion, and therefore
+> to enjoin anyone from injecting pollutants into the air . . . The
+> argument against such an injunctive prohibition against pollution that
+> it would add to the costs of industrial production is as reprehensible
+> as the pre-Civil War argument that the abolition of slavery would add
+> to the costs of growing cotton, and therefore abolition, however
+> morally correct, was 'impractical.' For this means that the polluters
+> are able to impose all of the high costs of pollution upon those whose
+> lungs and property rights they have been allowed to invade with
+> impunity."* [**Op. Cit.**, p. 259]
+
+This is a valid point. Regulating or creating markets for emissions
+means that governments tolerate pollution and so allows capitalists to
+impose its often high costs onto others. The problem is that Rothbard's
+solution cannot achieve this goal as it ignores economic power.
+Moreover, this argument implies that the consistent and intellectually
+honest right-"libertarian" would support a zero-emissions environmental
+policy. However, as we discuss in the [next section](secE4.html#sece41),
+Rothbard (like most right-"libertarians") turned to various legalisms
+like "provable harm" and ideological constructs to ensure that this
+policy would not be implemented. In fact, he argued extensively on how
+polluters **could** impose costs on other people under his system.
+First, however, we need to discuss the limitations of his position
+before discussing how he later reprehensibly refuted his own arguments.
+Then in [section E.4.2](secE4.html#sece42) we will indicate how his own
+theory cannot support the privatisation of water or the air nor the
+preservation of wilderness areas. Needless to say, much of the critique
+presented in [section E.3](secE3.html) is also applicable here and so we
+will summarise the key issues in order to reduce repetition.
+
+As regards the issue of privatising natural resources like rivers, the
+most obvious issue is that Rothbard ignores one major point: why
+**would** the private owner be interested in keeping it clean? What if
+the rubbish dumper is the corporation that owns the property? Why not
+just assume that the company can make more money turning the lakes and
+rivers into dumping sites, or trees into junk mail? This scenario is no
+less plausible. In fact, it is more likely to happen in many cases as
+there is a demand for such dumps by wealthy corporations who would be
+willing to pay for the privilege.
+
+So to claim that capitalism will protect the environment is just another
+example of free market capitalists trying to give the reader what he or
+she wants to hear. In practice, the idea that extending property rights
+to rivers, lakes and so forth (if possible) will stop ecological
+destruction all depends on the assumptions used. Thus, for example, if
+it is assumed that ecotourism will produce more income from a wetland
+than draining it for cash crops, then, obviously, the wetlands are
+saved. If the opposite assumption is made, the wetlands are destroyed.
+
+But, of course, the supporter of capitalism will jump in and say that if
+dumping were allowed, this would cause pollution, which would affect
+others who would then sue the owner in question. "Maybe" is the answer
+to this claim, for there are many circumstances where a lawsuit would be
+unlikely to happen. For example, what if the locals are slum dwellers
+and cannot afford to sue? What if they are afraid that their landlords
+will evict them if they sue (particularly if the landlords also own the
+polluting property in question)? What if many members of the affected
+community work for the polluting company and stand to lose their jobs if
+they sue? All in all, this argument ignores the obvious fact that
+resources are required to fight a court case and to make and contest
+appeals. In the case of a large corporation and a small group of even
+average income families, the former will have much more time and
+resources to spend in fighting any lawsuit. This is the case today and
+it seems unlikely that it will change in any society marked by
+inequalities of wealth and power. In other words, Rothbard ignores the
+key issue of economic power:
+
+> "Rothbard appears to assume that the courts will be as accessible to
+> the victims of pollution as to the owner of the factory. Yet it is not
+> unlikely that the owner's resources will far exceed those of his
+> victims. Given this disparity, it is not at all clear that persons who
+> suffer the costs of pollution will be able to bear the price of
+> relief.
+> "Rothbard's proposal ignores a critical variable: power. This is not
+> surprising. Libertarians [sic!] are inclined to view 'power' and
+> 'market' as antithetical terms . . . In Rothbard's discussion, the
+> factor owner has no power over those who live near the factory. If we
+> define power as comparative advantage under restricted circumstances,
+> however, we can see that he may. He can exercise that power by
+> stretching out the litigation until his opponent's financial resources
+> are exhausted. In what is perhaps a worst case example, though by no
+> means an unrealistic scenario, the owner of an industry on which an
+> entire community depends for its livelihood may threaten to relocate
+> unless local residents agree to accept high levels of pollution. In
+> this instance, the 'threat' is merely an announcement by the owner
+> that he will move his property, as is his right, unless the people of
+> the community 'freely' assent to his conditions . . . There is no
+> reason to believe that all such persons would seek injunctive relief .
+> . . Some might be willing to tolerate the pollution if the factory
+> owner would provide compensation. In short, the owner could pay to
+> pollute. This solution . . . ignores the presence of power in the
+> market. It is unlikely that the 'buyers' and 'sellers' of pollution
+> will be on an equal footing." [Stephen L. Newman, **Liberalism at
+> wits' end**, pp. 121-2]
+
+There is strong reason to believe that some people may tolerate
+pollution in return for compensation (as, for example, a poor person may
+agree to let someone smoke in their home in return for \$100 or accept a
+job in a smoke filled pub or bar in order to survive in the short term
+regardless of the long-term danger of lung cancer). As such, it is
+always possible that, due to economic necessity in an unequal society,
+that a company may pay to be able to pollute. As we discussed in
+[section E.3.2](secE3.html#sece32), the demand for the ability to
+pollute freely has seen a shift in industries from the west to
+developing nations due to economic pressures and market logic:
+
+> *"Questions of intergenerational equity and/or justice also arise in
+> the context of industrial activity which is clearly life threatening
+> or seriously diminishes the quality of life. Pollution of the air,
+> water, soil and food in a way that threatens human health is obviously
+> not sustainable, yet it is characteristic of much industrial action.
+> The greatest burden of the life and health threatening by-products of
+> industrial processes falls on those least able to exercise options
+> that provide respite. The poor have risks to health **imposed** on
+> them while the wealthy can afford to purchase a healthy lifestyle. In
+> newly industrialising countries the poorest people are often faced
+> with no choice in living close to plants which present a significant
+> threat to the local population . . . With the international trend
+> toward moving manufacturing industry to the cheapest sources of
+> labour, there is an increasing likelihood that standards in
+> occupational health and safety will decline and damage to human and
+> environmental health will increase."* [Glenn Albrecht, *"Ethics,
+> Anarchy and Sustainable Development"*, pp. 95-118, **Anarchist
+> Studies**, vol. 2, no. 2, pp. 107-8]
+
+The tragedy at Bhopal in India is testimony to this process. This should
+be unsurprising, as there is a demand for the ability to pollute from
+wealthy corporations and this has resulted in many countries supplying
+it. This reflects the history of capitalism within the so-called
+developed countries as well. As Rothbard laments:
+
+> *"[F]actory smoke and many of its bad effects have been known ever
+> since the Industrial Revolution, known to the extent that the American
+> courts, during the late -- and as far back as the early -- 19th
+> century made the deliberate decision to allow property rights to be
+> violated by industrial smoke. To do so, the courts had to -- and did
+> -- systematically change and weaken the defences of property rights
+> embedded in Anglo-Saxon common law . . . the courts systematically
+> altered the law of negligence and the law of nuisance to **permit**
+> any air pollution which was not unusually greater than any similar
+> manufacturing firm, one that was not more extensive than the customary
+> practice of polluters."* [**Op. Cit.**, p. 257]
+
+Left-wing critic of right-"libertarianism" Alan Haworth points out the
+obvious by stating that *"[i]n this remarkably -- wonderfully --
+self-contradictory passage, we are invited to draw the conclusion that
+private property **must** provide the solution to the pollution problem
+from an account of how it clearly did **not.**"* In other words
+19th-century America -- which for many right-"libertarians" is a kind of
+"golden era" of free-market capitalism -- saw a move *"from an initial
+situation of well-defended property rights to a later situation where
+greater pollution was tolerated."* This means that private property
+cannot provide a solution the pollution problem.
+[**Anti-Libertarianism**, p. 113]
+
+It is likely, as Haworth points out, that Rothbard and other free
+marketeers will claim that the 19th-century capitalist system was not
+pure enough, that the courts were motivated to act under pressure from
+the state (which in turn was pressured by powerful industrialists). But
+can it be purified by just removing the government and privatising the
+courts, relying on a so-called "free market for justice"? The pressure
+from the industrialists remains, if not increases, on the privately
+owned courts trying to make a living on the market. Indeed, the whole
+concept of private courts competing in a "free market for justice"
+becomes absurd once it is recognised that those with the most money will
+be able to buy the most "justice" (as is largely the case now). Also,
+this faith in the courts ignores the fact suing would only occur
+**after** the damage has already been done. It's not easy to replace
+ecosystems and extinct species. And if the threat of court action had a
+"deterrent" effect, then pollution, murder, stealing and a host of other
+crimes would long ago have disappeared.
+
+To paraphrase Haworth, the characteristically "free market" capitalist
+argument that if X were privately owned, Y would almost certainly occur,
+is just wishful thinking.
+
+Equally, it would be churlish to note that this change in the law (like
+so many others) was an essential part of the creation of capitalism in
+the first place. As we discuss in [section F.8](secF8.html), capitalism
+has always been born of state intervention and the toleration of
+pollution was one of many means by which costs associated with creating
+a capitalist system were imposed on the general public. This is still
+the case today, with (for example) the **Economist** magazine happily
+arguing that the migration of dirty industries to the third world is
+*"desirable"* as there is a *"trade-off between growth and pollution
+control."* Inflicting pollution on the poorest sections of humanity is,
+of course, in their own best interests. As the magazine put it, *"[i]f
+clean growth means slower growth, as it sometimes will, its human cost
+will be lives blighted by a poverty that would otherwise have been
+mitigated. That is why it is wrong for the World Bank or anybody else to
+insist upon rich-country standards of environmental practices in
+developing countries . . . when a trade off between cleaner air and less
+poverty has to be faced, most poor countries will rightly want to
+tolerate more pollution than rich countries do in return for more
+growth."* [*"Pollution and the Poor"*, **The Economist**, 15/02/1992]
+That "poor countries" are just as state, class and hierarchy afflicted
+as "rich-country" ones and so it is **not** the poor who will be
+deciding to *"tolerate"* pollution in return for higher profits (to use
+the correct word rather than the economically correct euphemism).
+Rather, it will be inflicted upon them by the ruling class which runs
+their country. That members of the elite are willing to inflict the
+costs of industrialisation on the working class in the form of pollution
+is unsurprising to anyone with a grasp of reality and how capitalism
+develops and works (it should be noted that the magazine expounded this
+particular argument to defend the infamous Lawrence Summers memo
+discussed in [section E.3.2](secE3.html#sece32)).
+
+Finally, let us consider what would happen is Rothbard's schema could
+actually be applied. It would mean that almost every modern industry
+would be faced with law suits over pollution. This would mean that the
+costs of product would soar, assuming production continued at all. It is
+likely that faced with demands that industry stop polluting, most firms
+would simply go out of business (either due to the costs involved in
+damages or simply because no suitable non-polluting replacement
+technology exists) As Rothbard here considers **all** forms of pollution
+as an affront to property rights, this also applies to transport. In
+other words, "pure" capitalism would necessitate the end of industrial
+society. While such a prospect may be welcomed by some deep ecologists
+and primitivists, few others would support such a solution to the
+problems of pollution.
+
+Within a decade of his zero-emissions argument, however, Rothbard had
+changed his position and presented a right-"libertarian" argument which
+essentially allowed the polluters to continue business as usual, arguing
+for a system which, he admitted, would make it nearly impossible for
+individuals to sue over pollution damage. As usual, given a choice
+between individual freedom and capitalism Rothbard choose the latter. As
+such, as Rothbard himself proves beyond reasonable doubt, the extension
+of private property rights will be unable to protect the environment. We
+discuss this in the [next section](secE4.html#sece41).
+
+E.4.1 Will laissez-faire capitalism actually end pollution?
+-----------------------------------------------------------
+
+No, it will not. In order to show why, we need only quote Murray
+Rothbard's own arguments. It is worth going through his arguments to see
+exactly why "pure" capitalism simply cannot solve the ecological crisis.
+
+As noted in the [last section](secE4.html), Rothbard initially presented
+an argument that free market capitalism would have a zero-emissions
+policy. Within a decade, he had substantially changed his tune in an
+article for the right-"libertarian" think-tank the **Cato Institute**.
+Perhaps this change of heart is understandable once you realise that
+most free market capitalist propagandists are simply priests of a
+religion convenient to the interests of the people who own the
+marketplace. Rothbard founded the think-tank which published this
+article along with industrialist Charles Koch in 1977. Koch companies
+are involved in the petroleum, chemicals, energy, minerals, fertilisers
+industries as well as many others. To advocate a zero-pollution policy
+would hardly be in the Institute's enlightened self-interest as its
+backers would soon be out of business (along with industrial capitalism
+as a whole).
+
+Rothbard's defence of the right to pollute is as ingenious as it is
+contradictory to his original position. As will be discussed in [section
+F.4](secF4.html), Rothbard subscribes to a *"homesteading"* theory of
+property and he utilises this not only to steal the actual physical
+planet (the land) from this and future generations but also our (and
+their) right to a clean environment. He points to *"more sophisticated
+and modern forms of homesteading"* which can be used to *"homestead"*
+pollution rights. If, for example, a firm is surrounded by unowned land
+then it can pollute to its hearts content. If anyone moves to the area
+then the firm only becomes liable for any excess pollution over this
+amount. Thus firms *"can be said to have **homesteaded a pollution
+easement** of a certain degree and type."* He points to an *"exemplary"*
+court case which rejected the argument of someone who moved to an
+industrial area and then sued to end pollution. As the plaintiff had
+voluntarily moved to the area, she had no cause for complaint. In other
+words, polluters can simply continue to pollute under free market
+capitalism. This is particularly the case as clean air acts would not
+exist in libertarian legal theory, such an act being *"illegitimate and
+itself invasive and a criminal interference with the property rights of
+noncriminals."* [*"Law, Property Rights, and Air Pollution,"* pp. 55-99,
+**Cato Journal**, Vol. 2, No. 1, p. 77, p. 79 and p. 89]
+
+In the [last section](secE4.html), we showed how Rothbard had earlier
+argued that the solution to pollution was to privatise everything. Given
+that rivers, lakes and seas are currently **unowned** this implies that
+the current levels of pollution would be the initial "homesteaded" level
+and so privatisation will not, in fact, reduce pollution at all. At
+best, it may stop pollution getting worse but even this runs into the
+problem that pollution usually increases slowly over time and would be
+hard to notice and much harder to prove which incremental change
+produced the actual quantitative change.
+
+Which leads to the next, obvious, problem. According to Rothbard you can
+sue provided that *"the polluter has not previously established a
+homestead easement,"* *"prove strict causality from the actions of the
+defendant. . . beyond a reasonable doubt"* and identify *"**those who
+actually** commit the deed"* (i.e. the employees involved, **not** the
+company). [**Op. Cit.**, p. 87] Of course, how do you know and prove
+that a specific polluter is responsible for a specific environmental or
+physical harm? It would be near impossible to identify which company
+contributed which particles to the smog which caused pollution related
+illnesses. Polluters, needless to say, have the right to buy-off a suit
+which would be a handy tool for wealthy corporations in an unequal
+society to continue polluting as economic necessity may induce people to
+accept payment in return for tolerating it.
+
+Turning to the pollution caused by actual products, such as cars,
+Rothbard argues that *"libertarian [sic!] principle"* requires a return
+to **privity,** a situation where the manufacturers of a product are not
+responsible for any negative side-effects when it is used. In terms of
+transport pollution, the *"guilty polluter should be each individual car
+owner and not the automobile manufacturer, who is not responsible for
+the actual tort and the actual emission."* This is because the
+manufacturer does not know how the car will be used (Rothbard gives an
+example that it may not be driven but was bought *"mainly for aesthetic
+contemplation by the car owner"*!). He admits that *"the situation for
+plaintiffs against auto emissions might seem hopeless under libertarian
+law."* Rest assured, though, as *"the roads would be privately owned"*
+then the owner of the road could be sued for the emissions going *"into
+the lungs or airspace of other citizens"* and so *"would be liable for
+pollution damage."* This would be *"much more feasible than suing each
+individual car owner for the minute amount of pollutants he might be
+responsible for."* [**Op. Cit.**, p. 90 and p. 91]
+
+The problems with this argument should be obvious. Firstly, roads are
+currently "unowned" under the right-"libertarian" perspective (they are
+owned by the state which has no right to own anything). This means, as
+Rothbard has already suggested, any new road owners would have already
+created a "homesteading" right to pollute (after all, who would buy a
+road if they expected to be sued by so doing?). Secondly, it would be
+extremely difficult to say that specific emissions from a specific road
+caused the problems and Rothbard stresses that there must be *"proof
+beyond reasonable doubt."* Road-owners as well as capitalist firms which
+pollute will, like the tobacco industry, be heartened to read that
+*"statistical correlation . . . cannot establish causation, certainly
+not for a rigorous legal proof of guilt or harm."* After all, *"many
+smokers never get lung cancer"* and *"many lung cancer sufferers have
+never smoked."* [**Op. Cit.**, p. 92 and p. 73] So if illnesses cluster
+around, say, roads or certain industries then this cannot be considered
+as evidence of harm caused by the pollution they produce.
+
+Then there is the question of who is responsible for the damage
+inflicted. Here Rothbard runs up against the contradictions within wage
+labour. Capitalism is based on the notion that a person's liberty/labour
+can be sold/alienated to another who can then use it as they see fit.
+This means that, for the capitalist, the worker has no claim on the
+products and services that labour has produced. Strangely, according to
+Rothbard, this alienation of responsibility suddenly is rescinded when
+that sold labour commits an action which has negative consequences for
+the employer. Then it suddenly becomes nothing to do with the employer
+and the labourer becomes responsible for their labour again.
+
+Rothbard is quite clear that he considers that the owners of businesses
+are **not** responsible for their employee's action. He gives the
+example of an employer who hires an incompetent worker and suffers the
+lost of his wages as a result. However, *"there appears to be no
+legitimate reason for forcing the employer to bear the **additional**
+cost of his employee's tortious behaviour."* For a corporation *"does
+not act; only individuals act, and each must be responsible for his own
+actions and those alone."* He notes that employers are sued because they
+*"generally have more money than employees, so that it becomes more
+convenient . . . to stick the wealthier class with the liability."*
+[**Op. Cit.**, p. 76 and p. 75]
+
+This ignores the fact that externalities are imposed on others in order
+to maximise the profits of the corporation. The stockholders directly
+benefit from the "tortious behaviour" of their wage slaves. For example,
+if a manager decides to save £1,000,000 by letting toxic waste damage to
+occur to then the owners benefit by a higher return on their investment.
+To state that is the manager who must pay for any damage means that the
+owners of a corporation or business are absolved for any responsibility
+for the actions of those hired to make money for them. In other words,
+they accumulate the benefits in the form of more income but not the
+risks or costs associated with, say, imposing externalities onto others.
+That the *"wealthier class"* would be happy to see such a legal system
+should go without saying.
+
+The notion that as long as *"the tort is committed by the employee in
+the course of furthering, even only in part, his employer's business,
+then the employer is also liable"* is dismissed as *"a legal concept so
+at war with libertarianism, individualism, and capitalism, and suited
+only to a precapitalist society."* [**Op. Cit.**, p. 74 and p. 75] If
+this principle is against "individualism" then it is simply because
+capitalism violates individualism. What Rothbard fails to appreciate is
+that the whole basis of capitalism is that it is based on the worker
+selling his time/liberty to the boss. As Mark Leier puts it in his
+excellent biography of Bakunin:
+
+> *"The primary element of capitalism is wage labour It is this that
+> makes capitalism what it is . . . The employer owns and controls the
+> coffee shop or factory where production takes place and determines who
+> will be hired and fired and how things will be produced; that's what
+> it means to be a 'boss.' Workers produce goods or services for their
+> employer. Everything they produce on the job belongs to the
+> capitalist: workers have no more right to the coffee or cars they
+> produce than someone off the street. Their employer, protected by law
+> and by the apparatus of the state, owns all they produce. The employer
+> then sells the goods that have been produced and gives the workers a
+> portion of the value they have created. Capitalists and workers fight
+> over the precise amounts of this portion, but the capitalist system is
+> based on the notion that the capitalist owns everything that is
+> produced and controls how everything is produced."* [**Bakunin: The
+> Creative Passion**, p. 26]
+
+This is clearly the case when a worker acts in a way which increases
+profits without externalities. The most obvious case is when workers'
+produce more goods than they receive back in wages (i.e. the
+exploitation at the heart of capitalism -- see [section
+C.2](secC2.html)). Why should that change when the action has an
+externality? While it may benefit the boss to argue that he should gain
+the profits of the worker's actions but not the costs it hardly makes
+much logical sense. The labour sold becomes the property of the buyer
+who is then entitled to appropriate the produce of that labour. There is
+no reason for this to suddenly change when the product is a negative
+rather than a positive. It suggests that the worker has sold both her
+labour and its product to the employer unless it happens to put her
+employer in court, then it suddenly becomes her's again!
+
+And we must note that it is Rothbard's arguments own arguments which are
+*"suited only to a precapitalist society."* As David Ellerman notes, the
+slave was considered a piece of property under the law **unless** he or
+she committed a crime. Once that had occurred, the slave became an
+autonomous individual in the eyes of the law and, as a result, could be
+prosecuted as an individual rather than his owner. This exposed a
+fundamental inconsistency *"in a legal system that treats the same
+individual as a thing in normal work and legally as a person when
+committing a crime."* Much the same applies to wage labour as well. When
+an employee commits a negligent tort then *"the tortious servant emerges
+from the cocoon of non-responsibility metamorphosed into a responsible
+human agent."* In other words, *"the employee is said to have stepped
+outside the employee's role."* [**Property and Contract in Economics**,
+p. 125, p. 128 and p. 133] Rothbard's argument is essentially the same
+as that of the slave-owner, with the boss enjoying the positive fruits
+of their wage slaves activities but not being responsible for any
+negative results.
+
+So, to summarise, we have a system which will allow pollution to
+continue as this right has been "homesteaded" while, at the same, making
+it near impossible to sue individual firms for their contribution to the
+destruction of the earth. Moreover, it rewards the owners of companies
+for any externalities inflicted while absolving them of any
+responsibility for the actions which enriched them. And Rothbard asserts
+that *"private ownership"* can solve *"many 'externality' problems"*!
+The key problem is, of course, that for Rothbard the *"overriding factor
+in air pollution law, as in other parts of the law, should be
+libertarian and property rights principles"* rather than, say, stopping
+the destruction of our planet or even defending the right of
+individual's not to die of pollution related diseases. [**Op. Cit.**, p.
+91 and p. 99] Rothbard shows that for the defender of capitalism, given
+a choice between property and planet/people the former will always win.
+
+To conclude, Rothbard provides more than enough evidence to disprove his
+own arguments. This is not a unique occurrence. As discussed in the
+[next section](secE4.html#sece42) he does the same as regards owning
+water and air resources.
+
+E.4.2 Can wilderness survive under laissez-faire capitalism?
+------------------------------------------------------------
+
+No. This conclusion comes naturally from the laissez-faire capitalist
+defence of private property as expounded by Murray Rothbard. Moreover,
+ironically, he also destroys his own arguments for ending pollution by
+privatising water and air.
+
+For Rothbard, labour is the key to turning unowned natural resources
+into private property. As he put it, *"before the homesteader, no one
+really used and controlled -- and hence owned -- the land. The pioneer,
+or homesteader, is the man who first brings the valueless unused natural
+objects into production and use."* [**The Ethics of Liberty**, p. 49]
+
+Starting with the question of wilderness (a topic close to many
+eco-anarchists' and other ecologists' hearts) we run into the usual
+problems and self-contradictions which befalls right-"libertarian"
+ideology. Rothbard states clearly that *"libertarian theory must
+invalidate [any] claim to ownership"* of land that has *"never been
+transformed from its natural state"* (he presents an example of an owner
+who has left a piece of his *"legally owned"* land untouched). If
+another person appears who **does** transform the land, it becomes
+*"justly owned by another"* and the original owner cannot stop her (and
+should the original owner *"use violence to prevent another settler from
+entering this never-used land and transforming it into use"* they also
+become a *"criminal aggressor"*). Rothbard also stresses that he is
+**not** saying that land must continually be in use to be valid
+property. [**Op. Cit.**, pp. 63-64] This is unsurprising, as that would
+justify landless workers seizing the land from landowners during a
+depression and working it themselves and we cannot have that now, can
+we?
+
+Now, where does that leave wilderness? In response to ecologists who
+oppose the destruction of the rainforest, many supporters of capitalism
+suggest that they put their money where their mouth is and **buy**
+rainforest land. In this way, it is claimed, rainforest will be
+protected (see [section B.5](secB5.html) for why such arguments are
+nonsense). As ecologists desire the rainforest **because it is
+wilderness** they are unlikely to "transform" it by human labour (its
+precisely that they want to stop). From Rothbard's arguments it is fair
+to ask whether logging companies have a right to "transform" the virgin
+wilderness owned by ecologists, after all it meets Rothbard's criteria
+(it is still wilderness). Perhaps it will be claimed that fencing off
+land "transforms" it (hardly what you imagine "mixing labour" with to
+mean, but never mind) -- but that allows large companies and rich
+individuals to hire workers to fence in vast tracks of land (and
+recreate the land monopoly by a "libertarian" route). But as discussed
+in [section F.4.1](secF4.html#secf41), fencing off land does not seem to
+imply that it becomes property in Rothbard's theory. And, of course,
+fencing in areas of rainforest disrupts the local eco-system -- animals
+cannot freely travel, for example -- which, again, is what ecologists
+desire to stop. Would Rothbard have accepted a piece of paper as
+"transforming" land? We doubt it (after all, in his example the
+wilderness owner **did** legally own it) -- and so most ecologists will
+have a hard time in pure capitalism (wilderness is just not an option).
+
+Moreover, Rothbard's "homesteading" theory actually violates his support
+for unrestricted property rights. What if a property owner **wants**
+part of her land to remain wilderness? Their desires are violated by the
+"homesteading" theory (unless, of course, fencing things off equals
+"transforming" them, which it apparently does not). How can companies
+provide wilderness holidays to people if they have no right to stop
+settlers (including large companies) "homesteading" that wilderness?
+Then there is the question of wild animals. Obviously, they can only
+become owned by either killing them or by domesticating them (the only
+possible means of "mixing your labour" with them). Does it mean that
+someone only values, say, a polar bear when they kill it or capture it
+for a zoo?
+
+At best, it could be argued that wilderness would be allowed **if** the
+land was transformed first then allowed to return to the wild. This
+flows from Rothbard's argument that there is no requirement that land
+continue to be used in order for it to continue to be a person's
+property. As he stresses, *"our libertarian [sic!] theory holds that
+land needs only be transformed **once** to pass into private
+ownership."* [**Op. Cit.**, p. 65] This means that land could be used
+and then allowed to fall into disuse for the important thing is that
+once labour is mixed with the natural resources, it remains owned in
+perpetuity. However, destroying wilderness in order to recreate it is
+simply an insane position to take as many eco-systems are extremely
+fragile and will not return to their previous state. Moreover, this
+process takes a long time during which access to the land will be
+restricted to all but those the owner consents to.
+
+And, of course, where does Rothbard's theory leave hunter-gatherer or
+nomad societies. They **use** the resources of the wilderness, but they
+do not "transform" them (in this case you cannot easily tell if virgin
+land is empty or being used). If a group of nomads find its
+traditionally used, but natural, oasis appropriated by a homesteader
+what are they to do? If they ignore the homesteaders claims he can call
+upon the police (public or private) to stop them -- and then, in true
+Rothbardian fashion, the homesteader can refuse to supply water to them
+unless they pay for the privilege. And if the history of the United
+States and other colonies are anything to go by, such people will become
+"criminal aggressors" and removed from the picture.
+
+As such, it is important to stress the social context of Rothbard's
+Lockean principles. As John O'Neill notes, Locke's labour theory of
+property was used not only to support enclosing common land in England
+but also as a justification for stealing the land of indigenous
+population's across the world. For example, the *"appropriation of
+America is justified by its being brought into the world of commence and
+hence cultivation . . . The Lockean account of the 'vast wilderness' of
+America as land uncultivated and unshaped by the pastoral activities of
+the indigenous population formed part of the justification of the
+appropriation of native land."* [**Markets, Deliberation and
+Environment**, p. 119] That the native population was **using** the land
+was irrelevant as Rothbard himself noted. As he put it, the Indians
+*"laid claim to vast reaches of land which they hunted but which they
+did not transform by cultivation."* [**Conceived in Liberty**, vol. 1,
+p. 187]. This meant that *"the bulk of Indian-claimed land was not
+settled and transformed by the Indians"* and so settlers were *"at least
+justified in ignoring vague, abstract claims."* The Indian hunting based
+claims were *"dubious."* [**Op. Cit.**, vol. 2, p. 54 and p. 59] The net
+outcome, of course, was that the *"vague, abstract"* Indian claims to
+hunting lands were meet with the concrete use of force to defend the
+newly appropriated (i.e. stolen) land (force which quickly reached the
+level of genocide).
+
+So unless people bestowed some form of transforming labour over the
+wilderness areas then any claims of ownership are unsubstantiated. At
+most, tribal people and nomads could claim the wild animals they killed
+and the trails that they cleared. This is because a person would *"have
+to use the land, to 'cultivate' it in some way, before he could be
+asserted to own it."* This cultivation is not limited to *"tilling the
+soil"* but also includes clearing it for a house or pasture or caring
+for some plots of timber. [**Man, Economy, and State, with Power and
+Market**, p. 170] Thus game preserves or wilderness areas could **not**
+exist in a pure capitalist society. This has deep ecological
+implications as it automatically means the replacement of wild,
+old-growth forests with, at best, managed ones. These are **not** an
+equivalent in ecological terms even if they have approximately the same
+number of trees. As James C. Scott stresses:
+
+> *"Old-growth forests, polycropping, and agriculture with
+> open-pollinated landraces **may** not be as productive, in the short
+> run, as single-species forests and fields or identical hybrids. But
+> they are demonstrably more stable, more self-sufficient, and less
+> vulnerable to epidemics and environmental stress . . . Every time we
+> replace 'natural capital' (such as wild fish stocks or old-growth
+> forests) with what might be termed 'cultivated natural capital' (such
+> as fish farms or tree plantations), we gain ease of appropriation and
+> in immediate productivity, but at the cost of more maintenance
+> expenses and less 'redundancy, resiliency, and stability' . . . Other
+> things being equal . . . the less diverse the cultivated natural
+> capital, the more vulnerable and nonsustainable it becomes. The
+> problem is that in most economic systems, the external costs (in water
+> or air pollution, for example, or the exhaustion of non-renewable
+> resources, including a reduction in biodiversity) accumulate long
+> before the activity becomes unprofitable in a narrow profit-and-loss
+> sense."* [**Seeing like a State**, p. 353]
+
+Forests which are planned as a resource are made ecologically simplistic
+in order to make them economically viable (i.e., to reduce the costs
+involved in harvesting the crop). They tend to be monocultures of one
+type of tree and conservationists note that placing all eggs in one
+basket could prompt an ecological disaster. A palm oil monoculture which
+replaces rainforest to produce biofuel, for example, would be unable to
+support the rich diversity of wildlife as well as leaving the
+environment vulnerable to catastrophic disease. Meanwhile, local people
+dependent on the crop could be left high and dry if it fell out of
+favour on the global market.
+
+To summarise, capitalism simply cannot protect wilderness and, by
+extension, the planet's ecology. Moreover, it is no friend to the
+indigenous population who use but do not "transform" their local
+environment.
+
+It should also be noted that underlying assumption behind this and
+similar arguments is that other cultures and ways of life, like many
+eco-systems and species, are simply not worth keeping. While lip-service
+is made to the notion of cultural diversity, the overwhelming emphasis
+is on universalising the capitalist model of economic activity, property
+rights and way of life (and a corresponding ignoring of the role state
+power played in creating these as well as destroying traditional customs
+and ways of life). Such a model for development means the replacement of
+indigenous customs and communitarian-based ethics by a commercial system
+based on an abstract individualism with a very narrow vision of what
+constitutes self-interest. These new converts to the international order
+would be forced, like all others, to survive on the capitalist market.
+With vast differences in wealth and power such markets have, it is
+likely that the net result would simply be that new markets would be
+created out of the natural 'capital' in the developing world and these
+would soon be exploited.
+
+As an aside, we must note that Rothbard fails to realise -- and this
+comes from his worship of capitalism and his "Austrian economics" -- is
+that people value many things which do not, indeed cannot, appear on the
+market. He claims that wilderness is *"valueless unused natural
+objects"* for it people valued them, they would use -- i.e. transform --
+them. But unused things may be of **considerable** value to people,
+wilderness being a classic example. And if something **cannot** be
+transformed into private property, does that mean people do not value
+it? For example, people value community, stress-free working
+environments, meaningful work -- if the market cannot provide these,
+does that mean they do not value them? Of course not (see Juliet Schor's
+**The Overworked American** on how working people's desire for shorter
+working hours was not transformed into options on the market).
+
+So it should be remembered that in valuing impacts on nature, there is a
+difference between use values (i.e. income from commodities produced by
+a resource) and non-use values (i.e., the value placed on the existence
+of a species or wilderness). The former are usually well-defined, but
+often small while the latter are often large, but poorly defined. For
+example, the Exxon Valdez oil spill in Alaska resulted in losses to
+people who worked and lived in the affected area of an estimated \$300
+million. However, the existence value of the area to the American
+population was \$9 billion. In other words, the amount that American
+households were reportedly willing to pay to prevent a similar oil spill
+in a similar area was 30 times larger. Yet this non-use value cannot be
+taken into account in Rothbard's schema as nature is not considered a
+value in itself but merely a resource to be exploited.
+
+Which brings us to another key problem with Rothbard's argument: he
+simply cannot justify the appropriation of water and atmosphere by means
+of his own principles. To show why, we need simply consult Rothbard's
+own writings on the subject.
+
+Rothbard has a serious problem here. As noted above, he subscribed to a
+Lockean vision of property. In this schema, property is generated by
+mixing labour with unowned resources. Yet you simply cannot mix your
+labour with water or air. In other words, he is left with a system of
+property rights which cannot, by their very nature, be extended to
+common goods like water and air. Let us quote Rothbard on this subject:
+
+> *"it is true that the high seas, in relation to shipping lanes, are
+> probably inappropriable, because of their abundance in relation to
+> shipping routes. This is **not** true, however, of **fishing** rights.
+> Fish are definitely not available in unlimited quantities, relatively
+> to human wants. Therefore, they are appropriable . . . In a free
+> [sic!] society, fishing rights to the appropriate areas of oceans
+> would be owned by the first users of these areas and then useable or
+> saleable to other individuals. Ownership of areas of water that
+> contain fish is directly analogous to private ownership of areas of
+> land or forests that contain animals to be hunted . . . water can
+> definitely be marked off in terms of latitudes and longitudes. These
+> boundaries, then would circumscribe the area owned by individuals, in
+> the full knowledge that fish and water can move from one person's
+> property to another."* [**Man, Economy, and State, with Power and
+> Market**, pp. 173-4]
+
+In a footnote to this surreal passage, he added that it *"is rapidly
+becoming evident that air lanes for planes are becoming scare and, in a
+free [sic!] society, would be owned by first users."*
+
+So, travellers crossing the sea gain no property rights by doing so but
+those travelling through the air do. Why this should be the case is hard
+to explain as, logically, both acts "transform" the commons by "labour"
+in exactly the same manner (i.e. not at all). Why **should** fishing
+result in absolute property rights in oceans, seas, lakes and rivers?
+Does picking a fruit give you property rights in the tree or the forest
+it stands in? Surely, at best, it gives you a property right in the fish
+and fruit? And what happens if area of water is so polluted that there
+are no fish? Does that mean that this body of water is impossible to
+appropriate? How does it become owned? Surely it cannot and so it will
+always remain a dumping ground for waste?
+
+Looking at the issue of land and water, Rothbard asserts that owning
+water is *"directly analogous"* to owning land for hunting purposes.
+Does this mean that the landowner who hunts cannot bar travellers from
+their land? Or does it mean that the sea-owner can bar travellers from
+crossing their property? Ironically, as shown above, Rothbard later
+explicitly rejected the claims of Native Americans to own their land
+because they hunted animals on it. The same, logically, applies to his
+arguments that bodies of water can be appropriated.
+
+Given that Rothbard is keen to stress that labour is required to
+transform land into private property, his arguments are
+self-contradictory and highly illogical. It should also be stressed that
+here Rothbard nullifies his criteria for appropriating private property.
+Originally, only labour being used on the resource can turn it into
+private property. Now, however, the only criteria is that it is scare.
+This is understandable, as fishing and travelling through the air cannot
+remotely be considered "mixing labour" with the resource.
+
+It is easy to see why Rothbard produced such self-contradictory
+arguments over the years as each one was aimed at justifying and
+extending the reach of capitalist property rights. Thus the Indians'
+hunting claims could be rejected as these allowed the privatising of the
+land while the logically identical fishing claims could be used to allow
+the privatisation of bodies of water. Logic need not bother the
+ideologue when he seeking ways to justify the supremacy of the ideal
+(capitalist private property, in this case).
+
+Finally, since Rothbard (falsely) claims to be an anarchist, it is
+useful to compare his arguments to that of Proudhon's. Significantly, in
+the founding work of anarchism Proudhon presented an analysis of this
+issue directly opposite to Rothbard's. Let us quote the founding father
+of anarchism on this important matter:
+
+> *"A man who should be prohibited from walking in the highways, from
+> resting in the fields, from taking shelter in caves, from lighting
+> fires, from picking berries, from gathering herbs and boiling them in
+> a bit of baked clay, -- such a man could not live. Consequently the
+> earth -- like water, air, and light -- is a primary object of
+> necessity which each has a right to use freely, without infringing
+> another's right. Why, then, is the earth appropriated? . . . [An
+> economist] assures us that it is because it is not INFINITE. The land
+> is limited in amount. Then . . . it ought to be appropriated. It would
+> seem, on the contrary, that he ought to say, Then it ought not to be
+> appropriated. Because, no matter how large a quantity of air or light
+> any one appropriates, no one is damaged thereby; there always remains
+> enough for all. With the soil, it is very different. Lay hold who
+> will, or who can, of the sun's rays, the passing breeze, or the sea's
+> billows; he has my consent, and my pardon for his bad intentions. But
+> let any living man dare to change his right of territorial possession
+> into the right of property, and I will declare war upon him, and wage
+> it to the death!"* [**What is Property?**, p. 106]
+
+Unlike Locke who at least paid lip-service to the notion that the
+commons can be enclosed when there is enough and as good left for others
+to use, Rothbard turn this onto its head. In his "Lockean" schema, a
+resource can be appropriated only when it is scare (i.e. there is
+**not** enough and as good left for others). Perhaps it comes as no
+surprise that Rothbard rejects the ***"Lockean proviso"*** (and
+essentially argues that Locke was not a consistent Lockean as his work
+is *"riddled with contradictions and inconsistencies"* and have been
+*"expanded and purified"* by his followers. [**The Ethics of Liberty**,
+p. 22]).
+
+Rothbard is aware of what is involved in accepting the Lockean Proviso
+-- namely the existence of private property (*"Locke's proviso may lead
+to the outlawry of **all** private property of land, since one can
+always say that the reduction of available land leaves everyone else . .
+. worse off"* [**Op. Cit.**, p. 240]). The Proviso **does** imply the
+end of capitalist property rights which is why Rothbard, and other
+right-"libertarians", reject it while failing to note that Locke himself
+simply assumed that the invention of money transcended this limitation.
+[C.B. MacPherson, **The Political Theory of Individualism**, pp. 203-20]
+As we discussed in [section B.3.4](secB3.html#secb34), it should be
+stressed that this limitation is considered to be transcended purely in
+terms of material wealth rather than its impact on individual liberty or
+dignity which, surely, should be of prime concern for someone claiming
+to favour "liberty." What Rothbard failed to understand that Locke's
+Proviso of apparently limiting appropriation of land as long as there
+was enough and as good for others was a ploy to make the destruction of
+the commons palatable to those with a conscience or some awareness of
+what liberty involves. This can be seen from the fact this limitation
+could be transcended at all (in the same way, Locke justified the
+exploitation of labour by arguing that it was the property of the worker
+who sold it to their boss -- see [section B.4.2](secB4.html#secb42) for
+details). By getting rid of the Proviso, Rothbard simply exposes this
+theft of our common birthright in all its unjust glory.
+
+It is simple. Either you reject the Proviso and embrace capitalist
+property rights (and so allow one class of people to be dispossessed and
+another empowered at their expense) or you take it seriously and reject
+private property in favour of possession and liberty. Anarchists,
+obviously, favour the latter option. Thus Proudhon:
+
+> "Water, air, and light are **common** things, not because they are
+> **inexhaustible**, but because they are **indispensable**; and so
+> indispensable that for that very reason Nature has created them in
+> quantities almost infinite, in order that their plentifulness might
+> prevent their appropriation. Likewise the land is indispensable to our
+> existence, -- consequently a common thing, consequently unsusceptible
+> of appropriation; but land is much scarcer than the other elements,
+> therefore its use must be regulated, not for the profit of a few, but
+> in the interest and for the security of all.
+> "In a word, equality of rights is proved by equality of needs. Now,
+> equality of rights, in the case of a commodity which is limited in
+> amount, can be realised only by equality of possession . . . From
+> whatever point we view this question of property -- provided we go to
+> the bottom of it -- we reach equality." [**Op. Cit.**, p. 107]
+
+To conclude, it would be unfair to simply quote Keynes evaluation of one
+work by von Hayek, another leading "Austrian Economist," namely that it
+*"is an extraordinary example of how, starting with a mistake, a
+remorseless logician can end up in bedlam."* This is only partly true as
+Rothbard's account of property rights in water and air is hardly logical
+(although it is remorseless once we consider its impact when applied in
+an unequal and hierarchical society). That this nonsense is in direct
+opposition to the anarchist perspective on this issue should not come as
+a surprise any more than its incoherence. As we discuss in [section
+F](secFcon.html), Rothbard's claims to being an "anarchist" are as
+baseless as his claim that capitalism will protect the environment.

@@ -1,0 +1,256 @@
+Introduction
+============
+
+Here is a list of all the new additions to the FAQ. An list of older
+changes can found [here](oldnew.html).
+
+The version number of the FAQ changes as follows. A major change results
+in then the version number is increased by one (from version 10.2 to
+version 11, for example). If a minor change is being made then the
+current version is increased by 0.1 (for example, from version 10.2 to
+10.3).
+
+As far as new anarchist and libertarian links are concerned, we will add
+them when we get enough to make an update worthwhile. These updates have
+no effect on the FAQ version number as we don't want to inflate it
+higher than the content deserves.
+
+We hope that this makes it clear to visitors!
+
+What's New in the FAQ?
+======================
+
+Version
+
+Date
+
+What's New
+
+14.0
+
+08-MAR-2010
+
+[Section J.4](secJ4.html) \
+Revision of section on *"What trends in society aid anarchist
+activity?"* Various sub-sections have been merged and renamed, along
+with significant changes to content.
+
+[Section J.5](secJ1.html) \
+Substantial revision of section on *"What alternative social
+organisations do anarchists create?"*. Lots of new material on anarchist
+community organising and industrial struggles as well as on
+co-operatives. There is some re-arranging of the material on mutual
+banking between sections, but no significant changes.
+
+[Section J.6](secJ2.html) \
+Revision of section on *"What methods of child rearing do anarchists
+advocate?"*. Various sub-sections have been merged and renamed, along
+with significant changes to content.
+
+[Section J.7](secJ7.html) \
+Revision of section on *"What do anarchists mean by social
+revolution?"*. One sub-section has been renamed, but no significant
+changes in content have been made.
+
+[Section J.2.8](secJ2.html) \
+Slight change to the sub-section on *"J.2.8 Will abstentionism lead to
+the right winning elections?"* to include a quote from the late, great,
+Howard Zinn.
+
+This revision was made as part of getting the second volume of the FAQ
+ready for publication. That is now complete.
+
+13.4
+
+21-JAN-2010
+
+[Section J](secJint.html) \
+Revision of introduction to section J on *"What do Anarchists do?"*
+
+[Section J.1](secJ1.html) \
+Revision of section on *"J.1 Are anarchists involved in social
+struggles?"*.
+
+[Section J.2](secJ2.html) \
+Revision of section on *"What is direct action?"*.
+
+[Section J.3](secJ3.html) \
+Revision of section on *"J.3 What kinds of organisation do anarchists
+build?"*.
+
+This revision was made as part of getting the second volume of the FAQ
+ready for publication.
+
+13.3
+
+30-SEP-2009
+
+[Section I.6](secI6.html) \
+Revision of section on *"What about the "Tragedy of the Commons"?"*
+
+[section I.7](secI7.html) \
+Revision of section on *"Won't Libertarian Socialism destroy
+individuality?"*.
+
+[section I.8](secI8.html) \
+Revision of section on *"Does revolutionary Spain show that libertarian
+socialism can work in practice?"*.
+
+This revision was made as part of getting the second volume of the FAQ
+ready for publication.
+
+13.2
+
+18-AUG-2009
+
+[Section I.4](secI4.html) \
+Signification revision of section on *"How would an anarchist society
+function?"*
+
+[section I.5](secI5.html) \
+Signification revision of section on *"What would the social structure
+of anarchy look like?"*. Some sub-sections have been merged (the old
+I.5.10 and I.5.11) and some have been substantially changed (the old
+I.5.13 and I.5.14 have been merged into the new I.5.11). Section I.5.3
+has been renamed and its previous material included in I.5.2. The new
+[section I.5.3](secI5.html#seci533) discusses the means by which
+delegates remain under control from below.
+
+This revision was made as part of getting the second volume of the FAQ
+ready for publication.
+
+13.1
+
+18-JUN-2009
+
+[Section I](secIcon.html) \
+Signification revision of the [introduction](secIint.html) and first
+three sub-sections ( [I.1](secI1.html), [I.2](secI2.html) and
+[I.3](secI3.html)) of section I on **What would an anarchist society
+look like?**
+
+[Section I.3.3](secI3.html#seci33) \
+Complete revision of section I.3.3, which is now on **What is
+socialisation?**.
+
+[Section I.1.5](secI1.html#seci15) \
+New section on **Does capitalism efficiently allocate resources?**,
+discussing why attempts to portray socialism as *"impossible"* downplay
+the allocative inefficiencies of the current system.
+
+[Appendix 3.1](append31.html) \
+Slight change to the appendix *Reply to errors and distortions in David
+McNally's pamphlet "Socialism from Below"*. This is to include [an
+introduction](append31.html) which notes that McNally has now distanced
+himself from this pamphlet as well as the addition of more quotes on
+party dictatorship by Trotsky to the section 15 ([Did Trotsky keep alive
+Leninism's *"democratic essence"*?](append31.html#app15)).
+
+[An Anarchist FAQ blog](http://anarchism.pageabode.com/blogs/afaq) \
+An Anarchist FAQ now has an official blog. This is used to post news as
+well as extra material which cannot be included in the main body of the
+FAQ.
+
+This revision was made as part of getting the second volume of the FAQ
+ready for publication.
+
+13.0
+
+11-NOV-2008
+
+[An Anachist FAQ: Volume 1](book.html) \
+**An Anarchist FAQ**, at long last, has now been published by AK Press.
+Volume 1 (introductions, sections A to F, plus the appendix on the
+symbols of Anarchy) is now available (ISBN: 978-1902593906)
+
+[Section H](secHcon.html) \
+Significant revision of the section on the anarchist critique of
+Marxism. Removing of section H.2.15 as this is covered elsewhere in
+section H as well as section H.2.16 (on the Spanish Revolution) as this
+is covered in [section I.8.11](secI8.html#seci811).
+
+[Section H.6](secH6.html) \
+New section on the Russian Revolution, including an expansion of what
+were sections H.3.15 and H.3.16 plus a new subsection on labour protest
+under Lenin ([Section H.6.3](secH6.html#sech63)).
+
+This revision was made as part of getting the second volume of the FAQ
+ready for publication.
+
+12.2
+
+08-FEB-2008
+
+[The Symbols of Anarchy](append2.html) \
+Significant revision and re-organisation of the appendix on the appendix
+on the Symbols of Anarchy. Adding some new information, clarifying the
+roots of the black and red-and-black flags in working class and
+generally improving it.
+
+This revision was made as part of getting the first volume of the FAQ
+ready for publication and so is really part of release 12.0
+
+12.1
+
+27-OCT-2007
+
+[Section G](secGcon.html) \
+Significant revision, re-organisation and expansion of the section on
+individualist anarchism. Expands in more depth why it is as
+anti-capitalist as other kinds of anarchism. Special thanks to
+individualist anarchist Shawn Wilbur for his comments and feedback on
+this revision.
+
+The following revisions were made as part of getting the first volume of
+the FAQ ready for publication and so are really part of release 12.0
+
+[Section A.3.9](secA3.html#seca39) \
+Revision of the section on primitivism to clarify a few issues.
+
+[Section F.2.2](secF2.html#secf22) \
+The addition of a few quotes by leading "anarcho"-capitalist Walter
+Block on slave contracts. Which, in itself, shows how far that ideology
+is from genuine anarchism.
+
+This is part of the process of getting the FAQ ready for being published
+by AK Press. Volume one (sections A to F, plus the introductions and
+appendix on the symbols of anarchy) is nearly ready for publication. We
+will announce the exact date later this year.
+
+12.0
+
+19-JUL-2007
+
+[Section C.7](secC7.html) \
+Revision of section C.7 on what causes the capitalist business cycle.
+
+[Section C.8](secC8.html) \
+Revision of section C.8 on why state control of credit does not cause
+slumps and the limitations of Keynesianism.
+
+[Section C.9](secC9.html) \
+Revision of section C.9 on what causes unemployment (and it is not high
+wages or unions) and why the NAIRU is class warfare by the rich.
+
+[Section F](secFcon.html) \
+Revision of section F. Why "anarcho"-capitalism is not a form of
+anarchism.
+
+[Section F.3.2](secF3.html#secf32) \
+New section on why there cannot be harmony of interests in an unequal
+society.
+
+[Introduction](intro.html) \
+Slight changes to the original introduction.
+
+[Tenth Anniversary of An Anarchist FAQ!](10years.html) \
+Slight changes to the 10th Anniversay introduction.
+
+[Bibliography](biblio.html) \
+Slight reorganisation of the bibliography to include a new section on
+works about anarchism and anarchists but written by non-libertarians.
+
+This is part of the process of getting the FAQ ready for being published
+by AK Press. Volume one (sections A to F, plus the introductions and
+appendix on the symbols of anarchy) is now ready for publication. We
+will announce the exact date soon.

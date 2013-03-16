@@ -1,0 +1,2834 @@
+I.3 What could the economic structure of anarchy look like?
+===========================================================
+
+Here we will examine possible frameworks of a libertarian socialist
+economy. We stress that it is **frameworks** rather than framework
+because it is likely that any anarchist society will see a diverse
+number of economic systems co-existing in different areas, depending on
+what people in those areas want. *"In each locality,"* argued Diego Abad
+de Santillan, *"the degree of communism, collectivism or mutualism will
+depend on the conditions prevailing. Why dictate rules? We who make
+freedom our banner, cannot deny it in economy. Therefore there must be
+free experimentation, free show of initiative and suggestions, as well
+as the freedom of organisation."* As such, anarchism *"can be realised
+in a multiformity of economic arrangements, individual and collective.
+Proudhon advocated mutualism; Bakunin, collectivism; Kropotkin,
+communism. Malatesta has conceived the possibility of mixed agreements,
+especially during the first period."* [**After the Revolution**, p. 97
+and p. 96]
+
+Here, we will highlight and discuss the four major schools of anarchist
+economic thought: Individualist anarchism, mutualism, collectivism and
+communism. It is up to the reader to evaluate which school best
+maximises individual liberty and the good life (as individualist
+anarchist Joseph LaBadie wisely said, *"Anarchism will not dictate to
+them any explicit rules as to what they must do, but that it opens to
+them the opportunities of putting into practice their own ideas of
+enhancing their own happiness."* [**The Individualist Anarchists**, pp.
+260-1]). *"Nothing is more contrary to the real spirit of Anarchy than
+uniformity and intolerance,"* argued Kropotkin. *"Freedom of development
+implies difference of development, hence difference of ideas and
+actions."* Experience, then, is *"the best teacher, and the necessary
+experience can only be gained by entire freedom of action."* [quoted by
+Ruth Kinna, *"Fields of Vision: Kropotkin and Revolutionary Change"*,
+pp. 67-86, **SubStance**, Vol. 36, No. 2, p. 81] There may, of course,
+be other economic practices but these may not be libertarian. In
+Malatesta's words:
+
+> *"Admitted the basic principle of anarchism -- which is that no-one
+> should wish or have the opportunity to reduce others to a state of
+> subjection and oblige them to work for him -- it is clear that all,
+> and only, those ways of life which respect freedom, and recognise that
+> each individual has an equal right to the means of production and to
+> the full enjoyment of the product of his own labour, have anything in
+> common with anarchism."* [**Errico Malatesta: His Life and Ideas**, p.
+> 33]
+
+In addition, it should be kept in mind that in practice it is impossible
+to separate the economic realm from the social and political realms, as
+there are numerous interconnections between them: anarchist thinkers
+like Bakunin argued that the "political" institutions of a free society
+would be based upon workplace associations while Kropotkin placed the
+commune at the heart of his vision of a communist-anarchist economy
+**and** society. Thus the division between social and economic forms is
+not clear cut in anarchist theory -- as it should be as society is not,
+and cannot be, considered as separate from or inferior to the economy.
+An anarchist society will try to integrate the social and economic,
+embedding the latter in the former in order to stop any harmful
+externalities associated economic activity being passed onto society. As
+Karl Polanyi argued, capitalism *"means no less than the running of
+society as an adjunct to the market. Instead of the economy being being
+embedded in social relations, social relations are embedded in the
+economic system."* [**The Great Transformation**, p. 57] Given the
+negative effects of such an arrangement, little wonder that anarchism
+seeks to reverse it.
+
+Also, by discussing the economy first we are not implying that dealing
+with economic domination or exploitation is more important than dealing
+with other aspects of the total system of domination, e.g. social
+hierarchies, patriarchal values, racism, etc. We follow this order of
+exposition because of the need to present one thing at a time, but it
+would have been equally easy to start with the social and political
+structure of anarchy. However, Rudolf Rocker is correct to argue that an
+economic transformation in the economy is an essential aspect of a
+social revolution:
+
+> *"[A] social development in this direction [i.e. a stateless society]
+> was not possible without a fundamental revolution in existing economic
+> arrangements; for tyranny and exploitation grow on the same tree and
+> are inseparably bound together. The freedom of the individual is
+> secure only when it rests on the economic and social well-being of all
+> . . . The personality of the individual stands the higher, the more
+> deeply it is rooted in the community, from which arise the richest
+> sources of its moral strength. Only in freedom does there arise in man
+> the consciousness of responsibility for his acts and regard for the
+> rights of others; only in freedom can there unfold in its full
+> strength that most precious of social instinct: man's sympathy for the
+> joys and sorrows of his fellow men and the resultant impulse toward
+> mutual aid and in which are rooted all social ethics, all ideas of
+> social justice."* [**Nationalism and Culture**, pp. 147-8]
+
+The aim of any anarchist society would be to maximise freedom and so
+creative work:
+
+> *"If it is correct, as I believe it is, that a fundamental element of
+> human nature is the need for creative work or creative inquiry, for
+> free creation without the arbitrary limiting effects of coercive
+> institutions, then of course it will follow that a decent society
+> should maximise the possibilities for this fundamental human
+> characteristic to be realised. Now, a federated, decentralised system
+> of free associations incorporating economic as well as social
+> institutions would be what I refer to as anarcho-syndicalism. And it
+> seems to me that it is the appropriate form of social organisation for
+> an advanced technological society, in which human beings do not have
+> to be forced into the position of tools, of cogs in a machine."* [Noam
+> Chomsky, **Manufacturing Consent: Noam Chomsky and the Media**, p. 31]
+
+So, as one might expect, since the essence of anarchism is opposition to
+hierarchical authority, anarchists totally oppose the way the current
+economy is organised. This is because authority in the economic sphere
+is embodied in centralised, hierarchical workplaces that give an elite
+class (capitalists) dictatorial control over privately owned means of
+production, turning the majority of the population into order takers
+(i.e. wage slaves). In contrast, the libertarian-socialist economy will
+be based on decentralised, egalitarian workplaces in which workers
+democratically self-manage their productive activity in **socially**
+owned means of production.
+
+The key principles of libertarian socialism are decentralisation,
+self-management, socialisation, voluntary association, and free
+federation. These principles determine the form and function of both the
+economic and political systems. In this section we will consider just
+the economic system. Bakunin gives an excellent overview of such an
+economy when he wrote that in a free society the *"land belongs to only
+those who cultivate it with their own hands; to the agricultural
+communes. The capital and all the tools of production belong to the
+workers; to the workers' associations."* These associations are often
+called *"co-operatives"* and *"syndicates"* (see [section
+I.3.1](secI3.html#seci31)). This feeds into an essential economic
+concept for libertarian socialists is ***"workers' self-management"***
+This refers to those who do the work managing it, where the land and
+workplaces are *"owned and operated by the workers themselves: by their
+freely organised federations of industrial and agricultural workers"*
+(see [section I.3.2](secI3.html#seci32)). For most anarchists,
+*"socialisation"* is the necessary foundation for a free society, as
+only this ensures universal self-management by allowing free access to
+the means of production (see [section I.3.3](secI3.html#seci33)). Thus
+an anarchist economy would be based on *"the land, tools of production
+and all other capital"* being *"converted into collective property of
+the whole of society and utilised only by the workers, i.e., by their
+agricultural and industrial associations."* [**Bakunin on Anarchy**, p.
+247, p. 400 and p. 427] As Berkman summarised:
+
+> *"The revolution abolishes private ownership of the means of
+> production, distribution, and with it goes capitalistic business.
+> Personal possession remains only in the things you use. Thus, your
+> watch is your own, but the watch factory belongs to the people. Land,
+> machinery, and all other public utilities will be collective property,
+> neither to be bought nor sold. Actual use will be considered the only
+> title [in communist anarchism] -- not to ownership but to possession.
+> The organisation of the coal miners, for example, will be in charge of
+> the coal mines, not as owners but as the operating agency. Similarly
+> will the railroad brotherhoods run the railroads, and so on.
+> Collective possession, co-operatively managed in the interests of the
+> community, will take the place of personal ownership privately
+> conducted for profit."* [**What is Anarchism?**, p. 217]
+
+So the solution proposed by social anarchists is **society-wide**
+ownership of the means of production and distribution, with each
+workplace run co-operatively by its members. However, no workplace
+exists in isolation and would seek to associate with others to ensure it
+gets the raw materials it needs for production and to see what it
+produces goes to those who need it. These links would be based on the
+anarchist principles of free agreement and voluntary federation (see
+[section I.3.4](secI3.html#seci34)). For social anarchists, this would
+be supplemented by confederal bodies or co-ordinating councils at two
+levels: first, between all firms in a particular industry; and second,
+between all industries (including agriculture) throughout the society
+([section I.3.5](secI3.html#seci35)). Such federations may, depending on
+the type of anarchism in question, also include people's financial
+institutions.
+
+While, for some anarcho-syndicalists, this structure is seen as enough,
+most communist-anarchists consider that the economic federation should
+be held accountable to society as a whole (i.e. the economy must be
+communalised). This is because not everyone in society is a worker (e.g.
+the young, the old and infirm) nor will everyone belong to a syndicate
+(e.g. the self-employed), but as they also have to live with the results
+of economic decisions, they should have a say in what happens. In other
+words, in communist-anarchism, workers make the day-to-day decisions
+concerning their work and workplaces, while the social criteria behind
+these decisions are made by everyone. As anarchist society is based on
+free access and a resource is controlled by those who use it. It is a
+decentralised, participatory, self-managed, organisation whose members
+can secede at any time and in which all power and initiative arises from
+and flows back to the grassroots level. Such a society combines free
+association, federalism and self-management with communalised ownership.
+Free labour is its basis and socialisation exists to complement and
+protect it. Such a society-wide economic federation of this sort is
+**not** the same thing as a centralised state agency, as in the concept
+of nationalised or state-owned industry.
+
+The exact dynamics of a socialised self-managed system varies between
+anarchist schools. Most obviously, as discussed in [section
+I.3.6](secI3.html#seci36), while individualists view competition between
+workplaces as unproblematic and mutualists see its negative aspects but
+consider it necessary, collectivists and communists oppose it and argue
+that a free society can do without it. Moreover, socialisation should
+not be confused with forced collectivisation -- individuals and groups
+will be free **not** to join a syndicate and to experiment in different
+forms of economy (see [section I.3.7](secI3.html#seci37)). Lastly,
+anarchists argue that such a system would be applicable to all
+economies, regardless of size and development, and aim for an economy
+based on appropriately sized technology (Marxist assertions **not**
+withstanding -- see [section I.3.8](secI3.html#seci38)).
+
+Regardless of the kind of anarchy desired, anarchists all agree on the
+importance of decentralisation, free agreement and free association.
+Kropotkin's summary of what anarchy would look like gives an excellent
+feel of what sort of society anarchists desire:
+
+> *"harmony in such a society being obtained, not by submission to law,
+> or by obedience to any authority, but by free agreements concluded
+> between the various groups, territorial and professional, freely
+> constituted for the sake of production and consumption, as also for
+> the satisfaction of the infinite variety of needs and aspirations of a
+> civilised being.*
+
+> *"In a society developed on these lines . . . voluntary associations .
+> . . would represent an interwoven network, composed of an infinite
+> variety of groups and federations of all sizes and degrees, local,
+> regional, national and international temporary or more or less
+> permanent -- for all possible purposes: production, consumption and
+> exchange, communications, sanitary arrangements, education, mutual
+> protection, defence of the territory, and so on; and, on the other
+> side, for the satisfaction of an ever-increasing number of scientific,
+> artistic, literary and sociable needs.*
+
+> *"Moreover, such a society would represent nothing immutable. On the
+> contrary -- as is seen in organic life at large - harmony would (it is
+> contended) result from an ever-changing adjustment and readjustment of
+> equilibrium between the multitudes of forces and influences, and this
+> adjustment would be the easier to obtain as none of the forces would
+> enjoy a special protection from the State."* [**Anarchism**, p. 284]
+
+If this type of system sounds "utopian" it should be kept in mind that
+it was actually implemented and worked quite well in the collectivist
+economy organised during the Spanish Revolution of 1936, despite the
+enormous obstacles presented by an ongoing civil war as well as the
+relentless (and eventually successful) efforts of Republicans,
+Stalinists and Fascists to crush it (see [section I.8](secI8.html) for
+an introduction).
+
+As well as this (and other) examples of ***"anarchy in action"*** there
+have been other libertarian socialist economic systems described in
+writing. All share the common features of workers' self-management,
+co-operation and so on we discuss here and in [section I.4](secI4.html).
+These texts include **Syndicalism** by Tom Brown, **The Program of
+Anarcho-Syndicalism** by G.P. Maximoff, **Guild Socialism Restated** and
+**Self-Government in Industry** by G.D.H. Cole, **After the Revolution**
+by Diego Abad de Santillan, **Anarchist Economics** and **Principles of
+Libertarian Economy** by Abraham Guillen, **Workers Councils and the
+Economics of a Self-Managed Society** by Cornelius Castoriadis among
+others. A short summary of Spanish Anarchist visions of the free society
+can be found in chapter 3 of Robert Alexander's **The Anarchists in the
+Spanish Civil War** (vol. 1). Some anarchists support what is called
+*"Participatory Economics"* (**Parecon**, for short) and **The Political
+Economy of Participatory Economics** and **Looking Forward:
+Participatory Economics for the Twenty First Century** by Michael Albert
+and Robin Hahnel are worth reading as they contain good introductions to
+that project.
+
+Fictional accounts include William Morris' **News from Nowhere**, the
+excellent **The Dispossessed** by Ursula Le Guin, **Women on the Edge of
+Time** by Marge Piercy and **The Last Capitalist** by Steve Cullen. Iain
+M. Banks Culture novels are about an anarcho-communist society, but as
+they are so technologically advanced they can only give an insight into
+the aims of libertarian socialism and the mentality of people living in
+freedom (**The State of the Art** and **The Player of Games** contrast
+the Culture with hierarchical societies, the Earth in 1977 in the case
+of the former).
+
+I.3.1 What is a *"syndicate"*?
+------------------------------
+
+As we will use the term, a *"syndicate"* (also called a *"producer
+co-operative"*, or *"co-operative"*, for short, sometimes a
+*"collective"*, *"producers' commune"*, *"association of producers"*,
+*"guild factory"* or *"guild workplace"*) is a democratically
+self-managed productive enterprise whose assets are controlled by its
+workers. It is a useful generic term to describe the situation aimed at
+by anarchists where *"associations of men and women who . . . work on
+the land, in the factories, in the mines, and so on, [are] themselves
+the managers of production."* [Kropotkin, **Evolution and Environment**,
+p. 78]
+
+This means that where labour is collective, *"the ownership of
+production should also be collective."* *"Each workshop, each factory,"*
+correctly suggested James Guillaume, *"will organise itself into an
+association of workers who will be free to administer production and
+organise their work as they think best, provided that the rights of each
+worker are safeguarded and the principles of equality and justice are
+observed."* This applies to the land as well, for anarchism aims to
+answer *"the question of how best to work the land and what form of
+possession is best."* It does not matter whether peasants *"keep their
+plots of land and continue to cultivate it with the help of their
+families"* or whether they *"take collective possession of the vast
+tracts of land and work them in common"* as *"the main purpose of the
+Revolution"* has been achieved, namely that *"the land is now the
+property of those who cultivate it, and the peasants no longer work for
+the profit of an idle exploiter who lives by their sweat."* Any *"former
+hired hands"* will become *"partners and share . . . the products which
+their common labour extracts from the land"* as *"the Revolution will
+have abolished agricultural wage slavery and peonage and the
+agricultural proletariat will consist only of free workers living in
+peace and plenty."* As with industrial workplaces, the *"internal
+organisation . . . need not necessarily be identical; organisational
+forms and procedures will vary greatly according to the preferences of
+the associated workers."* The *"administration of the community"* could
+be *"entrusted either to an individual or to a commission of many
+members,"* for example, but would always be *"elected by all the
+members."* [*"On Building the New Social Order"*, pp. 356-79, **Bakunin
+on Anarchism**, p. 363, p. 359, p. 360 and p. 361]
+
+It must be noted that this libertarian goal of abolishing the
+hierarchical capitalist workplace and ending wage labour by associating
+and democratising industry is as old as anarchism itself. Thus we find
+Proudhon arguing in 1840 that the aim was a society of *"possessors
+without masters"* (rather than wage-labourers and tenants *"controlled
+by proprietors"*) with *"leaders, instructors, superintendents"* and so
+forth being *"chosen from the labourers by the labourers themselves."*
+[**What is Property?**, p. 167 and p. 137]
+
+*"Mutuality, reciprocity exists,"* Proudhon argued, *"when all the
+workers in an industry, instead of working for an **entrepreneur** who
+pays them and keeps their products, work for one another and thus
+collaborate in the making of a common product whose profits they share
+amongst themselves. Extend the principle of reciprocity as uniting the
+work of every group, to the Workers' Societies as units, and you have
+created a form of civilisation which from all points of view --
+political, economic and aesthetic -- is radically different from all
+earlier civilisations."* In summary: *"All associated and all free"*.
+[quoted by Martin Buber, **Paths in Utopia**, pp. 29-30 and p. 30]
+
+Nor was this idea invented by Proudhon and other anarchists. Rather, it
+was first raised by workers themselves and subsequently taken up by the
+likes of Proudhon and Bakunin. So working class people came up with this
+fundamental libertarian socialist idea by themselves. The idea that wage
+labour would be replaced by associated labour was raised in many
+different countries in the 19th century. In France, it was during the
+wave of strikes and protests unleashed by the 1830 revolution. That year
+saw Parisian printers, for example, producing a newspaper (**L'Artisan:
+Journal de la classes ouvriere**) which suggested that the only way to
+stop being exploited by a master was for workers to form co-operatives.
+During the strikes of 1833, this was echoed by other skilled workers and
+so co-operatives were seen by many workers as a method of emancipation
+from wage labour. Proudhon even picked up the term **Mutualisme** from
+the workers in Lyon in the early 1840s and their ideas of co-operative
+credit, exchange and production influenced him as surely as he
+influenced them. In America, as Chomsky notes, *"[i]f we go back to the
+labour activism from the early days of the industrial revolution, to the
+working class press in 1850s, and so on, it’s got a real anarchist
+strain to it. They never heard of European anarchism . . . It was
+spontaneous. They took for granted wage labour is little different from
+slavery, that workers should own the mills"* [**Anarchism Interview**]
+As we noted in [section F.8.6](secF8.html#secf86), this was a
+commonplace response for working class people facing the rise of
+capitalism.
+
+In many ways a syndicate is similar to a co-operative under capitalism.
+Indeed, Proudhon pointed to such experiments as examples of what he
+desired, with *"co-operative associations"* being a key part of his
+*"general liquidation"* of capitalist society. [**General Idea of the
+Revolution**, p. 203] Bakunin, likewise, argued that anarchists are
+*"convinced that the co-operative will be the preponderant form of
+social organisation in the future, in every branch of labour and
+science."* [**Basic Bakunin**, p. 153] Therefore, even from the limited
+examples of co-operatives functioning in the capitalist market, the
+essential features of a libertarian socialist economy can be seen. The
+basic economic element, the workplace, will be a free association of
+individuals who will organise their joint work as equals. To quote
+Bakunin again, *"[o]nly associated labour, that is, labour organised
+upon the principles of reciprocity and co-operation, is adequate to the
+task of maintaining . . . civilised society."* [**The Political
+Philosophy of Bakunin**, p. 341]
+
+***Co-operation*** in this context means that the policy decisions
+related to their association will be based on the principle of "one
+member, one vote," with administrative staff elected and held
+accountable to the workplace as a whole. In the words of economist David
+Ellerman: *"Every enterprise should be legally reconstructured as a
+partnership of all who work in the enterprise. Every enterprise should
+be a democratic worker-owned firm."* [**The Democratic Worker-Owned
+Firm**, p. 43] Anarchists, unsurprisingly, reject the Leninist idea that
+state property means the end of capitalism as simplistic and confused.
+Ownership is a juridical relationship. The **real** issue is one of
+management. Do the users of a resource manage it? If so, then we have a
+real (i.e. libertarian) socialist society. If not, we have some form of
+class society (for example, in the Soviet Union the state replaced the
+capitalist class but workers still had no official control over their
+labour or the product of that labour).
+
+Workplace self-management does not mean, as some apologists of
+capitalism suggest, that knowledge and skill will be ignored and **all**
+decisions made by everyone. This is an obvious fallacy, since engineers,
+for example, have a greater understanding of their work than
+non-engineers and under workers' self-management will control it
+directly:
+
+> *"we must understand clearly wherein this Guild democracy consists,
+> and especially how it bears on relations between different classes of
+> workers included in a single Guild. For since a Guild includes **all**
+> the workers by hand and brain engaged in a common service, it is clear
+> that there will be among its members very wide divergences of
+> function, of technical skill, and of administrative authority. Neither
+> the Guild as a whole nor the Guild factory can determine all issues by
+> the expedient of the mass vote, nor can Guild democracy mean that, on
+> all questions, each member is to count as one and none more than one.
+> A mass vote on a matter of technique understood only by a few experts
+> would be a manifest absurdity, and, even if the element of technique
+> is left out of account, a factory administered by constant mass votes
+> would be neither efficient nor at all a pleasant place to work in.
+> There will be in the Guilds technicians occupying special positions by
+> virtue of their knowledge, and there will be administrators possessing
+> special authority by virtue both of skill and ability and of personal
+> qualifications."* [G.D.H. Cole, **Guild Socialism Restated**, pp.
+> 50-51]
+
+The fact that some decision-making has been delegated in this manner
+sometimes leads people to ask whether a syndicate would not just be
+another form of hierarchy. The answer is that it would not be
+hierarchical because the workers' assemblies and their councils, open to
+all workers, would decide what types of decision-making to delegate,
+thus ensuring that ultimate power rests at the base. Moreover, **power**
+would not be delegated. Malatesta clearly indicates the difference
+between administrative decisions and policy decisions:
+
+> *"Of course in every large collective undertaking, a division of
+> labour, technical management, administration, etc. is necessary. But
+> authoritarians clumsily play on words to produce a **raison d’être**
+> for government out of the very real need for the organisation of work.
+> Government, it is well to repeat, is the concourse of individuals who
+> have had, or seized, the right and the means to make laws and to
+> oblige people to obey; the administrator, the engineer, etc., instead
+> are people who are appointed or assume the responsibility to carry out
+> a particular job and so on. Government means the delegation of power,
+> that is the abdication of initiative and sovereignty of all into the
+> hands of a few; administration means the delegation of work, that is
+> tasks given and received, free exchange of services based on free
+> agreement . . . Let one not confuse the function of government with
+> that of an administration, for they are essentially different, and if
+> today the two are often confused, it is only because of economic and
+> political privilege."* [**Anarchy**, pp. 41-2]
+
+Given that power remains in the hands of the workplace assembly, it is
+clear that the organisation required for every collective endeavour
+cannot be equated with government. Also, never forget that
+administrative staff are elected by and accountable to the rest of an
+association. If, for example, it turned out that a certain type of
+delegated decision-making activity was being abused, it could be revoked
+by the whole workforce. Because of this grassroots control, there is
+every reason to think that crucial types of decision-making activity
+which could become a source of power (and so with the potential for
+seriously affecting all workers' lives) would not be delegated but would
+remain with the workers' assemblies. For example, powers that are now
+exercised in an authoritarian manner by managers under capitalism, such
+as those of hiring and firing, introducing new production methods or
+technologies, changing product lines, relocating production facilities,
+determining the nature, pace and rhythm of productive activity and so on
+would remain in the hands of the associated producers and **not** be
+delegated to anyone.
+
+New syndicates will be created upon the initiative of individuals within
+communities. These may be the initiative of workers in an existing
+syndicate who desire to expand production, or members of the local
+community who see that the current syndicates are not providing
+adequately in a specific area of life. Either way, the syndicate will be
+a voluntary association for producing useful goods or services and would
+spring up and disappear as required. Therefore, an anarchist society
+would see syndicates developing spontaneously as individuals freely
+associate to meet their needs, with both local and confederal
+initiatives taking place.
+
+While having a common basis in co-operative workplaces, different forms
+of anarchism see them work in different ways. Under mutualism, workers
+organise themselves into syndicates and share in its gains and losses.
+This means that in *"the labour-managed firm there is no profit, only
+income to be divided among members. Without employees the labour-managed
+firm does not have a wage bill, and labour costs are not counted among
+the expenses to the subtracted from profit, as they are in the
+capitalist firm."* The *"labour-managed firm does not hire labour. It is
+a collective of workers that hires capital and necessary materials."*
+[Christopher Eaton Gunn, **Workers' Self-Management in the United
+States**, pp. 41-2] In this way, Proudhon and his followers argued,
+exploitation would end and workers would receive the full-product of
+their labour. This, it should be noted, does not mean that workers
+consume all the proceeds of sales in personal consumption (i.e., no
+investment). It means that labour **controls** what to do with the sales
+income, i.e., how much to invest and how much to allocate to
+consumption:
+
+> *"If Labour appropriated the whole product, that would include
+> appropriating the liabilities for the property used up in the
+> production process in addition to appropriating the produced outputs.
+> Present Labour would have to pay input suppliers (e.g., past labour)
+> to satisfy those liabilities."* [Ellerman, **Op. Cit.**, p. 24]
+
+So under mutualism, surpluses (profits) would be either equally divided
+between all members of the co-operative or divided unequally on the
+basis of the type of work done, with the percentages allotted to each
+type being decided by democratic vote, on the principle of one worker,
+one vote. Worker co-operatives of this type do have the virtue of
+preventing the exploitation and oppression of labour by capital, since
+workers are not hired for wages but, in effect, become partners in the
+firm. This means that the workers control both the product of their
+labour (so that the value-added that they produce is not appropriated by
+a privileged elite) and the work process itself (and so they no longer
+sell their liberty to others). However, such a limited form of
+co-operation is rejected by most anarchists. Non-mutualist anarchists
+argue that this, at best, is but a step in the right direction and the
+ultimate aim is distribution according to need.
+
+Production for use rather than profit/money is the key concept that
+distinguishes collectivist and communist forms of anarchism from the
+competitive mutualism advocated by Proudhon. This is for two reasons.
+First, because of the harmful effects of markets we indicated in
+[section I.1.3](secI1.html#seci13) could make co-operatives become, in
+effect, "collective capitalists" and compete against each other in the
+market as ferociously as actual capitalists. As Kropotkin put it, while
+co-operation had *"at its origin . . . an essentially mutual aid
+character"*, it *"is often described as 'joint-stock individualism'"*
+and *"such as it is now, it undoubtedly tends to breed a co-operative
+egotism, not only towards the community at large, but also among the
+co-operators themselves."* [**Mutual Aid**, p. 214] While he was
+discussing co-operatives under capitalism, his worries are equally
+applicable to a mutualist system of competing syndicates. This would
+also lead to a situation where market forces ensured that the workers
+involved made irrational decisions (from both a social and individual
+point of view) in order to survive in the market. For mutualists, this
+*"irrationality of rationality"* is the price to be paid to ensure
+workers receive the full product of their labour and, moreover, any
+attempt to overcome this problem holds numerous dangers to freedom.
+Other social anarchists disagree. They think co-operation between
+workplaces can increase, not reduce, freedom. Second, as discussed in
+[section I.1.4](secI1.html#seci14), distribution according to work does
+not take into account the different needs of the workers (nor
+non-workers like the ill, the young and the old). As such, mutualism
+does not produce what most anarchists would consider a decent society,
+one where people co-operate to make a decent life for all.
+
+What about entry into a syndicate? In the words of Cole, guilds
+(syndicates) are *"open associations which any man [or woman] may join"*
+but *"this does not mean, of course, that any person will be able to
+claim admission, as an absolute right, into the guild of his choice."*
+This means that there may be training requirements (for example) and
+obviously *"a man [or woman] clearly cannot get into a Guild unless it
+needs fresh recruits for its work. [The worker] will have free choice,
+but only of the available openings."* [**Op. Cit.**, p. 75] As David
+Ellerman notes, it is important to remember that *"the labour market
+would not exist"* in a self-managed economy as labour would *"always be
+the residual claimant."* This means that capital would not be hiring
+labour as under capitalism, rather workers would be seeking out
+associations to join. *"There would be a job market in the sense of
+people looking for firms they could join,"* Ellerman continues, *"but it
+would not be a labour market in the sense of the selling of labour in
+the employment contract."* [**Op. Cit.**, p. 91]
+
+All schools of social anarchism, therefore, are based on the use rights
+resting in the specific syndicate while ownership would be socialised
+rather than limited to the syndicate's workers. This would ensure free
+access to the means of production as new members of a syndicate would
+have the same rights and power as existing members. If this were not the
+case, then the new members would be the wage slaves of existing ones and
+it is **precisely** to avoid this that anarchists argue for
+socialisation (see [section I.3.3](secI3.html#seci33)). With
+socialisation, free access is guaranteed and so all workers are in the
+same position so ensuring self-management and no return to workplace
+hierarchy.
+
+Obviously, as in any society, an individual may not be able to pursue
+the work they are most interested in (although given the nature of an
+anarchist society they would have the free time to pursue it as a
+hobby). However, we can imagine that an anarchist society would take an
+interest in ensuring a fair distribution of work and so would try to
+arrange work sharing if a given work placement is popular (see [section
+I.4.13](secI4.html#seci413) on the question of who will do unpleasant
+work, and for more on work allocation generally, in an anarchist
+society).
+
+Of course there may be the danger of a syndicate or guild trying to
+restrict entry from an ulterior motive, as such the exploitation of
+monopoly power vis-à-vis other groups in society. However, in an
+anarchist society individuals would be free to form their own syndicates
+and this would ensure that such activity is self-defeating. In addition,
+in a non-individualist anarchist system, syndicates would be part of a
+confederation (see [section I.3.4](secI3.html#seci34)). It is a
+responsibility of the inter-syndicate congresses to assure that
+membership and employment in the syndicates is not restricted in any
+anti-social way. If an individual or group of individuals felt that they
+had been unfairly excluded from a syndicate then an investigation into
+the case would be organised at the congress. In this way any attempts to
+restrict entry would be reduced (assuming they occurred to begin with).
+And, of course, individuals are free to form new syndicates or leave the
+confederation if they so desire.
+
+With the question of entry into syndicates comes the question of whether
+there would be enough places for those seeking to work (what could be
+termed "unemployment"). Ultimately, there are always an objective number
+of places available in a workplace: there is little point having people
+join a syndicate if there are no machines or materials for them to work
+on! Would a self-managed economy ensure that there are enough places
+available for those who seek them?
+
+Perhaps unsurprisingly, neo-classical economics says no and equally
+unsurprisingly this conclusion is based not on empirical evidence of
+real co-operatives but rather on an abstract model developed in 1958.
+The model is based on deducing the implications of assuming that a
+labour-managed (*"'Illyrian"*) firm will seek to maximise net income per
+worker rather than, in a capitalist firm, maximising net profit. This
+results in various perverse results compared to a capitalist firm. This
+makes a co-operative-based economy extremely unstable and inefficient,
+as well as leading to co-operatives firing workers when prices rise as
+this maximises income per (remaining) worker. Thus a co-operative system
+ends in *"producing less output and using less labour than its
+capitalist counterpart."* [Benjamin Ward, *"The Firm in Illyria: Market
+Syndicalism"*, pp. 566-589, **The American Economic Review**, Vol. 48,
+No. 4, p. 580]
+
+Of course, it would be churlish to note that, unlike the theory, actual
+capitalism is marked by extensive unemployment (as noted in [section
+C.1.5](secC1.html#secc15), this is not surprising as it is required to
+secure bosses' power over their wage slaves). It would be equally
+churlish to note that, to quote one Yugoslav economist, this is *"a
+theory whose predictions have absolutely nothing to do with the observed
+facts."* [Branko Horvat, *"The Theory of the Worker-Managed Firm
+Revisited"*, pp. 9-25, **Journal of Comparative Economics**, vol. 10,
+no. 1, p. 9] As David Ellerman summarises:
+
+> *"It might be noted parenthetically that there is a whole academic
+> literature on what is called the 'Illyrian firm' . . . The main
+> peculiarity of this model is that it assumes the firm would expel
+> members when that would increase the net income of the surviving
+> members. The resulting short-run perversities have endeared the model
+> to capitalist economists. Yet the Illyrian model had been an academic
+> toy in the grand tradition of much of modern economics. The predicted
+> short-run behaviour has not been observed in Yugoslavia or elsewhere,
+> and worker-managed firms such as the Mondragon co-operatives take
+> membership as a short-run fixed factor . . . Hence we will continue to
+> treat the Illyrian model with its much-deserved neglect."* [**Op.
+> Cit.**, p. 150]
+
+The experience of self-managed collectives during the Spanish Revolution
+also confirms this, with collectives sharing work equitably in order to
+avoid laying people off during the harsh economic conditions caused by
+the Civil War (for example, one collective *"adopted a three-day
+workweek, dividing available work among all those who had worked at the
+plant -- thereby avoiding unemployment -- and continued to pay everyone
+his or her basic salary"* [Martha A. Ackelsberg, **Free Women of
+Spain**, p. 101]).
+
+We need, therefore, to *"appeal to empirical reality and common sense"*
+when evaluating the claim of neo-classical economics on the issue of
+co-operatives. The *"empirical evidence supports"* the argument that
+this model is flawed. There *"has been no tendency for workers to lay
+off co-workers when times are good, neither in Mondragon nor in
+Yugoslavia. Even in bad times, layoffs are rare."* Unsurprisingly, *"in
+the short run, a worker-managed firm responds in the same fashion as a
+capitalist firm"* and workers are added to the collective to meet
+increases in demand. [David Schweickart, **Against Capitalism**, p. 91,
+p. 92 and p. 93] A conclusion shared by economist Geoffrey M. Hodgson:
+
+> *"Much of the evidence we do have about the behaviour of real-world
+> worker co-operatives is that they respond to changes in market prices
+> in a similar manner to the capitalist firm . . . Accordingly, the
+> basic assumptions in the model are questioned by the evidence."*
+> [**Economics and Utopia**, pp. 223-4]
+
+So, as Branko Horvat observes, in spite of the neo-classical analysis
+producing specific predictions the *"mere fact that nothing of the kind
+has ever been observed in real-world economies leaves them
+undisturbed."* At most they would say that a *"self-managed firm may not
+behave as the theory predicts, but this is because it behaves
+irrationally. If something is wrong, it is not the theory but the
+reality."* Interestingly, though, if you assume that capitalist firms
+*"maximise the rate of profit, profit per unit invested"* rather than
+total profit then neo-classical theory *"generates equally absurd
+results."* That is why the distinction between short and long runs was
+invented, so that in the short run the amount of capital is fixed. If
+this is applied to a co-operative, so that *"in the short run, the work
+force is fixed"* then the alleged problems with labour-managed
+workplaces disappear. Needless to say, a real co-operative acts on the
+assumption that the work force is fixed and as *"the workers are no
+longer hired"* this means that the worker-managers *"do not fire their
+colleagues when business is slack; they reduce work time or work for
+inventories. When the demand temporarily increases, they work overtime
+or contract outside work."* [**Op. Cit.**, pp. 11-13]
+
+In summary, the neo-classical theory of the labour-managed firm has as
+much relation to a real co-operative as neo-classical economics
+generally does to capitalism. Significantly, "Austrian" economists
+generally accept the neo-classical theory of co-operatives (in part,
+undoubtedly, as it confirms their dislike of all forms of socialism).
+Even one as sympathetic to self-management as David L. Prychitko accepts
+it, simply criticising because it *"reduces the firm to a short-run
+objective function"* and *"as long as market **entry** is allowed, the
+labour-managed market sheds any possible instability problem."*
+[**Markets, Planning and Democracy**, p. 81] While correct, this
+criticism totally misses the point. Yes, in the long run other
+co-operatives would be set up and this would increase supply of goods,
+increase employment and so forth, yet this should not blind us to the
+limitations of the assumptions which drives the neo-classical theory.
+
+To sum up, syndicates are voluntary associations of workers who manage
+their workplace and their own work. Within the syndicate, the decisions
+which affect how the workplace develops and changes are in the hands of
+those who work there. In addition, it means that each section of the
+workforce manages its own activity and sections and that all workers
+placed in administration tasks (i.e. *"management"*) are subject to
+election and recall by those who are affected by their decisions. The
+workers' self-management is discussed in the [next
+section](secI3.html#seci32).
+
+Finally, two things. First, as noted in [section
+G.1.3](secG3.html#secg13) a few individualist anarchists, although not
+all, were not opposed to (non-exploitative) wage labour and so did not
+place co-operatives at the centre of their ideas. This position is very
+much a minority in the anarchist tradition as it is not consistent with
+libertarian principles nor likely to end the exploitation of labour (see
+[section G.4.1](secG4.html#secg41)), so making most anarchists think
+such individualism is inconsistent anarchism (see [section
+G.4.2](secG4.html#secg42)). Secondly, it is important to note that
+individuals who do not wish to join syndicates will be able to work for
+themselves. There is no *"forced collectivisation"* under **any** form
+of libertarian socialism, because coercing people is incompatible with
+the basic principles of anarchism. Those who wish to be self-employed
+will have free access to the productive assets they need, provided that
+they neither attempt to monopolise more of those assets than they and
+their families can use by themselves nor attempt to employ others for
+wages (see [section I.3.7](secI3.html#seci37)).
+
+I.3.2 What is workers' self-management?
+---------------------------------------
+
+Quite simply, workers' self-management (sometimes called *"workers'
+control"*) means that all workers affected by a decision have an equal
+voice in making it, on the principle of "one worker, one vote." Thus
+*"revolution has launched us on the path of industrial democracy."*
+[**Selected Writings of Pierre-Joseph Proudhon**, p. 63] That is,
+workers *"ought to be the real managers of industries."* [Peter
+Kropotkin, **Fields, Factories and Workshops Tomorrow**, p. 157] This is
+essential to ensure *"a society of equals, who will not be compelled to
+sell their hands and their brains to those who choose to employ them . .
+. but who will be able to apply their knowledge and capacities to
+production, in an organism so constructed as to combine all the efforts
+for procuring the greatest possible well-being for all, while full, free
+scope will be left for every individual initiative."* [Kropotkin,
+**Kropotkin: Selections from his Writings**, pp. 113-4] As Chomsky put
+it:
+
+> *"Compassion, solidarity, friendship are also human needs. They are
+> driving needs, no less than the desire to increase one's share of
+> commodities or to improve working conditions. Beyond this, I do not
+> doubt that it is a fundamental human need to take an active part in
+> the democratic control of social institutions. If this is so, then the
+> demand for industrial democracy should become a central goal of any
+> revitalised left with a working-class base."* [**Radical Priorities**,
+> p. 191]
+
+As noted earlier, however, we need to be careful when using the term
+*"workers' control,"* as others use it and give it an entirely different
+meaning from the one intended by anarchists. Like the terms
+*"anarchist"* and *"libertarian,"* it has been co-opted by others to
+describe less than libertarian schemes.
+
+The first to do so were the Leninists, starting with Lenin, who have
+used the term "workers' control" to describe a situation were workers
+have a limited supervision over either the capitalists or the appointed
+managers of the so-called workers' state. These do not equate to what
+anarchists aim for and, moreover, such limited experiments have not
+lasted long (see [section H.3.14](secH3.html#sech314)). More recently,
+"workers' control" have been used by capitalists to describe schemes in
+which workers' have more say in how their workplaces are run while
+maintaining wage slavery (i.e. capitalist ownership, power and ultimate
+control). So, in the hands of capitalists, "workers' control" is now
+referred to by such terms as "participation", "co-determination",
+"consensus", "empowerment", "Japanese-style management," etc. *"For
+those whose function it is solve the new problems of boredom and
+alienation in the workplace in advanced industrial capitalism, workers'
+control is seen as a hopeful solution"*, Sam Dolgoff noted, *"a solution
+in which workers are given a modicum of influence, a strictly limited
+area of decision-making power, a voice at best secondary in the control
+of conditions of the workplace. Workers' control, in a limited form
+sanctioned by the capitalists, is held to be the answer to the growing
+non-economic demands of the workers."* [**The Anarchist Collectives**,
+p. 81]
+
+The new managerial fad of "quality circles" -- meetings where workers
+are encouraged to contribute their ideas on how to improve the company's
+product and increase the efficiency with which it is made -- is an
+example of "workers' control" as conceived by capitalists. However, when
+it comes to questions such as what products to make, where to make them,
+and (especially) how revenues from sales should be divided, capitalists
+and managers do not ask for or listen to workers' "input." So much for
+"democratisation," "empowerment," and "participation"! In reality,
+capitalistic "workers control" is merely an another insidious attempt to
+make workers more willing and "co-operative" partners in their own
+exploitation. Needless to say, such schemes are phoney as they never
+place **real** power in the hands of workers. In the end, the owners and
+their managers have the final say (and so hierarchy remains) and, of
+course, profits are still extracted from the workforce.
+
+Hence anarchists prefer the term ***workers' self-management***, a
+concept which refers to the exercise of workers' power through
+collectivisation and federation. It means *"a transition from private to
+collective ownership"* which, in turn, *"call[s] for new relationships
+among the members of the working community."* [Abel Paz, **The Spanish
+Civil War**, p. 55] Self-management in this sense *"is not a new form of
+mediation between the workers and their capitalist bosses, but instead
+refers to the very process by which the workers themselves **overthrow**
+their managers and take on their own management and the management of
+production in their own workplace. Self-management means the
+organisation of all workers . . . into a workers' council or factory
+committee (or agricultural syndicate), which makes all the decisions
+formerly made by the owners and managers."* [Dolgoff, **Op. Cit.**, p.
+81] Self-management means the end of hierarchy and authoritarian social
+relationships in workplace and their replacement by free agreement,
+collective decision-making, direct democracy, social equality and
+libertarian social relationships.
+
+As anarchists use the term, workers' self-management means collective
+worker ownership, control and direction of all aspects of production,
+distribution and investment. This is achieved through
+participatory-democratic workers' assemblies, councils and federations,
+in both agriculture and industry. These bodies would perform all the
+functions formerly reserved for capitalist owners, managers, executives
+and financiers where these activities actually relate to productive
+activity rather than the needs to maximise minority profits and power
+(in which case they would disappear along with hierarchical management).
+These workplace assemblies will be complemented by people's financial
+institutions or federations of syndicates which perform all functions
+formerly reserved for capitalist owners, executives, and financiers in
+terms of allocating investment funds or resources.
+
+Workers' self-management is based around general meetings of the whole
+workforce, held regularly in every industrial or agricultural syndicate.
+These are the source of and final authority over decisions affecting
+policy within the workplace as well as relations with other syndicates.
+These meeting elect workplace councils whose job is to implement the
+decisions of these assemblies and to make the day to day administration
+decisions that will crop up. These councils are directly accountable to
+the workforce and its members subject to re-election and instant recall.
+It is also likely that membership of these councils will be rotated
+between all members of the syndicate to ensure that no one monopolises
+an administrative position. In addition, smaller councils and assemblies
+would be organised for divisions, units and work teams as circumstances
+dictate.
+
+In this way, workers would manage their own collective affairs together,
+as free and equal individuals. They would associate together to
+co-operate without subjecting themselves to an authority over
+themselves. Their collective decisions would remain under their control
+and power. This means that self-management creates *"an organisation so
+constituted that by affording everyone the fullest enjoyment of his [or
+her] liberty, it does not permit anyone to rise above the others nor
+dominate them in any way but through the natural influence of the
+intellectual and moral qualities which he [or she] possesses, **without
+this influence ever being imposed as a right and without leaning upon
+any political institution whatever.**"* [**The Political Philosophy of
+Bakunin**, p. 271] Only by convincing your fellow associates of the
+soundness of your ideas can those ideas become the agreed plan of the
+syndicate. No one is in a position to impose their ideas simply because
+of the post they hold or the work they do.
+
+Most anarchists think that it is likely that purely administrative tasks
+and decisions would be delegated to elected individuals in this way,
+freeing workers and assemblies to concentrate on important activities
+and decisions rather than being bogged down in trivial details. As
+Bakunin put it:
+
+> *"Is not administrative work just as necessary to production as is
+> manual labour -- if not more so? Of course, production would be badly
+> crippled, if not altogether suspended, without efficient and
+> intelligent management. But from the standpoint of elementary justice
+> and even efficiency, the management of production need not be
+> exclusively monopolised by one or several individuals. And managers
+> are not at all entitled to more pay. The co-operative workers
+> associations have demonstrated that the workers themselves, choosing
+> administrators from their own ranks, receiving the same pay, can
+> efficiency control and operate industry. The monopoly of
+> administration, far from promoting the efficiency of production, on
+> the contrary only enhances the power and privileges of the owners and
+> their managers."* [**Bakunin on Anarchism**, p. 424]
+
+What is important is that what is considered as important or trivial,
+policy or administration rests with the people affected by the decisions
+and subject to their continual approval. Anarchists do not make a fetish
+of direct democracy and recognise that there is more important things in
+life than meetings and voting! While workers' assemblies play the key
+role in self-management, it is not the focal point of **all** decisions.
+Rather it is the place where all the important policy decisions are
+made, administrative decisions are ratified or rejected and what counts
+as a major decision determined. Needless to say, what is considered as
+important issues will be decided upon by the workers themselves in their
+assemblies.
+
+Unsurprisingly, anarchists argue that, as well as being more free,
+workers self-management is more efficient and productive than the
+hierarchical capitalist firm (efficiency here means accomplishing goals
+without wasting valued assets). Capitalist firms fail to tap humanity’s
+vast reservoir of practical knowledge, indeed they block it as any
+application of that knowledge is used to enrich the owners rather than
+those who generate and use it. Thus the hierarchical firm
+disenfranchises employees and reduces them to the level of order-takers
+with an obvious loss of information, knowledge and insight (as discussed
+in [section I.1.1](secI1.html#seci11)). With self-management, that vast
+source of knowledge and creativity can be expressed. Thus,
+self-management and worker ownership *"should also reap other rewards
+through the greater motivation and productivity of the workers."* [David
+Ellerman, **The Democratic Worker-Owned Firm**, p. 139]
+
+This explains why some firms try to simulate workers' control (by
+profit-sharing or "participation" schemes). For, as market socialist
+David Schweickart notes, *"the empirical evidence is overwhelming"* and
+supports those who argue for workers' participation. The *"evidence is
+strong that both worker participation in management and profit sharing
+tend to enhance productivity and that worker-run enterprises often are
+more productive than their capitalist counterparts."* [**Against
+Capitalism**, p. 100] In fact, 94% of 226 studies into this issue showed
+a positive impact, with 60% being statistically significant, and so the
+empirical evidence is *"generally supportive of a positive link between
+profit sharing and productivity."* This applies to co-operatives as
+well. [Martin L. Weitzman and Douglas L. Kruse, *"Profit Sharing and
+Productivity"*, pp. 95-140, **Paying for Productivity**, Alan S. Blinder
+(ed.), p. 137, p. 139 and pp. 131-2] Another study concludes that the
+*"available evidence is strongly suggestive that for employee ownership
+. . . to have a strong impact on performance, it needs to be accompanied
+by provisions for worker participation in decision making."* In
+addition, *"narrow differences in wages and status"*, as anarchists have
+long argued, *"increase productivity"*. [David I. Levine and Laura
+D'Andrea Tyson, *"Participation, Productivity, and the Firm's
+Environment"*, pp. 183-237, **Op. Cit.**, p. 210 and p. 211]
+
+This should be unsurprising, for as Geoffrey M. Hodgson notes, the
+neo-classical model of co-operatives *"wrongly assume[s] that social
+relations and technology are separable . . . Yet we have much evidence .
+. . to support the contention that participation and co-operation can
+increase technological efficiency. Production involves people -- their
+ideas and aspirations -- and not simply machines operating under the
+laws of physics. It seems that, in their search for pretty diagrams and
+tractable mathematical models, mainstream economists often forget
+this."* [**Economics and Utopia**, p. 223]
+
+Therefore anarchists have strong evidence to support Herbert Read's
+comment that libertarian socialism would *"provide a standard of living
+far higher than that realised under any previous form of social
+organisation."* [**Anarchy and Order**, p. 49] It confirms Cole's
+comment that the *"key to real efficiency is self-government; and any
+system that is not based upon self-government is not only servile, but
+also inefficient. Just as the labour of the wage-slave is better than
+the labour of the chattel-slave, so . . . will the labour of the free
+man [and woman] be better than either."* [**Self-Government in
+Industry**, p. 157] Yet it is important to remember, as important as
+this evidence is, real social change comes not from "efficiency"
+concerns but from ideals and principles. While anarchists are confident
+that workers' self-management will be more efficient and productive than
+capitalism, this is a welcome side-effect of the deeper goal of
+increasing freedom. The evidence confirms that freedom is the best
+solution for social problems but if, for example, slavery or wage-labour
+proved to be more productive than free, associated, labour it does not
+make them more desirable!
+
+A self-managed workplace, like a self-managed society in general, does
+not mean that specialised knowledge (where it is meaningful) will be
+neglected or not taken into account. Quite the opposite. Specialists
+(i.e. workers who are interested in a given area of work and gain an
+extensive understanding of it) are part of the assembly of the
+workplace, just like other workers. They can and have to be listened to,
+like anyone else, and their expert advice included in the decision
+making process. Anarchists do not reject the idea of expertise nor the
+rational authority associated with it. As we indicated in [section
+B.1](secB1.html), anarchists recognise the difference between being
+***an*** authority (i.e. having knowledge of a given subject) and being
+***in*** authority (i.e. having power over someone else). as discussed
+in [section H.4](secH4.html), we reject the latter and respect the
+former.
+
+Such specialisation does not imply the end of self-management, but
+rather the opposite. *"The greatest intelligence,"* Bakunin argued,
+*"would not be equal to a comprehension of the whole. Thence results,
+for science as well as industry, the necessity of the division and
+association of labour."* [**God and the State**, p. 33] Thus specialised
+knowledge is part of the associated workers and not placed above them in
+positions of power. The other workers in a syndicate can compliment the
+knowledge of the specialists with the knowledge of the work process they
+have gained by working and so enrich the decision. Knowledge is
+distributed throughout society and only a society of free individuals
+associated as equals and managing their own activity can ensure that it
+is applied effectively (part of the inefficiency of capitalism results
+from the barriers to knowledge and information flow created by its
+hierarchical workplace).
+
+A workplace assembly is perfectly able to listen to an engineer, for
+example, who suggests various ways of reaching various goals (i.e. if
+you want X, you would have to do A or B. If you do A, then C, D and E is
+required. If B is decided upon, then F, G, H and I are entailed). But it
+is the assembly, **not** the engineer, that decides what goals and
+methods to be implemented. As Cornelius Castoriadis put it: *"We are not
+saying: people will have to decide **what** to do, and then technicians
+will tell them **how** to do it. We say: after listening to technicians,
+people will decide what to do **and** how to do it. For the **how** is
+not neutral -- and the **what** is not disembodied. What and how are
+neither **identical**, nor **external** to each other. A 'neutral'
+technique is, of course, an illusion. A conveyor belt is linked to a
+type of product **and** a type of producer -- and vice versa."*
+[**Social and Political Writings**, vol. 3, p. 265]
+
+However, we must stress that while an anarchist society would "inherit"
+a diverse level of expertise and specialisation from class society, it
+would not take this as unchangeable. Anarchists argue for
+***"all-round"*** (or integral) education as a means of ensuring that
+everyone has a basic knowledge or understanding of science, engineering
+and other specialised tasks. As Bakunin argued, *"in the interests of
+both labour and science . . . there should no longer be either workers
+or scholars but only human beings."* Education must *"prepare every
+child of each sex for the life of thought as well as for the life of
+labour."* [**The Basic Bakunin**, p. 116 and p. 119] This does not imply
+the end of all specialisation (individuals will, of course, express
+their individuality and know more about certain subjects than others)
+but it does imply the end of the artificial specialisation developed
+under capitalism which tries to deskill and disempower the wage worker
+by concentrating knowledge into hands of management.
+
+And, just to state the obvious, self-management does not imply that the
+mass of workers decide on the application of specialised tasks.
+Self-management implies the autonomy of those who do the work as well as
+collective decision making on collective issues. For example, in a
+self-managed hospital the cleaning staff would not have a say in the
+doctors' treatment of patients just as the doctors would not tell the
+cleaners how to do their work (of course, it is likely that an anarchist
+society will **not** have people whose work is simply to clean and
+nothing else, we just use this as an example people will understand).
+All members of a syndicate would have a say in what happens in the
+workplace as it affects them collectively, but individual workers and
+groups of workers would manage their own activity within that
+collective.
+
+Needless to say, self-management abolishes the division of labour
+inherent in capitalism between order takers and order givers. It
+integrates (to use Kropotkin's words) brain work and manual work by
+ensuring that those who do the work also manage it and that a workplace
+is managed by those who use it. Such an integration of labour will,
+undoubtedly, have a massive impact in terms of productivity, innovation
+and efficiency. As Kropotkin argued, the capitalist firm has a negative
+impact on those subject to its hierarchical and alienating structures:
+
+> *"The worker whose task has been specialised by the permanent division
+> of labour has lost the intellectual interest in his [or her] labour,
+> and it is especially so in the great industries; he has lost his
+> inventive powers. Formerly, he [or she] invented very much . . . But
+> since the great factory has been enthroned, the worker, depressed by
+> the monotony of his [or her] work, invents no more."* [**Fields,
+> Factories and Workshops Tomorrow**, p. 171]
+
+Must all the skills, experience and intelligence that very one has be
+swept away or crushed by hierarchy? Or could it not become a new fertile
+source of progress under a better organisation of production?
+Self-management would ensure that the independence, initiative and
+inventiveness of workers (which disappears under wage slavery) comes to
+the fore and is applied. Combined with the principles of *"all-round"*
+(or integral) education (see [section J.5.13](secJ5.html#secj513)) who
+can deny that working people could transform the current economic system
+to ensure *"well-being for all"*? And we must stress that by
+*"well-being"* we mean well-being in terms of meaningful, productive
+activity in humane surroundings and using appropriate technology, in
+terms of goods of utility and beauty to help create strong, healthy
+bodies and in terms of surroundings which are inspiring to live in and
+ecologically integrated.
+
+Little wonder Kropotkin argued that self-management and the *"erasing
+[of] the present distinction between the brain workers and manual
+worker"* would see *"social benefits"* arising from *"the concordance of
+interest and harmony so much wanted in our times of social struggles"*
+and *"the fullness of life which would result for each separate
+individual, if he [or she] were enabled to enjoy the use of both . . .
+mental and bodily powers."* This is in addition to the *"increase of
+wealth which would result from having . . . educated and well-trained
+producers."* [**Op. Cit.**, p. 180]
+
+Let us not forget that today workers **do** manage their own working
+time to a considerable extent. The capitalist may buy a hour of a
+workers' time but they have to ensure that the worker follows their
+orders during that time. Workers resist this imposition and this results
+in considerable shop-floor conflict. Frederick Taylor, for example,
+introduced his system of *"scientific management"* in part to try and
+stop workers managing their own working activity. As David Noble notes,
+workers *"paced themselves for many reason: to keep time for themselves,
+to avoid exhaustion, to exercise authority over their work, to avoid
+killing so-called gravy piece-rate jobs by overproducing and risking a
+pay cut, to stretch out available work for fear of layoffs, to exercise
+their creativity, and, last but not least, to express their solidarity
+and their hostility to management."* These were *"[c]oupled with
+collective co-operation with their fellows on the floor"* and
+*"labour-prescribed norms of behaviour"* to achieve *"shop floor control
+over production."* [**Forces of Production**, p. 33] This is why
+*working to rule"* is such an efficient weapon in the class struggle
+(see [section H.4.4](secH4.html#sech44)) In other words, workers
+naturally tend towards self-management anyway and it is this natural
+movement towards liberty during work hours which is combated by bosses
+(who wins, of course, depends on objective and subjective pressures
+which swing the balance of power towards labour or capital).
+
+Self-management will built upon this already existing unofficial workers
+control over production and, of course, our knowledge of the working
+process which actually doing it creates. The conflict over who controls
+the shop floor -- either those who do the work or those who give the
+orders -- not only shows that self-management is **possible** but also
+show how it can come about as it brings to the fore the awkward fact
+that while the bosses need us, we do not need them!
+
+I.3.3 What does socialisation mean?
+-----------------------------------
+
+A key aspect of anarchism is the socialisation of the means of life.
+This means that the land, housing, workplaces and so forth become common
+property, usable by all who need them. Thus Emma Goldman's summary:
+
+> *"That each and every individual is and ought to be free to own
+> himself and to enjoy the full fruit of his labour; that man is
+> absolved from all allegiance to the kings of authority and capital;
+> that he has, by the very fact of his being, free access to the land
+> and all means of production, and entire liberty of disposing of the
+> fruits of his efforts; that each and every individual has the
+> unquestionable right of free and voluntary association with other
+> equally sovereign individuals for economic, political, social, and
+> other purposes, and that to achieve this end man must emancipate
+> himself from the sacredness of property, the respect for man-made law,
+> the fear of the Church, the cowardice of public opinion, the stupid
+> arrogance of national, racial, religious, and sex superiority, and
+> from the narrow puritanical conception of human life."* [**A
+> Documentary History of the American Years**, vol. 2, pp. 450-1]
+
+This is required because private ownership of collectively used
+"property" (such as workplaces and land) results in a situation where
+the many have to sell their labour (i.e., liberty) to the few who own
+it. This creates hierarchical and authoritarian social relationships as
+well as economic classes. For anarchists, society cannot be divided into
+*"a possessing and a non-possessing"* class system as this is *"a
+condition of social injustice"* as well as making the state
+*"indispensable to the possessing minority for the protection of its
+privileges."* [Rudolf Rocker, **Anarcho-Syndicalism**, p. 11] In other
+words, *"as long as land and capital are unappropriated, the workers are
+free, and that, when these have a master, the workers also are slaves."*
+[Charlotte M. Wilson, **Anarchist Essays**, p. 21]
+
+While there is a tendency by state socialists and the right to equate
+socialisation with nationalisation, there are key differences which the
+different names signify. Nationalisation, in practice and usually in
+theory, means that the means of life become state property. This means
+that rather than those who need and use a specific part of the
+co-operative commonwealth deciding what to do with it, the government
+does. As we discussed in [section B.3.5](secB3.html#secb35) this would
+just be state capitalism, with the state replacing the current
+capitalist and landlords.
+
+As Emma Goldman argued, there is a clear difference between
+socialisation and nationalisation. *"The first requirement of
+Communism,"* she argued, *"is the socialisation of the land and of the
+machinery of production and distribution. Socialised land and machinery
+belong to the people, to be settled upon and used by individuals and
+groups according to their needs."* Nationalisation, on the other hand,
+means that a resource *"belongs to the state; that is, the government
+has control of it and may dispose of it according to its wishes and
+views."* She stressed that *"when a thing is socialised, every
+individual has free access to it and may use it without interference
+from anyone."* When the state owned property, *"[s]uch a state of
+affairs may be called state capitalism, but it would be fantastic to
+consider it in any sense communistic."* [**Red Emma Speaks**, pp. 406-7]
+
+Socialisation aims at replacing property rights by use rights. The key
+to understanding socialisation is to remember that it is about **free
+access**. In other words, that every one has the same rights to the
+means of life as everyone else, that no one is exploited or oppressed by
+those who own the means of life. In the words of Herbert Read:
+
+> *"The essential principle of anarchism is that mankind has reached a
+> stage of development at which it is possible to abolish the old
+> relationship of master-man (capitalist-proletarian) and substitute a
+> relationship of egalitarian co-operation. This principle is based, not
+> only on ethical ground, but also on economic grounds."* [**Anarchy and
+> Order**, p. 92]
+
+This implies two things. Firstly, that the means of life are common
+property, without an owning class. Secondly, there is free association
+between equals within any association and so industrial democracy (or
+self-management).
+
+This has been an anarchist position as long as anarchism has been called
+anarchism. Thus we find Proudhon arguing in 1840 that *"the land is
+indispensable to our existence"* and *"consequently a common thing,
+consequently insusceptible of appropriation"* and that *"all accumulated
+capital being social property, no one can be its exclusive proprietor."*
+This means *"the farmer does not appropriate the field which he sows"*
+and *"all capital . . . being the result of collective labour"* is
+*"collective property."* Without this there is inequality and a
+restriction of freedom as *"the working-man holds his labour by the
+condescension and necessities of the master and proprietor."* The
+*"civilised labourer who bakes a loaf that he may eat a slice of bread .
+. . is not free. His employer . . . is his enemy."* In fact, *"neither a
+commercial, nor an industrial, nor an agricultural association can be
+conceived of in the absence of equality."* The aim was a society of
+*"possessors without masters"* rather than wage-labourers and tenants
+*"controlled by proprietors."* Within any economic association there
+would be democracy, with *"leaders, instructors, superintendents"* and
+so forth being *"chosen from the labourers by the labourers themselves,
+and must fulfil the conditions of eligibility. It is the same with all
+public functions, whether of administration or instruction."* [**What is
+Property?**, p. 107, p. 130, p. 153, p. 128, p. 142, p. 227, p. 167 and
+p. 137]
+
+This meant *"democratically organised workers associations"* and
+*"[u]nder the law of association, transmission of wealth does not apply
+to the instruments of labour, so cannot become a cause of inequality."*
+[Proudhon, **No Gods, No Masters**, vol. 1., p. 62] Thus workplaces
+*"are the common and undivided property of all those who take part
+therein"* rather than *"companies of stockholders who plunder the bodies
+and souls of the wage workers."* This meant free access, with *"every
+individual employed in the association"* having *"an undivided share in
+the property of the company"* and has *"a right to fill any position"*
+as *"all positions are elective, and the by-laws subject to the approval
+of the members."* Each member *"shall participate in the gains and in
+the losses of the company, in proportion to his [or her] services."*
+[Proudhon, **General Idea of the Revolution**, p. 219 and p. 222]
+Proudhon's idea of free credit from a People's Bank, it should be noted,
+is another example of free access, of socialisation. Needless to say,
+anarchists like Bakunin and Kropotkin based their arguments for
+socialisation on this vision of self-managed workplaces and free access
+to the means of life. For Bakunin, for example, *"the land, the
+instruments of work and all other capital may become the collective
+property of the whole of society and be utilised only by the workers, on
+other words, by the agricultural and industrial associations."*
+[**Michael Bakunin: Selected Writings**, p. 174]
+
+So the means of production are socialised in the mutualism, collectivism
+and communism and all rest on the same principle of equal access. So
+when someone joins an existing workers association they become full
+members of the co-operative, with the same rights and duties as existing
+members. In other words, they participate in the decisions on a basis of
+one person, one vote. How the products of that association are
+distributed vary in different types of anarchism, but the associations
+that create them are rooted in the free association of equals. In
+contrast, a capitalist society places the owner in the dominant position
+and new members of the workforce are employees and so subordinate
+members of an organisation which they have no say in (see [section
+B.1](secB1.html)).
+
+Socialisation would mean that workplaces would become *"little republics
+of workingmen."* [Proudhon, quoted by Dorothy W. Douglas, *"Proudhon: A
+Prophet of 1848: Part II"*, pp. 35-59, **The American Journal of
+Sociology**, Vol. 35, No. 1, p. 45] As economist David Ellerman
+explains, the democratic workplace *"is a social community, a community
+of work rather than a community residence. It is a republic, or **res
+publica** of the workplace. The ultimate governance rights are assigned
+as personal rights . . . to the people who work in the firm . . . This
+analysis shows how a firm can be socialised and yet remain 'private' in
+the sense of not being government-owned."* As noted in [section
+I.3.1](secI3.html#seci31), this means the end of the labour market as
+there would be free access to workplaces and so workers would not be
+wage-labourers employed by bosses. Instead, there would be a people
+seeking associations to join and associations seeking new associates to
+work with. *"Instead of abolishing the employment relation,"* Ellerman
+argues, *"state socialism nationalised it . . . Only the democratic firm
+-- where the workers are jointly self-employed -- is a genuine
+alternatives to private or public employment."* [**The Democratic
+Worker-Owned Firm**, p. 76 and p. 209]
+
+So libertarian socialism is based on decentralised decision making
+within the framework of socially-owned but independently-run and
+worker-self-managed syndicates. The importance of socialisation should
+not be downplayed. This is because the self-management of work is not
+sufficient in and of itself to ensure an anarchist society. Under
+feudalism, the peasants managed their own labour but such a regime was
+hardly libertarian for, at a minimum, the peasants paid the landlord
+rent. An industrial equivalent can be imagined, where workers hire
+workplaces and land from capitalists and landlords. As left-wing
+economist Geoffrey M. Hodgson suggests:
+
+> *"Assume that the workers are self-employed but do not own all the
+> means of production. In this case there still may be powerful owners
+> of factories, offices and machines . . . the owners of the means of
+> production would still receive an income, emanating from that
+> ownership. In bargaining with these owners, the workers would be
+> required to concede the claim of these owners to an income, as they
+> would be unable to produce without making use of the means of
+> production owned by others. Hence the workers would still be deprived
+> of . . . 'surplus value'. Profits would still derive from ownership of
+> the means of production."* [**Economics and Utopia**, p. 168]
+
+This would not be (libertarian) socialism (as workers would still be
+exploited) nor would it be capitalism (as there is no wage labour as
+such, although there would be a proletariat). Thus genuine anarchism
+requires socialisation of the means of life, which ensures free access
+(no usury). In other words, self-management (while an essential part of
+anarchism) is not sufficient to make a society anarchistic. Without
+socialism (free access to the means of life) it would be yet another
+class system and rooted in exploitation. To eliminate all exploitation,
+social anarchists propose that productive assets such as workplaces and
+land be owned by society as a whole and run by syndicates and
+self-employed individuals. Thus Kropotkin: *"Free workers, on free land,
+with free machinery, and freely using all the powers given to man by
+science."* [**Act for Yourselves**, p. 102]
+
+This vision of socialisation, of free access, also applies to housing.
+Proudhon, for example, suggested that payments of rent in housing under
+capitalism would be *"carried over to the account of the purchase of the
+property"* and once paid for the house *"shall pass under the control of
+the town administration . . . in the name of all the tenants, and shall
+guarantee them all a domicile, in perpetuity, at the cost of the
+building."* Rented farm land would be the same and would, once paid for,
+*"revert immediately to the town, which shall take the place of the
+former proprietor."* Provision *"shall be made for the supervision of
+the towns, for the installation of cultivators, and for the fixing of
+the boundaries of possessions."* [**General Idea of the Revolution**, p.
+194 and p. 199] Kropotkin had a similar end in mind, namely *"the
+abolition of rent"*, but by different means, namely by *"the
+expropriation of houses"* during a social revolution. This would be
+*"the communalising of houses and the right of each family to a decent
+dwelling."* [**The Conquest of Bread**, p. 91 and p. 95]
+
+It is important to note here that while anarchists tend to stress
+communes (see [section I.5](secI5.html)) this does **not** imply
+communal living in the sense of one-big family. As Kropotkin, for
+example, was at pains to stress such continual communal living is
+*"repugnant to millions of human beings. The most reserved man [and
+woman] certainly feels the necessity of meeting his [or her] fellows for
+the pursue of common work . . . But it is not so for the hours of
+leisure, reserved for rest and intimacy."* Communal living in the sense
+of a human bee-hive *"can please some, and even all at a certain period
+of their life, but the great mass prefers family life (family life of
+the future, be it understood). They prefer isolated apartments."* A
+community living together under one roof *"would be hateful, were it the
+general rule. Isolation, alternating with time spent in society, is the
+normal desire of human nature."* [**Op. Cit.**, pp. 123-4] Thus the aim
+is *"Communism, but not the monastic or barrack-room Communism formerly
+advocated [by state socialists], but the free Communism which places the
+products reaped or manufactured at the disposal of all, leaving to each
+the liberty to consume them as he pleases in his [or her] own home."*
+[**The Place of Anarchism in the Evolution of Socialist Thought**, p. 7]
+Needless to say, each household, like each workplace, would be under the
+control of its users and socialisation exists to ensure that remains the
+case (i.e., that people cannot become tenants/subjects of landlords).
+
+See [section I.6](secI6.html) for a discussion of how socialisation and
+free access could work.
+
+Beyond this basic vision of self-management and socialisation, the
+schools of anarchism vary. Mutualism eliminates wage labour and unites
+workers with the means of production they use. Such a system is
+socialist as it is based on self-management and workers'
+control/ownership of the means of production. However, other social
+anarchists argue that such a system is little more than "petit-bourgeois
+co-operativism" in which the worker-owners of the co-operatives compete
+in the marketplace with other co-operatives for customers, profits, raw
+materials, etc. -- a situation that could result in many of the same
+problems that arise under capitalism or even a return to capitalism (see
+[section I.1.3](secI1.html#seci13)). Some Mutualists recognise this
+danger. Proudhon, as discussed in [section I.3.5](secI3.html#seci35),
+advocated an agro-industrial federation to combat the effects of market
+forces in generating inequality and wage labour. In addition, supporters
+of mutualism can point to the fact that existing co-operatives rarely
+fire their members and are far more egalitarian in nature than
+corresponding capitalist firms. This they argue will ensure that
+mutualism will remain socialist, with easy credit available to those who
+are made unemployed to start their own co-operatives again.
+
+In contrast, within anarcho-collectivism and anarcho-communism society
+as a whole owns the means of life, which allows for the elimination of
+both competition for survival and the tendency for workers to develop a
+proprietary interest the enterprises in which they work. As Kropotkin
+argued, *"[t]here is no reason why the factory . . . should not belong
+to the community . . . It is evident that now, under the capitalist
+system, the factory is the curse of the village, as it comes to overwork
+children and to make paupers of its male inhabitants; and it is quite
+natural that it should be opposed by all means by the workers . . . But
+under a more rational social organisation, the factory would find no
+such obstacles; it would be a boon to the village."* Needless to say,
+such a workplace would be based on workers' self-management, as *"the
+workers . . . ought to be the real managers of industries."* [**Fields,
+Factories and Workshops Tomorrow**, p. 152 and p. 157] This *"socially
+organised industrial production"* (to use Kropotkin's term) would ensure
+a decent standard of living without the problems associated with a
+market, even a non-capitalist one.
+
+In other words, the economy is communalised, with land and the means of
+production being turned into common "property". The community determines
+the social and ecological framework for production while the workforce
+makes the day-to-day decisions about what to produce and how to do it.
+This is because a system based purely on workplace assemblies
+effectively disenfranchises those individuals who do not work but live
+with the effects of production (e.g., ecological disruption). In Murray
+Bookchin's words, the aim would be to advance *"a holistic approach to
+an ecologically oriented economy"* with key policy decisions *"made by
+citizens in face-to-face assemblies -- as **citizens**, not simply as
+workers, farmers, or professionals . . . As citizens, they would
+function in such assemblies by their highest level -- their **human**
+level -- rather than as socially ghettoised beings. They would express
+their general human interests, not their particular status interests."*
+These communalised economies would join with others *"into a regional
+confederal system. Land, factories, and workshops would be controlled by
+the popular assemblies of free communities, not by a nation-state or by
+worker-producers who might very well develop a proprietary interest in
+them."* [**Remaking Society**, p. 194]
+
+An important difference between workplace and community assemblies is
+that the former can be narrow in focus while the latter can give a
+hearing to solutions that bring out the common ground of people as
+people rather than as workers in a specific workplace or industry. This
+would be in the context of communal participation, through face-to-face
+voting of the whole community in local neighbourhood and confederal
+assemblies, which will be linked together through voluntary federations.
+It does **not** mean that the state owns the means of production, as
+under Marxism-Leninism or social democracy, because there is no state
+under libertarian socialism (for more on community assemblies, see
+[section I.5](secI5.html)).
+
+This means that when a workplace is communalised workers'
+self-management is placed within the broader context of the community,
+becoming an aspect of community control. This does not mean that
+workers' do not control what they do or how they do it. Rather, it means
+that the framework within which they make their decisions is determined
+by the community. For example, the local community may decide that
+production should maximise recycling and minimise pollution, and workers
+informed of this decision make investment and production decisions
+accordingly. In addition, consumer groups and co-operatives may be given
+a voice in the confederal congresses of syndicates or even in the
+individual workplaces (although it would be up to local communities to
+decide whether this would be practical or not). In these ways, consumers
+could have a say in the administration of production and the type and
+quality of the product, adding their voice and interests in the creation
+as well as the consumption of a product.
+
+Given the general principle of social ownership and the absence of a
+state, there is considerable leeway regarding the specific forms that
+collectivisation might take -- for example, in regard to methods of
+distribution, the use or non-use of money, etc. -- as can be seen by the
+different systems worked out in various areas of Spain during the
+Revolution of 1936-39. Nevertheless, freedom is undermined when some
+communities are poor while others are wealthy. Therefore the method of
+surplus distribution must insure that all communities have an adequate
+share of pooled revenues and resources held at higher levels of
+confederation as well as guaranteed minimum levels of public services
+and provisions to meet basic human needs. That is why anarchists have
+supported the need for syndicates and communities to federate (see [next
+section](secI3.html#seci34))
+
+Finally, one key area of disagreement between anarchist schools is how
+far socialisation should go. Mutualists think that it should only
+include the means of production while communist-anarchists argue that
+socialisation, to be consistent, must embrace what is produced as well
+as what produced it. Collectivist-anarchists tend to agree with
+mutualists on this, although many think that, over time, the economy
+would evolve into communism as the legacies of capitalism and scarcity
+are overcome. Proudhon spoke for the mutualists:
+
+> *"This, then, is the first point settled: property in product, if we
+> grant so much, does not carry with it property in the means of
+> production; that seems to me to need no further demonstration . . .
+> all . . . are proprietors of their products -- not one is proprietor
+> of the means of production. The right to product is exclusive -- **jus
+> in re**; the right to means is common -- **jus ad rem**."* [**What is
+> Property?**, pp. 120-1]
+
+For libertarian communists, socialisation should be extended to the
+products of labour as well. This means that as well as having free
+access to the means of production, people would also have free access to
+the goods and services produced by them. Again, this does not imply
+people having to share the possessions they use. Rather it means that
+instead of having to buy the goods in question they are distributed
+freely, according to need. To maintain socialisation of the means of
+product but not in goods means basing society *"on two absolutely
+opposed principles, two principles that contradict one another
+continually."* [Kropotkin, **The Conquest of Bread**, p. 163] The need
+is to go beyond the abolition of wage labour into the abolition of money
+(the wages system). This is because any attempt at measuring a person's
+contribution to society will be flawed and, more importantly, people
+*"differ from one another by the amount of their **needs**. There is the
+young unmarried woman and the mother of a family of five or six
+children. For the employer of our days there is no consideration of the
+needs of"* each and *"the labour cheque . . . acts in the same way."*
+[Kropotkin, **Act For Yourselves**, pp. 108-9]
+
+Regardless of precisely which mode of distribution specific individuals,
+workplaces, communes or areas picks, socialisation would be underlying
+all. Free access to the means of production will ensure free
+individuals, including the freedom to experiment with different
+anarchistic economic systems.
+
+I.3.4 What relations would exist between individual syndicates?
+---------------------------------------------------------------
+
+Just as individuals associate together to work on and overcome common
+problems, so would syndicates. Few, if any, workplaces are totally
+independent of others. They require raw materials as inputs and
+consumers for their products. Therefore there will be links between
+different syndicates. These links are twofold: firstly, free agreements
+between individual syndicates; secondly, confederations of syndicates
+(within branches of industry and regionally).
+
+Combined with this desire for free co-operation is a desire to end
+centralised systems. The opposition to centralisation is often framed in
+a distinctly false manner. This can be seen when Alex Nove, a leading
+market socialist, argued that *"there are horizontal links (market),
+there are vertical links (hierarchy). What other dimension is there?"*
+[**The Economics of Feasible Socialism**, p. 226] In other words, to
+oppose central planning means to embrace the market. This is not true:
+horizontal links need not be market based any more than vertical links
+need be hierarchical. An anarchist society must be based essentially on
+horizontal links between individuals and associations, freely
+co-operating together as they (not a central body) sees fit. This
+co-operation will be source of many links in an anarchist economy. When
+a group of individuals or associations meet together and discuss common
+interests and make common decisions they will be bound by their own
+decisions. This is radically different from a central body giving out
+orders because those affected will determine the content of these
+decisions. In other words, instead of decisions being handed down from
+the top, they will be created from the bottom up.
+
+Let us consider free agreement. Anarchists recognise the importance of
+letting people organise their own lives. This means that they reject
+central planning and instead urge direct links between workers'
+associations. In the words of Kropotkin, *"[f]ree workers would require
+a free organisation, and this cannot have any other basis than free
+agreement and free co-operation, without sacrificing the autonomy of the
+individual."* Those directly involved in production (and in consumption)
+know their needs far better than any bureaucrat. Thus voluntary
+agreement is the basis of a free economy, such agreements being
+*"entered by free consent, as a free choice between different courses
+equally open to each of the agreeing parties."* [**Anarchism**, p. 52
+and p. 69] Without the concentration of wealth and power associated with
+capitalism, free agreement will become real and no longer a mask for
+hierarchy.
+
+The anarchist economy *"starts from below, not from above. Like an
+organism, this free society grows into being from the simple unit up to
+the complex structure. The need for . . . the individual struggle for
+life"* is *"sufficient to set the whole complex social machinery in
+motion. Society is the result of the individual struggle for existence;
+it is not, as many suppose, opposed to it."* So anarchists think that
+*"[i]n the same way that each free individual has associated with his
+brothers [and sisters!] to produce . . . all that was necessary for
+life, driven by no other force than his [or her] desire for the full
+enjoyment of life, so each institution is free and self-contained, and
+co-operates and enters into agreements with others because by so doing
+it extends its own possibilities."* This suggests a decentralised
+economy -- even more decentralised than capitalism (which is
+decentralised only in capitalist mythology, as shown by big business and
+transnational corporations, for example) -- one *"growing ever more
+closely bound together and interwoven by free and mutual agreements."*
+[George Barrett, **The Anarchist Revolution**, p. 18]
+
+An anarchist economy would be based on spontaneous order as workers
+practised mutual aid and free association. For communist anarchists,
+this would take the form of *"free exchange without the medium of money
+and without profit, on the basis of requirement and the supply at
+hand."* [Alexander Berkman, **What is Anarchism?**, p. 217]
+*"Anarchists"*, summarised Rocker, *"desire a federation of free
+communities which shall be bound to one another by their common economic
+and social interest and shall arrange their affairs by mutual agreement
+and free contract."* [**Anarcho-Syndicalism**, p. 1] An example of one
+such agreement would be orders for products and services:
+
+> *"This factory of ours is, then, to the fullest extent consistent with
+> the character of its service, a self-governing unit, managing its own
+> productive operations, and free to experiment to the heart's content
+> in new methods, to develop new styles and products. . . This autonomy
+> of the factory is the safeguard. . . against the dead level of
+> mediocrity, the more than adequate substitute for the variety which
+> the competitive motive was once supposed to stimulate, the guarantee
+> of liveliness, and of individual work and workmanship."* [G.D.H. Cole,
+> **Guild Socialism Restated**, p. 59]
+
+This means that free agreement will ensure that customers would be able
+to choose their own suppliers, meaning that production units would know
+whether they were producing what their customers wanted, when they
+wanted it (i.e., whether they were meeting individual and social needs).
+If they were not, customers would go elsewhere, to other production
+units within the same branch of production. We should stress that in
+addition to this negative check (i.e. "exit" by consumers) it is likely,
+via consumer groups and co-operatives as well as communes, that
+workplaces will be subject to positive checks on what they produced.
+Consumer groups, by formulating and communicating needs to producer
+groups, will have a key role in ensuring the quality of production and
+goods and that it satisfies their needs (see [section
+I.4.7](secI4.html#seci47) for more details of this).
+
+These direct horizontal links between syndicates are essential to ensure
+that goods are produced which meet the needs of those who requested
+them. Without specific syndicates requesting specific goods at specific
+times to meet specific requirements, an economy will not meet people's
+needs. A central plan, for example, which states that 1 million tonnes
+of steel or 25 million shirts need to be produced in a year says nothing
+about what specifically needs to be produced and when, which depends on
+how it will be used and the needs of those using it. As Malatesta
+argued, *"it would be an absurd waste of energy to produce blindly for
+all possible needs, rather than calculating the actual needs and
+organising to satisfy them with as little effort as possible . . . the
+solution lies in accord between people and in the agreements . . . that
+will come about"* between them. [**At the Café**, pp. 62-3] Hence the
+pressing need for the classic anarchist ideas on free association, free
+agreement and mutual aid! These direct links between producer and
+consumer can communicate the information required to produce the right
+thing at the right time! As Kropotkin argued (based on his firsthand
+experience of state capitalism in Russia under Lenin):
+
+> *"production and exchange represent an undertaking so complicated that
+> the plans of the state socialists . . . would prove to be absolutely
+> ineffective as soon as they were applied to life. No government would
+> be able to organise production if the workers themselves through their
+> unions did not do it in each branch of industry; for in all production
+> there arise daily thousands of difficulties which no government can
+> solve or foresee. It is certainly impossible to foresee everything.
+> Only the efforts of thousands of intelligences working on the problems
+> can co-operate in the development of a new social system and find the
+> best solutions for the thousands of local needs."* [**Anarchism**, pp.
+> 76-77]
+
+This brings us to the second form of relationships between syndicates,
+namely confederations of syndicates in the same industry or geographical
+area. It should be noted that inter-workplace federations are not
+limited to collectivist, syndicalist and communist anarchists. The idea
+of federations of syndicates goes back to Proudhon's agro-industrial
+federation, first raised during the 1848 revolution and named as such in
+his 1863 book, **The Principle of Federation**. The French mutualist
+suggested an *"agro-industrial federation"* as the structural support
+organisation for his system of self-managed co-operatives. These
+confederations of syndicates, are necessary to aid communication between
+workplaces. No syndicate exists in isolation, and so there is a real
+need for a means by which syndicates can meet together to discuss common
+interests and act on them. Thus confederations are complementary to free
+agreement and also reflect anarchist ideas of free association and
+decentralised organisation as well as concern for practical needs:
+
+> *"Anarchists are strenuously opposed to the authoritarian, centralist
+> spirit . . . So they picture a future social life in the basis of
+> federalism, from the individual to the municipality, to the commune,
+> to the region, to the nation, to the international, on the basis of
+> solidarity and free agreement. And it is natural that this ideal
+> should be reflected also in the organisation of production, giving
+> preference as far as possible, to a decentralised sort of
+> organisation; but this does not take the form of an absolute rule to
+> be applied in every instance. A libertarian order would be in itself .
+> . . rule out the possibility of imposing such a unilateral solution."*
+> [Luigi Fabbri, *"Anarchy and 'Scientific Communism"*, pp. 13-49, **The
+> Poverty of Statism**, Albert Meltzer (ed.), p. 23]
+
+A confederation of syndicates (called a *"guild"* by some libertarian
+socialists, or *"industrial union"* by others) works on two levels:
+within an industry and across industries. The basic operating principle
+of these confederations is the same as that of the syndicate itself --
+voluntary co-operation between equals in order to meet common needs. In
+other words, each syndicate in the confederation is linked by horizontal
+agreements with the others, and none owe any obligations to a separate
+entity above the group (see [section A.2.11](secA2.html#seca211) for
+more on the nature of anarchist confederation). As Herbert Read
+summarised:
+
+> *"The general principle is clear: each industry forms itself into a
+> federation of self-governing collectives; the control of each industry
+> is wholly in the hands of the workers in that industry, and these
+> collectives administer the whole economic life of the country."*
+> [**Anarchy and Order**, p. 49]
+
+Kropotkin's comments on federalism between communes indicate this (a
+syndicate can be considered as a producers' commune). *"The Commune of
+tomorrow,"* he argued *"will know that it cannot admit any higher
+authority; above it there can only be the interests of the Federation,
+freely accepted by itself as well as other communes."* So federalism
+need not conflict with autonomy, as each member would have extensive
+freedom of action within its boundaries and so each *"Commune will be
+absolutely free to adopt all the institutions it wishes and to make all
+the reforms and revolutions it finds necessary."* [**Words of a Rebel**,
+p. 83] Moreover, these federations would be diverse and functional.
+Economic federation would a produce a complex inter-networking between
+associations and federations:
+
+> *"Our needs are in fact so various, and they emerge with such
+> rapidity, that soon a single federation will not be sufficient to
+> satisfy them all. The Commune will then feel the need to contract
+> other alliances, to enter into other federations. Belonging to one
+> group for the acquisition of food supplies, it will have to join a
+> second group to obtain other goods, such as metals, and then a third
+> and a fourth group for textiles and works of art."* [**Op. Cit.**, p.
+> 87]
+
+Therefore, a confederation of syndicates would be adaptive to its
+members needs. As Tom Brown argued, the *"syndicalist mode of
+organisation is extremely elastic, therein is its chief strength, and
+the regional confederations can be formed, modified, added to or
+reformed according to local conditions and changing circumstances."*
+[**Syndicalism**, p. 58]
+
+As would be imagined, these confederations are voluntary associations
+and *"[j]ust as factory autonomy is vital in order to keep the Guild
+system alive and vigorous, the existence of varying democratic types of
+factories in independence of the National Guilds may also be a means of
+valuable experiment and fruitful initiative of individual minds. In
+insistently refusing to carry their theory to its last 'logical'
+conclusion, the Guildsmen [and anarchists] are true to their love of
+freedom and varied social enterprise."* [G.D.H. Cole, **Op. Cit.**, p.
+65] This, it must be stressed does not mean centralised control from the
+top:
+
+> *"But when we say that ownership of the tools of production, including
+> the factory itself, should revert to the corporation [i.e.
+> confederation] we do not mean that the workers in the individual
+> workshops will be ruled by any kind of industrial government having
+> power to do what it pleases with the tools of production. No, the
+> workers in the various factories have not the slightest intention of
+> handing over their hard-won control . . . to a superior power . . .
+> What they will do is . . . to guarantee reciprocal use of their tools
+> of production and accord their fellow workers in other factories the
+> right to share their facilities, receiving in exchange the same right
+> to share the facilities of the fellow workers with whom they have
+> contracted the pact of solidarity."* [James Guillaume, *"On Building
+> the New Social Order"*, pp. 356-79, **Bakunin on Anarchism**, pp.
+> 363-364]
+
+So collectivist and communist anarchism, like mutualism, is rooted in
+self-management in the workplace. This implies the ability of workers to
+pick the kinds of productive tasks they want to do. It would not be the
+case of workplaces simply being allocated tasks by some central body and
+expected to fulfil them (a task which, ignoring the real issues of
+bureaucracy and freedom, would be difficult to implement in any large
+and complex economy). Rather, workplaces would have the power to select
+tasks submitted to them by other associations (economic and communal)
+and control how the work required to achieve them was done. In this type
+of economic system, workers' assemblies and councils would be the focal
+point, formulating policies for their individual workplaces and
+deliberating on industry-wide or economy-wide issues through general
+meetings of the whole workforce in which everyone would participate in
+decision making. Voting in the councils would be direct, whereas in
+larger confederal bodies, voting would be carried out by temporary,
+unpaid, mandated, and instantly recallable delegates, who would resume
+their status as ordinary workers as soon as their mandate had been
+carried out.
+
+**Mandated** here means that the delegates from workers' assemblies and
+councils to meetings of higher confederal bodies would be instructed, at
+every level of confederation, by the workers who elected them on how to
+deal with any issue. They would be delegates, not representatives, and
+so would attend any confederal meeting with specific instructions on how
+to vote on a particular issue. **Recallable** means that if they do not
+vote according to that mandate they will be replaced and the results of
+the vote nullified. The delegates, in other words, would be given
+imperative mandates (binding instructions) that committed them to a
+framework of policies within which they would have to act, and they
+could be recalled and their decisions revoked at any time for failing to
+carry out the mandates they were given (this support for mandated
+delegates has existed in anarchist theory since at least 1848, when
+Proudhon argued that it was *"a consequence of universal suffrage"* to
+ensure that *"the people . . . do not . . . abjure their sovereignty."*
+[**No Gods, No Masters**, vol. 1, p. 63]). Because of this right of
+mandating and recalling their delegates, the workers' assemblies at the
+base would be the source of, and final "authority" (so to speak) over,
+policy for all higher levels of confederal co-ordination of the economy.
+Delegates will be ordinary workers rather than paid full-time
+representatives or union leaders, and they will return to their usual
+jobs as soon as the mandate for which they have been elected has been
+carried out. In this way, decision-making power remains with the
+workers' councils and does not become concentrated at the top of a
+bureaucratic hierarchy in an elite class of professional administrators
+or union leaders. What these confederations could do is discussed in the
+[next section](secI3.html#seci35).
+
+In summary, a free society *"is freely organised, from the bottom to
+top, staring from individuals that unite in associations which slowly
+grow bit by bit into ever more complex federations of associations"*.
+[Malatesta, **At the Cafe**, p. 65]
+
+I.3.5 What would confederations of syndicates do?
+-------------------------------------------------
+
+Voluntary confederation among syndicates is considered necessary by
+social anarchists for numerous reasons but mostly in order to decide on
+the policies governing relations between syndicates and to co-ordinate
+their activities. This could vary from agreeing technical standards, to
+producing guidelines and policies on specific issues, to agreeing major
+investment decisions or prioritising certain large-scale economic
+projects or areas of research. In addition, they would be the means by
+which disputes could be solved and any tendencies back towards
+capitalism or some other class society identified and acted upon.
+
+This can be seen from Proudhon, who was the first to suggest the need
+for such federations. *"All my economic ideas developed over the last
+twenty-five years,"* he stated, *"can be defined in three words:
+**Agro-industrial federation**"* This was required because *"[h]owever
+impeccable in its basic logic the federal principle may be . . . it will
+not survive if economic factors tend persistently to dissolve it. In
+other words, political right requires to be buttressed by economic
+right"*. A free society could not survive if *"capital and commerce"*
+existed, as it would be *"divided into two classes -- one of landlords,
+capitalists, and entrepreneurs, the other of wage-earning proletarians,
+one rich, the other poor."* Thus *"in an economic context, confederation
+may be intended to provide reciprocal security in commerce and industry
+. . . The purpose of such specific federal arrangements is to protect
+the citizens . . . from capitalist and financial exploitation, both from
+within and from the outside; in their aggregate they form . . . an
+**agro-industrial federation**"* [**The Principle of Federation**, p.
+74, p. 67 and p. 70]
+
+While capitalism results in *"interest on capital"* and *"wage-labour or
+economic servitude, in short inequality of condition"*, the
+*"agro-industrial federation . . . will tend to foster increasing
+equality . . . through mutualism in credit and insurance . . .
+guaranteeing the right to work and to education, and an organisation of
+work which allows each labourer to become a skilled worker and an
+artist, each wage-earner to become his own master."* The *"industrial
+federation"* will apply *"on the largest scale"* the *"principles of
+mutualism"* and *"economic solidarity"*. As *"industries are sisters"*,
+they *"are parts of the same body"* and *"one cannot suffer without the
+others sharing in its suffering. They should therefore federate . . . in
+order to guarantee the conditions of common prosperity, upon which no
+one has an exclusive claim."* Thus mutualism sees *"all industries
+guaranteeing one another mutually"* as well as *"organising all public
+services in an economical fashion and in hands other than the state's."*
+[**Op. Cit.**, p. 70, p. 71, p. 72 and p. 70]
+
+Later anarchists took up, built upon and clarified these ideas of
+economic federation. There are two basic kinds of confederation: an
+industrial one (i.e., a federation of all workplaces of a certain type)
+and a regional one (i.e. a federation of all syndicates within a given
+economic area). Thus there would be a federation for each industry and a
+federation of all syndicates in a geographical area. Both would operate
+at different levels, meaning there would be confederations for both
+industrial and inter-industrial associations at the local and regional
+levels and beyond. The basic aim of this inter-industry and
+cross-industry networking is to ensure that the relevant information is
+spread across the various parts of the economy so that each can
+effectively co-ordinate its plans with the others in a way which
+minimises ecological and social harm. Thus there would be a railway
+workers confederation to manage the rail network but the local, regional
+and national depots and stations would send a delegate to meet regularly
+with the other syndicates in the same geographical area to discuss
+general economic issues.
+
+However, it is essential to remember that each syndicate within the
+confederation is autonomous. The confederations seek to co-ordinate
+activities of joint interest (in particular investment decisions for new
+plant and the rationalisation of existing plant in light of reduced
+demand). They do not determine what work a syndicate does or how they do
+it:
+
+> *"With the factory thus largely conducting its own concerns, the
+> duties of the larger Guild organisations [i.e. confederations] would
+> be mainly those of co-ordination, or regulation, and of representing
+> the Guild in its external relations. They would, where it was
+> necessary, co-ordinate the production of various factories, so as to
+> make supply coincide with demand. . . they would organise research . .
+> . This large Guild organisation. . . must be based directly on the
+> various factories included in the Guild."* [Cole, **Guild Socialism
+> Restated**, pp. 59-60]
+
+So it is important to note that the lowest units of confederation -- the
+workers' assemblies -- will control the higher levels, through their
+power to elect mandated and recallable delegates to meetings of higher
+confederal units. It would be fair to make the assumption that the
+"higher" up the federation a decision is made, the more general it will
+be. Due to the complexity of life it would be difficult for federations
+which cover wide areas to plan large-scale projects in any detail and so
+would be, in practice, more forums for agreeing guidelines and
+priorities than planning actual specific projects or economies. As
+Russian anarcho-syndicalist G.P. Maximov put it, the aim *"was to
+co-ordinate all activity, all local interest, to create a centre but not
+a centre of decrees and ordinances but a centre of regulation, of
+guidance -- and only through such a centre to organise the industrial
+life of the country."* [quoted by M. Brinton, **For Workers' Power**, p.
+330]
+
+So this is a decentralised system, as the workers' assemblies and
+councils at the base having the final say on **all** policy decisions,
+being able to revoke policies made by those with delegated
+decision-making power and to recall those who made them:
+
+> *"When it comes to the material and technical method of production,
+> anarchists have no preconceived solutions or absolute prescriptions,
+> and bow to what experience and conditions in a free society recommend
+> and prescribe. What matters is that, whatever the type of production
+> adopted, it should be the free choice of the producers themselves, and
+> cannot possibly be imposed, any more than any form is possible of
+> exploitations of another's labour. . . Anarchists do not **a priori**
+> exclude any practical solution and likewise concede that there may be
+> a number of different solutions at different times."* [Luigi Fabbri,
+> *"Anarchy and 'Scientific' Communism"*, pp. 13-49, **The Poverty of
+> Statism**, Albert Meltzer (ed.), p. 22]
+
+Confederations would exist for specific reasons. Mutualists, as can be
+seen from Proudhon, are aware of the dangers associated with even a
+self-managed, socialistic market and create support structures to defend
+workers' self-management. Moreover, it is likely that industrial
+syndicates would be linked to mutual banks (a credit syndicate). Such
+syndicates would exist to provide interest-free credit for
+self-management, new syndicate expansion and so on. And if the
+experience of capitalism is anything to go by, mutual banks will also
+reduce the business cycle as *"[c]ountries like Japan and Germany that
+are usually classifies as bank-centred -- because banks provide more
+outside finance than markets, and because more firms have long-term
+relationships with their banks -- show greater growth in and stability
+of investment over time than the market-centred ones, like the US and
+Britain . . . Further, studies comparing German and Japanese firms with
+tight bank ties to those without them also show that firms with bank
+ties exhibit greater stability in investment over the business cycle."*
+[Doug Henwood, **Wall Street**, pp. 174-5]
+
+One argument against co-operatives is that they do not allow the
+diversification of risk (all the worker's eggs are on one basket).
+Ignoring the obvious point that most workers today do not have shares
+and are dependent on their job to survive, this objection can be
+addressed by means of *"the **horizontal association** or grouping of
+enterprises to pool their business risk. The Mondragon co-operatives are
+associated together in a number of regional groups that pool their
+profits in varying degrees. Instead of a worker diversifying his or her
+capital in six companies, six companies partially pool their profits in
+a group or federation and accomplish the same risk-reduction purpose
+without transferable equity capital."* Thus *"risk-pooling in
+federations of co-operatives"* ensure that *"transferable equity capital
+is not necessary to obtain risk diversification in the flow of annual
+worker income."* [David Ellerman, **The Democratic Worker-Owned Firm**,
+p. 104] Moreover, as the example of many isolated co-operatives under
+capitalism have shown, support networks are essential for co-operatives
+to survive. It is no co-incidence that the Mondragon co-operative
+complex in the Basque region of Spain has a credit union and mutual
+support networks between its co-operatives and is by far the most
+successful co-operative system in the world. The *"agro-industrial
+federation"* exists precisely for these reasons.
+
+Under collectivist and communist anarchism, the federations would have
+addition tasks. There are two key roles. Firstly, the sharing and
+co-ordination of information produced by the syndicates and, secondly,
+determining the response to the changes in production and consumption
+indicated by this information.
+
+Confederations (negotiated-co-ordination bodies) would be responsible
+for clearly defined branches of production, and in general, production
+units would operate in only one branch of production. These
+confederations would have direct links to other confederations and the
+relevant communal confederations, which supply the syndicates with
+guidelines for decision making (see [section I.4.4](secI4.html#seci44))
+and ensure that common problems can be highlighted and discussed. These
+confederations exist to ensure that information is spread between
+workplaces and to ensure that the industry responds to changes in social
+demand. In other words, these confederations exist to co-ordinate major
+new investment decisions (i.e. if demand exceeds supply) and to
+determine how to respond if there is excess capacity (i.e. if supply
+exceeds demand).
+
+It should be pointed out that these confederated investment decisions
+will exist along with the investments associated with the creation of
+new syndicates, plus internal syndicate investment decisions. We are not
+suggesting that **every** investment decision is to be made by the
+confederations. (This would be particularly impossible for **new**
+industries, for which a confederation would not exist!) Therefore, in
+addition to co-ordinated production units, an anarchist society would
+see numerous small-scale, local activities which would ensure
+creativity, diversity, and flexibility. Only after these activities had
+spread across society would confederal co-ordination become necessary.
+So while production will be based on autonomous networking, the
+investment response to consumer actions would, to some degree, be
+co-ordinated by a confederation of syndicates in that branch of
+production. By such means, the confederation can ensure that resources
+are not wasted by individual syndicates over-producing goods or
+over-investing in response to changes in production. By communicating
+across workplaces, people can overcome the barriers to co-ordinating
+their plans which one finds in market systems (see [section
+C.7.2](secC7.html#secc72)) and so avoid the economic and social
+disruptions associated with them.
+
+Thus, major investment decisions would be made at congresses and plenums
+of the industry's syndicates, by a process of horizontal, negotiated
+co-ordination. Major investment decisions are co-ordinated at an
+appropriate level, with each unit in the confederation being autonomous,
+deciding what to do with its own productive capacity in order to meet
+social demand. Thus we have self-governing production units co-ordinated
+by confederations (horizontal negotiation), which ensures local
+initiative (a vital source of flexibility, creativity, and diversity)
+and a rational response to changes in social demand. As links between
+syndicates are non-hierarchical, each syndicate remains self-governing.
+This ensures decentralisation of power and direct control, initiative,
+and experimentation by those involved in doing the work.
+
+It should be noted that during the Spanish Revolution successfully
+federated in different ways. Gaston Leval noted that these forms of
+confederation did not harm the libertarian nature of self-management:
+
+> *"Everything was controlled by the syndicates. But it must not
+> therefore be assumed that everything was decided by a few higher
+> bureaucratic committees without consulting the rank and file members
+> of the union. Here libertarian democracy was practised. As in the
+> C.N.T. there was a reciprocal double structure; from the grass roots
+> at the base . . . upwards, and in the other direction a reciprocal
+> influence from the federation of these same local units at all levels
+> downwards, from the source back to the source."* [**The Anarchist
+> Collectives**, p. 105]
+
+The exact nature of any confederal responsibilities will vary, although
+we *"prefer decentralised management; but ultimately, in practical and
+technical problems, we defer to free experience."* [Luigi Fabbri, **Op.
+Cit.**, p. 24] The specific form of organisation will obviously vary as
+required from industry to industry, area to area, but the underlying
+ideas of self-management and free association will be the same.
+Moreover, the *"essential thing . . . is that its [the confederation or
+guild] function should be kept down to the minimum possible for each
+industry."* [Cole, **Op. Cit.**, p. 61]
+
+Another important role for inter-syndicate federations is to even-out
+inequalities. After all, each area will not be identical in terms of
+natural resources, quality of land, situation, accessibility, and so on.
+Simply put, social anarchists *"believe that because of natural
+differences in fertility, health and location of the soil it would be
+impossible to ensure that every individual enjoyed equal working
+conditions."* Under such circumstances, it would be *"impossible to
+achieve a state of equality from the beginning"* and so *"justice and
+equity are, for natural reasons, impossible to achieve . . . and that
+freedom would thus also be unachievable."* [Malatesta, **The Anarchist
+Revolution**, p. 16 and p. 21]
+
+This was recognised by Proudhon, who saw the need for economic
+federation due to differences in raw materials, quality of land and so
+on, and as such argued that a portion of income from agricultural
+produce be paid into a central fund which would be used to make
+equalisation payments to compensate farmers with less favourably
+situated or less fertile land. As he put it, economic rent *"in
+agriculture has no other cause than the inequality in the quality of
+land . . . if anyone has a claim on account of this inequality . . . [it
+is] the other land workers who hold inferior land. That is why in our
+scheme for liquidation [of capitalism] we stipulated that every variety
+of cultivation should pay a proportional contribution, destined to
+accomplish a balancing of returns among farm workers and an assurance of
+products."* In addition, *"all the towns of the Republic shall come to
+an understanding for equalising among them the quality of tracts of
+land, as well as accidents of culture."* [**General Idea of the
+Revolution**, p. 209 and p. 200]
+
+By federating together, workers can ensure that *"the earth will . . .
+be an economic domain available to everyone, the riches of which will be
+enjoyed by all human beings."* [Malatesta, **Errico Malatesta: His Life
+and Ideas**, p. 93] Local deficiencies of raw materials, in the quality
+of land, and, therefore, supplies would be compensated from outside, by
+the socialisation of production and consumption. This would allow all of
+humanity to share and benefit from economic activity, so ensuring that
+well-being for all is possible.
+
+Federation would eliminate the possibility of rich and poor collectives
+and syndicates co-existing side by side. As Kropotkin argued, *"[c]ommon
+possession of the necessities for production implies the common
+enjoyment of the fruits of common production . . . when everybody,
+contributing for the common well-being to the full extent of his [or
+her] capacities, shall enjoy also from the common stock of society to
+the fullest possible extent of his [or her] needs."* [**Anarchism**, p.
+59] Hence we find the CNT arguing in its 1936 resolution on libertarian
+communism that *"[a]s far as the interchange of produce between communes
+is concerned, the communal councils are to liase with the regional
+federations of communes and with the confederal council of production
+and distribution, applying for whatever they may need and [giving] any
+available surplus stocks."* [quoted by Jose Peirats, **The CNT in the
+Spanish Revolution**, vol. 1, p. 107] This clearly followed Kropotkin's
+comments that the *"socialising of production, consumption, and
+exchange"* would be based on workplaces *"belong[ing] to federated
+Communes."* [**The Conquest of Bread**, p. 136]
+
+The legacy of capitalism, with its rich and poor areas, its rich and
+poor workplaces, will be a problem any revolution will face. The
+inequalities produced by centuries of class society will take time to
+change. This is one of the tasks of the confederation, to ensure the
+socialisation of both production and consumption so that people are not
+penalised for the accidents of history and that each commune can develop
+itself to an adequate level. In the words of the CNT during the Spanish
+Revolution:
+
+> *"Many arguments are used against the idea of socialisation; one of
+> these -- the most delightful -- says that by socialising an industry
+> we simply take it over and run it with the consequence that we have
+> flourishing industries where the workers are privileged, and
+> unfortunate industries where the workers get less benefits but have to
+> work harder than workers elsewhere . . . There are differences between
+> the workers in prosperous industries and those which barely survive. .
+> . Such anomalies, which we don't deny exist, are attributed to the
+> attempts at socialisation. We firmly assert that the opposite is true;
+> such anomalies are the logical result of the absence of
+> socialisation.*
+
+> *"The socialisation which we propose will resolve these problems which
+> are used to attack it. Were Catalan industry socialised, everything
+> would be organically linked -- industry, agriculture, and the trade
+> union organisations, in accordance with the council for the economy.
+> They would become normalised, the working day would become more equal
+> or what comes to the same thing, the differences between workers of
+> different activities would end . . .*
+
+> *"Socialisation is -- and let its detractors hear it -- the genuine
+> authentic organisation of the economy. Undoubtedly the economy has to
+> be organised; but not according to the old methods, which are
+> precisely those which we are destroying, but in accordance with new
+> norms which will make our people become an example to the world
+> proletariat."* [**Solidaridad Obrera**, 30 April 1937, p. l2]
+
+Workers' self-management does not automatically mean that all forms of
+economic domination and exploitation would be eliminated. After all, in
+a market economy firms can accrue super-profits simply because of their
+size or control over a specific technology or resource. Hence Proudhon's
+suggestion that *"advocates of mutualism"* would *"regulate the market"*
+to ensure *"an honest breakdown of cost prices"*, fix *"after amicable
+discussion of a **maximum** and **minimum** profit margin"* and *"the
+organising of regulating societies."* [**Selected Writings of
+Pierre-Joseph Proudhon**, p. 70] It seems likely that the
+agro-industrial federation would be the body which ensures that.
+Similarly, the federation would be the means by which to air, and deal
+with, suggestions that syndicates are monopolising their resources,
+i.e., treating them as private property rather than socialised
+possessions. Thus the federation would unite workers *"to guarantee the
+mutual use of the tools of production"* which are, *"by a reciprocal
+contract"*, the *"collective property of the whole."* [James Guillaume,
+*"On Building the New Social Order"*, pp. 356-79, **Bakunin on
+Anarchism**, p. 376]
+
+The inter-industry confederations help ensure that when the members of a
+syndicate change work to another syndicate in another (or the same)
+branch of industry, they have the same rights as the members of their
+new syndicate. In other words, by being part of the confederation, a
+worker ensures that s/he has the same rights and an equal say in
+whatever workplace is joined. This is essential to ensure that a
+co-operative society remains co-operative, as the system is based on the
+principle of *"one person, one vote"* by all those involved the work
+process. If specific syndicates **are** restricting access and so
+producing wage-labour, monopolising resources and so charging monopoly
+prices, the federation would be forum to publicly shame such syndicates
+and organise boycotts of them. Such anti-social activity is unlikely to
+be tolerated by a free people seeking to protect that freedom.
+
+However, it could again be argued that these confederations are still
+centralised and that workers would still be following orders coming from
+above. This is incorrect, for any decisions concerning an industry or
+plant are under the direct control of those involved. For example, the
+steel industry confederation may decide to rationalise itself at one of
+its congresses. Murray Bookchin sketches the response to this situation
+as follows:
+
+> *"[L]et us suppose that a board of highly qualified technicians is
+> established [by this congress] to propose changes in the steel
+> industry. This board . . . advances proposals to rationalise the
+> industry by closing down some plants and expanding the operation of
+> others . . . Is this a 'centralised' body or not? The answer is both
+> yes and no. Yes, only in the sense that the board is dealing with
+> problems that concern the country as a whole; no, because it can make
+> no decision that **must** be executed for the country as a whole. The
+> board's plan must be examined by all the workers in the plants [that
+> are affected] . . . The board itself has no power to enforce
+> 'decisions'; it merely makes recommendations. Additionally, its
+> personnel are controlled by the plant in which they work and the
+> locality in which they live . . . they would have no decision-making
+> powers. The adoption, modification or rejection of their plans would
+> rest entirely with . . . [those] involved."* [**Post Scarcity
+> Anarchism**, p. 180]
+
+Therefore, confederations would not be in positions of power over the
+individual syndicates. No attempt is made to determine which plants
+produce which steel for which customers in which manner. Thus, the
+confederations of syndicates ensure a decentralised, spontaneous
+economic order without the negative side-effects of capitalism (namely
+power concentrations within firms and in the market, periodic crises,
+etc.).
+
+As one can imagine, an essential feature of these confederations will be
+the collection and processing of information in order to determine how
+an industry is developing. This does not imply bureaucracy or
+centralised control at the top. Taking the issue of centralisation
+first, the confederation is run by delegate assemblies, meaning that any
+officers elected at a congress only implement the decisions made by the
+delegates of the relevant syndicates. It is in the congresses and
+plenums of the confederation that new investment decisions, for example,
+are made. The key point to remember is that the confederation exists
+purely to co-ordinate joint activity and share information, it does not
+take an interest in how a workplace is run or what orders from consumers
+it fills. (Of course, if a given workplace introduces policies which
+other syndicates disapprove of, it can be expelled). As the delegates to
+these congresses and plenums are mandated and their decisions subject to
+rejection and modification by each productive unit, the confederation is
+not centralised.
+
+As far as bureaucracy goes, the collecting and processing of information
+does necessitate an administrative staff to do the work. However, this
+problem affects capitalist firms as well; and since syndicates are based
+on bottom-up decision making, its clear that, unlike a centralised
+capitalist corporation, administration would be smaller. In fact, it is
+likely that a fixed administration staff for the confederation would not
+exist in the first place! At the regular congresses, a particular
+syndicate may be selected to do the confederation's information
+processing, with this job being rotated regularly around different
+syndicates. In this way, a specific administrative body and equipment
+can be avoided and the task of collating information placed directly in
+the hands of ordinary workers. Further, it prevents the development of a
+bureaucratic elite by ensuring that **all** participants are versed in
+information-processing procedures.
+
+Lastly, what information would be collected? That depends on the
+context. Individual syndicates would record inputs and outputs,
+producing summary sheets of information. For example, total energy
+input, in kilowatts and by type, raw material inputs, labour hours
+spent, orders received, orders accepted, output, and so forth. This
+information can be processed into energy use and labour time per product
+(for example), in order to give an idea of how efficient production is
+and how it is changing over time. For confederations, the output of
+individual syndicates can be aggregated and local and other averages can
+be calculated. In addition, changes in demand can be identified by this
+aggregation process and used to identify when investment will be needed
+or plants closed down. In this way the chronic slumps and booms of
+capitalism can be avoided without creating a system which is even more
+centralised than capitalism.
+
+I.3.6 What about competition between syndicates?
+------------------------------------------------
+
+This is a common question, particularly from defenders of capitalism.
+They argue that syndicates will not co-operate together unless forced to
+do so, and will compete against each other for raw materials, skilled
+workers, and so on. The result of this process, it is claimed, will be
+rich and poor syndicates, inequality within society and within the
+workplace, and (possibly) a class of unemployed workers from
+unsuccessful syndicates who are hired by successful ones. In other
+words, they argue that libertarian socialism will need to become
+authoritarian to prevent competition, and that if it does not do so it
+will become capitalist very quickly.
+
+For individualist anarchists and mutualists, competition is not viewed
+as a problem. They think that competition, based around co-operatives
+and mutual banks, would minimise economic inequality, as the new
+economic structure based around free credit and co-operation would
+eliminate non-labour (i.e. unearned) income such as profit, interest and
+rent and give workers enough bargaining power to eliminate exploitation.
+For these anarchists it is a case of capitalism perverting competition
+and so are not against competition itself. Other anarchists think that
+whatever gains might accrue from competition (assuming there are, in
+fact, any) would be more than offset by its negative effects, which are
+outlined in [section I.1.3](secI1.html#seci13). It is to these
+anarchists that the question is usually asked.
+
+Before continuing, we would like to point out that individuals trying to
+improve their lot in life is not against anarchist principles. How could
+it be? *"Selfish is not a crime,"* John Most and Emma Goldman noted,
+*"it only becomes a crime when conditions are such as to give an
+individual the opportunity to satisfy his selfishness to the detriment
+of others. In an anarchistic society everyone will seek to satisfy his
+ego"* but in order to do so he *"will extend his aid to those who will
+aid him, and then selfishness will no more be a curse but a blessing."*
+[*"Talking about Anarchy"*, **Black Flag**, no. 228, p. 28] Thus
+anarchists see co-operation and mutual aid as an expression of
+"self-interest", in that working with people as equals is in our joint
+benefit. In the words of John O'Neill:
+
+> *"[F]or it is the institutions themselves that define what counts as
+> one's interests. In particular, the market encourages egoism, not
+> primarily because it encourages an individual to be 'self-interested'
+> -- it would be unrealistic not to expect individuals to act for the
+> greater part in a 'self-interested' manner -- but rather because it
+> defines an individual's interests in a particularly narrow fashion,
+> most notably in terms of possession of certain material goods. In
+> consequence, where market mechanism enter a particular sphere of life,
+> the pursuit of goods outside this narrow range of market goods is
+> institutionally defined as an act of altruism."* [**The Market**, p.
+> 158]
+
+As such, anarchists would suggest that we should not confuse competition
+with self-interest and that a co-operative society would tend to promote
+institutions and customs which would ensure that people recognised that
+co-operation between equals maximises individual freedom and
+self-interest far more than individualistic pursuit to material wealth
+at the expense of all other goals. Ultimately, what use would it be to
+gain the world and loose what makes life worth living?
+
+Of course, such a society would not be based on exactly equal shares of
+everything. Rather, it would mean equal opportunity and free, or equal,
+access to resources (for example, that only ill people use medical
+resources is unproblematic for egalitarians!). So a society with unequal
+distributions of resources is not automatically a non-anarchist one.
+What **is** against anarchist principles is centralised power,
+oppression, and exploitation, all of which flow from large inequalities
+of income and private property. This is the source of anarchist concern
+about equality -- concern that is not based on some sort of *"politics
+of envy."* Anarchists oppose inequality because it soon leads to the few
+oppressing the many (a relationship which distorts the individuality and
+liberty of all involved as well as the health and very lives of the
+oppressed).
+
+Anarchists desire to create a society in which such relationships are
+impossible, believing that the most effective way to do this is by
+empowering all, by creating an egoistic concern for liberty and equality
+among the oppressed, and by developing social organisations which
+encourage self-management. As for individuals' trying to improve their
+lot, anarchists maintain that co-operation is the best means to do so,
+**not** competition. And there is substantial evidence to support this
+claim (see, for example, Alfie Kohn's **No Contest: The Case Against
+Competition** and Robert Axelrod's **The Evolution of Co-operation**
+present abundant evidence that co-operation is in our long term
+interests and provides better results than short term competition). This
+suggests that, as Kropotkin argued, mutual aid, not mutual struggle,
+will be in an individual's self-interest and so competition in a free,
+sane society would be minimised and reduced to sports and other
+individual pastimes. As Stirner argued, co-operation is just as egoistic
+as competition (a fact sometimes lost on many due to the obvious ethical
+superiority of co-operation):
+
+> *"But should competition some day disappear, because concerted effort
+> will have been acknowledged as more beneficial than isolation, then
+> will not every single individual inside the associations be equally
+> egoistic and out for his own interests?"* [**No Gods, No Masters**,
+> vol. 1, p. 22]
+
+Now to the "competition" objection, which we'll begin to answer by
+noting that it ignores a few key points.
+
+Firstly, the assumption that a libertarian society would "become
+capitalist" in the absence of a **state** is obviously false. If
+competition did occur between collectives and did lead to massive wealth
+inequalities, then the newly rich would have to create a state to
+protect their private property against the dispossessed. So inequality,
+not equality, leads to the creation of states. It is no co-incidence
+that the anarchic communities that existed for millennia were also
+egalitarian.
+
+Secondly, as noted in [section A.2.5](secA2.html#seca25), anarchists do
+not consider *"equal"* to mean *"identical."* Therefore, to claim that
+wage differences mean the end of anarchism makes sense only if one
+thinks that *"equality"* means everyone getting **exactly** equal
+shares. As anarchists do not hold such an idea, wage differences in an
+otherwise anarchistically organised syndicate do not indicate a lack of
+equality. How the syndicate is **run** is of far more importance,
+because the most pernicious type of inequality from the anarchist
+standpoint is inequality of **power,** i.e. unequal influence on
+political and economic decision making.
+
+Under capitalism, wealth inequality translates into such an inequality
+of power, and vice versa, because wealth can buy private property (and
+state protection of it), which gives owners authority over that property
+and those hired to produce with it; but under libertarian socialism,
+minor or even moderate differences in income among otherwise equal
+workers would not lead to this kind of power inequality, because
+self-management and socialisation severs the link between wealth and
+power. Moreover, when labour becomes free in a society of rebels (and,
+surely, an anarchist society could be nothing but) few would tolerate
+relatively minor income inequalities becoming a source of power.
+
+Thirdly, anarchists do not pretend that an anarchist society will be
+perfect. Hence there may be periods, particularly just after capitalism
+has been replaced by self-management, when differences in skill, etc.,
+leads to some people exploiting their position and getting more wages,
+better hours and conditions, and so forth. This problem existed in the
+industrial collectives in the Spanish Revolution. As Kropotkin pointed
+out, *"[b]ut, when all is said and done, some inequalities, some
+inevitable injustice, undoubtedly will remain. There are individuals in
+our societies whom no great crisis can lift out of the deep mire of
+egoism in which they are sunk. The question, however, is not whether
+there will be injustices or no, but rather how to limit the number of
+them."* [**The Conquest of Bread**, p. 94]
+
+In other words, these problems will exist, but there are a number of
+things that anarchists can do to minimise their impact. There will be a
+*"gestation period"* before the birth of an anarchist society, in which
+social struggle, new forms of education and child-rearing, and other
+methods of consciousness-raising increase the number of anarchists and
+decrease the number of authoritarians.
+
+The most important element in this gestation period is social struggle.
+Such self-activity will have a major impact on those involved in it (see
+[section J.2](secJ2.html)). By direct action and solidarity, those
+involved develop bounds of friendship and support with others, develop
+new forms of ethics and new ideas and ideal. This radicalisation process
+will help to ensure that any differences in education and skill do not
+develop into differences in power in an anarchist society by making
+people less likely to exploit their advantages nor, more importantly,
+for others to tolerate them doing so!
+
+In addition, education within the anarchist movement should aim, among
+other things, to give its members familiarity with technological skills
+so that they are not dependent on "experts" and can thus increase the
+pool of skilled workers who will be happy working in conditions of
+liberty and equality. This will ensure that differentials between
+workers can be minimised. In the long run, however, popularisation of
+non-authoritarian methods of child-rearing and education (see [section
+J.6](secJ6.html)) are particularly important because, as we suggested in
+[section B.1.5](secB1.html#secb15), secondary drives such as greed and
+the desire the exercise power over others are products of authoritarian
+upbringing based on punishments and fear. Only if the prevalence of such
+drives is reduced among the general population can we be sure that an
+anarchist revolution will not degenerate into some new form of
+domination and exploitation.
+
+However, there are other reasons why economic inequality -- say, in
+differences of income levels or working conditions, which may arise from
+competition for "better" workers -- would be far less severe under any
+form of anarchist society than it is under capitalism.
+
+Firstly, the syndicates would be democratically managed. This would
+result in much smaller wage differentials, because there is no board of
+wealthy directors setting wage levels for their own gain. So without
+hierarchies in the workplace no one would be in a position to monopolise
+the work of others and grow rich as a result:
+
+> *"Poverty is the symptom: slavery the disease. The extremes of riches
+> and destitution follow inevitably upon the extremes of license and
+> bondage. The many are not enslaved because they are poor, they are
+> poor because they are enslaved. Yet Socialists have all too often
+> fixed their eyes upon the material misery of the poor without
+> realising that it rests upon the spiritual degradation of the slave."*
+> [G.D.H. Cole, **Self-Government in Industry**, p. 41]
+
+Empirical evidence supports anarchist claims as co-operatives have a far
+more egalitarian wage structure than capitalist firms. This can be seen
+from the experience of the Mondragon co-operatives, where the wage
+difference between the highest paid and lowest paid worker was 4 to 1.
+This was only increased when they had to compete with large capitalist
+companies, and even then the new ratio of 9 to 1 is **far** smaller than
+those in capitalist companies (in America the ratio is 200 to 1 and
+beyond!). Thus, even under capitalism, *"[t]here is evidence that the
+methods of distribution chosen by worker-controlled or self-managed
+firms are more egalitarian than distribution according to market
+precepts."* [Christopher Eaton Gunn, **Workers' Self-Management in the
+United States**, p. 45] Given that market precepts fail to take into
+account power differences, this is unsurprising. Thus we can predict
+that a fully self-managed economy would be just, if not, more
+egalitarian as differences in power would be eliminated, as would
+unemployment (James K. Galbraith, in his book **Created Unequal**, has
+presented extensive evidence that unemployment increases inequality, as
+would be expected).
+
+It is a common myth that managers, executives and so on are paid so
+highly because of their unique abilities. Actually, they are so highly
+paid because they are bureaucrats in command of large hierarchical
+institutions. It is the hierarchical nature of the capitalist firm that
+ensures inequality, **not** exceptional skills. Even enthusiastic
+supporters of capitalism provide evidence to support this claim. In the
+1940s Peter Drucker, a supporter of capitalism, brushed away the claim
+that corporate organisation brings managers with exceptional ability to
+the top when he noted that *"[n]o institution can possibly survive if it
+needs geniuses or supermen to manage it. It must be organised in such a
+way as to be able to get along under a leadership of average human
+beings."* For Drucker, *"the things that really count are not the
+individual members but the relations of command and responsibility among
+them."* [**Concept of the Corporation**, p. 35 and p. 34] Little has
+changed, beyond the power of PR to personalise the bureaucratic
+structures of corporations.
+
+Secondly, having no means of unearned income (such as rent, interest and
+intellectual property rights), anarchism will reduce income
+differentials substantially.
+
+Thirdly, management positions would be rotated, ensuring that everyone
+gets experience of the work, thus reducing the artificial scarcity
+created by the division of labour. Also, education would be extensive,
+ensuring that engineers, doctors, and other skilled workers would do the
+work because they **enjoyed** doing it and not for financial reward.
+
+Fourthly, we should like to point out that people work for many reasons,
+not just for high wages. Feelings of solidarity, empathy, friendship
+with their fellow workers would also help reduce competition between
+syndicates.
+
+Of course, the "competition" objection assumes that syndicates and
+members of syndicates will place financial considerations above all
+else. This is not the case, and few individuals are the economic robots
+assumed in capitalist dogma. Indeed, the evidence from co-operatives
+refutes such claims (ignoring, for the moment, the vast evidence of our
+own senses and experiences with real people rather than the insane
+*"economic man"* of capitalist economic ideology). As noted in [section
+I.3.1](secI3.html#seci31) neo-classical economic theory, deducing from
+its basic assumptions, argues that members of co-operatives will aim to
+maximise profit per worker and so, perversely, fire their members during
+good times. Reality contradicts these claims. In other words, the
+underlying assumption that people are economic robots cannot be
+maintained -- there is extensive evidence pointing to the fact that
+different forms of social organisation produce different considerations
+which motivate people accordingly.
+
+So, while recognising that competition could exist, anarchists think
+there are plenty of reasons not to worry about massive economic
+inequality being created, which in turn would re-create the state. The
+apologists for capitalism who put forward this argument forget that the
+pursuit of self-interest is universal, meaning that everyone would be
+interested in maximising his or her liberty, and so would be unlikely to
+allow inequalities to develop which threatened that liberty. It would be
+in the interests of communes and syndicates which to share with others
+instead of charging high prices for them as they may find themselves
+boycotted by others, and so denied the advantages of social
+co-operation. Moreover, they may be subject to such activities
+themselves and so it would wise for them to remember to *"treat others
+as you would like them to treat you under similar circumstances."* As
+anarchism will never come about unless people desire it and start to
+organise their own lives, it is clear that an anarchist society would be
+inhabited by individuals who followed that ethical principle.
+
+So it is doubtful that people inspired by anarchist ideas would start to
+charge each other high prices, particularly since the syndicates and
+community assemblies are likely to vote for a wide basis of surplus
+distribution, precisely to avoid this problem and to ensure that
+production will be for use rather than profit. In addition, as other
+communities and syndicates would likely boycott any syndicate or commune
+that was acting in non-co-operative ways, it is likely that social
+pressure would soon result in those willing to exploit others rethinking
+their position. Co-operation does not imply a willingness to tolerate
+those who desire to take advantage of you. In other words, neither
+mutual aid nor anarchist theory implies people are naive indiscriminate
+altruists but rather people who, while willing to work with others
+co-operatively, will act to stop others taking advantage of them. Mutual
+aid, in other words is based on reciprocal relationships. If someone or
+a syndicate does not co-operate but rather seeks to take advantage of
+others, then the others are well within their rights to boycott them and
+otherwise protest against them. A free society is based on **all**
+people pursuing their self-interest, not just the few. This suggests
+that anarchists reject the assumption that those who lose by competition
+should be altruistic and let competition ruin their lives.
+
+Moreover, given the experience of the neo-liberal period from the 1980s
+onwards (with rising inequality marked by falling growth, lower wage
+growth, rising unemployment and increased economic instability) the
+impact of increased competition and inequality harms the vast majority.
+It is doubtful that people aware of these tendencies (and that, as we
+argued in [section F.3](secF3.html), *"free exchange"* in an unequal
+society tends to **increase**, not decrease, inequality) would create
+such a regime.
+
+Unsurprisingly, examples of anarchism in action show that there is
+working together to reduce the dangers of isolation and competition. One
+thing to remember is that anarchy will not be created "overnight" and so
+potential problems will be worked out over time. Underlying all these
+kinds of objections is the assumption that co-operation will **not** be
+more beneficial to all involved than competition. However, in terms of
+quality of life, co-operation will soon be seen to be the better system,
+even by the most highly paid workers. There is far more to life than the
+size of one's pay packet, and anarchism exists in order to ensure that
+life is far more than the weekly grind of boring work and the few hours
+of hectic consumption in which people attempt to fill the "spiritual
+hole" created by a way of life which places profits above people.
+
+I.3.7 What about people who do not want to join a syndicate?
+------------------------------------------------------------
+
+In this case, they are free to work alone, by their own labour.
+Anarchists have no desire to force people to join a syndicate. Emma
+Goldman spoke for all anarchists when she stated that *"[w]e believe in
+every person living his own life in his own way and not in coercing
+others to follow any one's dictation."* [**A Documentary History of the
+American Years**, vol. 2, p. 324]
+
+Therefore, the decision to join a syndicate will be a free one, with the
+potential for living outside it guaranteed for non-exploitative and
+non-oppressive individuals and groups. Malatesta stressed this when he
+argued that in an anarchist revolution *"what has to be destroyed at
+once . . . is **capitalistic property,** that is, the fact that a few
+control the natural wealth and the instruments of production and can
+thus oblige others to work for them"* but one must have a *"right and
+the possibility to live in a different regime, collectivist, mutualist,
+individualist -- as one wishes, always on the condition that there is no
+oppression or exploitation of others."* [**Errico Malatesta: Life and
+Ideas**, p. 102] In other words, different forms of social life will be
+experimented with, depending on what people desire.
+
+Of course some people ask how anarchists can reconcile individual
+freedom with expropriation of capital. All we can say is that these
+critics subscribe to the idea that one should not interfere with the
+"individual freedom" of those in positions of authority to oppress
+others, and that this premise turns the concept of individual freedom on
+its head, making oppression a "right" and the denial of freedom a form
+of it!
+
+However, it is a valid question to ask if anarchism would result in
+self-employed people being forced into syndicates as the result of a
+popular movement. The answer is no. This is because the destruction of
+title deeds would not harm the independent worker, whose real title is
+possession and the work done. What anarchists want to eliminate is not
+possession but capitalist ***property***. Thus such workers *"may prefer
+to work alone in his own small shop"* rather than join an association or
+a federation. [James Guillaume, *"On Building the New Social Order"*,
+pp. 356-79, **Bakunin on Anarchism**, p. 362]
+
+This means that independent producers will still exist within an
+anarchist society, and some workplaces -- perhaps whole areas -- will
+not be part of a confederation. This is natural in a free society, for
+different people have different ideas and ideals. Nor does such
+independent producers imply a contradiction with libertarian socialism,
+for *"[w]hat we concerned with is the destruction of the titles of
+proprietors who exploit the labour of others and, above all, of
+expropriating them in fact in order to put . . . all the means of
+production at the disposal of those who do the work."* [Malatesta, **Op.
+Cit.**, p. 103] Such freedom to work independently or associate as
+desired does **not** imply any support for private property (as
+discussed in [section I.6.2](secI6.html#seci62)). Thus any individual in
+a libertarian socialist economy *"always has the liberty to isolate
+himself and work alone, without being considered a bad citizen or a
+suspect."* [Proudhon, quoted by K. Steven Vincent, **Pierre-Joseph
+Proudhon and the Rise of French Republican Socialism**, p. 145]
+
+In summary, in a free society people need not join syndicates nor does a
+co-operative need to confederate with others. Given we have discussed
+the issue of freedom of economic arrangements at length in [section
+G.2.1](secG2.html#secg21) we will leave this discussion here.
+
+I.3.8 Do anarchists seek *"small autonomous communities, devoted to small scale production"*?
+---------------------------------------------------------------------------------------------
+
+No. The idea that anarchism aims for small, self-sufficient, communes is
+a Leninist slander. They misrepresent anarchist ideas on this matter,
+suggesting that anarchists seriously want society based on *"small
+autonomous communities, devoted to small scale production."* In
+particular, they point to Kropotkin, arguing that he *"looked backwards
+for change"* and *"witnessed such communities among Siberian peasants
+and watchmakers in the Swiss mountains."* [Pat Stack, *"Anarchy in the
+UK?"*, **Socialist Review**, no. 246] Another Leninist, Donny
+Gluckstein, makes a similar assertion about Proudhon wanting a
+federation of *"tiny economic units"*. [**The Paris Commune**, p. 75]
+
+While it may be better to cover this issue in [section H.2](secH2.html),
+we discuss it here simply because it relates directly to what an
+anarchist society could look like and so it allows us to that more
+fully.
+
+So what do anarchists make of the assertion that we aim for *"small
+autonomous communities, devoted to small scale production"*? Simply put,
+we think it is nonsense (as would be quickly obvious from reading
+anarchist theory). Indeed, it is hard to know where this particular
+anarchist "vision" comes from. As Luigi Fabbri noted, in his reply to an
+identical assertion by the leading Bolshevik Nikolai Bukharin, *"[i]t
+would be interesting to learn in what anarchist book, pamphlet or
+programme such an 'ideal' is set out, or even such a hard and fast
+rule!"* [*"Anarchy and 'Scientific' Communism"*, pp. 13-49, **The
+Poverty of Statism**, Albert Meltzer (ed.), p. 21]
+
+If we look at, say, Proudhon, we soon see no such argument for *"small
+scale"* production. For Proudhon, *"[l]arge industry . . . come to us by
+big monopoly and big property: it is necessary in the future to make
+them rise from the [workers] association."* [quoted by K. Steven
+Vincent, **Proudhon and the Rise of French Republican Socialism**, p.
+156] In fact, The Frenchman **explicitly** rejected the position Stack
+inflicts on him by arguing that it *"would be to retrograde"* and
+*"impossible"* to wish *"the division of labour, with machinery and
+manufactures, to be abandoned, and each family to return to the system
+of primitive indivision, - that is, to **each one by himself, each one
+for himself**, in the most literal meaning of the words."* [**System of
+Economic Contradictions**, p. 206] As historian K. Steven Vincent
+correctly summarises:
+
+> *"On this issue, it is necessary to emphasise that, contrary to the
+> general image given in the secondary literature, Proudhon was not
+> hostile to large industry. Clearly, he objected to many aspects of
+> what these large enterprises had introduced into society. For example,
+> Proudhon strenuously opposed the degrading character of . . . work
+> which required an individual to repeat one minor function
+> continuously. But he was not opposed in principle to large-scale
+> production. What he desired was to humanise such production, to
+> socialise it so that the worker would not be the mere appendage to a
+> machine. Such a humanisation of large industries would result,
+> according to Proudhon, from the introduction of strong workers'
+> associations. These associations would enable the workers to determine
+> jointly by election how the enterprise was to be directed and operated
+> on a day-to-day basis."* [**Op. Cit.**, p. 156]
+
+Moreover, Proudhon did not see an anarchist society as one of isolated
+communities or workplaces. Like other anarchists, as we discussed in
+[section I.3.4](secI3.html#seci34), Proudhon saw a free society's
+productive activity centred around federations of syndicates.
+
+This vision of a federation of workplaces can also be found in Bakunin's
+writings: *"The future organisation of society must proceed from the
+bottom up only, through free association or federations of the workers,
+into their associations to begin with, then into communes, regions,
+nations and, finally, into a great international and universal
+federation."* [**No Gods, No Masters**, vol. 1, p. 176] Like Proudhon,
+Bakunin also explicitly rejected the idea of seeking small-scale
+production, arguing that *"if [the workers] tried to divide among
+themselves the capital that exists, they would . . . reduce to a large
+decree its productive power."* Therefore the need was for *"the
+collective property of capital"* to ensure *"the emancipation **of
+labour and of the workers.**"* [**The Basic Bakunin**, p. 91] Bakunin,
+again like Proudhon, considered that *"[i]ntelligent free labour will
+necessarily be associated labour"* as under capitalism the worker
+*"works for others"* and her labour is *"bereft of liberty, leisure and
+intelligence."* Under anarchism, *"the free productive associations"*
+would become *"their own masters and the owners of the necessary
+capital"* and *"amalgamate among themselves"* and *"sooner or later"*
+will *"expand beyond national frontiers"* and *"form one vast economic
+federation."* [**Michael Bakunin: Selected Writings**, pp. 81-3]
+
+Nor can such a vision be attributed to Kropotkin. While, of course,
+supporting decentralisation of power and decision making as did Proudhon
+and Bakunin, he did not reject the necessity of federations to
+co-ordinate activity. As he put it, the *"commune of tomorrow will know
+that it cannot admit any higher authority; above it there can only be
+the interests of the Federation, freely accepted by itself as well as
+the other communes"*/ For anarchists the commune *"no longer means a
+territorial agglomeration; it is rather a generic name, a synonym for
+the grouping of equals which knows neither frontiers nor walls . . .
+Each group in the Commune will necessarily be drawn towards similar
+groups in other communes; they will come together and the links that
+federate them will be as solid as those that attach them to their fellow
+citizens."* [**Words of a Rebel**, p. 83 and p. 88] Nor did he reject
+industry or machinery, stating he *"understood the poetry of machinery"*
+and that while in *"our present factories, machinery work is killing for
+the worker"* this was *"a matter of bad organisation, and has nothing to
+do with the machine itself."* [**Memiors of a Revolutionist**, p. 111]
+
+Kropotkin's vision was one of federations of decentralised communities
+in which production would be based on the *"scattering of industries
+over the country -- so as to bring the factory amidst the fields . . .
+agriculture . . . combined with industry . . . to produce a combination
+of industrial with agricultural work."* He considered this as *"surely
+the next step to be made, as soon as a reorganisation of our present
+conditions is possible"* and *"is imposed by the very necessity of
+**producing for the producers themselves.**"* [**Fields, Factories and
+Workshops Tomorrow**, pp. 157-8] He based this vision on a detailed
+analysis of current economic statistics and trends.
+
+Kropotkin did not see such an anarchist economy as being based around
+the small community, taking the basic unit of a free society as one
+*"large enough to dispose of a certain variety of natural resources --
+it may be a nation, or rather a region -- produces and itself consumes
+most of its own agricultural and manufactured produce."* Such a region
+would *"find the best means of combining agriculture with manufacture --
+the work in the field with a decentralised industry."* Moreover, he
+recognised that the *"geographical distribution of industries in a given
+country depends . . . to a great extent upon a complexus of natural
+conditions; it is obvious that there are spots which are best suited for
+the development of certain industries . . . The[se] industries always
+find some advantages in being grouped, to some extent, according to the
+natural features of separate regions."* [**Op. Cit.**, p. 26, p. 27 and
+pp. 154-5]
+
+Kropotkin stressed that agriculture *"cannot develop without the aid of
+machinery and the use of a perfect machinery cannot be generalised
+without industrial surroundings . . . The village smith would not do."*
+He supported the integration of agriculture and industry, with *"the
+factory and workshop at the gates of your fields and gardens"* in which
+a *"variety of agricultural, industrial and intellectual pursuits are
+combined in each community"* to ensure *"the greatest sum total of
+well-being."* He thought that *"large establishments"* would still
+exist, but these would be *"better placed at certain spots indicated by
+Nature."* He stressed that it *"would be a great mistake to imagine
+industry ought to return to its hand-work stage in order to be combined
+with agriculture. Whenever a saving of human labour can be obtained by
+means of a machine, the machine is welcome and will be resorted to; and
+there is hardly one single branch of industry into which machinery work
+could not be introduced with great advantage, at least at some of the
+stages of the manufacture."* [**Op. Cit.**, p. 156, p. 197, p. 18, pp.
+154-5 and pp. 151-2]
+
+Clearly Kropotkin was **not** opposed to large-scale industry for *"if
+we analyse the modern industries, we soon discover that for some of them
+the co-operation of hundred, even thousands, of workers gathered at the
+same spot is really necessary. The great iron works and mining
+enterprises decidedly belong to that category; oceanic steamers cannot
+be built in village factories."* However, he stressed that this
+objective necessity was not the case in many other industries and
+centralised production existed in these purely to allow capitalists *"to
+hold command of the market"* and *"to suit the temporary interests of
+the few -- by no means those of the nation."* Kropotkin made a clear
+division between economic tendencies which existed to aid the capitalist
+to dominate the market and enhance their profits and power and those
+which indicated a different kind of future. Once we consider the *"moral
+and physical advantages which man would derive from dividing his work
+between field and the workshop"* we must automatically evaluate the
+structure of modern industry with the criteria of what is best for the
+worker (and society and the environment) rather than what was best for
+capitalist profits and power. [**Op. Cit.**, p. 153, p. 147 and p. 153]
+
+Clearly, Leninist summaries of Kropotkin's ideas on this subject are
+nonsense. Rather than seeing "small-scale" production as the basis of
+his vision of a free society, he saw production as being geared around
+the economic unit of a nation or region: *"Each region will become its
+own producer and its own consumer of manufactured goods . . . [and] its
+own producer and consumer of agricultural produce."* Industry would come
+to the village *"not in its present shape of a capitalist factory"* but
+*"in the shape of a socially organised industrial production, with the
+full aid of machinery and technical knowledge."* [**Op. Cit.**, p. 40
+and p. 151]
+
+Industry would be decentralised and integrated with agriculture and
+based around communes, but these communes would be part of a federation
+and so production would be based around meeting the needs of these
+federations. A system of rational decentralisation would be the basis of
+Kropotkin's communist-anarchism, with productive activity and a free
+society's workplaces geared to the appropriate level. For those forms of
+industry which would be best organised on a large-scale would continue
+to be so organised, but for those whose current (i.e., capitalist)
+structure had no objective need to be centralised would be broken up to
+allow the transformation of work for the benefit of both workers and
+society. Thus we would see a system of workplaces geared to local and
+district needs complementing larger factories which would meet regional
+and wider needs.
+
+Anarchism rejects the idea of small-scale production and isolated
+communes and, as we discussed in [section H.2.3](secH2.html#sech23), it
+does **not** look backwards for its ideal. The same applies to other
+forms of libertarian socialism with, for example, G.D.H. Cole arguing
+that we *"cannot go back to 'town economy', a general regime of
+handicraft and master-craftmanship, tiny-scale production. We can
+neither pull up our railways, fill our mines, and dismantle our
+factories nor conduct our large-scale enterprises under a system
+developed to fit the needs of a local market and a narrowly-restricted
+production."* The aim is *"to reintroduce into industry the communal
+spirit, by re-fashioning industrialism in such a way as to set the
+communal motives free to co-operate."* [**Guild Socialism Reststed**,
+pp. 45-6 and p. 46]
+
+The obvious implication of Leninist comments arguments against anarchist
+ideas on industrial transformation after a revolution is that they think
+that a socialist society will basically be the same as capitalism, using
+the technology, industry and industrial structure developed under class
+society without change (as noted in [section
+H.3.12](secH3.html#sech312), Lenin did suggest that was the case).
+Needless to say, capitalist industry, as Kropotkin was aware, has not
+developed neutrally nor purely because of technical needs. Rather it has
+been distorted by the twin requirements to maintain capitalist profits
+and power. One of the first tasks of a social revolution will be to
+transform the industrial structure, not keep it as it is. You cannot use
+capitalist means for socialist ends. So while we will "inherent" an
+industrial structure from capitalism it would be the greatest possible
+error to leave it unchanged and an even worse one to accelerate the
+processes by which capitalists maintain and increase their power (i.e.
+centralisation and concentration) in the name of "socialism."
+
+We are sorry to have laboured this point, but this issue is one which
+arises with depressing frequency in Marxist accounts of anarchism. It is
+best that we indicate that those who make the claim that anarchists seek
+*"small scale"* production geared for *"small autonomous communities"*
+simply show their ignorance. In actually, anarchists see production as
+being geared to whatever makes most social, economic and ecological
+sense. Some production and workplaces will be geared to the local
+commune, some will be geared to the district federation, some to the
+regional federation, and so on. It is for this reason anarchists support
+the federation of workers' associations as the means of combining local
+autonomy with the needs for co-ordination and joint activity. To claim
+otherwise is simply to misrepresent anarchist theory.
+
+Finally, it must be psychologically significant that Leninists
+continually go on about anarchists advocating "small" and "tiny"
+workplaces. Apparently size **does** matter and Leninists think their
+productive units are much, much bigger than anarchist ones. As has been
+proven, anarchists advocate **appropriately sized** workplaces and are
+not hung-up about their size. Why Leninists are could be a fruitful area
+of research...

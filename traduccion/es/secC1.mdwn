@@ -1,0 +1,3110 @@
+C.1 What is wrong with economics?
+=================================
+
+In a nutshell, a lot. While economists like to portray their discipline
+as "scientific" and "value free", the reality is very different. It is,
+in fact, very far from a science and hardly "value free." Instead it is,
+to a large degree, deeply ideological and its conclusions almost always
+(by a strange co-incidence) what the wealthy, landlords, bosses and
+managers of capital want to hear. The words of Kropotkin still ring true
+today:
+
+> *"Political Economy has always confined itself to stating facts
+> occurring in society, and justifying them in the interest of the
+> dominant class . . . Having found [something] profitable to
+> capitalists, it has set it up as a **principle.**"* [**The Conquest of
+> Bread**, p. 181]
+
+This is at its best, of course. At its worse economics does not even
+bother with the facts and simply makes the most appropriate assumptions
+necessary to justify the particular beliefs of the economists and,
+usually, the interests of the ruling class. This is the key problem with
+economics: it is **not** a science. It is **not** independent of the
+class nature of society, either in the theoretical models it builds or
+in the questions it raises and tries to answer. This is due, in part, to
+the pressures of the market, in part due to the assumptions and
+methodology of the dominant forms of economics. It is a mishmash of
+ideology and genuine science, with the former (unfortunately) being the
+bulk of it.
+
+The argument that economics, in the main, is not a science it not one
+restricted to anarchists or other critics of capitalism. Some economists
+are well aware of the limitations of their profession. For example,
+Steve Keen lists many of the flaws of mainstream (neoclassical)
+economics in his excellent book **Debunking Economics**, noting that
+(for example) it is based on a *"dynamically irrelevant and factually
+incorrect instantaneous static snap-shot"* of the real capitalist
+economy. [**Debunking Economics**, p. 197] The late Joan Robinson argued
+forcefully that the neoclassical economist *"sets up a 'model' on
+arbitrarily constructed assumptions, and then applies 'results' from it
+to current affairs, without even trying to pretend that the assumptions
+conform to reality."* [**Collected Economic Papers**, vol. 4, p. 25]
+More recently, economist Mark Blaug has summarised many of the problems
+he sees with the current state of economics:
+
+> "Economics has increasing become an intellectual games played for its
+> own sake and not for its practical consequences. Economists have
+> gradually converted the subject into a sort of social mathematics in
+> which analytical rigor as understood in math departments is everything
+> and empirical relevance (as understood in physics departments) is
+> nothing . . . general equilibrium theory . . . using economic terms
+> like 'prices', 'quantities', 'factors of production,' and so on, but
+> that nevertheless is clearly and even scandalously unrepresentative of
+> any recognisable economic system. . .
+>
+> "Perfect competition never did exist and never could exist because,
+> even when firms are small, they do not just take the price but strive
+> to make the price. All the current textbooks say as much, but then
+> immediately go on to say that the 'cloud-cuckoo' fantasyland of
+> perfect competition is the benchmark against which we may say
+> something significant about real-world competition . . . But how can
+> an idealised state of perfection be a benchmark when we are never told
+> how to measure the gap between it and real-world competition? It is
+> implied that all real-world competition is 'approximately' like
+> perfect competition, but the degree of the approximation is never
+> specified, even vaguely . . .
+>
+> "Think of the following typical assumptions: perfectly infallible,
+> utterly omniscient, infinitely long-lived identical consumers; zero
+> transaction costs; complete markets for all time-stated claims for all
+> conceivable events, no trading of any kind at disequilibrium prices;
+> infinitely rapid velocities of prices and quantities; no radical,
+> incalculable uncertainty in real time but only probabilistically
+> calculable risk in logical time; only linearly homogeneous production
+> functions; no technical progress requiring embodied capital
+> investment, and so on, and so on -- all these are not just unrealistic
+> but also unrobust assumptions. And yet they figure critically in
+> leading economic theories." [*"Disturbing Currents in Modern
+> Economics",* **Challenge!**, Vol. 41, No. 3, May-June, 1998]
+
+So neoclassical ideology is based upon special, virtually ad hoc,
+assumptions. Many of the assumptions are impossible, such as the popular
+assertion that individuals can accurately predict the future (as
+required by "rational expectations" and general equilibrium theory),
+that there are a infinite number of small firms in every market or that
+time is an unimportant concept which can be abstracted from. Even when
+we ignore those assumptions which are obviously nonsense, the remaining
+ones are hardly much better. Here we have a collection of apparently
+valid positions which, in fact, rarely have any basis in reality. As we
+discuss in [section C.1.2](secC1.html#secc12), an essential one, without
+which neoclassical economics simply disintegrates, has very little basis
+in the real world (in fact, it was invented simply to ensure the theory
+worked as desired). Similarly, markets often adjust in terms of
+quantities rather than price, a fact overlooked in general equilibrium
+theory. Some of the assumptions are mutually exclusive. For example, the
+neo-classical theory of the supply curve is based on the assumption that
+some factor of production cannot be changed in the short run. This is
+essential to get the concept of diminishing marginal productivity which,
+in turn, generates a rising marginal cost and so a rising supply curve.
+This means that firms **within** an industry cannot change their capital
+equipment. However, the theory of perfect competition requires that in
+the short period there are no barriers to entry, i.e. that anyone
+**outside** the industry can create capital equipment and move into the
+market. These two positions are logically inconsistent.
+
+In other words, although the symbols used in mainstream may have
+economic sounding names, the theory has no point of contact with
+empirical reality (or, at times, basic logic):
+
+> *"Nothing in these abstract economic models actually **works** in the
+> real world. It doesn't matter how many footnotes they put in, or how
+> many ways they tinker around the edges. The whole enterprise is
+> totally rotten at the core: it has no relation to reality."* [Noam
+> Chomsky, **Understanding Power**, pp. 254-5]
+
+As we will indicate, while its theoretical underpinnings are claimed to
+be universal, they are specific to capitalism and, ironically, they fail
+to even provide an accurate model of that system as it ignores most of
+the real features of an actual capitalist economy. So if an economist
+does not say that mainstream economics has no bearing to reality, you
+can be sure that what he or she tells you will be more likely ideology
+than anything else. "Economic reality" is not about facts; it's about
+faith in capitalism. Even worse, it is about blind faith in what the
+economic ideologues say about capitalism. The key to understanding
+economists is that they believe that if it is in an economic textbook,
+then it must be true -- particularly if it confirms any initial
+prejudices. The opposite is usually the case.
+
+The obvious fact that the real world is not like that described by
+economic text books can have some funny results, particularly when
+events in the real world contradict the textbooks. For most economists,
+or those who consider themselves as such, the textbook is usually
+preferred. As such, much of capitalist apologetics is faith-driven.
+Reality has to be adjusted accordingly.
+
+A classic example was the changing positions of pundits and "experts" on
+the East Asian economic miracle. As these economies grew spectacularly
+during the 1970s and 1980s, the experts universally applauded them as
+examples of the power of free markets. In 1995, for example, the
+right-wing Heritage Foundation's index of economic freedom had four
+Asian countries in its top seven countries. The **Economist** explained
+at the start of 1990s that Taiwan and South Korea had among the least
+price-distorting regimes in the world. Both the Word Bank and IMF
+agreed, downplaying the presence of industrial policy in the region.
+This was unsurprising. After all, their ideology said that free markets
+would produce high growth and stability and so, logically, the presence
+of both in East Asia must be driven by the free market. This meant that,
+for the true believers, these nations were paradigms of the free market,
+reality not withstanding. The markets agreed, putting billions into
+Asian equity markets while foreign banks loaned similar vast amounts.
+
+In 1997, however, all this changed when all the Asian countries
+previously qualified as "free" saw their economies collapse. Overnight
+the same experts who had praised these economies as paradigms of the
+free market found the cause of the problem -- extensive state
+intervention. The free market paradise had become transformed into a
+state regulated hell! Why? Because of ideology -- the free market is
+stable and produces high growth and, consequently, it was impossible for
+any economy facing crisis to be a free market one! Hence the need to
+disown what was previously praised, without (of course) mentioning the
+very obvious contradiction.
+
+In reality, these economies had always been far from the free market.
+The role of the state in these "free market" miracles was extensive and
+well documented. So while East Asia *"had not only grown faster and done
+better at reducing poverty than any other region of the world . . . it
+had also been more stable,"* these countries *"had been successful not
+only in spite of the fact that they had not followed most of the
+dictates of the Washington Consensus [i.e. neo-liberalism], but
+**because** they had not."* The government had played *"important roles
+. . . far from the minimalist [ones] beloved"* of neo-liberalism. During
+the 1990s, things had changed as the IMF had urged a *"excessively rapid
+financial and capital market liberalisation"* for these countries as
+sound economic policies. This *"was probably the single most important
+cause of the [1997] crisis"* which saw these economies suffer meltdown,
+*"the greatest economic crisis since the Great Depression"* (a meltdown
+worsened by IMF aid and its underlying dogmas). Even worse for the
+believers in market fundamentalism, those nations (like Malaysia) that
+refused IMF suggestions and used state intervention has a *"shorter and
+shallower"* downturn than those who did not. [Joseph Stiglitz,
+**Globalisation and its Discontents**, p. 89, p. 90, p. 91 and p. 93]
+Even worse, the obvious conclusion from these events is more than just
+the ideological perspective of economists, it is that "the market" is
+not all-knowing as investors (like the experts) failed to see the
+statist policies so bemoaned by the ideologues of capitalism **after**
+1997.
+
+This is not to say that the models produced by neoclassical economists
+are not wonders of mathematics or logic. Few people would deny that a
+lot of very intelligent people have spent a lot of time producing some
+quite impressive mathematical models in economics. It is a shame that
+they are utterly irrelevant to reality. Ironically, for a theory claims
+to be so concerned about allocating scarce resources efficiently,
+economics has used a lot of time and energy refining the analyses of
+economies which have not, do not, and will not ever exist. In other
+words, scare resources have been inefficiently allocated to produce
+waste.
+
+Why? Perhaps because there is a demand for such nonsense? Some
+economists are extremely keen to apply their methodology in all sorts of
+areas outside the economy. No matter how inappropriate, they seek to
+colonise every aspect of life. One area, however, seems immune to such
+analysis. This is the market for economic theory. If, as economists
+stress, every human activity can be analysed by economics then why not
+the demand and supply of economics itself? Perhaps because if that was
+done some uncomfortable truths would be discovered?
+
+Basic supply and demand theory would indicate that those economic
+theories which have utility to others would be provided by economists.
+In a system with inequalities of wealth, effective demand is skewed in
+favour of the wealthy. Given these basic assumptions, we would predict
+that only these forms of economists which favour the requirements of the
+wealthy would gain dominance as these meet the (effective) demand. By a
+strange co-incidence, this is **precisely** what has happened. This did
+and does not stop economists complaining that dissidents and radicals
+were and are biased. As Edward Herman points out:
+
+> *"Back in 1849, the British economist Nassau Senior chided those
+> defending trade unions and minimum wage regulations for expounding an
+> 'economics of the poor.' The idea that he and his establishment
+> confreres were putting forth an 'economics of the rich' never occurred
+> to him; he thought of himself as a scientist and spokesperson of true
+> principles. This self-deception pervaded mainstream economics up to
+> the time of the Keynesian Revolution of the 1930s. Keynesian
+> economics, though quickly tamed into an instrument of service to the
+> capitalist state, was disturbing in its stress on the inherent
+> instability of capitalism, the tendency toward chronic unemployment,
+> and the need for substantial government intervention to maintain
+> viability. With the resurgent capitalism of the past 50 years,
+> Keynesian ideas, and their implicit call for intervention, have been
+> under incessant attack, and, in the intellectual counterrevolution led
+> by the Chicago School, the traditional laissez-faire
+> ('let-the-fur-fly') economics of the rich has been re-established as
+> the core of mainstream economics."* [**The Economics of the Rich** ]
+
+Herman goes on to ask *"[w]hy do the economists serve the rich?"* and
+argues that *"[f]or one thing, the leading economists are among the
+rich, and others seek advancement to similar heights. Chicago School
+economist Gary Becker was on to something when he argued that economic
+motives explain a lot of actions frequently attributed to other forces.
+He of course never applied this idea to economics as a profession . .
+."* There are a great many well paying think tanks, research posts,
+consultancies and so on that create an *"'effective demand' that should
+elicit an appropriate supply resource."*
+
+Elsewhere, Herman notes the *"class links of these professionals to the
+business community were strong and the ideological element was realised
+in the neoclassical competitive model . . . Spin-off negative effects on
+the lower classes were part of the 'price of progress.' It was the elite
+orientation of these questions [asked by economics], premises, and the
+central paradigm [of economic theory] that caused matters like
+unemployment, mass poverty, and work hazards to escape the net of
+mainstream economist interest until well into the twentieth century."*
+Moreover, *"the economics profession in the years 1880-1930 was by and
+large strongly conservative, reflecting in its core paradigm its class
+links and sympathy with the dominant business community, fundamentally
+anti-union and suspicious of government, and tending to view competition
+as the true and durable state of nature."* [Edward S. Herman, *"The
+Selling of Market Economics,"* pp. 173-199, **New Ways of Knowing**,
+Marcus G. Raskin and Herbert J. Bernstein (eds.),p. 179-80 and p. 180]
+
+Rather than scientific analysis, economics has always been driven by the
+demands of the wealthy (*"How did [economics] get instituted? As a
+weapon of class warfare."* [Chomsky, **Op. Cit.**, p. 252]). This works
+on numerous levels. The most obvious is that most economists take the
+current class system and wealth/income distribution as granted and
+generate general *"laws"* of economics from a specific historical
+society. As we discuss in the [next section](secC1.html#secc11), this
+inevitably skews the "science" into ideology and apologetics. The
+analysis is also (almost inevitably) based on individualistic
+assumptions, ignoring or downplaying the key issues of groups,
+organisations, class and the economic and social power they generate.
+Then there are the assumptions used and questions raised. As Herman
+argues, this has hardly been a neutral process:
+
+> *"the theorists explicating these systems, such as Carl Menger, Leon
+> Walras, and Alfred Marshall, were knowingly assuming away formulations
+> that raised disturbing questions (income distribution, class and
+> market power, instability, and unemployment) and creating theoretical
+> models compatible with their own policy biases of status quo or modest
+> reformism . . . Given the choice of 'problem,' ideology and other
+> sources of bias may still enter economic analysis if the answer is
+> predetermined by the structure of the theory or premises, or if the
+> facts are selected or bent to prove the desired answer."* [**Op.
+> Cit.**, p. 176]
+
+Needless to say, economics is a "science" with deep ramifications within
+society. As a result, it comes under pressure from outside influences
+and vested interests far more than, say, anthropology or physics. This
+has meant that the wealthy have always taken a keen interest that the
+"science" teaches the appropriate lessons. This has resulted in a demand
+for a "science" which reflects the interests of the few, not the many.
+Is it **really** just a co-incidence that the lessons of economics are
+just what the bosses and the wealthy would like to hear? As
+non-neoclassical economist John Kenneth Galbraith noted in 1972:
+
+> *"Economic instruction in the United States is about a hundred years
+> old. In its first half century economists were subject to censorship
+> by outsiders. Businessmen and their political and ideological acolytes
+> kept watch on departments of economics and reacted promptly to heresy,
+> the latter being anything that seemed to threaten the sanctity of
+> property, profits, a proper tariff policy and a balanced budget, or
+> that suggested sympathy for unions, public ownership, public
+> regulation or, in any organised way, for the poor."* [**The Essential
+> Galbraith**, p. 135]
+
+It is **really** surprising that having the wealthy fund (and so
+control) the development of a "science" has produced a body of theory
+which so benefits their interests? Or that they would be keen to educate
+the masses in the lessons of said "science", lessons which happen to
+conclude that the best thing workers should do is obey the dictates of
+the bosses, sorry, the market? It is really just a co-incidence that the
+repeated use of economics is to spread the message that strikes, unions,
+resistance and so forth are counter-productive and that the best thing
+worker can do is simply wait patiently for wealth to trickle down?
+
+This co-incidence has been a feature of the "science" from the start.
+The French Second Empire in the 1850s and 60s saw *"numerous private
+individuals and organisation, municipalities, and the central government
+encouraged and founded institutions to instruct workers in economic
+principles."* The aim was to *"impress upon [workers] the salutary
+lessons of economics."* Significantly, the *"weightiest motive"* for so
+doing *"was fear that the influence of socialist ideas upon the working
+class threatened the social order."* The revolution of 1848 *"convinced
+many of the upper classes that the must prove to workers that attacks
+upon the economic order were both unjustified and futile."* Another
+reason was the recognition of the right to strike in 1864 and so workers
+*"had to be warned against abuse of the new weapon."* The instruction
+*"was always with the aim of refuting socialist doctrines and exposing
+popular misconceptions. As one economist stated, it was not the purpose
+of a certain course to initiate workers into the complexities of
+economic science, but to define principles useful for 'our conduct in
+the social order.'"* The interest in such classes was related to the
+level of *"worker discontent and agitation."* The impact was less than
+desired: *"The future Communard Lefrancais referred mockingly to the
+economists . . . and the 'banality' and 'platitudes' of the doctrine
+they taught. A newspaper account of the reception given to the economist
+Joseph Garnier states that Garnier was greeted with shouts of: 'He is an
+economist' . . . It took courage, said the article, to admit that one
+was an economist before a public meeting."* [David I. Kulstein,
+*"Economics Instruction for Workers during the Second Empire,"* pp.
+225-234, **French Historical Studies**, vol. 1, no. 2, p. 225, p. 226,
+p. 227 and p. 233]
+
+This process is still at work, with corporations and the wealthy funding
+university departments and posts as well as their own *"think tanks"*
+and paid PR economists. The control of funds for research and teaching
+plays it part in keeping economics the *"economics of the rich."*
+Analysing the situation in the 1970s, Herman notes that the *"enlarged
+private demand for the services of economists by the business community
+. . . met a warm supply response."* He stressed that *"if the demand in
+the market is for specific policy conclusions and particular viewpoints
+that will serve such conclusions, the market will accommodate this
+demand."* Hence *"blatantly ideological models . . . are being spewed
+forth on a large scale, approved and often funded by large vested
+interests"* which helps *"shift the balance between ideology and science
+even more firmly toward the former."* [**Op. Cit.**, p. 184, p. 185 and
+p. 179] The idea that "experts" funded and approved by the wealthy would
+be objective scientists is hardly worth considering. Unfortunately, many
+people fail to exercise sufficient scepticism about economists and the
+economics they support. As with most experts, there are two obvious
+questions with which any analysis of economics should begin: *"Who is
+funding it?"* and *"Who benefits from it?"*
+
+However, there are other factors as well, namely the hierarchical
+organisation of the university system. The heads of economics
+departments have the power to ensure the continuation of their
+ideological position due to the position as hirer and promoter of staff.
+As economics *"has mixed its ideology into the subject so well that the
+ideologically unconventional usually appear to appointment committees to
+be scientifically incompetent."* [Benjamin Ward, **What's Wrong with
+Economics?**, p. 250] Galbraith termed this *"a new despotism,"* which
+consisted of *"defining scientific excellence in economics not as what
+is true but as whatever is closest to belief and method to the scholarly
+tendency of the people who already have tenure in the subject. This is a
+pervasive test, not the less oppress for being, in the frequent case,
+both self-righteous and unconscious. It helps ensure, needless to say,
+the perpetuation of the neoclassical orthodoxy."* [**Op. Cit.**, p. 135]
+This plays a key role in keeping economics an ideology rather than a
+science:
+
+> *"The power inherent in this system of quality control within the
+> economics profession is obviously very great. The discipline's censors
+> occupy leading posts in economics departments at the major
+> institutions . . . Any economist with serious hopes of obtaining a
+> tenured position in one of these departments will soon be made aware
+> of the criteria by which he is to be judged . . . the entire academic
+> program . . . consists of indoctrination in the ideas and techniques
+> of the science."* [Ward, **Op. Cit.**, pp. 29-30]
+
+All this has meant that the "science" of economics has hardly changed in
+its basics in over one hundred years. Even notions which have been
+debunked (and have been acknowledged as such) continue to be taught:
+
+> "The so-called mainline teaching of economic theory has a curious
+> self-sealing capacity. Every breach that is made in it by criticism is
+> somehow filled up by admitting the point but refusing to draw any
+> consequence from it, so that the old doctrines can be repeated as
+> before. Thus the Keynesian revolution was absorbed into the doctrine
+> that, 'in the long run,' there is a natural tendency for a market
+> economy to achieve full employment of available labour and full
+> utilisation of equipment; that the rate of accumulation is determined
+> by household saving; and that the rate of interest is identical with
+> the rate of profit on capital. Similarly, Piero Sraffa's demolition of
+> the neoclassical production function in labour and 'capital' was
+> admitted to be unanswerable, but it has not been allowed to affect the
+> propagation of the 'marginal productivity' theory of wages and
+> profits.
+> "The most sophisticated practitioners of orthodoxy maintain that the
+> whole structure is an exercise in pure logic which has no application
+> to real life at all. All the same they give their pupils the
+> impression that they are being provided with an instrument which is
+> valuable, indeed necessary, for the analysis of actual problems."
+> [Joan Robinson, **Op. Cit.**, vol. 5, p. 222]
+
+The social role of economics explains this process, for *"orthodox
+traditional economics . . . was a plan for explaining to the privileged
+class that their position was morally right and was necessary for the
+welfare of society. Even the poor were better off under the existing
+system that they would be under any other . . . the doctrine [argued]
+that increased wealth of the propertied class brings about an automatic
+increase of income to the poor, so that, if the rich were made poorer,
+the poor would necessarily become poorer too."* [Robinson, **Op. Cit.**,
+vol. 4, p. 242]
+
+In such a situation, debunked theories would continue to be taught
+simply because what they say has a utility to certain sections of
+society:
+
+> *"Few issues provide better examples of the negative impact of
+> economic theory on society than the distribution of income. Economists
+> are forever opposing 'market interventions' which might raise the
+> wages of the poor, while defending astronomical salary levels for top
+> executives on the basis that if the market is willing to pay them so
+> much, they must be worth it. In fact, the inequality which is so much
+> a characteristic of modern society reflects power rather than justice.
+> This is one of the many instances where unsound economic theory makes
+> economists the champions of policies which, is anything, undermine the
+> economic foundations of modern society."* [Keen, **Op. Cit.**, p. 126]
+
+This argument is based on the notion that wages equal the marginal
+productivity of labour. This is supposed to mean that as the output of
+workers increase, their wages rise. However, as we note in [section
+C.1.5](secC1.html#secc15), this law of economics has been violated for
+the last thirty-odd years in the US. Has this resulted in a change in
+the theory? Of course not. Not that the theory is actually correct. As
+we discuss in [section C.2.5](secC2.html#secc25), marginal productivity
+theory has been exposed as nonsense (and acknowledged as flawed by
+leading neo-classical economists) since the early 1960s. However, its
+utility in defending inequality is such that its continued use does not
+really come as a surprise.
+
+This is not to suggest that mainstream economics is monolithic. Far from
+it. It is riddled with argument and competing policy recommendations.
+Some theories rise to prominence, simply to disappear again (*"See, the
+'science' happens to be a very flexible one: you can change it to do
+whatever you feel like, it's that kind of 'science.'"* [Chomsky, **Op.
+Cit.**, p. 253]). Given our analysis that economics is a commodity and
+subject to demand, this comes as no surprise. Given that the capitalist
+class is always in competition within itself and different sections have
+different needs at different times, we would expect a diversity of
+economics beliefs within the "science" which rise and fall depending on
+the needs and relative strengths of different sections of capital.
+While, overall, the "science" will support basic things (such as
+profits, interest and rent are **not** the result of exploitation) but
+the actual policy recommendations will vary. This is not to say that
+certain individuals or schools will not have their own particular dogmas
+or that individuals rise above such influences and act as real
+scientists, of course, just that (in general) supply is not independent
+of demand or class influence.
+
+Nor should we dismiss the role of popular dissent in shaping the
+"science." The class struggle has resulted in a few changes to
+economics, if only in terms of the apologetics used to justify
+non-labour income. Popular struggles and organisation play their role as
+the success of, say, union organising to reduce the working day
+obviously refutes the claims made against such movements by economists.
+Similarly, the need for economics to justify reforms can become a
+pressing issue when the alternative (revolution) is a possibility. As
+Chomsky notes, during the 19th century (as today) popular struggle
+played as much of a role as the needs of the ruling class in the
+development of the "science":
+
+> *"[Economics] changed for a number of reasons. For one thing, these
+> guys had won, so they didn't need it so much as an ideological weapon
+> anymore. For another, they recognised that they themselves needed a
+> powerful interventionist state to defend industry form the hardships
+> of competition in the open market -- as they had always **had** in
+> fact. And beyond that, eliminating people's 'right to live' was
+> starting to have some negative side-effects. First of all, it was
+> causing riots all over the place . . . Then something even worse
+> happened -- the population started to organise: you got the beginning
+> of an organised labour movement . . . then a socialist movement
+> developed. And at that point, the elites . . . recognised that the
+> game had to be called off, else they **really** would be in trouble .
+> . . it wasn't until recent years that laissez-faire ideology was
+> revived again -- and again, it was a weapon of class warfare . . . And
+> it doesn't have any more validity than it had in the early nineteenth
+> century -- in fact it has even **less.** At least in the early
+> nineteenth century . . . [the] assumptions had **some** relation to
+> reality. Today those assumptions have **not** relation to reality."*
+> [**Op. Cit.**, pp. 253-4]
+
+Whether the *"economics of the rich"* or the *"economics of the poor"*
+win out in academia is driven far more by the state of the class war
+than by abstract debating about unreal models. Thus the rise of
+monetarism came about due to its utility to the dominant sections of the
+ruling class rather than it winning any intellectual battles (it was
+decisively refuted by leading Keynesians like Nicholas Kaldor who saw
+their predicted fears become true when it was applied -- see [section
+C.8](secC8.html)). Hopefully by analysing the myths of capitalist
+economics we will aid those fighting for a better world by giving them
+the means of counteracting those who claim the mantle of "science" to
+foster the *"economics of the rich"* onto society.
+
+To conclude, neo-classical economics shows the viability of an unreal
+system and this is translated into assertions about the world that we
+live in. Rather than analyse reality, economics evades it and asserts
+that the economy works *"as if"* it matched the unreal assumptions of
+neoclassical economics. No other science would take such an approach
+seriously. In biology, for example, the notion that the world can be
+analysed *"as if"* God created it is called Creationism and rightly
+dismissed. In economics, such people are generally awarded
+professorships or even the (so-called) Nobel prize in economics (Keen
+critiques the *"as if"* methodology of economics in chapter 7 of his
+**Debunking Economics** ). Moreover, and even worse, policy decisions
+will be enacted based on a model which has no bearing in reality -- with
+disastrous results (for example, the rise and fall of Monetarism).
+
+Its net effect to justify the current class system and diverts serious
+attention from critical questions facing working class people (for
+example, inequality and market power, what goes on in production, how
+authority relations impact on society and in the workplace). Rather than
+looking to how things are produced, the conflicts generated in the
+production process and the generation as well as division of
+products/surplus, economics takes what was produced as given, as well as
+the capitalist workplace, the division of labour and authority relations
+and so on. The individualistic neoclassical analysis by definition
+ignores such key issues as economic power, the possibility of a
+structural imbalance in the way economic growth is distributed,
+organisation structure, and so on.
+
+Given its social role, it comes as no surprise that economics is not a
+genuine science. For most economists, the *"scientific method (the
+inductive method of natural sciences) [is] utterly unknown to them."*
+[Kropotkin, **Anarchism**, p. 179] The argument that most economics is
+not a science is not limited to just anarchists or other critics of
+capitalism. Many dissident economics recognise this fact as well,
+arguing that the profession needs to get its act together if it is to be
+taken seriously. Whether it could retain its position as defender of
+capitalism if this happens is a moot point as many of the theorems
+developed were done so explicitly as part of this role (particularly to
+defend non-labour income -- see [section C.2](secC2.html)). That
+economics can become much broader and more relevant is always a
+possibility, but to do so would mean to take into account an unpleasant
+reality marked by class, hierarchy and inequality rather than logic
+deductions derived from Robinson Crusoe. While the latter can produce
+mathematical models to reach the conclusions that the market is already
+doing a good job (or, at best, there are some imperfections which can be
+counterbalanced by the state), the former cannot.
+
+Anarchists, unsurprisingly, take a different approach to economics. As
+Kropotkin put it, *"we think that to become a science, Political Economy
+has to be built up in a different way. It must be treated as a natural
+science, and use the methods used in all exact, empirical sciences."*
+[**Evolution and Environment**, p. 93] This means that we must start
+with the world as it is, not as economics would like it to be. It must
+be placed in historical context and key facts of capitalism, like wage
+labour, not taken for granted. It must not abstract from such key facts
+of life as economic and social power. In a word, economics must reject
+those features which turn it into a sophisticated defence of the status
+quo. Given its social role within capitalism (and the history and
+evolution of economic thought), it is doubtful it will ever become a
+real science simply because it if did it would hardly be used to defend
+that system.
+
+C.1.1 Is economics really value free?
+-------------------------------------
+
+Modern economists try and portray economics as a "value-free science."
+Of course, it rarely dawns on them that they are usually just taking
+existing social structures for granted and building economic dogmas
+around them, so justifying them. At best, as Kropotkin pointed out:
+
+> "[A]ll the so-called laws and theories of political economy are in
+> reality no more than statements of the following nature: 'Granting
+> that there are always in a country a considerable number of people who
+> cannot subsist a month, or even a fortnight, without earning a salary
+> and accepting for that purpose the conditions of work imposed upon
+> them by the State, or offered to them by those whom the State
+> recognises as owners of land, factories, railways, etc., then the
+> results will be so and so.'
+> "So far academic political economy has been only an enumeration of
+> what happens under these conditions -- without distinctly stating the
+> conditions themselves. And then, having described **the facts** which
+> arise in our society under these conditions, they represent to us
+> these **facts** as rigid, **inevitable economic laws.**"
+> [**Anarchism**, p. 179]
+
+In other words, economists usually take the political and economic
+aspects of capitalist society (such as property rights, inequality and
+so on) as given and construct their theories around it. At best. At
+worse, economics is simply speculation based on the necessary
+assumptions required to prove the desired end. By some strange
+coincidence these ends usually bolster the power and profits of the few
+and show that the free market is the best of all possible worlds. Alfred
+Marshall, one of the founders of neoclassical economics, once noted the
+usefulness of economics to the elite:
+
+> *"From Metaphysics I went to Ethics, and found that the justification
+> of the existing conditions of society was not easy. A friend, who had
+> read a great deal of what are called the Moral Sciences, constantly
+> said: 'Ah! if you understood Political Economy you would not say
+> that'"* [quoted by Joan Robinson, **Collected Economic Papers**, vol.
+> 4, p. 129]
+
+Joan Robinson added that *"[n]owadays, of course, no one would put it so
+crudely. Nowadays, the hidden persuaders are concealed behind scientific
+objectivity, carefully avoiding value judgements; they are persuading
+all the better so."* [**Op. Cit.**, p. 129] The way which economic
+theory systematically says what bosses and the wealthy want to hear is
+just one of those strange co-incidences of life, one which seems to
+befall economics with alarming regularity.
+
+How does economics achieve this strange co-incidence, how does the
+"value free" "science" end up being wedded to producing apologetics for
+the current system? A key reason is the lack of concern about history,
+about how the current distribution of income and wealth was created.
+Instead, the current distribution of wealth and income is taken for
+granted.
+
+This flows, in part, from the static nature of neoclassical economics.
+If your economic analysis starts and ends with a snapshot of time, with
+a given set of commodities, then how those commodities get into a
+specific set of hands can be considered irrelevant -- particularly when
+you modify your theory to exclude the possibility of proving income
+redistribution will increase overall utility (see [section
+C.1.3](secC1.html#secc13)). It also flows from the social role of
+economics as defender of capitalism. By taking the current distribution
+of income and wealth as given, then many awkward questions can be
+automatically excluded from the "science."
+
+This can be seen from the rise of neoclassical economics in the 1870s
+and 1880s. The break between classical political economy and economics
+was marked by a change in the kind of questions being asked. In the
+former, the central focus was on distribution, growth, production and
+the relations between social classes. The exact determination of
+individual prices was of little concern, particularly in the short run.
+For the new economics, the focus became developing a rigorous theory of
+price determination. This meant abstracting from production and looking
+at the amount of goods available at any given moment of time. Thus
+economics avoided questions about class relations by asking questions
+about individual utility, so narrowing the field of analysis by asking
+politically harmless questions based on unrealistic models (for all its
+talk of rigour, the new economics did not provide an answer to how real
+prices were determined any more than classical economics had simply
+because its abstract models had no relation to reality).
+
+It did, however, provide a naturalistic justification for capitalist
+social relations by arguing that profit, interest and rent are the
+result of individual decisions rather than the product of a specific
+social system. In other words, economics took the classes of capitalism,
+internalised them within itself, gave them universal application and, by
+taking for granted the existing distribution of wealth, justified the
+class structure and differences in market power this produces. It does
+not ask (or investigate) **why** some people own all the land and
+capital while the vast majority have to sell their labour on the market
+to survive. As such, it internalises the class structure of capitalism.
+Taking this class structure as a given, economics simply asks the
+question how much does each "factor" (labour, land, capital) contribute
+to the production of goods.
+
+Alfred Marshall justified this perspective as follows:
+
+> *"In the long run the earnings of each agent (of production) are, as a
+> rule, sufficient only to recompense the sum total of the efforts and
+> sacrifices required to produce them . . . with a partial exception in
+> the case of land . . . especially much land in old countries, if we
+> could trace its record back to their earliest origins. But the attempt
+> would raise controversial questions in history and ethics as well as
+> in economics; and the aims of our present inquiry are prospective
+> rather than retrospective."* [**Principles of Economics**, p. 832]
+
+Which is wonderfully handy for those who benefited from the theft of the
+common heritage of humanity. Particularly as Marshall himself notes the
+dire consequences for those without access to the means of life on the
+market:
+
+> *"When a workman is in fear of hunger, his need of money is very
+> great; and, if at starting he gets the worst of the bargaining, it
+> remains great . . . That is all the more probably because, while the
+> advantage in bargaining is likely to be pretty well distributed
+> between the two sides of a market for commodities, it is more often on
+> the side of the buyers than on that of the sellers in a market for
+> labour."* [**Op. Cit.**, pp. 335-6]
+
+Given that market exchanges will benefit the stronger of the parties
+involved, this means that inequalities become stronger and more secure
+over time. Taking the current distribution of property as a given (and,
+moreover, something that must not be changed) then the market does not
+correct this sort of injustice. In fact, it perpetuates it and,
+moreover, it has no way of compensating the victims as there is no
+mechanism for ensuring reparations. So the impact of previous acts of
+aggression has an impact on how a specific society developed and the
+current state of the world. To dismiss *"retrospective"* analysis as it
+raises *"controversial questions"* and *"ethics"* is not value-free or
+objective science, it is pure ideology and skews any *"prospective"*
+enquiry into apologetics.
+
+This can be seen when Marshall noted that labour *"is often sold under
+special disadvantages, arising from the closely connected group of facts
+that labour power is 'perishable,' that the sellers of it are commonly
+poor and have no reserve fund, and that they cannot easily withhold it
+from the market."* Moreover, the *"disadvantage, wherever it exists, is
+likely to be cumulative in its effects."* Yet, for some reason, he still
+maintains that *"wages of every class of labour tend to be equal to the
+net product due to the additional labourer of this class."* [**Op.
+Cit.**, p. 567, p. 569 and p. 518] Why should it, given the noted fact
+that workers are at a disadvantage in the market place? Hence Malatesta:
+
+> *"Landlords, capitalists have robbed the people, with violence and
+> dishonesty, of the land and all the means of production, and in
+> consequence of this initial theft can each day take away from workers
+> the product of their labour."* [**Errico Malatesta: His Life and
+> Ideas**, p. 168]
+
+As such, how could it possibly be considered "scientific" or
+"value-free" to ignore history? It is hardly *"retrospective"* to
+analyse the roots of the current disadvantage working class people have
+in the current and *"prospective"* labour market, particularly given
+that Marshall himself notes their results. This is a striking example of
+what Kropotkin deplored in economics, namely that in the rare situations
+when social conditions were *"mentioned, they were forgotten
+immediately, to be spoken of no more."* Thus reality is mentioned, but
+any impact this may have on the distribution of income is forgotten for
+otherwise you would have to conclude, with the anarchists, that the
+*"appropriation of the produce of human labour by the owners of capital
+[and land] exists only because millions of men [and women] have
+literally nothing to live upon, unless they sell their labour force and
+their intelligence at a price that will make the net profit of the
+capitalist and 'surplus value' possible."* [**Evolution and
+Environment**, p. 92 and p. 106]
+
+This is important, for respecting property rights is easy to talk about
+but it only faintly holds some water if the existing property ownership
+distribution is legitimate. If it is illegitimate, if the current
+property titles were the result of theft, corruption, colonial conquest,
+state intervention, and other forms of coercion then things are
+obviously different. That is why economics rarely, if ever, discusses
+this. This does not, of course, stop economists arguing against current
+interventions in the market (particularly those associated with the
+welfare state). In effect, they are arguing that it is okay to reap the
+benefits of past initiations of force but it is wrong to try and rectify
+them. It is as if someone walks into a room of people, robs them at gun
+point and then asks that they should respect each others property rights
+from now on and only engage in voluntary exchanges with what they had
+left. Any attempt to establish a moral case for the "free market" in
+such circumstances would be unlikely to succeed. This is free market
+capitalist economics in a nutshell: never mind past injustices, let us
+all do the best we can given the current allocations of resources.
+
+Many economists go one better. Not content in ignoring history, they
+create little fictional stories in order to justify their theories or
+the current distribution of wealth and income. Usually, they start from
+isolated individual or a community of approximately equal individuals (a
+community usually without any communal institutions). For example, the
+"waiting" theories of profit and interest (see [section
+C.2.7](secC2.html#secc27)) requires such a fiction to be remotely
+convincing. It needs to assume a community marked by basic equality of
+wealth and income yet divided into two groups of people, one of which
+was industrious and farsighted who abstained from directly consuming the
+products created by their **own** labour while the other was lazy and
+consumed their income without thought of the future. Over time, the
+descendants of the diligent came to own the means of life while the
+descendants of the lazy and the prodigal have, to quote Marx, *"nothing
+to sell but themselves."* In that way, modern day profits and interest
+can be justified by appealing to such *"insipid childishness."*
+[**Capital**, vol. 1, p. 873] The real history of the rise of capitalism
+is, as we discuss in [section F.8](secF8.html), grim.
+
+Of course, it may be argued that this is just a model and an abstraction
+and, consequently, valid to illustrate a point. Anarchists disagree.
+Yes, there is often the need for abstraction in studying an economy or
+any other complex system, but this is not an abstraction, it is
+propaganda and a historical invention used not to illustrate an abstract
+point but rather a specific system of power and class. That these little
+parables and stories have all the necessary assumptions and abstractions
+required to reach the desired conclusions is just one of those
+co-incidences which seem to regularly befall economics.
+
+The strange thing about these fictional stories is that they are given
+much more credence than real history within economics. Almost always,
+fictional "history" will always top actual history in economics. If the
+actual history of capitalism is mentioned, then the defenders of
+capitalism will simply say that we should not penalise current holders
+of capital for actions in the dim and distant past (that current and
+future generations of workers are penalised goes unmentioned). However,
+the fictional "history" of capitalism suffers from no such dismissal,
+for invented actions in the dim and distant past justify the current
+owners holdings of wealth and the income that generates. In other words,
+heads I win, tails you loose.
+
+Needless to say, this (selective) myopia is not restricted to just
+history. It is applied to current situations as well. Thus we find
+economists defending current economic systems as "free market" regimes
+in spite of obvious forms of state intervention. As Chomsky notes:
+
+> *"when people talk about . . . free-market 'trade forces' inevitably
+> kicking all these people out of work and driving the whole world
+> towards a kind of a Third World-type polarisation of wealth . . .
+> that's true if you take a narrow enough perspective on it. But if you
+> look into the factors that **made** things the way they are, it
+> doesn't even come **close** to being true, it's not remotely in touch
+> with reality. But when you're studying economics in the ideological
+> institutions, that's all irrelevant and you're not supposed to ask
+> questions like these."* [**Understanding Power**, p. 260]
+
+To ignore all that and simply take the current distribution of wealth
+and income as given and then argue that the "free market" produces the
+best allocation of resources is staggering. Particularly as the claim of
+*"efficient allocation"* does not address the obvious question:
+"efficient" for whose benefit? For the idealisation of freedom in and
+through the market ignores the fact that this freedom is very limited in
+scope to great numbers of people as well as the consequences to the
+individuals concerned by the distribution of purchasing power amongst
+them that the market throws up (rooted, of course in the original
+endowments). Which, of course, explains why, even **if** these parables
+of economics were true, anarchists would still oppose capitalism. We
+extend Thomas Jefferson's comment that the *"earth belongs always to the
+living generation"* to economic institutions as well as political -- the
+past should not dominate the present and the future (Jefferson: *"Can
+one generation bind another and all others in succession forever? I
+think not. The Creator has made the earth for the living, not for the
+dead. Rights and powers can only belong to persons, not to things, not
+to mere matter unendowed with will"*). For, as Malatesta argued, people
+should *"not have the right . . . to subject people to their rule and
+even less of bequeathing to the countless successions of their
+descendants the right to dominate and exploit future generations."*
+[**At the Cafe**, p. 48]
+
+Then there is the strange co-incidence that "value free" economics
+generally ends up blaming all the problems of capitalism on workers.
+Unemployment? Recession? Low growth? Wages are too high! Proudhon summed
+up capitalist economic theory well when he stated that *"Political
+economy -- that is, proprietary despotism -- can never be in the wrong:
+it must be the proletariat."* [**System of Economical Contradictions**,
+p. 187] And little has changed since 1846 (or 1776!) when it comes to
+economics "explaining" capitalism's problems (such as the business cycle
+or unemployment).
+
+As such, it is hard to consider economics as "value free" when
+economists regularly attack unions while being silent or supportive of
+big business. According to neo-classical economic theory, both are meant
+to be equally bad for the economy but you would be hard pressed to find
+many economists who would urge the breaking up of corporations into a
+multitude of small firms as their theory demands, the number who will
+thunder against "monopolistic" labour is substantially higher
+(ironically, as we note in [section C.1.4](secC1.html#secc14), their own
+theory shows that they must urge the break up of corporations or support
+unions for, otherwise, unorganised labour **is** exploited). Apparently
+arguing that high wages are always bad but high profits are always good
+is value free.
+
+So while big business is generally ignored (in favour of arguments that
+the economy works *"as if"* it did not exist), unions are rarely given
+such favours. Unlike, say, transnational corporations, unions are
+considered monopolistic. Thus we see the strange situation of economists
+(or economics influenced ideologies like right-wing "libertarians")
+enthusiastically defending companies that raise their prices in the wake
+of, say, a natural disaster and making windfall profits while, at the
+same time, attacking workers who decide to raise their wages by striking
+for being selfish. It is, of course, unlikely that they would let
+similar charges against bosses pass without comment. But what can you
+expect from an ideology which presents unemployment as a good thing
+(namely, increased leisure -- see [section C.1.5](secC1.html#secc15))
+and being rich as, essentially, a **disutility** (the pain of abstaining
+from present consumption falls heaviest on those with wealth -- see
+[section C.2.7](secC2.html#secc27)).
+
+Ultimately, only economists would argue, with a straight face, that the
+billionaire owner of a transnational corporation is exploited when the
+workers in his sweatshops successfully form a union (usually in the face
+of the economic and political power wielded by their boss). Yet that is
+what many economists argue: the transnational corporation is not a
+monopoly but the union is and monopolies exploit others! Of course, they
+rarely state it as bluntly as that. Instead they suggest that unions get
+higher wages for their members be forcing other workers to take less pay
+(i.e. by exploiting them). So when bosses break unions they are doing
+this **not** to defend their profits and power but really to raise the
+standard of other, less fortunate, workers? Hardly. In reality, of
+course, the reason why unions are so disliked by economics is that
+bosses, in general, hate them. Under capitalism, labour is a cost and
+higher wages means less profits (all things being equal). Hence the need
+to demonise unions, for one of the less understood facts is that while
+unions increase wages for members, they also increase wages for
+non-union workers. This should not be surprising as non-union companies
+have to raise wages stop their workers unionising and to compete for the
+best workers who will be drawn to the better pay and conditions of union
+shops (as we discuss in [section C.9](secC9.html), the neoclassical
+model of the labour market is seriously flawed).
+
+Which brings us to another key problem with the claim that economics is
+"value free," namely the fact that it takes the current class system of
+capitalism and its distribution of wealth as not only a fact but as an
+ideal. This is because economics is based on the need to be able to
+differentiate between each factor of production in order to determine if
+it is being used optimally. In other words, the given class structure of
+capitalism is required to show that an economy uses the available
+resources efficiently or not. It claims to be "value free" simply
+because it embeds the economic relationships of capitalist society into
+its assumptions about nature.
+
+Yet it is impossible to define profit, rent and interest independently
+of the class structure of any given society. Therefore, this *"type of
+distribution is the peculiarity of capitalism. Under feudalism the
+surplus was extracted as land rent. In an artisan economy each commodity
+is produced by a men with his own tools; the distinction between wages
+and profits has no meaning there."* This means that *"the very essence
+of the theory is bound up with a particular institution -- wage labour.
+The central doctrine is that 'wages tend to equal marginal product of
+labour.' Obviously this has no meaning for a peasant household where all
+share the work and the income of their holding according to the rules of
+family life; nor does it apply in a [co-operative] where, the workers'
+council has to decide what part of net proceeds to allot to investment,
+what part to a welfare found and what part to distribute as wage."*
+[Joan Robinson, **Collected Economic Papers**, p. 26 and p. 130]
+
+This means that the "universal" principles of economics end up by making
+any economy which does **not** share the core social relations of
+capitalism inherently "inefficient." If, for example, workers own all
+three "factors of production" (labour, land and capital) then the
+"value-free" laws of economics concludes that this will be inefficient.
+As there is only "income", it is impossible to say which part of it is
+attributable to labour, land or machinery and, consequently, if these
+factors are being efficiently used. This means that the "science" of
+economics is bound up with the current system and its specific class
+structure and, therefore, as a *"ruling class paradigm, the competitive
+model"* has the *"substantial"* merit that *"it can be used to rule off
+the agenda any proposals for substantial reform or intervention
+detrimental to large economic interests . . . as the model allows (on
+its assumptions) a formal demonstration that these would reduce
+efficiency."* [Edward S. Herman, *"The Selling of Market Economics,"*
+pp. 173-199, **New Ways of Knowing**, Marcus G. Raskin and Herbert J.
+Bernstein (eds.), p. 178]
+
+Then there are the methodological assumptions based on individualism. By
+concentrating on individual choices, economics abstracts from the social
+system within which such choices are made and what influences them.
+Thus, for example, the analysis of the causes of poverty is turned
+towards the failings of individuals rather than the system as a whole
+(to be poor becomes a personal stigma). That the reality on the ground
+bears little resemblance to the myth matters little -- when people with
+two jobs still fail to earn enough to feed their families, it seems
+ridiculous to call them lazy or selfish. It suggests a failure in the
+system, not in the poor themselves. An individualistic analysis is
+guaranteed to exclude, by definition, the impact of class, inequality,
+social hierarchies and economic/social power and any analysis of any
+inherent biases in a given economic system, its distribution of wealth
+and, consequently, its distribution of income between classes.
+
+This abstracting of individuals from their social surroundings results
+in the generating economic "laws" which are applicable for all
+individuals, in all societies, for all times. This results in all
+concrete instances, no matter how historically different, being treated
+as expressions of the same universal concept. In this way the uniqueness
+of contemporary society, namely its basis in wage labour, is ignored
+(*"The period through which we are passing . . . is distinguished by a
+special characteristic -- WAGES."* [Proudhon, **Op. Cit.**, p. 199]).
+Such a perspective cannot help being ideological rather than scientific.
+By trying to create a theory applicable for all time (and so,
+apparently, value free) they just hide the fact their theory assumes and
+justifies the inequalities of capitalism (for example, the assumption of
+given needs and distribution of wealth and income secretly introduces
+the social relations of the current society back into the model,
+something which the model had supposedly abstracted from). By stressing
+individualism, scarcity and competition, in reality economic analysis
+reflects nothing more than the dominant ideological conceptions found in
+capitalist society. Every few economic systems or societies in the
+history of humanity have actually reflected these aspects of capitalism
+(indeed, a lot of state violence has been used to create these
+conditions by breaking up traditional forms of society, property rights
+and customs in favour of those desired by the current ruling elite).
+
+The very general nature of the various theories of profit, interest and
+rent should send alarm bells ringing. Their authors construct these
+theories based on the deductive method and stress how they are
+applicable in **every** social and economic system. In other words, the
+theories are just that, theories derived independently of the facts of
+the society they are in. It seems somewhat strange, to say the least, to
+develop a theory of, say, interest independently of the class system
+within which it is charged but this is precisely what these "scientists"
+do. It is understandable why. By ignoring the current system and its
+classes and hierarchies, the economic aspects of this system can be
+justified in terms of appeals to universal human existence. This will
+raise less objections than saying, for example, that interest exists
+because the rich will only part with their money if they get more in
+return and the poor will pay for this because they have little choice
+due to their socio-economic situation. Far better to talk about "time
+preference" rather than the reality of class society (see [section
+C.2.6](secC2.html#secc26)).
+
+Neoclassical economics, in effect, took the "political" out of
+"political economy" by taking capitalist society for granted along with
+its class system, its hierarchies and its inequalities. This is
+reflected in the terminology used. These days even the term capitalism
+has gone out of fashion, replaced with the approved terms *"market
+system,"* the *"free market"* or *"free enterprise."* Yet, as Chomsky
+noted, terms such as *"free enterprise"* are used *"to designate a
+system of autocratic governance of the economy in which neither the
+community nor the workforce has any role (a system we would call
+'fascist' if translated to the political sphere)."* [**Language and
+Politics**, p. 175] As such, it seems hardly "value-free" to proclaim a
+system free when, in reality, most people are distinctly not free for
+most of their waking hours and whose choices outside production are
+influenced by the inequality of wealth and power which that system of
+production create.
+
+This shift in terminology reflects a political necessity. It effectively
+removes the role of wealth (capital) from the economy. Instead of the
+owners and manager of capital being in control or, at the very least,
+having significant impact on social events, we have the impersonal
+activity of *"the markets"* or *"market forces."* That such a change in
+terminology is the interest of those whose money accords them power and
+influence goes without saying. By focusing on the market, economics
+helps hide the real sources of power in an economy and attention is
+drawn away from such a key questions of how money (wealth) produces
+power and how it skews the "free market" in its favour. All in all, as
+dissident economist John Kenneth Galbraith once put it, *"[w]hat
+economists believe and teach is rarely hostile to the institutions that
+reflect the dominant economic power. Not to notice this takes effort,
+although many succeed."* [**The Essential Galbraith**, p. 180]
+
+This becomes obvious when we look at how the advice economics gives to
+working class people. In theory, economics is based on individualism and
+competition yet when it comes to what workers should do, the "laws" of
+economics suddenly switch. The economist will now deny that competition
+is a good idea and instead urge that the workers co-operate (i.e. obey)
+their boss rather than compete (i.e. struggle over the division of
+output and authority in the workplace). They will argue that there is
+*"harmony of interests"* between worker and boss, that it is in the
+**self**-interest of workers **not** to be selfish but rather to do
+whatever the boss asks to further **the bosses** interests (i.e.
+profits).
+
+That this perspective implicitly recognises the **dependent** position
+of workers, goes without saying. So while the sale of labour is
+portrayed as a market exchange between equals, it is in fact an
+authority relation between servant and master. The conclusions of
+economics is simply implicitly acknowledging that authoritarian
+relationship by identifying with the authority figure in the
+relationship and urging obedience to them. It simply suggests workers
+make the best of it by refusing to be independent individuals who need
+freedom to flourish (at least during working hours, outside they can
+express their individuality by shopping).
+
+This should come as no surprise, for, as Chomsky notes, economics is
+rooted in the notion that *"you only harm the poor by making them
+believe that they have rights other than what they can win on the
+market, like a basic right to live, because that kind of right
+interferes with the market, and with efficiency, and with growth and so
+on -- so ultimately people will just be worse off if you try to
+recognise them."* [**Op. Cit.**, p. 251] Economics teaches that you must
+accept change without regard to whether it is appropriate it not. It
+teaches that you must not struggle, you must not fight. You must simply
+accept whatever change happens. Worse, it teaches that resisting and
+fighting back are utterly counter-productive. In other words, it teaches
+a servile mentality to those subject to authority. For business,
+economics is ideal for getting their employees to change their attitudes
+rather than collectively change how their bosses treat them, structure
+their jobs or how they are paid -- or, of course, change the system.
+
+Of course, the economist who says that they are conducting "value free"
+analysis are indifferent to the kinds of relationships within society is
+being less than honest. Capitalist economic theory is rooted in very
+specific assumptions and concepts such as "economic man" and "perfect
+competition." It claims to be "value-free" yet its preferred terminology
+is riddled with value connotations. For example, the behaviour of
+"economic man" (i.e., people who are self-interested utility
+maximisation machines) is described as *"rational."* By implication,
+then, the behaviour of real people is *"irrational"* whenever they
+depart from this severely truncated account of human nature and society.
+Our lives consist of much more than buying and selling. We have goals
+and concerns which cannot be bought or sold in markets. In other words,
+humanity and liberty transcend the limits of property and, as a result,
+economics. This, unsurprisingly, affects those who study the "science"
+as well:
+
+> "Studying economics also seems to make you a nastier person.
+> Psychological studies have shown that economics graduate students are
+> more likely to 'free ride' -- shirk contributions to an experimental
+> 'public goods' account in the pursuit of higher private returns --
+> than the general public. Economists also are less generous that other
+> academics in charitable giving. Undergraduate economics majors are
+> more likely to defect in the classic prisoner's dilemma game that are
+> other majors. And on other tests, students grow less honest --
+> expressing less of a tendency, for example, to return found money --
+> after studying economics, but not studying a control subject like
+> astronomy.
+> "This is no surprise, really. Mainstream economics is built entirely
+> on a notion of self-interested individuals, rational self-maximisers
+> who can order their wants and spend accordingly. There's little room
+> for sentiment, uncertainty, selflessness, and social institutions.
+> Whether this is an accurate picture of the average human is open to
+> question, but there's no question that capitalism as a system and
+> economics as a discipline both reward people who conform to the
+> model." [Doug Henwood, **Wall Street**, p, 143]
+
+So is economics "value free"? Far from it. Given its social role, it
+would be surprising that it were. That it tends to produce policy
+recommendations that benefit the capitalist class is not an accident. It
+is rooted in the fibre of the "science" as it reflects the assumptions
+of capitalist society and its class structure. Not only does it take the
+power and class structures of capitalism for granted, it also makes them
+the ideal for any and every economy. Given this, it should come as no
+surprise that economists will tend to support policies which will make
+the real world conform more closely to the standard (usually
+neoclassical) economic model. Thus the models of economics become more
+than a set of abstract assumptions, used simply as a tool in theoretical
+analysis of the casual relations of facts. Rather they become political
+goals, an ideal towards which reality should be forced to travel.
+
+This means that economics has a dual character. On the one hand, it
+attempts to prove that certain things (for example, that free market
+capitalism produces an optimum allocation of resources or that, given
+free competition, price formation will ensure that each person's income
+corresponds to their productive contribution). On the other, economists
+stress that economic "science" has nothing to do with the question of
+the justice of existing institutions, class structures or the current
+economic system. And some people seem surprised that this results in
+policy recommendations which consistently and systematically favour the
+ruling class.
+
+C.1.2 Is economics a science?
+-----------------------------
+
+In a word, no. If by "scientific" it is meant in the usual sense of
+being based on empirical observation and on developing an analysis that
+was consistent with and made sense of the data, then most forms of
+economics are not a science.
+
+Rather than base itself on a study of reality and the generalisation of
+theory based on the data gathered, economics has almost always been
+based on generating theories rooted on whatever assumptions were
+required to make the theory work. Empirical confirmation, if it happens
+at all, is usually done decades later and if the facts contradict the
+economics, so much the worse for the facts.
+
+A classic example of this is the neo-classical theory of production. As
+noted previously, neoclassical economics is focused on individual
+evaluations of existing products and, unsurprisingly, economics is
+indelibly marked by *"the dominance of a theoretical vision that treats
+the inner workings of the production process as a 'black box.'"* This
+means that the *"neoclassical theory of the 'capitalist' economy makes
+no qualitative distinction between the corporate enterprise that employs
+tens of thousands of people and the small family undertaking that does
+no employ any wage labour at all. As far as theory is concerned, it is
+technology and market forces, not structures of social power, that
+govern the activities of corporate capitalists and petty proprietors
+alike."* [William Lazonick, **Competitive Advantage on the Shop Floor**,
+p. 34 and pp. 33-4] Production in this schema just happens -- inputs go
+in, outputs go out -- and what happens inside is considered irrelevant,
+a technical issue independent of the social relationships those who do
+the actual production form between themselves -- and the conflicts that
+ensure.
+
+The theory does have a few key assumptions associated with it, however.
+First, there are diminishing returns. This plays a central role. In
+mainstream diminishing returns are required to produce a downward
+sloping demand curve for a given factor. Second, there is a rising
+supply curve based on rising marginal costs produced by diminishing
+returns. The average variable cost curve for a firm is assumed to be
+U-shaped, the result of first increasing and then diminishing returns.
+These are logically necessary for the neo-classical theory to work.
+
+Non-economists would, of course, think that these assumptions are
+generalisations based on empirical evidence. However, they are not. Take
+the U-shaped average cost curve. This was simply invented by A. C.
+Pigou, *"a loyal disciple of [leading neo-classical Alfred] Marshall and
+quite innocent of any knowledge of industry. He therefore constructed a
+U-shaped average cost curve for a firm, showing economies of scale up to
+a certain size and rising costs beyond it."* [Joan Robinson, **Collected
+Economic Papers**, vol. 5, p. 11] The invention was driven by need of
+the theory, not the facts. With increasing returns to scale, then large
+firms would have cost advantages against small ones and would drive them
+out of business in competition. This would destroy the concept of
+perfect competition. However, the invention of the average cost curve
+allowed the theory to work as "proved" that a competitive market could
+**not** become dominated by a few large firms, as feared.
+
+The model, in other words, was adjusted to ensure that it produced the
+desired result rather than reflect reality. The theory was required to
+prove that markets remained competitive and the existence of diminishing
+marginal returns to scale of production **did** tend by itself to limit
+the size of individual firms. That markets did become dominated by a few
+large firms was neither here nor there. It did not happen in theory and,
+consequently, that was the important thing and so *"when the great
+concentrations of power in the multinational corporations are bringing
+the age of national employment policy to an end, the text books are
+still illustrated by U-shaped curves showing the limitation on the size
+of firms in a perfectly competitive market."* [Joan Robinson,
+**Contributions to Modern Economics**, p. 5]
+
+To be good, a theory must have two attributes: They accurately describe
+the phenomena in question and they make accurate predictions. Neither
+holds for Pigou's invention: reality keeps getting in the way. Not only
+did the rise of a few large firms dominating markets indirectly show
+that the theory was nonsense, when empirical testing was finally done
+decades after the theory was proposed it showed that in most cases the
+opposite is the case: that there were constant or even falling costs in
+production. Just as the theories of marginality and diminishing marginal
+returns taking over economics, the real world was showing how wrong it
+was with the rise of corporations across the world.
+
+So the reason why the market become dominated by a few firms should be
+obvious enough: actual corporate price is utterly different from the
+economic theory. This was discovered when researchers did what the
+original theorists did not think was relevant: they actually asked firms
+what they did and the researchers consistently found that, for the vast
+majority of manufacturing firms their average costs of production
+declined as output rose, their marginal costs were always well below
+their average costs, and substantially smaller than 'marginal revenue',
+and the concept of a 'demand curve' (and therefore its derivative
+'marginal revenue') was simply irrelevant.
+
+Unsurprisingly, real firms set their prices prior to sales, based on a
+mark-up on costs at a target rate of output. In other words, they did
+not passively react to the market. These prices are an essential feature
+of capitalism as prices are set to maintain the long-term viability of
+the firm. This, and the underlying reality that per-unit costs fell as
+output levels rose, resulted in far more stable prices than were
+predicted by traditional economic theory. One researcher concluded that
+administered prices *"differ so sharply from the behaviour to be
+expected from"* the theory *"as to challenge the basic conclusions"* of
+it. He warned that until such time as *"economic theory can explain and
+take into account the implications"* of this empirical data, *"it
+provides a poor basis for public policy."* Needless to say, this did not
+disturb neo-classical economists or stop them providing public policy
+recommendations. [Gardiner C. Means, *"The Administered-Price Thesis
+Reconfirmed",* **The American Economic Review**, pp. 292-306, Vol. 62,
+No. 3, p. 304]
+
+One study in 1952 showed firms a range of hypothetical cost curves, and
+asked firms which ones most closely approximated their own costs. Over
+90% of firms chose a graph with a declining average cost rather than one
+showing the conventional economic theory of rising marginal costs. These
+firms faced declining average cost, and their marginal revenues were
+much greater than marginal cost at all levels of output. Unsurprisingly,
+the study's authors concluded if this sample was typical then it was
+*"obvious that short-run marginal price theory should be revised in the
+light of reality."* We are still waiting. [Eiteman and Guthrie, *"The
+Shape of the Average Cost Curve",* **The American Economic Review**, pp.
+832-8, Vol. 42, No. 5, p. 838]
+
+A more recent study of the empirical data came to the same conclusions,
+arguing that it is *"overwhelming bad news . . . for economic theory."*
+While economists treat rising marginal cost as the rule, 89% of firms in
+the study reported marginal costs which were either constant or declined
+with output. As for price elasticity, it is not a vital operational
+concept for corporations. In other words, the *"firms that sell 40
+percent of GDP believe their demand is totally insensitive to price"*
+while *"only about one-sixth of GDP is sold under conditions of elastic
+demand."* [A.S. Blinder, E. Cabetti, D. Lebow and J. Rudd, **Asking
+About Prices**, p. 102 and p. 101]
+
+Thus empirical research has concluded that actual price setting has
+nothing to do with clearing the market by equating market supply to
+market demand (i.e. what economic theory sees as the role of prices).
+Rather, prices are set to enable the firm to continue as a going concern
+and equating supply and demand in any arbitrary period of time is
+irrelevant to a firm which hopes to exist for the indefinite future. As
+Lee put it, basing himself on extensive use of empirical research,
+*"market prices are not market-clearing or profit-maximising prices, but
+rather are enterprise-, and hence transaction-reproducing prices."*
+Rather than a non-existent equilibrium or profit maximisation at a given
+moment determining prices, the market price is *"set and the market
+managed for the purpose of ensuring continual transactions for those
+enterprises in the market, that is for the benefit of the business
+leaders and their enterprises."* A significant proportion of goods have
+prices based on mark-up, normal cost and target rate of return pricing
+procedures and are relatively stable over time. Thus *"the existence of
+stable, administered market prices implies that the markets in which
+they exist are not organised like auction markets or like the early
+retail markets and oriental bazaars"* as imagined in mainstream economic
+ideology. [Frederic S. Lee, **Post Keynesian Price Theory**, p. 228 and
+p. 212]
+
+Unsurprisingly, most of these researchers were highly critical the
+conventional economic theory of markets and price setting. One viewed
+the economists' concepts of perfect competition and monopoly as virtual
+nonsense and *"the product of the itching imaginations of uninformed and
+inexperienced armchair theorisers."* [Tucker, quoted by Lee, **Op.
+Cit.**, p. 73f] Which **was** exactly how it was produced.
+
+No other science would think it appropriate to develop theory utterly
+independently of phenomenon under analysis. No other science would wait
+decades before testing a theory against reality. No other science would
+then simply ignore the facts which utterly contradicted the theory and
+continue to teach that theory as if it were a valid generalisation of
+the facts. But, then, economics is not a science.
+
+This strange perspective makes sense once it is realised how key the
+notion of diminishing costs is to economics. In fact, if the assumption
+of increasing marginal costs is abandoned then so is perfect competition
+and *"the basis of which economic laws can be constructed . . . is shorn
+away,"* causing the *"wreckage of the greater part of general
+equilibrium theory."* This will have *"a very destructive consequence
+for economic theory,"* in the words of one leading neo-classical
+economist. [John Hicks, **Value and Capital**, pp. 83-4] As Steve Keen
+notes, this is extremely significant:
+
+> "Strange as it may seem . . . this is a very big deal. If marginal
+> returns are constant rather than falling, then the neo-classical
+> explanation of everything collapses. Not only can economic theory no
+> longer explain how much a firm produces, it can explain nothing else.
+>
+> "Take, for example, the economic theory of employment and wage
+> determination . . . The theory asserts that the real wage is
+> equivalent to the marginal product of labour . . . An employer will
+> employ an additional worker if the amount the worker adds to output --
+> the worker's marginal product -- exceeds the real wage . . . [This]
+> explains the economic predilection for blaming everything on wages
+> being too high -- neo-classical economics can be summed up, as [John
+> Kenneth] Galbraith once remarked, in the twin propositions that the
+> poor don't work hard enough because they're paid too much, and the
+> rich don't work hard enough because they're not paid enough . . .
+>
+> "If in fact the output to employment relationship is relatively
+> constant, then the neo-classical explanation for employment and output
+> determination collapses. With a flat production function, the marginal
+> product of labour will be constant, and it will **never** intersect
+> the real wage. The output of the form then can't be explained by the
+> cost of employing labour. . . [This means that] neo-classical
+> economics simply cannot explain anything: neither the level of
+> employment, nor output, nor, ultimately, what determines the real wage
+> . . .the entire edifice of economics collapses." [**Debunking
+> Economics**, pp. 76-7]
+
+It should be noted that the empirical research simply confirmed an
+earlier critique of neo-classical economics presented by Piero Sraffa in
+1926. He argued that while the neo-classical model of production works
+in theory only if we accept its assumptions. If those assumptions do not
+apply in practice, then it is irrelevant. He therefore *"focussed upon
+the economic assumptions that there were 'factors of production' which
+were fixed in the short run, and that supply and demand were independent
+of each other. He argued that these two assumptions could be fulfilled
+simultaneously. In circumstances where it was valid to say some factor
+of production was fixed in the short term, supply and demand could not
+independent, so that every point on the supply curve would be associated
+with a different demand curve. On the other hand, in circumstances where
+supply and demand could justifiably be treated as independent, then it
+would be impossible for any factor of production to be fixed. Hence the
+marginal costs of production would be constant."* He stressed firms
+would have to be irrational to act otherwise, foregoing the chance to
+make profits simply to allow economists to build their models of how
+they should act. [Keen, **Op. Cit.**, pp. 66-72]
+
+Another key problem in economics is that of time. This has been known,
+and admitted, by economists for some time. Marshall, for example, stated
+that *"the element of **time**"* was *"the source of many of the
+greatest difficulties of economics."* [**Principles of Economics**, p.
+109] The founder of general equilibrium theory, Walras, recognised that
+the passage of time wrecked his whole model and stated that we *"shall
+resolve the . . . difficulty purely and simply by ignoring the time
+element at this point."* This was due, in part, because production
+*"requires a certain lapse of time."* [**Elements of Pure Economics**,
+p. 242] This was generalised by Gerard Debreu (in his Nobel Prize for
+economics winning **Theory of Value** ) who postulated that everyone
+makes their sales and purchases for all time in one instant.
+
+Thus the cutting edge of neo-classical economics, general equilibrium
+ignores both time **and** production. It is based on making time stop,
+looking at finished goods, getting individuals to bid for them and, once
+all goods are at equilibrium, allowing the transactions to take place.
+For Walras, this was for a certain moment of time and was repeated, for
+his followers it happened once for all eternity. This is obviously not
+the way markets work in the real world and, consequently, the dominant
+branch of economics is hardly scientific. Sadly, the notion of
+individuals having full knowledge of both now and the future crops up
+with alarming regularly in the "science" of economics.
+
+Even if we ignore such minor issues as empirical evidence and time,
+economics has problems even with its favoured tool, mathematics. As
+Steve Keen has indicated, economists have *"obscured reality using
+mathematics because they have practised mathematics badly, and because
+they have not realised the limits of mathematics."* indeed, there are
+*"numerous theorems in economics that reply upon mathematically
+fallacious propositions."* [**Op. Cit.**, p. 258 and p. 259] For a
+theory born from the desire to apply calculus to economics, this is
+deeply ironic. As an example, Keen points to the theory of perfect
+competition which assumes that while the demand curve for the market as
+a whole is downward sloping, an individual firm in perfect competition
+is so small that it cannot affect the market price and, consequently,
+faces a horizontal demand curve. Which is utterly impossible. In other
+words, economics breaks the laws of mathematics.
+
+These are just two examples, there are many, many more. However, these
+two are pretty fundamental to the whole edifice of modern economic
+theory. Much, if not most, of mainstream economics is based upon
+theories which have little or no relation to reality. Kropotkin's
+dismissal of *"the metaphysical definitions of the academical
+economists"* is as applicable today. [**Evolution and Environment**, p.
+92] Little wonder dissident economist Nicholas Kaldor argued that:
+
+> *"The Walrasian [i.e. general] equilibrium theory is a highly
+> developed intellectual system, much refined and elaborated by
+> mathematical economists since World War II -- an intellectual
+> experiment . . . But it does not constitute a scientific hypothesis,
+> like Einstein's theory of relativity or Newton's law of gravitation,
+> in that its basic assumptions are axiomatic and not empirical, and no
+> specific methods have been put forward by which the validity or
+> relevance of its results could be tested. The assumptions make
+> assertions about reality in their implications, but these are not
+> founded on direct observation, and, in the opinion of practitioners of
+> the theory at any rate, they cannot be contradicted by observation or
+> experiment."* [**The Essential Kaldor**, p. 416]
+
+C.1.3 Can you have an economics based on individualism?
+-------------------------------------------------------
+
+In a word, no. No economic system is simply the sum of its parts. The
+idea that capitalism is based on the subjective evaluations of
+individuals for goods flies in the face of both logic and the way
+capitalism works. In other words, modern economists is based on a
+fallacy. While it would be expected for critics of capitalism to
+conclude this, the ironic thing is that economists themselves have
+proven this to be the case.
+
+Neoclassical theory argues that marginal utility determines demand and
+price, i.e. the price of a good is dependent on the intensity of demand
+for the marginal unit consumed. This was in contrast to classic
+economics, which argued that price (exchange value) was regulated by the
+cost of production, ultimately the amount of labour used to create it.
+While realistic, this had the political drawback of implying that
+profit, rent and interest were the product of unpaid labour and so
+capitalism was exploitative. This conclusion was quickly seized upon by
+numerous critics of capitalism, including Proudhon and Marx. The rise of
+marginal utility theory meant that such critiques could be ignored.
+
+However, this change was not unproblematic. The most obvious problem
+with it is that it leads to circular reasoning. Prices are supposed to
+measure the "marginal utility" of the commodity, yet consumers need to
+know the price **first** in order to evaluate how best to maximise their
+satisfaction. Hence it *"obviously rest[s] on circular reasoning.
+Although it tries to explain prices, prices [are] necessary to explain
+marginal utility."* [Paul Mattick, **Economics, Politics and the Age of
+Inflation**, p.58] In the end, as Jevons (one of the founders of the new
+economics) acknowledged, the price of a commodity is the only test we
+have of the utility of the commodity to the producer. Given that
+marginality utility was meant to explain those prices, the failure of
+the theory could not be more striking.
+
+However, this is the least of its problems. At first, the neoclassical
+economists used cardinal utility as their analysis tool. Cardinal
+utility meant that it was measurable between individuals, i.e. that the
+utility of a given good was the same for all. While this allowed prices
+to be determined, it caused obvious political problems as it obviously
+justified the taxation of the wealthy. As cardinal utility implied that
+the "utility" of an extra dollar to a poor person was clearly greater
+than the loss of one dollar to a rich man, it was appropriated by
+reformists precisely to justify social reforms and taxation.
+
+Capitalist economists had, yet again, created a theory that could be
+used to attack capitalism and the income and wealth hierarchy it
+produces. As with classical economics, socialists and other social
+reformists used the new theories to do precisely that, appropriating it
+to justify the redistribution of income and wealth downward (i.e. back
+into the hands of the class who had created it in the first place).
+Combine this with the high levels of class conflict at the time and it
+should come as no surprise that the "science" of economics was suitably
+revised.
+
+There was, of course, a suitable "scientific" rationale for this
+revision. It was noted that as individual evaluations are inherently
+subjective, it is obvious that cardinal utility was impossible in
+practice. Of course, cardinality was not totally rejected. Neoclassical
+economics retained the idea that capitalists maximise profits, which is
+a cardinal quantity. However for demand utility became "ordinal," that
+is utility was considered an individual thing and so could not be
+measured. This resulted in the conclusion that there was no way of
+making interpersonal comparisons between individuals and, consequently,
+no basis for saying a pound in the hands of a poor person had more
+utility than if it had remained in the pocket of a billionaire. The
+economic case for taxation was now, apparently, closed. While you may
+think that income redistribution was a good idea, it was now proven by
+"science" that this little more than a belief as all interpersonal
+comparisons were now impossible. That this was music to the ears of the
+wealthy was, of course, just one of those strange co-incidences which
+always seems to plague economic "science."
+
+The next stage of the process was to abandon then ordinal utility in
+favour of "indifference curves" (the continued discussion of "utility"
+in economics textbooks is primarily heuristic). In this theory consumers
+are supposed to maximise their utility by working out which bundle of
+goods gives them the highest level of satisfaction based on the twin
+constraints of income and given prices (let us forget, for the moment,
+that marginal utility was meant to determines prices in the first
+place). To do this, it is assumed that incomes and tastes are
+independent and that consumers have pre-existing preferences for all
+possible bundles.
+
+This produces a graph that shows different quantities of two different
+goods, with the "indifference curves" showing the combinations of goods
+which give the consumer the same level of satisfaction (hence the name,
+as the consumer is "indifferent" to any combination along the curve).
+There is also a straight line representing relative prices and the
+consumer's income and this budget line shows the uppermost curve the
+consumer can afford to reach. That these indifference curves could not
+be observed was not an issue although leading neo-classical economist
+Paul Samuelson provided an apparent means see these curves by his
+concept of *"revealed preference"* (a basic tautology). There is a
+reason why "indifference curves" cannot be observed. They are literally
+impossible for human beings to calculate once you move beyond a
+trivially small set of alternatives and it is impossible for actual
+people to act as economists argue they do. Ignoring this slight problem,
+the "indifference curve" approach to demand can be faulted for another,
+even more basic, reason. It does not prove what it seeks to show:
+
+> *"Though mainstream economics began by assuming that this hedonistic,
+> individualist approach to analysing consumer demand was intellectually
+> sound, **it ended up proving that it was not.** The critics were
+> right: society is more than the sum of its individual members."*
+> [Steve Keen, **Debunking Economics**, p. 23]
+
+As noted above, to fight the conclusion that redistributing wealth would
+result in a different level of social well-being, economists had to show
+that *"altering the distribution of income did not alter social welfare.
+They worked out that two conditions were necessary for this to be true:
+(a) that all people have the same tastes; (b) that each person's tastes
+remain the same as her income changes, so that every additional dollar
+of income was spent exactly the same way as all previous dollars."* The
+former assumption *"in fact amounts to assuming that there is only one
+person in society"* or that *"society consists of a multitude of
+identical drones"* or clones. The latter assumption *"amounts to
+assuming that there is only one commodity -- since otherwise spending
+patterns would necessary change as income rose."* [Keen, **Op. Cit.**,
+p. 24] This is the real meaning of the assumption that all goods and
+consumers can be considered *"representative."* Sadly, such individuals
+and goods do not exist. Thus:
+
+> *"Economics can prove that 'the demand curve slows downward in price'
+> for a single individual and a single commodity. But in a society
+> consisting of many different individuals with many different
+> commodities, the 'market demand curve' is more probably jagged, and
+> slopes every which way. One essential building block of the economic
+> analysis of markets, the demand curve, therefore does not have the
+> characteristics needed for economic theory to be internally consistent
+> . . . most mainstream academic economists are aware of this problem,
+> but they pretend that the failure can be managed with a couple of
+> assumptions. Yet the assumptions themselves are so absurd that only
+> someone with a grossly distorted sense of logic could accept them.
+> That grossly distorted sense of logic is acquired in the course of a
+> standard education in economics."* [**Op. Cit.**, pp. 25-7]
+
+Rather than produce a *"social indifference map which had the same
+properties as the individual indifference maps"* by adding up all the
+individual maps, economics *"proved that this consistent summation from
+individual to society could **not** be achieved."* Any sane person would
+have rejected the theory at this stage, but not economists. Keen states
+the obvious: *"That economists, in general, failed to draw this
+inference speaks volumes for the unscientific nature of economic
+theory."* They simply invented *"some fudge to disguise the gapping hole
+they have uncovered in the theory."* [**Op. Cit.**, p. 40 and p. 48]
+Ironically, it took over one hundred years and advanced mathematical
+logic to reach the same conclusion that the classical economists took
+for granted, namely that individual utility could not be measured and
+compared. However, instead of seeking exchange value (price) in the
+process of production, neoclassical economists simply that made a few
+absurd assumptions and continued on its way as if nothing was wrong.
+
+This is important because *"economists are trying to prove that a market
+economy necessarily maximises social welfare. If they can't prove that
+the market demand curve falls smoothly as price rises, they can't prove
+that the market maximises social welfare."* In addition, *"the concept
+of a social indifference curve is crucial to many of the key notions of
+economics: the argument that free trade is necessarily superior to
+regulated trade, for example, is first constructed using a social
+indifference curve. Therefore, if the concept of a social indifference
+curve itself is invalid, then so too are many of the most treasured
+notions of economics."* [Keen, **Op. Cit.**, p. 50] This means much of
+economic theory is invalidated and with it the policy recommendations
+based on it.
+
+This elimination of individual differences in favour of a society of
+clones by marginalism is not restricted to demand. Take the concept of
+the *"representative firm"* used to explain supply. Rather than a
+theoretical device to deal with variety, it ignores diversity. It is a
+heuristic concept which deals with a varied collection of firms by
+identifying a single set of distinct characteristics which are deemed to
+represent the essential qualities of the industry as a whole. It is
+**not** a single firm or even a typical or average firm. It is an
+imaginary firm which exhibits the "representative" features of the
+entire industry, i.e. it treats an industry as if it were just one firm.
+Moreover, it should be stressed that this concept is driven by the needs
+to prove the model, not by any concern over reality. The *"real
+weakness"* of the *"representative firm"* in neo-classical economics is
+that it is *"no more than a firm which answers the requirements expected
+from it by the supply curve"* and because it is *"nothing more than a
+small-scale replica of the industry's supply curve that it is unsuitable
+for the purpose it has been called into being."* [Kaldor, **The
+Essential Kaldor**, p. 50]
+
+Then there is neoclassical analysis of the finance market. According to
+the Efficient Market Hypothesis, information is disseminated equally
+among all market participants, they all hold similar interpretations of
+that information and all can get access to all the credit they need at
+any time at the same rate. In other words, everyone is considered to be
+identical in terms of what they know, what they can get and what they do
+with that knowledge and cash. This results in a theory which argues that
+stock markets accurately price stocks on the basis of their unknown
+future earnings, i.e. that these identical expectations by identical
+investors are correct. In other words, investors are able to correctly
+predict the future and act in the same way to the same information. Yet
+if everyone held identical opinions then there would be no trading of
+shares as trading obviously implies **different** opinions on how a
+stock will perform. Similarly, in reality investors are credit rationed,
+the rate of borrowing tends to rise as the amount borrowed increases and
+the borrowing rate normally exceeds the leading rate. The developer of
+the theory was honest enough to state that the *"consequence of
+accommodating such aspects of reality are likely to be disastrous in
+terms of the usefulness of the resulting theory . . . The theory is in a
+shambles."* [W.F Sharpe, quoted by Keen, **Op. Cit.**, p. 233]
+
+Thus the world was turned into a single person simply to provide a
+theory which showed that stock markets were "efficient" (i.e. accurately
+reflect unknown future earnings). In spite of these slight problems, the
+theory was accepted in the mainstream as an accurate reflection of
+finance markets. Why? Well, the implications of this theory are deeply
+political as it suggests that finance markets will never experience
+bubbles and deep slumps. That this contradicts the well-known history of
+the stock market was considered unimportant. Unsurprisingly, *"as time
+went on, more and more data turned up which was not consistent with"*
+the theory. This is because the model's world *"is clearly not our
+world."* The theory *"cannot apply in a world in which investors differ
+in their expectations, in which the future is uncertain, and in which
+borrowing is rationed."* It *"should never have been given any
+credibility -- yet instead it became an article of faith for academics
+in finance, and a common belief in the commercial world of finance."*
+[Keen, **Op. Cit.**, p. 246 and p. 234]
+
+This theory is at the root of the argument that finance markets should
+be deregulated and as many funds as possible invested in them. While the
+theory may benefit the minority of share holders who own the bulk of
+shares and help them pressurise government policy, it is hard to see how
+it benefits the rest of society. Alternative, more realistic theories,
+argue that finance markets show endogenous instability, result in bad
+investment as well as reducing the overall level of investment as
+investors will not fund investments which are not predicted to have a
+sufficiently high rate of return. All of which has a large and negative
+impact on the real economy. Instead, the economic profession embraced a
+highly unreal economic theory which has encouraged the world to indulge
+in stock market speculation as it argues that they do not have bubbles,
+booms or bursts (that the 1990s stock market bubble finally burst like
+many previous ones is unlikely to stop this). Perhaps this has to do the
+implications for economic theory for this farcical analysis of the stock
+market? As two mainstream economists put it:
+
+> *"To reject the Efficient Market Hypothesis for the whole stock market
+> . . . implies broadly that production decisions based on stock prices
+> will lead to inefficient capital allocations. More generally, if the
+> application of rational expectations theory to the virtually 'idea'
+> conditions provided by the stock market fails, then what confidence
+> can economists have in its application to other areas of economics . .
+> . ?"* [Marsh and Merton, quoted by Doug Henwood, **Wall Street**, p.
+> 161]
+
+Ultimately, neoclassical economics, by means of the concept of
+"representative" agent, has proved that subjective evaluations could not
+be aggregated and, as a result, a market supply and demand curves cannot
+be produced. In other words, neoclassical economics has shown that if
+society were comprised of one individual, buying one good produced by
+one factory then it could accurately reflect what happened in it. *"It
+is stating the obvious,"* states Keen, *"to call the representative
+agent an 'ad hoc' assumption, made simply so that economists can pretend
+to have a sound basis for their analysis, when in reality they have no
+grounding whatsoever."* [**Op. Cit.**, p. 188]
+
+There is a certain irony about the change from cardinal to ordinal
+utility and finally the rise of the impossible nonsense which are
+"indifference curves." While these changes were driven by the need to
+deny the advocates of redistributive taxation policies the mantel of
+economic science to justify their schemes, the fact is by rejecting
+cardinal utility, it becomes impossible to say whether state action like
+taxes decreases utility at all. With ordinal utility and its related
+concepts, you cannot actually show that government intervention actually
+harms "social utility." All you can say is that they are indeterminate.
+While the rich may lose income and the poor gain, it is impossible to
+say anything about social utility without making an interpersonal
+(cardinal) utility comparison. Thus, ironically, ordinal utility based
+economics provides a much weaker defence of free market capitalism by
+removing the economist of the ability to call any act of government
+"inefficient" and they would have to be evaluated in, horror of horrors,
+non-economic terms. As Keen notes, it is *"ironic that this ancient
+defence of inequality ultimately backfires on economics, by making its
+impossible to construct a market demand curve which is independent on
+the distribution of income . . . economics cannot defend any one
+distribution of income over any other. A redistribution of income that
+favours the poor over the rich cannot be formally opposed by economic
+theory."* [**Op. Cit.**, p. 51]
+
+Neoclassical economics has also confirmed that the classical perspective
+of analysing society in terms of classes is also more valid than the
+individualistic approach it values. As one leading neo-classical
+economist has noted, if economics is *"to progress further we may well
+be forced to theorise in terms of groups who have collectively coherent
+behaviour."* Moreover, the classical economists would not be surprised
+by the admission that *"the addition of production **can** help"*
+economic analysis nor the conclusion that the *"idea that we should
+start at the level of the isolated individual is one which we may well
+have to abandon . . . If we aggregate over several individuals, such a
+model is unjustified."* [Alan Kirman, *"The Intrinsic Limits of Modern
+Economy Theory",* pp. 126-139, The Economic Journal, Vol. 99, No. 395,
+p. 138, p. 136 and p. 138]
+
+So why all the bother? Why spend over 100 years driving economics into a
+dead-end? Simply because of political reasons. The advantage of the
+neoclassical approach was that it abstracted away from production (where
+power relations are clear) and concentrated on exchange (where power
+works indirectly). As libertarian Marxist Paul Mattick notes, the
+*"problems of bourgeois economics seemed to disappear as soon as one
+ignored production and attended only to the market . . . Viewed apart
+from production, the price problem can be dealt with purely in terms of
+the market."* [**Economic Crisis and Crisis Theory**, p. 9] By ignoring
+production, the obvious inequalities of power produced by the dominant
+social relations within capitalism could be ignored in favour of looking
+at abstract individuals as buyers and sellers. That this meant ignoring
+such key concepts as time by forcing economics into a static, freeze
+frame, model of the economy was a price worth paying as it allowed
+capitalism to be justified as the best of all possible worlds:
+
+> *"On the one hand, it was thought essential to represent the winning
+> of profit, interest, and rent as participation in the creation of
+> wealth. On the other, it was thought desirable to found the authority
+> of economics on the procedures of natural science. This second desire
+> prompted a search for general economic laws independent of time and
+> circumstances. If such laws could be proven, the existing society
+> would thereby be legitimated and every idea of changing it refuted.
+> Subjective value theory promised to accomplish both tasks at once.
+> Disregarding the exchange relationship peculiar to capitalism -- that
+> between the sellers and buyers of labour power -- it could explain the
+> division of the social product, under whatever forms, as resulting
+> from the needs of the exchangers themselves."* [Mattick, **Op. Cit.**,
+> p. 11]
+
+The attempt to ignore production implied in capitalist economics comes
+from a desire to hide the exploitative and class nature of capitalism.
+By concentrating upon the "subjective" evaluations of individuals, those
+individuals are abstracted away from real economic activity (i.e.
+production) so the source of profits and power in the economy can be
+ignored ([section C.2](secC2.html) indicates why exploitation of labour
+in production is the source of profit, interest and rent and **not**
+exchanges in the market).
+
+Hence the flight from classical economics to the static, timeless world
+of individuals exchanging pre-existing goods on the market. The
+evolution of capitalist economics has always been towards removing any
+theory which could be used to attack capitalism. Thus classical
+economics was rejected in favour of utility theory once socialists and
+anarchists used it to show that capitalism was exploitative. Then this
+utility theory was modified over time in order to purge it of
+undesirable political consequences. In so doing, they ended up not only
+proving that an economics based on individualism was impossible but also
+that it cannot be used to oppose redistribution policies after all.
+
+C.1.4 What is wrong with equilibrium analysis?
+----------------------------------------------
+
+The dominant form of economic analysis since the 1880s has been
+equilibrium analysis. While equilibrium had been used by classical
+economics to explain what regulated market prices, it did not consider
+it as reflecting any real economy. This was because classical economics
+analysed capitalism as a mode of production rather than as a mode of
+exchange, as a mode of circulation, as neo-classical economics does. It
+looked at the process of creating products while neo-classical economics
+looked at the price ratios between already existing goods (this explains
+why neo-classical economists have such a hard time understanding
+classical or Marxist economics, the schools are talking about different
+things and why they tend to call any market system "capitalism"
+regardless of whether wage labour predominates of not). The classical
+school is based on an analysis of markets based on production of
+commodities through time. The neo-classical school is based on an
+analysis of markets based on the exchange of the goods which exist at
+any moment of time.
+
+This indicates what is wrong with equilibrium analysis, it is
+essentially a static tool used to analyse a dynamic system. It assumes
+stability where none exists. Capitalism is always unstable, always out
+of equilibrium, since *"growing out of capitalist competition, to
+heighten exploitation, . . . the relations of production . . . [are] in
+a state of perpetual transformation, which manifests itself in changing
+relative prices of goods on the market. Therefore the market is
+continuously in disequilibrium, although with different degrees of
+severity, thus giving rise, by its occasional approach to an equilibrium
+state, to the illusion of a tendency toward equilibrium."* [Mattick,
+**Op. Cit.**, p. 51] Given this obvious fact of the real economy, it
+comes as no surprise that dissident economists consider equilibrium
+analysis as *"a major obstacle to the development of economics as a
+**science** -- meaning by the term 'science' a body of theorems based on
+assumptions that are **empirically** derived (from observations) and
+which embody hypotheses that are capable of verification both in regard
+to the assumptions and the predictions."* [Kaldor, **The Essential
+Kaldor**, p. 373]
+
+Thus the whole concept is an unreal rather than valid abstraction of
+reality. Sadly, the notions of "perfect competition" and (Walrasian)
+"general equilibrium" are part and parcel of neoclassical economics. It
+attempts to show, in the words of Paul Ormerod, *"that under certain
+assumptions the free market system would lead to an allocation of a
+given set of resources which was in a very particular and restricted
+sense optimal from the point of view of every individual and company in
+the economy."* [**The Death of Economics**, p. 45] This was what
+Walrasian general equilibrium proved. However, the assumptions required
+prove to be somewhat unrealistic (to understate the point). As Ormerod
+points out:
+
+> *"[i]t cannot be emphasised too strongly that . . . the competitive
+> model is far removed from being a reasonable representation of Western
+> economies in practice. . . [It is] a travesty of reality. The world
+> does not consist, for example, of an enormous number of small firms,
+> none of which has any degree of control over the market . . . The
+> theory introduced by the marginal revolution was based upon a series
+> of postulates about human behaviour and the workings of the economy.
+> It was very much an experiment in pure thought, with little empirical
+> rationalisation of the assumptions."* [**Op. Cit.**, p. 48]
+
+Indeed, *"the weight of evidence"* is *"against the validity of the
+model of competitive general equilibrium as a plausible representation
+of reality."* [**Op. Cit.**, p. 62] For example, to this day, economists
+still start with the assumption of a multitude of firms, even worse, a
+"continuum" of them exist in **every** market. How many markets are
+there in which there is an infinite number of traders? This means that
+from the start the issues and problems associated with oligopoly and
+imperfect competition have been abstracted from. This means the theory
+does not allow one to answer interesting questions which turn on the
+asymmetry of information and bargaining power among economic agents,
+whether due to size, or organisation, or social stigmas, or whatever
+else. In the real world, oligopoly is common place and asymmetry of
+information and bargaining power the norm. To abstract from these means
+to present an economic vision at odds with the reality people face and,
+therefore, can only propose solutions which harm those with weaker
+bargaining positions and without information.
+
+General equilibrium is an entirely static concept, a market marked by
+perfect knowledge and so inhabited by people who are under no inducement
+or need to act. It is also timeless, a world without a future and so
+with no uncertainty (any attempt to include time, and so uncertainty,
+ensures that the model ceases to be of value). At best, economists
+include "time" by means of comparing one static state to another, i.e.
+*"the features of one non-existent equilibrium were compared with those
+of a later non-existent equilibrium."* [Mattick, **Op. Cit.**, p. 22]
+How the economy actually changed from one stable state to another is
+left to the imagination. Indeed, the idea of any long-run equilibrium is
+rendered irrelevant by the movement towards it as the equilibrium also
+moves. Unsurprisingly, therefore, to construct an equilibrium path
+through time requires all prices for all periods to be determined at the
+start and that everyone foresees future prices correctly for eternity --
+including for goods not invented yet. Thus the model cannot easily or
+usefully account for the reality that economic agents do not actually
+know such things as future prices, future availability of goods, changes
+in production techniques or in markets to occur in the future, etc.
+Instead, to achieve its results -- proofs about equilibrium conditions
+-- the model assumes that actors have perfect knowledge at least of the
+probabilities of all possible outcomes for the economy. The opposite is
+obviously the case in reality:
+
+> *"Yet the main lessons of these increasingly abstract and unreal
+> theoretical constructions are also increasingly taken on trust . . .
+> It is generally taken for granted by the great majority of academic
+> economists that the economy always approaches, or is near to, a state
+> of 'equilibrium' . . . all propositions which the **pure**
+> mathematical economist has shown to be valid only on assumptions that
+> are manifestly unreal -- that is to say, directly contrary to
+> experience and not just 'abstract.' In fact, equilibrium theory has
+> reached the stage where the pure theorist has successfully (though
+> perhaps inadvertently) demonstrated that the main implications of this
+> theory cannot possibly hold in reality, but has not yet managed to
+> pass his message down the line to the textbook writer and to the
+> classroom."* [Kaldor, **Op. Cit.**, pp. 376-7]
+
+In this timeless, perfect world, "free market" capitalism will prove
+itself an efficient method of allocating resources and all markets will
+clear. In part at least, General Equilibrium Theory is an abstract
+answer to an abstract and important question: Can an economy relying
+only on price signals for market information be orderly? The answer of
+general equilibrium is clear and definitive -- one can describe such an
+economy with these properties. However, no actual economy has been
+described and, given the assumptions involved, none could ever exist. A
+theoretical question has been answered involving some amount of
+intellectual achievement, but it is a answer which has no bearing to
+reality. And this is often termed the "high theory" of equilibrium.
+Obviously most economists must treat the real world as a special case.
+
+Little wonder, then, that Kaldor argued that his *"basic objection to
+the theory of general equilibrium is not that it is abstract -- all
+theory is abstract and must necessarily be so since there can be no
+analysis without abstraction -- but that it starts from the wrong kind
+of abstraction, and therefore gives a misleading 'paradigm' . . . of the
+world as it is; it gives a misleading impression of the nature and the
+manner of operation of economic forces."* Moreover, belief that
+equilibrium theory is the only starting point for economic analysis has
+survived *"despite the increasing (**not** diminishing) arbitrariness of
+its based assumptions -- which was forced upon its practitioners by the
+ever more precise cognition of the needs of logical consistency. In
+terms of gradually converting an 'intellectual experiment' . . . into a
+scientific theory -- in other words, a set of theorems directly related
+to observable phenomena -- the development of theoretical economics was
+one of continual **de**gress, not **pro**gress . . . The process . . .
+of **relaxing** the unreal basis assumptions . . . has not yet started.
+Indeed, [they get] . . . thicker and more impenetrable with every
+successive reformation of the theory."* [**Op. Cit.**, p. 399 and pp.
+375-6]
+
+Thus General Equilibrium theory analyses an economic state which there
+is no reason to suppose will ever, or has ever, come about. It is,
+therefore, an abstraction which has no discernible applicability or
+relevance to the world as it is. To argue that it can give insights into
+the real world is ridiculous. While it is true that there are certain
+imaginary intellectual problems for which the general equilibrium model
+is well designed to provide precise answers (if anything really could),
+in practice this means the same as saying that if one insists on
+analysing a problem which has no real world equivalent or solution, it
+may be appropriate to use a model which has no real-world application.
+Models derived to provide answers to imaginary problems will be
+unsuitable for resolving practical, real-world economic problems or even
+providing a useful insight into how capitalism works and develops.
+
+This can have devastating real world impact, as can be seen from the
+results of neoclassical advice to Eastern Europe and other countries in
+their transition from state capitalism (Stalinism) to private
+capitalism. As Joseph Stiglitz documents it was a disaster for all but
+the elite due to the *"market fundamentalism preached"* by economists It
+resulted in *"a marked deterioration"* in most peoples *"basic standard
+of living, reflected in a host of social indicators"* and well as large
+drops in GDP. [**Globalisation and its discontents**, p. 138 and p. 152]
+Thus real people can be harmed by unreal theory. That the advice of
+neoclassical economists has made millions of people look back at
+Stalinism as "the good old days" should be enough to show its
+intellectual and moral bankruptcy.
+
+What can you expect? Mainstream economic theory begins with axioms and
+assumptions and uses a deductive methodology to arrive at conclusions,
+its usefulness in discovering how the world works is limited. The
+deductive method is **pre-scientific** in nature. The axioms and
+assumptions can be considered fictitious (as they have negligible
+empirical relevance) and the conclusions of deductive models can only
+really have relevance to the structure of those models as the models
+themselves bear no relation to economic reality:
+
+> *"Some theorists, even among those who reject general equilibrium as
+> useless, praise its logical elegance and completeness . . . But if any
+> proposition drawn from it is applied to an economy inhabited by human
+> beings, it immediately becomes self-contradictory. Human life does not
+> exist outside history and no one had correct foresight of his own
+> future behaviour, let alone of the behaviour of all the other
+> individuals which will impinge upon his. I do not think that it is
+> right to praise the logical elegance of a system which becomes
+> self-contradictory when it is applied to the question that it was
+> designed to answer."* [Joan Robinson, **Contributions to Modern
+> Economics**, pp. 127-8]
+
+Not that this deductive model is internally sound. For example, the
+assumptions required for perfect competition are mutually exclusive. In
+order for the market reach equilibrium, economic actors need to able to
+affect it. So, for example, if there is an excess supply some companies
+must lower their prices. However, such acts contradict the basic
+assumption of "perfect competition," namely that the number of buyers
+and sellers is so huge that no one individual actor (a firm or a
+consumer) can determine the market price by their actions. In other
+words, economists assume that the impact of each firm is zero but yet
+when these zeroes are summed up over the whole market the total is
+greater than zero. This is impossible. Moreover, the *"requirements of
+equilibrium are carefully examined in the Walrasian argument but there
+is no way of demonstrating that a market which starts in an
+out-of-equilibrium position will tend to get into equilibrium, except by
+putting further very severe restrictions on the already highly abstract
+argument."* [Joan Robinson, **Collected Economic Papers**, vol. 5, p.
+154] Nor does the stable unique equilibrium actually exist for,
+ironically, *"mathematicians have shown that, under fairly general
+conditions, general equilibrium is unstable."* [Keen, **Debunking
+Economics**, p. 173]
+
+Another major problem with equilibrium theory is the fact that it does
+not, in fact, describe a capitalist economy. It should go without saying
+that models which focus purely on exchange cannot, by definition, offer
+a realistic analysis, never mind description, of the capitalism or the
+generation of income in an industrialised economy. As Joan Robinson
+summarises:
+
+> "The neo-classical theory . . . pretends to derive a system of prices
+> from the relative scarcity of commodities in relation to the demand
+> for them. I say **pretend** because this system cannot be applied to
+> capitalist production.
+>
+> "The Walrasian conception of equilibrium arrived at by higgling and
+> haggling in a market illuminates the account of prisoners of war
+> swapping the contents of their Red Cross parcels.
+>
+> "It makes sense also, with some modifications, in an economy of
+> artisans and small traders . . .
+>
+> "Two essential characteristics of industrial capitalism are absent in
+> these economic systems -- the distinction between income from work and
+> income from property and the nature of investments made in the light
+> of uncertain expectations about a long future." [**Collected Economic
+> Papers**, vol. 5, p. 34]
+
+Even such basic things as profits and money have a hard time fitting
+into general equilibrium theory. In a perfectly competitive equilibrium,
+super-normal profit is zero so profit fails to appear. Normal profit is
+assumed to be the contribution capital makes to output and is treated as
+a cost of production and notionally set as the zero mark. A capitalism
+without profit? Or growth, *"since there is no profit or any other sort
+of surplus in the neoclassical equilibrium, there can be no expanded
+reproduction of the system."* [Mattick, **Op. Cit.**, p. 22] It also
+treats capitalism as little more than a barter economy. The concept of
+general equilibrium is incompatible with the actual role of money in a
+capitalist economy. The assumption of *"perfect knowledge"* makes the
+keeping of cash reserves as a precaution against unexpected developments
+would not be necessary as the future is already known. In a world where
+there was absolute certainty about the present and future there would be
+no need for a medium of exchange like money at all. In the real world,
+money has a real effect on production an economic stability. It is, in
+other words, not neutral (although, conveniently, in a fictional world
+with neutral money *"crises **do not occur**"* and it *"assumed away the
+very matter under investigation,"* namely depressions. [Keynes, quoted
+by Doug Henwood, **Wall Street**, p. 199]).
+
+Given that general equilibrium theory does not satisfactorily encompass
+such things as profit, money, growth, instability or even firms, how it
+can be considered as even an adequate representation of any real
+capitalist economy is hard to understand. Yet, sadly, this perspective
+has dominated economics for over 100 years. There is almost no
+discussion of how scarce means are organised to yield outputs, the whole
+emphasis is on exchanges of ready made goods. This is unsurprising, as
+this allows economics to abstract from such key concepts as power, class
+and hierarchy. It shows the *"the bankruptcy of academic economic
+teaching. The structure of thought which it expounds was long ago proven
+to be hollow. It consisted of a set of propositions which bore hardly
+any relation to the structure and evolution of the economy that they
+were supposed to depict."* [Joan Robinson, **Op. Cit.**, p. 90]
+
+Ultimately, equilibrium analysis simply presents an unreal picture of
+the real world. Economics treat a dynamic system as a static one,
+building models rooted in the concept of equilibrium when a
+non-equilibrium analysis makes obvious sense. As Steven Keen notes, it
+is not only the real world that has suffered, so has economics:
+
+> *"This obsession with equilibrium has imposed enormous costs on
+> economics . . . unreal assumptions are needed to maintain conditions
+> under which there will be a unique, 'optimal' equilibrium . . . If you
+> believe you can use unreality to model reality, then eventually your
+> grip on reality itself can become tenuous."* [**Op. Cit.**, p. 177]
+
+Ironically, given economists usual role in society as defenders of big
+business and the elite in general, there is one conclusion of general
+equilibrium theory which does have some relevance to the real world. In
+1956, two economists *"demonstrated that serious problems exist for the
+model of competitive equilibrium if any of its assumptions are
+breached."* They were *"not dealing with the fundamental problem of
+whether a competitive equilibrium exists,"* rather they wanted to know
+what happens if the assumptions of the model were violated. Assuming
+that two violations existed, they worked out what would happen if only
+one of them were removed. The answer was a shock for economists -- *"If
+just one of many, or even just one of two [violations] is removed, it is
+not possible to prejudge the outcome. The economy as a whole can
+theoretically be worse off it just one violation exists than it is when
+two such violations exist."* In other words, any single move towards the
+economists' ideal market may make the world worse off. [Ormerod, **Op.
+Cit.**, pp. 82-4]
+
+What Kelvin Lancaster and Richard Lipsey had shown in their paper *"The
+General Theory of the Second Best"* [**Review of Economic Studies**,
+December 1956] has one obvious implication, namely that neoclassical
+economics itself has shown that trade unions were essential to stop
+workers being exploited under capitalism. This is because the
+neoclassical model requires there to be a multitude of small firms and
+no unions. In the real world, most markets are dominated by a few big
+firms. Getting rid of unions in such a less than competitive market
+would result in the wage being less than the price for which the
+marginal worker's output can be sold, i.e. workers are exploited by
+capital. In other words, economics has **itself** disproved the
+neoclassical case against trade unions. Not that you would know that
+from neoclassical economists, of course. In spite of knowing that, in
+their own terms, breaking union power while retaining big business would
+result, in the exploitation of labour, neoclassical economists lead the
+attack on "union power" in the 1970s and 1980s. The subsequent explosion
+in inequality as wealth flooded upwards provided empirical confirmation
+of this analysis.
+
+Strangely, though, most neoclassical economists are still as anti-union
+as ever -- in spite of both their own ideology and the empirical
+evidence. That the anti-union message is just what the bosses want to
+hear can just be marked up as yet another one of those strange
+co-incidences which the value-free science of economics is so prone to.
+Suffice to say, if the economics profession ever questions general
+equilibrium theory it will be due to conclusions like this becoming
+better known in the general population.
+
+C.1.5 Does economics really reflect the reality of capitalism?
+--------------------------------------------------------------
+
+As we discussed in [section C.1.2](secC1.html#secc12), mainstream
+economics is rooted in capitalism and capitalist social relations. It
+takes the current division of society into classes as both given **as
+well as** producing the highest form of efficiency. In other words,
+mainstream economics is rooted in capitalist assumptions and,
+unsurprisingly, its conclusions are, almost always, beneficial to
+capitalists, managers, landlords, lenders and the rich rather than
+workers, tenants, borrowers and the poor.
+
+However, on another level mainstream capitalist economics simply does
+**not** reflect capitalism at all. While this may seem paradoxical, it
+is not. Neoclassical economics has always been marked by apologetics.
+Consequently, it must abstract or ignore from the more unpleasant and
+awkward aspects of capitalism in order to present it in the best
+possible light.
+
+Take, for example, the labour market. Anarchists, like other socialists,
+have always stressed that under capitalism workers have the choice
+between selling their liberty/labour to a boss or starving to death (or
+extreme poverty, assuming some kind of welfare state). This is because
+they do not have access to the means of life (land and workplaces)
+unless they sell their labour to those who own them. In such
+circumstances, it makes little sense to talk of liberty as the only real
+liberty working people have is, if they are lucky, agreeing to be
+exploited by one boss rather than another. How much an person works,
+like their wages, will be based on the relative balance of power between
+the working and capitalist classes in a given situation.
+
+Unsurprisingly, neoclassical economics does not portray the choice
+facing working class people in such a realistic light. Rather, it argues
+that the amount of hours an individual works is based on their
+preference for income and leisure time. Thus the standard model of the
+labour market is somewhat paradoxical in that there is no actual labour
+in it. There is only income, leisure and the preference of the
+individual for more of one or the other. It is leisure that is assumed
+to be a "normal good" and labour is just what is left over after the
+individual "consumes" all the leisure they want. This means that working
+resolves itself into the vacuous double negative of not-not-working and
+the notion that all unemployment is voluntary.
+
+That this is nonsense should be obvious. How much "leisure" can someone
+indulge in without an income? How can an economic theory be considered
+remotely valid when it presents unemployment (i.e. no income) as the
+ultimate utility in an economy where everything is (or should be)
+subject to a price? Income, then, has an overwhelming impact upon the
+marginal utility of leisure time. Equally, this perspective cannot
+explain why the prospect of job loss is seen with such fear by most
+workers. If the neoclassical (non-)analysis of the labour market were
+true, workers would be happy to be made unemployed. In reality, fear of
+the sack is a major disciplining tool within capitalism. That free
+market capitalist economists have succeeded in making unemployment
+appear as a desirable situation suggests that its grip on the reality of
+capitalism is slim to say the least (here, as in many other areas,
+Keynes is more realistic although most of his followers have capitulated
+faced with neoclassical criticism that standard Keynesian theory had bad
+micro-economic foundations rather than admit that later was nonsense and
+the former *"an emasculated version of Keynes"* inflicted on the world
+by J.R. Hicks. [Keen, **Op. Cit.**, p. 211]).
+
+However, this picture of the "labour" market does hide the reality of
+working class dependency and, consequently, the power of the capitalist
+class. To admit that workers do not exercise any free choice over
+whether they work or not and, once in work, have to accept the work
+hours set by their employers makes capitalism seem less wonderful than
+its supporters claim. Ultimately, this fiction of the labour market
+being driven by the workers' desire for "leisure" and that all
+unemployment is "voluntary" is rooted in the need to obscure the fact
+that unemployment is an essential feature of capitalism and,
+consequently, is endemic to it. This is because it is the fundamental
+disciplinary mechanism of the system (*"it is a whip in [the bosses']
+hands, constantly held over you, so you will slave hard for him and
+'behave' yourself,"* to quote Alexander Berkman). As we argued in
+[section B.4.3](secB4.html#secb43), capitalism **must** have
+unemployment in order to ensure that workers will obey their bosses and
+not demand better pay and conditions (or, even worse, question why they
+have bosses in the first place). It is, in other words, *"inherent in
+the wage system"* and *"the fundamental condition of successful
+capitalist production."* While it is *"dangerous and degrading"* to the
+worker, it is *"very advantageous to the boss"* and so capitalism
+*"can't exist without it."* [Berkman, **What is Anarchism?**, p. 26] The
+experience of state managed full employment between (approximately) 1950
+and 1970 confirms this analysis, as does the subsequent period (see
+[section C.7.1](secC7.html#secc71)).
+
+For the choice of leisure and labour to be a reality, then workers need
+an independent source of income. The model, in other words, assumes that
+workers need to be enticed by the given wage and this is only the case
+when workers have the option of working for themselves, i.e. that they
+own their own means of production. If this were the case, then it would
+not be capitalism. In other words, the vision of the labour market in
+capitalist economics assumes a non-capitalist economy of artisans and
+peasant farmers -- precisely the kind of economy capitalism destroyed
+(with the help of the state). An additional irony of this neoclassical
+analysis is that those who subscribe to it most are also those who
+attack the notion of a generous welfare state (or oppose the idea of
+welfare state in all forms). Their compliant is that with a welfare
+state, the labour market becomes "inefficient" as people can claim
+benefits and so need not seek work. Yet, logically, they should support
+a generous welfare state as it gives working people a genuine choice
+between labour and leisure. That bosses find it hard to hire people
+should be seen as a good thing as work is obviously being evaluated as a
+"disutility" rather than as a necessity. As an added irony, as we
+discuss in [section C.9](secC9.html), the capitalist analysis of the
+labour market is **not** based on any firm empirical evidence nor does
+it have any real logical basis (it is just an assumption). In fact, the
+evidence we do have points against it and in favour of the socialist
+analysis of unemployment and the labour market.
+
+One of the reasons why neoclassical economics is so blasé about
+unemployment is because it argues that it should never happen. That
+capitalism has always been marked by unemployment and that this rises
+and falls as part of the business cycle is a inconvenient fact which
+neoclassical economics avoided seriously analysing until the 1930s. This
+flows from Say's law, the argument that supply creates its own demand.
+This theory, and its more formally put Walras' Law, is the basis on
+which the idea that capitalism could never face a general economic
+crisis is rooted in. That capitalism has **always** been marked by boom
+and bust has never put Say's Law into question except during the 1930s
+and even then it was quickly put back into the centre of economic
+ideology.
+
+For Say, *"every producer asks for money in exchange for his products
+only for the purpose of employing that money again immediately in the
+purchase of another product."* However, this is not the case in a
+capitalist economy as capitalists seek to accumulate wealth and this
+involves creating a difference between the value of commodities someone
+desired to sell and buy on the market. While Say asserts that people
+simply want to consume commodities, capitalism is marked by the desire
+(the need) to accumulate. The ultimate aim is **not** consumption, as
+Say asserted (and today's economists repeat), but rather to make as much
+profit as possible. To ignore this is to ignore the essence of
+capitalism and while it may allow the economist to reason away the
+contradictions of that system, the reality of the business cycle cannot
+be ignored.
+
+Say's law, in other words, assumes a world without **capital**:
+
+> *"what is a given stock of capital? In this context, clearly, it is
+> the actual equipment and stocks of commodities that happen to be in
+> existence today, the result of recent or remote past history, together
+> with the know-how, skill of labour, etc., that makes up the state of
+> technology. Equipment . . . is designed for a particular range of
+> uses, to be operated by a particular labour force. There is not a
+> great deal of play in it. The description of the stock of equipment in
+> existence at any moment as 'scare means with alternative uses' is
+> rather exaggerated. The uses in fact are fairly specific, though they
+> may be changed over time. But they **can** be utilised, at any moment,
+> by offering less or more employment to labour. This is a
+> characteristic of the wage economy. In an artisan economy, where each
+> producer owns his own equipment, each produces what he can and sells
+> it for what it will fetch. Say's law, that goods are the demand for
+> goods, was ceasing to be true at the time he formulated it."* [Joan
+> Robinson, **Collected Economic Papers**, vol. 4, p. 133]
+
+As Keen notes, Say's law *"evisage[s] an exchange-only economy: an
+economy in which goods exist at the outset, but where no production
+takes place. The market simply enables the exchange of pre-existing
+goods."* However, once we had capital to the economy, things change as
+capitalists wish *"to supply more than they demand, and to accumulate
+the difference as profit which adds to their wealth."* This results in
+an excess demand and, consequently, the possibility of a crisis. Thus
+mainstream capitalist economics *"is best suited to the economic
+irrelevance of an exchange-only economy, or a production economy in
+which growth does not occur. If production and growth do occur, then
+they take place outside the market, when ironically the market is the
+main intellectual focus of neoclassical economics. Conventional
+economics is this a theory which suits a static economy . . . when what
+is needed are theories to analyse dynamic economies."* [**Debunking
+Economics**, p. 194, p. 195 and p. 197]
+
+Ultimately, capital assets are not produced for their own stake but in
+expectation of profits. This obvious fact is ignored by Say's law, but
+was recognised by Marx (and subsequently acknowledged by Keynes as being
+correct). As Keen notes, unlike Say and his followers, *"Marx's
+perspective thus integrates production, exchange and credit as holistic
+aspects of a capitalist economy, and therefore as essential elements of
+any theory of capitalism. Conventional economics, in contrast, can only
+analyse an exchange economy in which money is simply a means to make
+barter easier."* [**Op. Cit.**, pp. 195-6]
+
+Rejecting Say's Law as being applicable to capitalism means recognising
+that the capitalist economy is not stable, that it can experience booms
+and slumps. That this reflects the reality of that economy should go
+without saying. It also involves recognising that it can take time for
+unemployed workers to find new employment, that unemployment can by
+involuntary and that bosses can gain advantages from the fear of
+unemployment by workers.
+
+That last fact, the fear of unemployment is used by bosses to get
+workers to accept reductions in wages, hours and benefits, is key factor
+facing workers in any real economy. Yet, according to the economic
+textbooks, workers should have been falling over themselves to maximise
+the utility of leisure and minimise the disutility of work. Similarly,
+workers should not fear being made unemployed by globalisation as the
+export of any jobs would simply have generated more economic activity
+and so the displaced workers would immediately be re-employed (albeit at
+a lower wage, perhaps). Again, according to the economic textbooks,
+these lower wages would generate even more economic activity and thus
+lead, in the long run, to higher wages. If only workers had only
+listened to the economists then they would realise that that not only
+did they actually gain (in the long run) by their wages, hours and
+benefits being cut, many of them also gained (in the short term)
+increased utility by not having to go to work. That is, assuming the
+economists know what they are talking about.
+
+Then there is the question of income. For most capitalist economics, a
+given wage is supposed to be equal to the *"marginal contribution"* that
+an individual makes to a given company. Are we **really** expected to
+believe this? Common sense (and empirical evidence) suggests otherwise.
+Consider Mr. Rand Araskog, the CEO of ITT in 1990, who in that year was
+paid a salary of \$7 million. Is it conceivable that an ITT accountant
+calculated that, all else being the same, the company's \$20.4 billion
+in revenues that year would have been \$7 million less without Mr.
+Araskog -- hence determining his marginal contribution to be \$7
+million? This seems highly unlikely.
+
+Which feeds into the question of exploding CEO pay. While this has
+affected most countries, the US has seen the largest increases (followed
+by the UK). In 1979 the CEO of a UK company earned slightly less than 10
+times as much as the average worker on the shop floor. By 2002 a boss of
+a FTSE 100 company could expect to make 54 times as much as the typical
+worker. This means that while the wages for those on the shopfloor went
+up a little, once inflation is taken into account, the bosses wages
+arose from £200,000 per year to around £1.4m a year. In America, the
+increase was even worse. In 1980, the ratio of CEO to worker pay 50 to
+1. Twenty years later it was 525 to 1, before falling back to 281 to 1
+in 2002 following the collapse of the share price bubble. [Larry
+Elliott, *"Nice work if you can get it: chief executives quietly enrich
+themselves for mediocrity,"* **The Guardian**, 23 January, 2006]
+
+The notion of marginal productivity is used to justify many things on
+the market. For example, the widening gap between high-paid and low-paid
+Americans (it is argued) simply reflects a labour market efficiently
+rewarding more productive people. Thus the compensation for corporate
+chief executives climbs so sharply because it reflects their marginal
+productivity. The strange thing about this kind of argument is that, as
+we indicate in [section C.2.5](secC2.html#secc25), the problem of
+defining and measuring capital wrecked the entire neoclassical theory of
+marginal factor productivity and with it the associated marginal
+productivity theory of income back in the 1960s -- and was admitted as
+the leading neo-classical economists of the time. That marginal
+productivity theory is still invoked to justify capitalist inequalities
+shows not only how economics ignores the reality of capitalism but also
+the intellectual bankruptcy of the "science" and whose interests it,
+ultimately, serves.
+
+In spite of this awkward little fact, what of the claims made based on
+it? Is this pay **really** the result of any increased productivity on
+the part of CEOs? The evidence points the other way. This can be seen
+from the performance of the economies and companies in question. In
+Britain trend growth was a bit more than 2% in 1980 and is still a bit
+more than 2% a quarter of a century later. A study of corporate
+performance in Britain and the United States looked at the companies
+that make up the FTSE 100 index in Britain and the S&P 500 in the US and
+found that executive income is rarely justified by improved performance.
+[Julie Froud, Sukhdev Johal, Adam Leaver and Karel Williams,
+**Financialisation and Strategy: Narrative and Number** ] Rising stock
+prices in the 1990s, for example, were the product of one of the
+financial market's irrational bubbles over which the CEO's had no
+control or role in creating.
+
+During the same period as soaring CEO pay, workers' real wages remained
+flat. Are we to believe that since the 1980s, the marginal contribution
+of CEOs has increased massively whereas workers' marginal contributions
+remained stagnant? According to economists, in a free market wages
+should increase until they reach their marginal productivity. In the US,
+however, during the 1960s *"pay and productivity grew in tandem, but
+they separated in the 1970s. In the 1990s boom, pay growth lagged behind
+productivity by almost 30%."* Looking purely at direct pay, *"overall
+productivity rose four times as fast as the average real hourly wage --
+and twenty times as fast in manufacturing."* Pay did catch up a bit in
+the late 1990s, but after 2000 *"pay returned to its lagging position."*
+[Doug Henwood, **After the New Economy**, pp. 45-6] In other words, over
+two decades of free market reforms has produced a situation which has
+refuted the idea that a workers wage equals their marginal productivity.
+
+The standard response by economists would be to state that the US
+economy is not a free market. Yet the 1970s, after all, saw the start of
+reforms based on the recommendations of free market capitalist
+economists. The 1980s and 1990s saw even more. Regulation was reduced,
+if not effectively eliminated, the welfare state rolled back and unions
+marginalised. So it staggers belief to state that the US was **more**
+free market in the 1950s and 1960s than in the 1980s and 1990s but,
+logically, this is what economists suggest. Moreover, this explanation
+sits ill at ease with the multitude of economists who justified growing
+inequality and skyrocketing CEO pay and company profits during this
+period in terms of free market economics. What is it to be? If the US is
+not a free market, then the incomes of companies and the wealth are
+**not** the result of their marginal contribution but rather are gained
+at the expense of the working class. If the US is a free market, then
+the rich are justified (in terms of economic theory) in their income but
+workers' wages do not equal their marginal productivity. Unsurprisingly,
+most economists do not raise the question, never mind answer it.
+
+So what is the reason for this extreme wage difference? Simply put, it's
+due to the totalitarian nature of capitalist firms (see [section
+B.4](secB4.html)). Those at the bottom of the company have no say in
+what happens within it; so as long as the share-owners are happy, wage
+differentials will rise and rise (particularly when top management own
+large amounts of shares!). It is capitalist property relations that
+allow this monopolisation of wealth by the few who own (or boss) but do
+not produce. The workers do not get the full value of what they produce,
+nor do they have a say in how the surplus value produced by their labour
+gets used (e.g. investment decisions). Others have monopolised both the
+wealth produced by workers and the decision-making power within the
+company (see [section C.2](secC2.html) for more discussion). This is a
+private form of taxation without representation, just as the company is
+a private form of statism. Unlike the typical economist, most people
+would not consider it too strange a coincidence that the people with
+power in a company, when working out who contributes most to a product,
+decide it's themselves!
+
+Whether workers will tolerate stagnating wages depends, of course, on
+the general economic climate. High unemployment and job insecurity help
+make workers obedient and grateful for any job and this has been the
+case for most of the 1980s and 1990s in both America and the UK. So a
+key reason for the exploding pay is to be found in the successful class
+struggle the ruling class has been waging since the 1970s. There has
+*"been a real shift in focus, so that the beneficiaries of corporate
+success (such as it is) are no longer the workers and the general public
+as a whole but shareholders. And given that there is evidence that only
+households in the top half of the income distribution in the UK and the
+US hold shares, this represents a significant redistribution of money
+and power."* [Larry Elliott, **Op. Cit.**] That economics ignores the
+social context of rising CEO pay says a lot about the limitations of
+modern economics and how it can be used to justify the current system.
+
+Then there is the trivial little thing of production. Economics used to
+be called "political economy" and was production orientated. This was
+replaced by an economics based on marginalism and subjective evaluations
+of a given supply of goods is fixed. For classical economics, to focus
+on an instant of time was meaningless as time does not stop. To exclude
+production meant to exclude time, which as we noted in [section
+C.1.2](secC1.html#secc12) this is precisely and knowingly what
+marginalist economics did do. This means modern economics simply ignores
+production as well as time and given that profit making is a key concern
+for any firm in the real world, such a position shows how irrelevant
+neoclassical economics really is.
+
+Indeed, the neo-classical theory falls flat on its face. Basing itself,
+in effect, on a snapshot of time its principles for the rational firm
+are, likewise, based on time standing still. It argues that profit is
+maximised where marginal cost equals marginal revenue yet this is only
+applicable when you hold time constant. However, a real firm will not
+maximise profit with respect to quantity but also in respect to time.
+The neoclassical rule about how to maximise profit *"is therefore
+correct if the quantity produced never changes"* and *"by ignoring time
+in its analysis of the firm, economic theory ignores some of the most
+important issues facing a firm."* Neo-classical economics exposes its
+essentially static nature again. It *"ignores time, and is therefore
+only relevant in a world in which time does no matter."* [Keen, **Op.
+Cit.**, pp. 80-1]
+
+Then there is the issue of consumption. While capitalist apologists go
+on about *"consumer sovereignty"* and the market as a *"consumers
+democracy,"* the reality is somewhat different. Firstly, and most
+obviously, big business spends a lot of money trying to shape and
+influence demand by means of advertising. Not for them the neoclassical
+assumption of "given" needs, determined outside the system. So the
+reality of capitalism is one where the "sovereign" is manipulated by
+others. Secondly, there is the distribution of resources within society.
+
+Market demand is usually discussed in terms of tastes, not in the
+distribution of purchasing power required to satisfy those tastes.
+Income distribution is taken as given, which is very handy for those
+with the most wealth. Needless to say, those who have a lot of money
+will be able to maximise their satisfactions far easier than those who
+have little. Also, of course, they can out-bid those with less money. If
+capitalism is a "consumers" democracy then it is a strange one, based on
+*"one dollar, one vote."* It should be obvious whose values are going to
+be reflected most strongly in the market. If we start with the orthodox
+economics (convenient) assumption of a *"given distribution of income"*
+then any attempt to determine the best allocation of resources is flawed
+to start with as money replaces utility from the start. To claim after
+that the market based distribution is the best one is question begging
+in the extreme.
+
+In other words, under capitalism, it is not individual need or "utility"
+as such that is maximised, rather it is ***effective*** utility (usually
+called "effective demand") -- namely utility that is backed up with
+money. This is the reality behind all the appeals to the marvels of the
+market. As right-wing guru von Hayek put, the *"[s]pontaneous order
+produced by the market does not ensure that what general opinion regards
+as more important needs are always met before the less important ones."*
+[*"Competition as a discovery process",* **The Essence of Hayek**, p.
+258] Which is just a polite way of referring to the process by which
+millionaires build a new mansion while thousands are homeless or live in
+slums or feed luxury food to their pets while humans go hungry. It is,
+in effect, to dismiss the needs of, for example, the 37 million
+Americans who lived below the poverty line in 2005 (12.7% of the
+population, the highest percentage in the developed world and is based
+on the American state's absolute definition of poverty, looking at
+relative levels, the figures are worse). Similarly, the 46 million
+Americans without health insurance may, of course, think that their need
+to live should be considered as *"more important"* than, say, allowing
+Paris Hilton to buy a new designer outfit. Or, at the most extreme, when
+agribusiness grow cash crops for foreign markets while the landless
+starve to death. As E.P. Thompson argues, Hayek's answer:
+
+> *"promote[s] the notion that high prices were a (painful) remedy for
+> dearth, in drawing supplies to the afflicted region of scarcity. But
+> what draws supply are not high prices but sufficient money in their
+> purses to pay high prices. A characteristic phenomenon in times of
+> dearth is that it generates unemployment and empty pursues; in
+> purchasing necessities at inflated prices people cease to be able to
+> buy inessentials [causing unemployment] . . . Hence the number of
+> those able to pay the inflated prices declines in the afflicted
+> regions, and food may be exported to neighbouring, less afflicted,
+> regions where employment is holding up and consumers still have money
+> with which to pay. In this sequence, high prices can actually withdraw
+> supply from the most afflicted area."* [**Customs in Common**, pp.
+> 283-4]
+
+Therefore *"the law of supply and demand"* may not be the "most
+efficient" means of distribution in a society based on inequality. This
+is clearly reflected in the "rationing" by purse which this system is
+based on. While in the economics books, price is the means by which
+scare resources are "rationed" in reality this creates many errors. As
+Thompson notes, *"[h]owever persuasive the metaphor, there is an elision
+of the real Relationships assigned by price, which suggests . . .
+ideological sleight-of-mind. Rationing by price does not allocate
+resources equally among those in need; it reserves the supply to those
+who can pay the price and excludes those who can't . . . The raising of
+prices during dearth could 'ration' them [the poor] out of the market
+altogether."* [**Op. Cit.**, p. 285] Which is precisely what does
+happen. As economist (and famine expert) Amartya Sen notes:
+
+> *"Take a theory of entitlements based on a set of rights of
+> 'ownership, transfer and rectification.' In this system a set of
+> holdings of different people are judged to be just (or unjust) by
+> looking at past history, and not by checking the consequences of that
+> set of holdings. But what if the consequences are recognisably
+> terrible? . . .[R]efer[ing] to some empirical findings in a work on
+> famines . . . evidence [is presented] to indicate that in many large
+> famines in the recent past, in which millions of people have died,
+> there was no over-all decline in food availability at all, and the
+> famines occurred precisely because of shifts in entitlement resulting
+> from exercises of rights that are perfectly legitimate. . . . [Can]
+> famines . . . occur with a system of rights of the kind morally
+> defended in various ethical theories, including Nozick's. I believe
+> the answer is straightforwardly yes, since for many people the only
+> resource that they legitimately possess, viz. their labour-power, may
+> well turn out to be unsaleable in the market, giving the person no
+> command over food . . . [i]f results such as starvations and famines
+> were to occur, would the distribution of holdings still be morally
+> acceptable despite their disastrous consequences? There is something
+> deeply implausible in the affirmative answer."* [**Resources, Values
+> and Development**, pp. 311-2]
+
+Recurring famines were a constant problem during the lassiez-faire
+period of the British Empire. While the Irish Potato famine is probably
+the best known, the fact is that millions died due to starvation mostly
+due to a firm believe in the power of the market. In British India,
+according to the most reliable estimates, the deaths from the 1876-1878
+famine were in the range of 6-8 million and between 1896 and 1900, were
+between 17 to 20 million. According to a British statistician who
+analysed Indian food security measures in the two millennia prior to
+1800, there was one major famine a century in India. Under British rule
+there was one every four years. Over all, the late 1870s and the late
+1890s saw somewhere between 30 to 60 million people die in famines in
+India, China and Brazil (not including the many more who died
+elsewhere). While bad weather started the problem by placing the price
+of food above the reach of the poorest, the market and political
+decisions based on profound belief in it made the famine worse. Simply
+put, had the authorities distributed what food existed, most of the
+victims would have survived yet they did not as this would have, they
+argued, broke the laws of the market and produced a culture of
+dependency. [Mike Davis, **Late Victorian Holocausts** ] This pattern,
+incidentally, has been repeated in third world countries to this day
+with famine countries exporting food as the there is no "demand" for it
+at home.
+
+All of which puts Hayek's glib comments about *"spontaneous order"* into
+a more realistic context. As Kropotkin put it:
+
+> *"The very essence of the present economic system is that the worker
+> can never enjoy the well-being he [or she] has produced . . .
+> Inevitably, industry is directed . . . not towards what is needed to
+> satisfy the needs of all, but towards that which, at a given moment,
+> brings in the greatest profit for a few. Of necessity, the abundance
+> of some will be based on the poverty of others, and the straitened
+> circumstances of the greater number will have to be maintained at all
+> costs, that there may be hands to sell themselves for a part only of
+> what which they are capable of producing; without which private
+> accumulation of capital is impossible."* [**Anarchism**, p. 128]
+
+In other words, the market cannot be isolated and abstracted from the
+network of political, social and legal relations within which it is
+situated. This means that all that "supply and demand" tells us is that
+those with money can demand more, and be supplied with more, than those
+without. Whether this is the "most efficient" result for society cannot
+be determined (unless, of course, you assume that rich people are more
+valuable than working class ones **because** they are rich). This has an
+obvious effect on production, with "effective demand" twisting economic
+activity and so, under capitalism, meeting needs is secondary as the
+*"only aim is to increase the profits of the capitalist."* [Kropotkin,
+**Op. Cit.**, p. 55]). George Barrett brings home of evil effects of
+such a system:
+
+> *"To-day the scramble is to compete for the greatest profits. If there
+> is more profit to be made in satisfying my lady's passing whim than
+> there is in feeding hungry children, then competition brings us in
+> feverish haste to supply the former, whilst cold charity or the poor
+> law can supply the latter, or leave it unsupplied, just as it feels
+> disposed. That is how it works out."* [**Objections to Anarchism**, p.
+> 347]
+
+Therefore, as far as consumption is concerned, anarchists are well aware
+of the need to create and distribute necessary goods to those who
+require them. This, however, cannot be achieved under capitalism and for
+all its talk of "utility," "demand", "consumer sovereignty" and so forth
+the real facts are those with most money determine what is an
+"efficient" allocation of resources. This is directly, in terms of their
+control over the means of life as well as indirectly, by means of
+skewing market demand. For if financial profit is the sole consideration
+for resource allocation, then the wealthy can outbid the poor and ensure
+the highest returns. The less wealthy can do without.
+
+All in all, the world assumed by neo-classical economics is not the one
+we actually live in, and so applying that theory is both misleading and
+(usually) disastrous (at least to the "have-nots"). While this may seen
+surprisingly, it is not once we take into account its role as apologist
+and defender of capitalism. Once that is recognised, any apparent
+contradiction falls away.
+
+C.1.6 Is it possible to a non-equilibrium based capitalist economics?
+---------------------------------------------------------------------
+
+Yes, it is but it would be unlikely to be free-market based as the
+reality of capitalism would get the better of its apologetics. This can
+be seen from the two current schools of economics which, rightly, reject
+the notion of equilibrium -- the post-Keynesian school and the so-called
+Austrian school.
+
+The former has few illusions in the nature of capitalism. At its best,
+this school combines the valid insights of classical economics, Marx and
+Keynes to produce a robust radical (even socialist) critique of both
+capitalism and capitalist economics. At its worse, it argues for state
+intervention to save capitalism from itself and, politically, aligns
+itself with social democratic (*"liberal",* in the USA) movements and
+parties. If economics does become a science, then this school of
+economics will play a key role in its development. Economists of this
+school include Joan Robinson, Nicholas Kaldor, John Kenneth Galbraith,
+Paul Davidson and Steven Keen. Due to its non-apologetic nature, we will
+not discuss it here.
+
+The Austrian school has a radically different perspective. This school,
+so named because its founders were Austrian, is passionately
+pro-capitalist and argues against **any** form of state intervention
+(bar, of course, the definition and defence of capitalist property
+rights and the power that these create). Economists of this school
+include Eugen von Böhm-Bawerk, Ludwig von Mises, Murray Rothbard, Israel
+Kirzner and Frederick von Hayek (the latter is often attacked by other
+Austrian economists as not being sufficiently robust in his opposition
+to state intervention). It is very much a minority school.
+
+As it shares many of the same founding fathers as neoclassical economics
+and is rooted in marginalism, the Austrian school is close to
+neoclassical economics in many ways. The key difference is that it
+rejects the notion that the economy is in equilibrium and embraces a
+more dynamic model of capitalism. It is rooted in the notion of
+entrepreneurial activity, the idea that entrepreneurs act on information
+and disequilibrium to make super profits and bring the system closer to
+equilibrium. Thus, to use their expression, their focus is on the market
+process rather than a non-existent end state. As such, it defends
+capitalism in terms of how it reacts of **dis**-equilibrium and presents
+a theory of the market process that brings the economy closer to
+equilibrium. And fails.
+
+The claim that markets tend continually towards equilibrium, as the
+consequence of entrepreneurial actions, is hard to justify in terms of
+its own assumptions. While the adjustments of a firm may bring the
+specific market it operates in more towards equilibrium, their
+ramifications may take other markets away from it and so any action will
+have stabilising and destabilising aspects to it. It strains belief to
+assume that entrepreneurial activity will only push an economy more
+towards equilibrium as any change in the supply and demand for any
+specific good leads to changes in the markets for other goods (including
+money). That these adjustments will all (mostly) tend towards
+equilibrium is little more than wishful thinking.
+
+While being more realistic than mainstream neo-classical theory, this
+method abandons the possibility of demonstrating that the market outcome
+is in any sense a realisation of the individual preferences of whose
+interaction it is an expression. It has no way of establishing the
+supposedly stabilising character of entrepreneurial activity or its
+alleged socially beneficial character as the dynamic process could lead
+to a divergence rather than a convergence of behaviour. A dynamic system
+need not be self-correcting, particularly in the labour market, nor show
+any sign of self-equilibrium (i.e. it will be subject to the business
+cycle).
+
+Given that the Austrian theory is, in part, based on Say's Law the
+critique we presented in the [last section](secC1.html#secc14) also
+applies here. However, there is another reason to think the Austrian
+self-adjusting perspective on capitalism is flawed and this is rooted in
+their own analysis. Ironically enough, economists of this school often
+maintain that while equilibrium does not exist their analysis is rooted
+on two key markets being in such a state: the labour market and the
+market for credit. The reason for these strange exceptions to their
+general assumption is, fundamentally, political. The former is required
+to deflect claims that "pure" capitalism would result in the
+exploitation of the working class, the latter is required to show that
+such a system would be stable.
+
+Looking at the labour market, the Austrians argue that free market
+capitalism would experience full employment. That this condition is one
+of equilibrium does not seem to cause them much concern. Thus we find
+von Hayek, for example, arguing that the *"cause of unemployment . . .
+is a deviation of prices and wages from their equilibrium position which
+would establish itself with a free market and stable money. But we can
+never know at what system of relative prices and wages such an
+equilibrium would establish itself."* Therefore, *"the deviation of
+existing prices from that equilibrium position . . . is the cause of the
+impossibility of selling part of the labour supply."* [**New Studies**,
+p. 201] Therefore, we see the usual embrace of equilibrium theory to
+defend capitalism against the evils it creates even by those who claim
+to know better.
+
+Of course, the need to argue that there would be full employment under
+"pure" capitalism is required to maintain the fiction that everyone will
+be better off under it. It is hard to say that working class people will
+benefit if they are subject to high levels of unemployment and the
+resulting fear and insecurity that produces. As would be expected, the
+Austrian school shares the same perspective on unemployment as the
+neoclassical school, arguing that it is *"voluntary"* and the result of
+the price of labour being too high (who knew that depressions were so
+beneficial to workers, what with some having more leisure to enjoy and
+the others having higher than normal wages?). The reality of capitalism
+is very different than this abstract model.
+
+Anarchists have long realised that the capitalist market is based upon
+inequalities and changes in power. Proudhon argued that *"[t]he
+manufacturer says to the labourer, 'You are as free to go elsewhere with
+your services as I am to receive them. I offer you so much.' The
+merchant says to the customer, 'Take it or leave it; you are master of
+your money, as I am of my goods. I want so much.' Who will yield? The
+weaker."* He, like all anarchists, saw that domination, oppression and
+exploitation flow from inequalities of market/economic power and that
+the *"power of invasion lies in superior strength."* [**What is
+Property?**, p. 216 and p. 215] This is particularly the case in the
+labour market, as we argued in [section B.4.3](secB4.html#secb43).
+
+As such, it is unlikely that "pure" capitalism would experience full
+employment for under such conditions the employers loose the upper hand.
+To permanently experience a condition which, as we indicate in [section
+C.7](secC7.html), causes "actually existing" capitalism so many problems
+seems more like wishful thinking than a serious analysis. If
+unemployment is included in the Austrian model (as it should) then the
+bargaining position of labour is obviously weakened and, as a
+consequence, capital will take advantage and gather profits at the
+expense of labour. Conversely, if labour is empowered by full employment
+then they can use their position to erode the profits and managerial
+powers of their bosses. Logically, therefore, we would expect less than
+full unemployment and job insecurity to be the normal state of the
+economy with short periods of full unemployment before a slump. Given
+this, we would expect "pure" capitalism to be unstable, just as the
+approximations to it in history have always been. Austrian economics
+gives no reason to believe that would change in the slightest. Indeed,
+given their obvious hatred of trade unions and the welfare state, the
+bargaining power of labour would be weakened further during most of the
+business cycle and, contra Hayek, unemployment would remain and its
+level would fluctuate significantly throughout the business cycle.
+
+Which brings us to the next atypical market in Austrian theory, namely
+the credit market. According to the Austrian school, "pure" capitalism
+would not suffer from a business cycle (or, at worse, a very mild one).
+This is due to the lack of equilibrium in the credit market due to state
+intervention (or, more correctly, state non-intervention). Austrian
+economist W. Duncan Reekie provides a summary:
+
+> *"The business cycle is generated by monetary expansion and
+> contraction . . . When new money is printed it appears as if the
+> supply of savings has increased. Interest rates fall and businessmen
+> are misled into borrowing additional founds to finance extra
+> investment activity . . . This would be of no consequence if it had
+> been the outcome of [genuine saving] . . . - but the change was
+> government induced. The new money reaches factor owners in the form of
+> wages, rent and interest . . . the factor owners will then spend the
+> higher money incomes in their existing consumption:investment
+> proportions . . . Capital goods industries will find their expansion
+> has been in error and malinvestments have been incurred."* [**Markets,
+> Entrepreneurs and Liberty**, pp. 68-9]
+
+This analysis is based on their notion that the interest rate reflects
+the "time preference" of individuals between present and future goods
+(see [section C.2.6](secC2.html#secc26) for more details). The argument
+is that banks or governments manipulate the money supply or interest
+rates, making the actual interest rate different from the "real"
+interest rate which equates savings and loans. Of course, that analysis
+is dependent on the interest rate equating savings and loans which is,
+of course, an equilibrium position. If we assume that the market for
+credit shows the same disequilibrium tendencies as other markets, then
+the possibility for malinvestment is extremely likely as banks and other
+businesses extend credit based on inaccurate assumptions about present
+conditions and uncertain future developments in order to secure greater
+profits. Unsurprisingly, the Austrians (like most economists) expect the
+working class to bear the price for any recession in terms of real wage
+cuts in spite of their theory indicating that its roots lie in
+capitalists and bankers seeking more profits and, consequently, the
+former demanding and the latter supplying more credit than the "natural"
+interest rate would supply.
+
+Ironically, therefore, the Austrian business cycle is rooted in the
+concept of **dis**-equilibrium in the credit market, the condition it
+argues is the standard situation in all other markets. In effect, they
+think that the money supply and interest rates are determined
+exogenously (i.e. outside the economy) by the state. However, this is
+unlikely as the evidence points the other way, i.e. to the endogenous
+nature of the money supply itself. This account of money (proposed
+strongly by, among others, the post-Keynesian school) argues that the
+money supply is a function of the demand for credit, which itself is a
+function of the level of economic activity. In other words, the banking
+system creates as much money as people need and any attempt to control
+that creation will cause economic problems and, perhaps, crisis. Money,
+in other words, emerges from **within** the system and so the Austrian
+attempt to *"blame the state"* is simply wrong. As we discuss in
+[section C.8](secC8.html), attempts by the state to control the money
+during the Monetarist disasters of the early 1980s failed and it is
+unlikely that this would change in a *"pure"* capitalism marked by a
+totally privatised banking system.
+
+It should also be noted that in the 1930s, the Austrian theory of the
+business cycle lost the theoretical battle with the Keynesian one (not
+to be confused with the neoclassical-Keynesian synthesis of the post-war
+years). This was for three reasons. Firstly, it was irrelevant (its
+conclusion was do nothing). Secondly, it was arrogant (it essentially
+argued that the slump would not have happened if people had listened to
+them and the pain of depression was fully deserved for not doing so).
+Thirdly, and most importantly, the leading Austrian theorist on the
+business cycle was completely refuted by Piero Sraffa and Nicholas
+Kaldor (Hayek's own follower who turned Keynesian) both of whom exposed
+the internal contradictions of his analysis.
+
+The empirical record backs our critique of the Austrian claims on the
+stability of capitalism and unemployment. Throughout the nineteenth
+century there were a continual economic booms and slumps. This was the
+case in the USA, often pointed to as an approximately lassiez-faire
+economy, where the last third of the 19th century (often considered as a
+heyday of private enterprise) was a period of profound instability and
+anxiety. Between 1867 and 1900 there were 8 complete business cycles.
+Over these 396 months, the economy expanded during 199 months and
+contracted during 197. Hardly a sign of great stability (since the end
+of world war II, only about a fifth of the time has spent in periods of
+recession or depression, by way of comparison). Overall, the economy
+went into a slump, panic or crisis in 1807, 1817, 1828, 1834, 1837,
+1854, 1857, 1873, 1882, and 1893 (in addition, 1903 and 1907 were also
+crisis years). Full employment, needless to say, was not the normal
+situation (during the 1890s, for example, the unemployment rate exceeded
+10% for 6 consecutive years, reaching a peak of 18.4% in 1894, and was
+under 4% for just one, 1892). So much for temporary and mild slumps,
+prices adjusting fast and markets clearing quickly in pre-Keynesian
+economies!
+
+Luckily, though, the Austrian school's methodology allows it to ignore
+such irritating constrictions as facts, statistics, data, history or
+experimental confirmation. While neoclassical economics at least
+**pretends** to be scientific, the Austrian school displays its
+deductive (i.e. pre-scientific) methodology as a badge of pride along
+side its fanatical love of free market capitalism. For the Austrians, in
+the words of von Mises, economic theory *"is not derived from
+experience; it is prior to experience"* and *"no kind of experience can
+ever force us to discard or modify **a priori** theorems; they are
+logically prior to it and cannot be either proved by corroborative
+experience or disproved by experience to the contrary."* And if this
+does not do justice to a full exposition of the phantasmagoria of von
+Mises' **a priorism**, the reader may take some joy (or horror) from the
+following statement:
+
+> *"If a contradiction appears between a theory and experience, **we
+> must always assume** that a condition pre-supposed by the theory was
+> not present, or else there is some error in our observation. The
+> disagreement between the theory and the facts of experience frequently
+> forces us to think through the problems of the theory again. **But so
+> long as a rethinking of the theory uncovers no errors in our thinking,
+> we are not entitled to doubt its truth**"* [emphasis added, quoted by
+> Homa Katouzian, **Ideology and Method in Economics**, pp. 39-40]
+
+In other words, if reality is in conflict with your ideas, do not adjust
+your views because reality must be at fault! The scientific method would
+be to revise the theory in light of the facts. It is not scientific to
+reject the facts in light of the theory! Without experience, any theory
+is just a flight of fantasy. For the higher a deductive edifice is
+built, the more likely it is that errors will creep in and these can
+only be corrected by checking the analysis against reality. Starting
+assumptions and trains of logic may contain inaccuracies so small as to
+be undetectable, yet will yield entirely false conclusions. Similarly,
+trains of logic may miss things which are only brought to light by
+actual experiences or be correct, but incomplete or concentrate on or
+stress inappropriate factors. To ignore actual experience is to loose
+that input when evaluating a theory.
+
+Ignoring the obvious problems of the empirical record, as any consistent
+Austrian would, the question does arise why does the Austrian school
+make exceptions to its disequilibrium analysis for these two markets.
+Perhaps this is a case of political expediency, allowing the ideological
+supporters of free market capitalism to attack the notion of equilibrium
+when it clearly clashes with reality but being able to return to it when
+attacking, say, trade unions, welfare programmes and other schemes which
+aim to aid working class people against the ravages of the capitalist
+market? Given the self-appointed role of Austrian economics as the
+defender of "pure" (and, illogically, not so pure) capitalism that
+conclusion is not hard to deny.
+
+Rejecting equilibrium is not as straightforward as the Austrians hope,
+both in terms of logic and in justifying capitalism. Equilibrium plays a
+role in neo-classical economics for a reason. A disequilibrium trade
+means that people on the winning side of the bargain will gain real
+income at the expense of the losers. In other words, Austrian economics
+is rooted (in most markets, at least) in the idea that trading benefits
+one side more than the other which flies in the face of the repeated
+dogma that trade benefits both parties. Moreover, rejecting the idea of
+equilibrium means rejecting any attempt to claim that workers' wages
+equal their just contribution to production and so to society. If
+equilibrium does not exist or is never actually reached then the various
+economic laws which "prove" that workers are not exploited under
+capitalism do not apply. This also applies to accepting that any real
+market is unlike the ideal market of perfect competition. In other
+words, by recognising and taking into account reality capitalist
+economics cannot show that capitalism is stable, non-exploitative or
+that it meets the needs of all.
+
+Given that they reject the notion of equilibrium as well as the concept
+of empirical testing of their theories and the economy, their defence of
+capitalism rests on two things: "freedom" and anything else would be
+worse. Neither are particularly convincing.
+
+Taking the first option, this superficially appears appealing,
+particularly to anarchists. However this stress on "freedom" -- the
+freedom of individuals to make their own decisions -- flounders on the
+rocks of capitalist reality. Who can deny that individuals, when free to
+choose, will pick the option they consider best for themselves? However,
+what this praise for individual freedom ignores is that capitalism often
+reduces choice to picking the lesser of two (or more) evils due to the
+inequalities it creates (hence our reference to the **quality** of the
+decisions available to us). The worker who agrees to work in a sweatshop
+does "maximise" her "utility" by so doing -- after all, this option is
+better than starving to death -- but only an ideologue blinded by
+capitalist economics will think that she is free or that her decision is
+not made under (economic) compulsion.
+
+The Austrian school is so in love with markets they even see them where
+they do not exist, namely inside capitalist firms. There, hierarchy
+reigns and so for all their talk of "liberty" the Austrian school at
+best ignores, at worse exalts, factory fascism (see [section
+F.2.1](secF2.html#secf21)) For them, management is there to manage and
+workers are there to obey. Ironically, the Austrian (like the
+neo-liberal) ethic of "freedom" is based on an utterly credulous faith
+in authority in the workplace. Thus we have the defenders of "freedom"
+defending the hierarchical and autocratic capitalist managerial
+structure, i.e. "free" workers subject to a relationship distinctly
+**lacking** freedom. If your personal life were as closely monitored and
+regulated as your work life, you would rightly consider it oppression.
+
+In other words, this idealisation of freedom through the market
+completely ignores the fact that this freedom can be, to a large number
+of people, very limited in scope. Moreover, the freedom associated with
+capitalism, as far as the labour market goes, becomes little more than
+the freedom to pick your master. All in all, this defence of capitalism
+ignores the existence of economic inequality (and so power) which
+infringes the freedom and opportunities of others. Social inequalities
+can ensure that people end up *"wanting what they get"* rather than
+*"getting what they want"* simply because they have to adjust their
+expectations and behaviour to fit into the patterns determined by
+concentrations of economic power. This is particularly the case within
+the labour market, where sellers of labour power are usually at a
+disadvantage when compared to buyers due to the existence of
+unemployment as we have discussed.
+
+As such, their claims to be defenders of "liberty" ring hollow in
+anarchist ears. This can be seen from the 1920s. For all their talk of
+"freedom", when push came to shove, they end up defending authoritarian
+regimes in order to save capitalism when the working classes rebel
+against the "natural" order. Thus we find von Mises, for example,
+arguing in the 1920s that it *"cannot be denied that Fascism and similar
+movements aiming at the establishment of dictatorships are full of the
+best intentions and that their intervention has, for the moment, saved
+European civilisation. The merit that Fascism has thereby won for itself
+will live eternally in history."* [**Liberalism**, p. 51] Faced with the
+Nazis in the 1930s, von Mises changed his tune somewhat as, being
+Jewish, he faced the same state repression he was happy to see inflicted
+upon rebellious workers the previous decade. Unsurprisingly, he started
+to stress that Nazi was short for "National Socialism" and so the
+horrors of fascism could be blamed on "socialism" rather than the
+capitalists who funded the fascist parties and made extensive profits
+under them once the labour, anarchist and socialist movements had been
+crushed.
+
+Similarly, when right-wing governments influenced by the Austrian school
+were elected in various countries in the 1980s, those countries saw an
+increase in state authoritarianism and centralisation. In the UK, for
+example, Thatcher's government strengthened the state and used it to
+break the labour movement (in order to ensure management authority over
+their workers). In other words, instead of regulating capital and the
+people, the state just regulates the people. The general public will
+have the freedom of doing what the market dictates and if they object to
+the market's "invisible hand", then the very visible fist of the state
+(or private defence companies) will ensure they do. We can be sure if a
+large anarchist movement developed the Austrian economists will, like
+von Mises in the 1920s, back whatever state violence was required to
+defend "civilisation" against it. All in the name of "freedom," of
+course.
+
+Then there is the idea that anything else that "pure" capitalism would
+be worse. Given their ideological embrace of the free market, the
+Austrians attack those economists (like Keynes) who tried to save
+capitalism from itself. For the Austrian school, there is only
+capitalism or "socialism" (i.e. state intervention) and they cannot be
+combined. Any attempt to do so would, as Hayek put it in his book **The
+Road to Serfdom**, inevitably lead to totalitarianism. Hence the
+Austrians are at the forefront in attacking the welfare state as not
+only counterproductive but inherently leading to fascism or, even worse,
+some form of state socialism. Needless to say, the state's role in
+creating capitalism in the first place is skilfully ignored in favour of
+endless praise for the "natural" system of capitalism. Nor do they
+realise that the victory of state intervention they so bemoan is, in
+part, necessary to keep capitalism going and, in part, a consequence of
+attempts to approximate their utopia (see [section D.1](secD1.html) for
+a discussion).
+
+Not that Hayek's thesis has any empirical grounding. No state has ever
+become fascist due to intervening in the economy (unless a right-wing
+coup happens, as in Chile, but that was not his argument). Rather,
+dictatorial states have implemented planning rather than democratic
+states becoming dictatorial after intervening in the economy. Moreover,
+looking at the Western welfare states, the key compliant by the
+capitalist class in the 1960s and 1970s was not a lack of general
+freedom but rather too much. Workers and other previously oppressed but
+obedient sections of society were standing up for themselves and
+fighting the traditional hierarchies within society. This hardly fits in
+with serfdom, although the industrial relations which emerged in
+Pinochet's Chile, Thatcher's Britain and Reagan's America does. The call
+was for the state to defend the *"management's right to manage"* against
+rebellious wage slaves by breaking their spirit and organisation while,
+at the same time, intervening to bolster capitalist authority in the
+workplace. That this required an increase in state power and
+centralisation would only come as a surprise to those who confuse the
+rhetoric of capitalism with its reality.
+
+Similarly, it goes without saying Hayek's thesis was extremely
+selectively applied. It is strange to see, for example, Conservative
+politicians clutching Hayek's **Road to Serfdom** with one hand and
+using it to defend cutting the welfare state while, with the other,
+implementing policies which give billions to the Military Industrial
+Complex. Apparently "planning" is only dangerous to liberty when it is
+in the interests of the many. Luckily, defence spending (for example)
+has no such problems. As Chomsky stresses, *"the 'free market' ideology
+is very **useful** -- it's a weapon against the general population . . .
+because it's an argument against social spending, and it's a weapon
+against poor people abroad . . . But nobody [in the ruling class] really
+pays attention to this stuff when it comes to actual planning -- and no
+one ever has."* [**Understanding Power**, p. 256] That is why anarchists
+stress the importance of reforms from **below** rather than from above
+-- as long as we have a state, any reforms should be directed first and
+foremost to the (much more generous) welfare state for the rich rather
+than the general population (the experience of the 1980s onwards shows
+what happens when reforms are left to the capitalist class).
+
+This is not to say that Hayek's attack upon those who refer to
+totalitarian serfdom as a "new freedom" was not fully justified. Nor is
+his critique of central planning and state "socialism" without merit.
+Far from it. Anarchists would agree that any valid economic system must
+be based on freedom and decentralisation in order to be dynamic and meet
+needs, they simply apply such a critique to capitalism **as well as**
+state socialism. The ironic thing about Hayek's argument is that he did
+not see how his theory of tacit knowledge, used to such good effect
+against state socialist ideas of central planning, were just as
+applicable to critiquing the highly centralised and top-down capitalist
+company and economy. Nor, ironically enough, that it was just as
+applicable to the price mechanism he defended so vigorously (as we note
+in [section I.1.2](secI2.html#seci12), the price system hides as much,
+if not more, necessary information than it provides). As such, his
+defence of capitalism can be turned against it and the centralised,
+autocratic structures it is based on.
+
+To conclude, while its open and extreme support for free market
+capitalism and its inequalities is, to say the least, refreshing, it is
+not remotely convincing or scientific. In fact, it amounts to little
+more than a vigorous defence of business power hidden behind a thin
+rhetoric of "free markets." As it preaches the infallibility of
+capitalism, this requires a nearly unyielding defence of corporations,
+economic and social power and workplace hierarchy. It must dismiss the
+obvious fact that allowing big business to flourish into oligopoly and
+monopoly (as it does, see [section C.4](secC4.html)) reduces the
+possibility of competition solving the problem of unethical business
+practices and worker exploitation, as they claim. This is unsurprising,
+as the Austrian school (like economics in general) identifies "freedom"
+with the "freedom" of private enterprise, i.e. the lack of
+accountability of the economically privileged and powerful. This simply
+becomes a defence of the economically powerful to do what they want
+(within the laws specified by their peers in government).
+
+Ironically, the Austrian defence of capitalism is dependent on the
+belief that it will remain close to equilibrium. However, as seems
+likely, capitalism is endogenously unstable, then any real "pure"
+capitalism will be distant from equilibrium and, as a result, marked by
+unemployment and, of course, booms and slumps. So it is possible to have
+a capitalist economics based on non-equilibrium, but it is unlikely to
+convince anyone that does not already believe that capitalism is the
+best system ever unless they are unconcerned about unemployment (and so
+worker exploitation) and instability. As Steve Keen notes, it is *"an
+alternative way to ideologically support a capitalist economy . . . If
+neoclassical economics becomes untenable for any reason, the Austrians
+are well placed to provide an alternative religion for believers in the
+primacy of the market over all other forms of social organisation."*
+[Keen, **Debunking Economics**, p. 304]
+
+Those who seek freedom for all and want to base themselves on more than
+faith in an economic system marked by hierarchy, inequality and
+oppression would be better seeking a more realistic and less apologetic
+economic theory.

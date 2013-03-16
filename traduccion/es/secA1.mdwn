@@ -1,0 +1,825 @@
+A.1 What is anarchism?
+======================
+
+Anarchism is a political theory which aims to create anarchy, *"the
+absence of a master, of a sovereign."* [P-J Proudhon, **What is
+Property**, p. 264] In other words, anarchism is a political theory
+which aims to create a society within which individuals freely
+co-operate together as equals. As such anarchism opposes all forms of
+hierarchical control - be that control by the state or a capitalist - as
+harmful to the individual and their individuality as well as
+unnecessary.
+
+In the words of anarchist L. Susan Brown:
+
+> *"While the popular understanding of anarchism is of a violent,
+> anti-State movement, anarchism is a much more subtle and nuanced
+> tradition then a simple opposition to government power. Anarchists
+> oppose the idea that power and domination are necessary for society,
+> and instead advocate more co-operative, anti-hierarchical forms of
+> social, political and economic organisation."* [**The Politics of
+> Individualism**, p. 106]
+
+However, "anarchism" and "anarchy" are undoubtedly the most
+misrepresented ideas in political theory. Generally, the words are used
+to mean "chaos" or "without order," and so, by implication, anarchists
+desire social chaos and a return to the "laws of the jungle."
+
+This process of misrepresentation is not without historical parallel.
+For example, in countries which have considered government by one person
+(monarchy) necessary, the words "republic" or "democracy" have been used
+precisely like "anarchy," to imply disorder and confusion. Those with a
+vested interest in preserving the status quo will obviously wish to
+imply that opposition to the current system cannot work in practice, and
+that a new form of society will only lead to chaos. Or, as Errico
+Malatesta expresses it:
+
+> *"since it was thought that government was necessary and that without
+> government there could only be disorder and confusion, it was natural
+> and logical that anarchy, which means absence of government, should
+> sound like absence of order."* [**Anarchy**, p. 16]
+
+Anarchists want to change this "common-sense" idea of "anarchy," so
+people will see that government and other hierarchical social
+relationships are both harmful **and** unnecessary:
+
+> *"Change opinion, convince the public that government is not only
+> unnecessary, but extremely harmful, and then the word anarchy, just
+> because it means absence of government, will come to mean for
+> everybody: natural order, unity of human needs and the interests of
+> all, complete freedom within complete solidarity."* [**Op. Cit.**, pp.
+> 16]
+
+This FAQ is part of the process of changing the commonly-held ideas
+regarding anarchism and the meaning of anarchy. But that is not all. As
+well as combating the distortions produced by the "common-sense" idea of
+"anarchy", we also have to combat the distortions that anarchism and
+anarchists have been subjected to over the years by our political and
+social enemies. For, as Bartolomeo Vanzetti put it, anarchists are *"the
+radical of the radical -- the black cats, the terrors of many, of all
+the bigots, exploiters, charlatans, fakers and oppressors. Consequently
+we are also the more slandered, misrepresented, misunderstood and
+persecuted of all."* [Nicola Sacco and Bartolomeo Vanzetti, **The
+Letters of Sacco and Vanzetti**, p. 274]
+
+Vanzetti knew what he was talking about. He and his comrade Nicola Sacco
+were framed by the US state for a crime they did not commit and were,
+effectively, electrocuted for being foreign anarchists in 1927. So this
+FAQ will have to spend some time correcting the slanders and distortions
+that anarchists have been subjected to by the capitalist media,
+politicians, ideologues and bosses (not to mention the distortions by
+our erstwhile fellow radicals like liberals and Marxists). Hopefully
+once we are finished you will understand why those in power have spent
+so much time attacking anarchism -- it is the one idea which can
+effectively ensure liberty for all and end all systems based on a few
+having power over the many.
+
+A.1.1 What does "anarchy" mean?
+-------------------------------
+
+The word ***"anarchy"*** is from the Greek, prefix **an** (or **a**),
+meaning *"not," "the want of," "the absence of,"* or *"the lack of"*,
+plus **archos**, meaning *"a ruler," "director", "chief," "person in
+charge,"* or *"authority."* Or, as Peter Kropotkin put it, Anarchy comes
+from the Greek words meaning *"contrary to authority."* [**Anarchism**,
+p. 284]
+
+While the Greek words ***anarchos*** and ***anarchia*** are often taken
+to mean *"having no government"* or *"being without a government,"* as
+can be seen, the strict, original meaning of anarchism was not simply
+*"no government."* ***"An-archy"*** means *"without a ruler,"* or more
+generally, *"without authority,"* and it is in this sense that
+anarchists have continually used the word. For example, we find
+Kropotkin arguing that anarchism *"attacks not only capital, but also
+the main sources of the power of capitalism: law, authority, and the
+State."* [**Op. Cit.**, p. 150] For anarchists, anarchy means *"not
+necessarily absence of order, as is generally supposed, but an absence
+of rule."* [Benjamin Tucker, **Instead of a Book**, p. 13] Hence David
+Weick's excellent summary:
+
+> *"Anarchism can be understood as the **generic** social and political
+> idea that expresses negation of **all** power, sovereignty,
+> domination, and hierarchical division, and a will to their
+> dissolution. . . Anarchism is therefore more than anti-statism . . .
+> [even if] government (the state) . . . is, appropriately, the central
+> focus of anarchist critique."* [**Reinventing Anarchy**, p. 139]
+
+For this reason, rather than being purely anti-government or anti-state,
+anarchism is primarily a movement against ***hierarchy.*** Why? Because
+hierarchy is the organisational structure that embodies authority. Since
+the state is the "highest" form of hierarchy, anarchists are, by
+definition, anti-state; but this is **not** a sufficient definition of
+anarchism. This means that real anarchists are opposed to all forms of
+hierarchical organisation, not only the state. In the words of Brian
+Morris:
+
+> *"The term anarchy comes from the Greek, and essentially means 'no
+> ruler.' Anarchists are people who reject all forms of government or
+> coercive authority, all forms of hierarchy and domination. They are
+> therefore opposed to what the Mexican anarchist Flores Magon called
+> the 'sombre trinity' -- state, capital and the church. Anarchists are
+> thus opposed to both capitalism and to the state, as well as to all
+> forms of religious authority. But anarchists also seek to establish or
+> bring about by varying means, a condition of anarchy, that is, a
+> decentralised society without coercive institutions, a society
+> organised through a federation of voluntary associations."*
+> [*"Anthropology and Anarchism,"* pp. 35-41, **Anarchy: A Journal of
+> Desire Armed**, no. 45, p. 38]
+
+Reference to "hierarchy" in this context is a fairly recent development
+-- the "classical" anarchists such as Proudhon, Bakunin and Kropotkin
+did use the word, but rarely (they usually preferred "authority," which
+was used as short-hand for "authoritarian"). However, it's clear from
+their writings that theirs was a philosophy against hierarchy, against
+any inequality of power or privileges between individuals. Bakunin spoke
+of this when he attacked *"official"* authority but defended *"natural
+influence,"* and also when he said:
+
+> *"Do you want to make it impossible for anyone to oppress his
+> fellow-man? Then make sure that no one shall possess power."* [**The
+> Political Philosophy of Bakunin**, p. 271]
+
+As Jeff Draughn notes, *"while it has always been a latent part of the
+'revolutionary project,' only recently has this broader concept of
+anti-hierarchy arisen for more specific scrutiny. Nonetheless, the root
+of this is plainly visible in the Greek roots of the word 'anarchy.'"*
+[**Between Anarchism and Libertarianism: Defining a New Movement**]
+
+We stress that this opposition to hierarchy is, for anarchists, not
+limited to just the state or government. It includes all authoritarian
+economic and social relationships as well as political ones,
+particularly those associated with capitalist property and wage labour.
+This can be seen from Proudhon's argument that *"**Capital** . . . in
+the political field is analogous to **government** . . . The economic
+idea of capitalism, the politics of government or of authority, and the
+theological idea of the Church are three identical ideas, linked in
+various ways. To attack one of them is equivalent to attacking all of
+them . . . What capital does to labour, and the State to liberty, the
+Church does to the spirit. This trinity of absolutism is as baneful in
+practice as it is in philosophy. The most effective means for oppressing
+the people would be simultaneously to enslave its body, its will and its
+reason."* [quoted by Max Nettlau, **A Short History of Anarchism**, pp.
+43-44] Thus we find Emma Goldman opposing capitalism as it meant *"that
+man [or woman] must sell his [or her] labour"* and, therefore, *"that
+his [or her] inclination and judgement are subordinated to the will of a
+master."* [**Red Emma Speaks**, p. 50] Forty years earlier Bakunin made
+the same point when he argued that under the current system *"the worker
+sells his person and his liberty for a given time"* to the capitalist in
+exchange for a wage. [**Op. Cit.**, p. 187]
+
+Thus "anarchy" means more than just "no government," it means opposition
+to all forms of authoritarian organisation and hierarchy. In Kropotkin's
+words, *"the origin of the anarchist inception of society . . . [lies
+in] the criticism . . . of the hierarchical organisations and the
+authoritarian conceptions of society; and . . . the analysis of the
+tendencies that are seen in the progressive movements of mankind."*
+[**Op. Cit.**, p. 158] For Malatesta, anarchism *"was born in a moral
+revolt against social injustice"* and that the *"specific causes of
+social ills"* could be found in *"capitalistic property and the State."*
+When the oppressed *"sought to overthrow both State and property -- then
+it was that anarchism was born."* [**Errico Malatesta: His Life and
+Ideas**, p. 19]
+
+Thus any attempt to assert that anarchy is purely anti-state is a
+misrepresentation of the word and the way it has been used by the
+anarchist movement. As Brian Morris argues, *"when one examines the
+writings of classical anarchists. . . as well as the character of
+anarchist movements. . . it is clearly evident that it has never had
+this limited vision [of just being against the state]. It has always
+challenged all forms of authority and exploitation, and has been equally
+critical of capitalism and religion as it has been of the state."*
+[**Op. Cit.**, p. 40]
+
+And, just to state the obvious, anarchy does not mean chaos nor do
+anarchists seek to create chaos or disorder. Instead, we wish to create
+a society based upon individual freedom and voluntary co-operation. In
+other words, order from the bottom up, not disorder imposed from the top
+down by authorities. Such a society would be a true anarchy, a society
+without rulers.
+
+While we discuss what an anarchy could look like in [section
+I](secIcon.html), Noam Chomsky sums up the key aspect when he stated
+that in a truly free society *"any interaction among human beings that
+is more than personal -- meaning that takes institutional forms of one
+kind or another -- in community, or workplace, family, larger society,
+whatever it may be, should be under direct control of its participants.
+So that would mean workers' councils in industry, popular democracy in
+communities, interaction between them, free associations in larger
+groups, up to organisation of international society."* [**Anarchism
+Interview**] Society would no longer be divided into a hierarchy of
+bosses and workers, governors and governed. Rather, an anarchist society
+would be based on free association in participatory organisations and
+run from the bottom up. Anarchists, it should be noted, try to create as
+much of this society today, in their organisations, struggles and
+activities, as they can.
+
+A.1.2 What does "anarchism" mean?
+---------------------------------
+
+To quote Peter Kropotkin, Anarchism is *"the no-government system of
+socialism."* [**Anarchism**, p. 46] In other words, *"the abolition of
+exploitation and oppression of man by man, that is the abolition of
+private property [i.e. capitalism] and government."* [Errico Malatesta,
+**Towards Anarchism,"**, p. 75]
+
+Anarchism, therefore, is a political theory that aims to create a
+society which is without political, economic or social hierarchies.
+Anarchists maintain that anarchy, the absence of rulers, is a viable
+form of social system and so work for the maximisation of individual
+liberty and social equality. They see the goals of liberty and equality
+as mutually self-supporting. Or, in Bakunin's famous dictum:
+
+> "*We are convinced that freedom without Socialism is privilege and
+> injustice, and that Socialism without freedom is slavery and
+> brutality."* [**The Political Philosophy of Bakunin**, p. 269]
+
+The history of human society proves this point. Liberty without equality
+is only liberty for the powerful, and equality without liberty is
+impossible and a justification for slavery.
+
+While there are many different types of anarchism (from individualist
+anarchism to communist-anarchism -- see [section A.3](secA3.html) for
+more details), there has always been two common positions at the core of
+all of them -- opposition to government and opposition to capitalism. In
+the words of the individualist-anarchist Benjamin Tucker, anarchism
+insists *"on the abolition of the State and the abolition of usury; on
+no more government of man by man, and no more exploitation of man by
+man."* [cited by Eunice Schuster, **Native American Anarchism**, p. 140]
+All anarchists view profit, interest and rent as **usury** (i.e. as
+exploitation) and so oppose them and the conditions that create them
+just as much as they oppose government and the State.
+
+More generally, in the words of L. Susan Brown, the *"unifying link"*
+within anarchism *"is a universal condemnation of hierarchy and
+domination and a willingness to fight for the freedom of the human
+individual."* [**The Politics of Individualism**, p. 108] For
+anarchists, a person cannot be free if they are subject to state or
+capitalist authority. As Voltairine de Cleyre summarised:
+
+> *"Anarchism . . . teaches the possibility of a society in which the
+> needs of life may be fully supplied for all, and in which the
+> opportunities for complete development of mind and body shall be the
+> heritage of all . . . [It] teaches that the present unjust
+> organisation of the production and distribution of wealth must finally
+> be completely destroyed, and replaced by a system which will insure to
+> each the liberty to work, without first seeking a master to whom he
+> [or she] must surrender a tithe of his [or her] product, which will
+> guarantee his liberty of access to the sources and means of
+> production. . . Out of the blindly submissive, it makes the
+> discontented; out of the unconsciously dissatisfied, it makes the
+> consciously dissatisfied . . . Anarchism seeks to arouse the
+> consciousness of oppression, the desire for a better society, and a
+> sense of the necessity for unceasing warfare against capitalism and
+> the State."* [**Anarchy! An Anthology of Emma Goldman's Mother
+> Earth**, pp. 23-4]
+
+So Anarchism is a political theory which advocates the creation of
+anarchy, a society based on the maxim of *"no rulers."* To achieve this,
+*"[i]n common with all socialists, the anarchists hold that the private
+ownership of land, capital, and machinery has had its time; that it is
+condemned to disappear: and that all requisites for production must, and
+will, become the common property of society, and be managed in common by
+the producers of wealth. And. . . they maintain that the ideal of the
+political organisation of society is a condition of things where the
+functions of government are reduced to minimum. . . [and] that the
+ultimate aim of society is the reduction of the functions of government
+to nil -- that is, to a society without government, to an-archy"* [Peter
+Kropotkin, **Op. Cit.**, p. 46]
+
+Thus anarchism is both positive and negative. It analyses and critiques
+current society while at the same time offering a vision of a potential
+new society -- a society that fulfils certain human needs which the
+current one denies. These needs, at their most basic, are liberty,
+equality and solidarity, which will be discussed in [section
+A.2](secA2.html).
+
+Anarchism unites critical analysis with hope, for, as Bakunin (in his
+pre-anarchist days) pointed out, *"the urge to destroy is a creative
+urge."* One cannot build a better society without understanding what is
+wrong with the present one.
+
+However, it must be stressed that anarchism is more than just a means of
+analysis or a vision of a better society. It is also rooted in struggle,
+the struggle of the oppressed for their freedom. In other words, it
+provides a means of achieving a new system based on the needs of people,
+not power, and which places the planet before profit. To quote Scottish
+anarchist Stuart Christie:
+
+> "Anarchism is a movement for human freedom. It is concrete, democratic
+> and egalitarian . . . Anarchism began -- and remains -- a direct
+> challenge by the underprivileged to their oppression and exploitation.
+> It opposes both the insidious growth of state power and the pernicious
+> ethos of possessive individualism, which, together or separately,
+> ultimately serve only the interests of the few at the expense of the
+> rest.
+>
+> "Anarchism is both a theory and practice of life. Philosophically, it
+> aims for the maximum accord between the individual, society and
+> nature. Practically, it aims for us to organise and live our lives in
+> such a way as to make politicians, governments, states and their
+> officials superfluous. In an anarchist society, mutually respectful
+> sovereign individuals would be organised in non-coercive relationships
+> within naturally defined communities in which the means of production
+> and distribution are held in common.
+>
+> "Anarchists are not dreamers obsessed with abstract principles and
+> theoretical constructs . . . Anarchists are well aware that a perfect
+> society cannot be won tomorrow. Indeed, the struggle lasts forever!
+> However, it is the vision that provides the spur to struggle against
+> things as they are, and for things that might be . . .
+>
+> "Ultimately, only struggle determines outcome, and progress towards a
+> more meaningful community must begin with the will to resist every
+> form of injustice. In general terms, this means challenging all
+> exploitation and defying the legitimacy of all coercive authority. If
+> anarchists have one article of unshakeable faith, it is that, once the
+> habit of deferring to politicians or ideologues is lost, and that of
+> resistance to domination and exploitation acquired, then ordinary
+> people have a capacity to organise every aspect of their lives in
+> their own interests, anywhere and at any time, both freely and fairly.
+>
+> "Anarchists do not stand aside from popular struggle, nor do they
+> attempt to dominate it. They seek to contribute practically whatever
+> they can, and also to assist within it the highest possible levels of
+> both individual self-development and of group solidarity. It is
+> possible to recognise anarchist ideas concerning voluntary
+> relationships, egalitarian participation in decision-making processes,
+> mutual aid and a related critique of all forms of domination in
+> philosophical, social and revolutionary movements in all times and
+> places." [**My Granny made me an Anarchist**, pp. 162-3]
+
+Anarchism, anarchists argue, is simply the theoretical expression of our
+capacity to organise ourselves and run society without bosses or
+politicians. It allows working class and other oppressed people to
+become conscious of our power as a class, defend our immediate
+interests, and fight to revolutionise society as a whole. Only by doing
+this can we create a society fit for human beings to live in.
+
+It is no abstract philosophy. Anarchist ideas are put into practice
+everyday. Wherever oppressed people stand up for their rights, take
+action to defend their freedom, practice solidarity and co-operation,
+fight against oppression, organise themselves without leaders and
+bosses, the spirit of anarchism lives. Anarchists simply seek to
+strengthen these libertarian tendencies and bring them to their full
+fruition. As we discuss in [section J](secJcon.html), anarchists apply
+their ideas in many ways within capitalism in order to change it for the
+better until such time as we get rid of it completely. [Section
+I](secIcon.html) discusses what we aim to replace it with, i.e. what
+anarchism aims for.
+
+A.1.3 Why is anarchism also called libertarian socialism?
+---------------------------------------------------------
+
+Many anarchists, seeing the negative nature of the definition of
+*"anarchism,"* have used other terms to emphasise the inherently
+positive and constructive aspect of their ideas. The most common terms
+used are *"free socialism," "free communism," "libertarian socialism,"*
+and *"libertarian communism."* For anarchists, libertarian socialism,
+libertarian communism, and anarchism are virtually interchangeable. As
+Vanzetti put it:
+
+> *"After all we are socialists as the social-democrats, the socialists,
+> the communists, and the I.W.W. are all Socialists. The difference --
+> the fundamental one -- between us and all the other is that they are
+> authoritarian while we are libertarian; they believe in a State or
+> Government of their own; we believe in no State or Government."*
+> [Nicola Sacco and Bartolomeo Vanzetti, **The Letters of Sacco and
+> Vanzetti**, p. 274]
+
+But is this correct? Considering definitions from the **American
+Heritage Dictionary**, we find:
+
+> **LIBERTARIAN:** *one who believes in freedom of action and thought;
+> one who believes in free will.*
+>
+> **SOCIALISM:** *a social system in which the producers possess both
+> political power and the means of producing and distributing goods.*
+
+Just taking those two first definitions and fusing them yields:
+
+> **LIBERTARIAN SOCIALISM:** *a social system which believes in freedom
+> of action and thought and free will, in which the producers possess
+> both political power and the means of producing and distributing
+> goods.*
+
+(Although we must add that our usual comments on the lack of political
+sophistication of dictionaries still holds. We only use these
+definitions to show that "libertarian" does not imply "free market"
+capitalism nor "socialism" state ownership. Other dictionaries,
+obviously, will have different definitions -- particularly for
+socialism. Those wanting to debate dictionary definitions are free to
+pursue this unending and politically useless hobby but we will not).
+
+However, due to the creation of the Libertarian Party in the USA, many
+people now consider the idea of *"libertarian socialism"* to be a
+contradiction in terms. Indeed, many "Libertarians" think anarchists are
+just attempting to associate the "anti-libertarian" ideas of "socialism"
+(as Libertarians conceive it) with Libertarian ideology in order to make
+those "socialist" ideas more "acceptable" -- in other words, trying to
+steal the "libertarian" label from its rightful possessors.
+
+Nothing could be further from the truth. Anarchists have been using the
+term "libertarian" to describe themselves and their ideas since the
+1850's. According to anarchist historian Max Nettlau, the revolutionary
+anarchist Joseph Dejacque published **Le Libertaire, Journal du
+Mouvement Social** in New York between 1858 and 1861 while the use of
+the term *"libertarian communism"* dates from November, 1880 when a
+French anarchist congress adopted it. [Max Nettlau, **A Short History of
+Anarchism**, p. 75 and p. 145] The use of the term "Libertarian" by
+anarchists became more popular from the 1890s onward after it was used
+in France in an attempt to get round anti-anarchist laws and to avoid
+the negative associations of the word "anarchy" in the popular mind
+(Sebastien Faure and Louise Michel published the paper **Le Libertaire**
+-- **The Libertarian** -- in France in 1895, for example). Since then,
+particularly outside America, it has **always** been associated with
+anarchist ideas and movements. Taking a more recent example, in the USA,
+anarchists organised ***"The Libertarian League"*** in July 1954, which
+had staunch anarcho-syndicalist principles and lasted until 1965. The
+US-based "Libertarian" Party, on the other hand has only existed since
+the early 1970's, well over 100 years after anarchists first used the
+term to describe their political ideas (and 90 years after the
+expression "libertarian communism" was first adopted). It is that party,
+not the anarchists, who have "stolen" the word. Later, in [Section
+B](secBcon.html), we will discuss why the idea of a "libertarian"
+capitalism (as desired by the Libertarian Party) is a contradiction in
+terms.
+
+As we will also explain in [Section I](secIcon.html), only a
+libertarian-socialist system of ownership can maximise individual
+freedom. Needless to say, state ownership -- what is commonly **called**
+"socialism" -- is, for anarchists, not socialism at all. In fact, as we
+will elaborate in [Section H](secHcon.html), state "socialism" is just a
+form of capitalism, with no socialist content whatever. As Rudolf Rocker
+noted, for anarchists, socialism is *"not a simple question of a full
+belly, but a question of culture that would have to enlist the sense of
+personality and the free initiative of the individual; without freedom
+it would lead only to a dismal state capitalism which would sacrifice
+all individual thought and feeling to a fictitious collective
+interest."* [quoted by Colin Ward, *"Introduction"*, Rudolf Rocker,
+**The London Years**, p. 1]
+
+Given the anarchist pedigree of the word "libertarian," few anarchists
+are happy to see it stolen by an ideology which shares little with our
+ideas. In the United States, as Murray Bookchin noted, the *"term
+'libertarian' itself, to be sure, raises a problem, notably, the
+specious identification of an anti-authoritarian ideology with a
+straggling movement for 'pure capitalism' and 'free trade.' This
+movement never created the word: it appropriated it from the anarchist
+movement of the [nineteenth] century. And it should be recovered by
+those anti-authoritarians . . . who try to speak for dominated people as
+a whole, not for personal egotists who identify freedom with
+entrepreneurship and profit."* Thus anarchists in America should
+*"restore in practice a tradition that has been denatured by"* the
+free-market right. [**The Modern Crisis**, pp. 154-5] And as we do that,
+we will continue to call our ideas libertarian socialism.
+
+A.1.4 Are anarchists socialists?
+--------------------------------
+
+Yes. All branches of anarchism are opposed to capitalism. This is
+because capitalism is based upon oppression and exploitation (see
+sections [B](secBcon.html) and [C](secCcon.html)). Anarchists reject the
+*"notion that men cannot work together unless they have a driving-master
+to take a percentage of their product"* and think that in an anarchist
+society *"the real workmen will make their own regulations, decide when
+and where and how things shall be done."* By so doing workers would free
+themselves *"from the terrible bondage of capitalism."* [Voltairine de
+Cleyre, *"Anarchism"*, **Exquisite Rebel**, p. 75 and p. 79]
+
+(We must stress here that anarchists are opposed to **all** economic
+forms which are based on domination and exploitation, including
+feudalism, Soviet-style "socialism" -- better called "state capitalism"
+--, slavery and so on. We concentrate on capitalism because that is what
+is dominating the world just now).
+
+Individualists like Benjamin Tucker along with social anarchists like
+Proudhon and Bakunin proclaimed themselves ***"socialists."*** They did
+so because, as Kropotkin put it in his classic essay *"Modern Science
+and Anarchism,"* *"[s]o long as Socialism was understood in its wide,
+generic, and true sense -- as an effort to **abolish** the exploitation
+of Labour by Capital -- the Anarchists were marching hand-in-hands with
+the Socialists of that time."* [**Evolution and Environment**, p. 81]
+Or, in Tucker's words, *"the bottom claim of Socialism [is] that labour
+should be put in possession of its own,"* a claim that both *"the two
+schools of Socialistic thought . . . State Socialism and Anarchism"*
+agreed upon. [**The Anarchist Reader**, p. 144] Hence the word
+*"socialist"* was originally defined to include *"all those who believed
+in the individual's right to possess what he or she produced."* [Lance
+Klafta, *"Ayn Rand and the Perversion of Libertarianism,"* in **Anarchy:
+A Journal of Desire Armed**, no. 34] This opposition to exploitation (or
+usury) is shared by all true anarchists and places them under the
+socialist banner.
+
+For most socialists, *"the only guarantee not to be robbed of the fruits
+of your labour is to possess the instruments of labour."* [Peter
+Kropotkin, **The Conquest of Bread**, p. 145] For this reason Proudhon,
+for example, supported workers' co-operatives, where *"every individual
+employed in the association . . . has an undivided share in the property
+of the company"* because by *"participation in losses and gains . . .
+the collective force [i.e. surplus] ceases to be a source of profits for
+a small number of managers: it becomes the property of all workers."*
+[**The General Idea of the Revolution**, p. 222 and p. 223] Thus, in
+addition to desiring the end of exploitation of labour by capital, true
+socialists also desire a society within which the producers own and
+control the means of production (including, it should be stressed, those
+workplaces which supply services). The means by which the producers will
+do this is a moot point in anarchist and other socialist circles, but
+the desire remains a common one. Anarchists favour direct workers'
+control and either ownership by workers' associations or by the commune
+(see [section A.3](secA3.html) on the different types of anarchists).
+
+Moreover, anarchists also reject capitalism for being authoritarian **as
+well as** exploitative. Under capitalism, workers do not govern
+themselves during the production process nor have control over the
+product of their labour. Such a situation is hardly based on equal
+freedom for all, nor can it be non-exploitative, and is so opposed by
+anarchists. This perspective can best be found in the work of Proudhon's
+(who inspired both Tucker and Bakunin) where he argues that anarchism
+would see *"[c]apitalistic and proprietary exploitation stopped
+everywhere [and] the wage system abolished"* for *"either the workman. .
+. will be simply the employee of the proprietor-capitalist-promoter; or
+he will participate . . . In the first case the workman is subordinated,
+exploited: his permanent condition is one of obedience. . . In the
+second case he resumes his dignity as a man and citizen. . . he forms
+part of the producing organisation, of which he was before but the slave
+. . . we need not hesitate, for we have no choice. . . it is necessary
+to form an ASSOCIATION among workers . . . because without that, they
+would remain related as subordinates and superiors, and there would
+ensue two. . . castes of masters and wage-workers, which is repugnant to
+a free and democratic society."* [**Op. Cit.**, p. 233 and pp. 215-216]
+
+Therefore **all** anarchists are anti-capitalist (*"If labour owned the
+wealth it produced, there would be no capitalism"* [Alexander Berkman,
+**What is Anarchism?**, p. 44]). Benjamin Tucker, for example -- the
+anarchist most influenced by liberalism (as we will discuss later) --
+called his ideas *"Anarchistic-Socialism"* and denounced capitalism as a
+system based upon *"the usurer, the receiver of interest, rent and
+profit."* Tucker held that in an anarchist, non-capitalist, free-market
+society, capitalists will become redundant and exploitation of labour by
+capital would cease, since *"labour. . . will. . . secure its natural
+wage, its entire product."* [**The Individualist Anarchists**, p. 82 and
+p. 85] Such an economy will be based on mutual banking and the free
+exchange of products between co-operatives, artisans and peasants. For
+Tucker, and other Individualist anarchists, capitalism is not a true
+free market, being marked by various laws and monopolies which ensure
+that capitalists have the advantage over working people, so ensuring the
+latter's exploitation via profit, interest and rent (see [section
+G](secGcon.html) for a fuller discussion). Even Max Stirner, the
+arch-egoist, had nothing but scorn for capitalist society and its
+various "spooks," which for him meant ideas that are treated as sacred
+or religious, such as private property, competition, division of labour,
+and so forth.
+
+So anarchists consider themselves as socialists, but socialists of a
+specific kind -- ***libertarian socialists***. As the individualist
+anarchist Joseph A. Labadie puts it (echoing both Tucker and Bakunin):
+
+> *"It is said that Anarchism is not socialism. This is a mistake.
+> Anarchism is voluntary Socialism. There are two kinds of Socialism,
+> archistic and anarchistic, authoritarian and libertarian, state and
+> free. Indeed, every proposition for social betterment is either to
+> increase or decrease the powers of external wills and forces over the
+> individual. As they increase they are archistic; as they decrease they
+> are anarchistic."* [**Anarchism: What It Is and What It Is Not**]
+
+Labadie stated on many occasions that *"all anarchists are socialists,
+but not all socialists are anarchists."* Therefore, Daniel Guerin's
+comment that *"Anarchism is really a synonym for socialism. The
+anarchist is primarily a socialist whose aim is to abolish the
+exploitation of man by man"* is echoed throughout the history of the
+anarchist movement, be it the social or individualist wings.
+[**Anarchism**, p. 12] Indeed, the Haymarket Martyr Adolph Fischer used
+almost exactly the same words as Labadie to express the same fact --
+*"every anarchist is a socialist, but every socialist is not necessarily
+an anarchist"* -- while acknowledging that the movement was *"divided
+into two factions; the communistic anarchists and the Proudhon or
+middle-class anarchists."* [**The Autobiographies of the Haymarket
+Martyrs**, p. 81]
+
+So while social and individualist anarchists do disagree on many issues
+-- for example, whether a true, that is non-capitalist, free market
+would be the best means of maximising liberty -- they agree that
+capitalism is to be opposed as exploitative and oppressive and that an
+anarchist society must, by definition, be based on associated, not wage,
+labour. Only associated labour will *"decrease the powers of external
+wills and forces over the individual"* during working hours and such
+self-management of work by those who do it is the core ideal of real
+socialism. This perspective can be seen when Joseph Labadie argued that
+the trade union was *"the exemplification of gaining freedom by
+association"* and that *"[w]ithout his union, the workman is much more
+the slave of his employer than he is with it."* [**Different Phases of
+the Labour Question**]
+
+However, the meanings of words change over time. Today "socialism"
+almost always refers to **state** socialism, a system that all
+anarchists have opposed as a denial of freedom and genuine socialist
+ideals. All anarchists would agree with Noam Chomsky's statement on this
+issue:
+
+> *"If the left is understood to include 'Bolshevism,' then I would
+> flatly dissociate myself from the left. Lenin was one of the greatest
+> enemies of socialism."* [**Marxism, Anarchism, and Alternative
+> Futures**, p. 779]
+
+Anarchism developed in constant opposition to the ideas of Marxism,
+social democracy and Leninism. Long before Lenin rose to power, Mikhail
+Bakunin warned the followers of Marx against the *"Red bureaucracy"*
+that would institute *"the worst of all despotic governments"* if Marx's
+state-socialist ideas were ever implemented. Indeed, the works of
+Stirner, Proudhon and especially Bakunin all predict the horror of state
+Socialism with great accuracy. In addition, the anarchists were among
+the first and most vocal critics and opposition to the Bolshevik regime
+in Russia.
+
+Nevertheless, being socialists, anarchists do share **some** ideas with
+**some** Marxists (though none with Leninists). Both Bakunin and Tucker
+accepted Marx's analysis and critique of capitalism as well as his
+labour theory of value (see [section C](secCcon.html)). Marx himself was
+heavily influenced by Max Stirner's book **The Ego and Its Own**, which
+contains a brilliant critique of what Marx called "vulgar" communism as
+well as state socialism. There have also been elements of the Marxist
+movement holding views very similar to social anarchism (particularly
+the anarcho-syndicalist branch of social anarchism) -- for example,
+Anton Pannekoek, Rosa Luxembourg, Paul Mattick and others, who are very
+far from Lenin. Karl Korsch and others wrote sympathetically of the
+anarchist revolution in Spain. There are many continuities from Marx to
+Lenin, but there are also continuities from Marx to more libertarian
+Marxists, who were harshly critical of Lenin and Bolshevism and whose
+ideas approximate anarchism's desire for the free association of equals.
+
+Therefore anarchism is basically a form of socialism, one that stands in
+direct opposition to what is usually defined as "socialism" (i.e. state
+ownership and control). Instead of "central planning," which many people
+associate with the word "socialism," anarchists advocate free
+association and co-operation between individuals, workplaces and
+communities and so oppose "state" socialism as a form of state
+capitalism in which *"[e]very man [and woman] will be a wage-receiver,
+and the State the only wage payer."* [Benjamin Tucker, **The
+Individualist Anarchists**, p. 81] Thus anarchists reject Marxism (what
+most people think of as "socialism") as just *"[t]he idea of the State
+as Capitalist, to which the Social-Democratic fraction of the great
+Socialist Party is now trying to reduce Socialism."* [Peter Kropotkin,
+**The Great French Revolution**, vol. 1, p. 31] The anarchist objection
+to the identification of Marxism, "central planning" and State
+Socialism/Capitalism with socialism will be discussed in [section
+H](secHcon.html).
+
+It is because of these differences with state socialists, and to reduce
+confusion, most anarchists just call themselves "anarchists," as it is
+taken for granted that anarchists are socialists. However, with the rise
+of the so-called "libertarian" right in the USA, some pro-capitalists
+have taken to calling themselves "anarchists" and that is why we have
+laboured the point somewhat here. Historically, and logically, anarchism
+implies anti-capitalism, i.e. socialism, which is something, we stress,
+that all anarchists have agreed upon (for a fuller discuss of why
+"anarcho"-capitalism is not anarchist see [section F](secFcon.html)).
+
+A.1.5 Where does anarchism come from?
+-------------------------------------
+
+Where does anarchism come from? We can do no better than quote **The
+Organisational Platform of the Libertarian Communists** produced by
+participants of the Makhnovist movement in the Russian Revolution (see
+[Section A.5.4](secA5.html#seca54)). They point out that:
+
+> "The class struggle created by the enslavement of workers and their
+> aspirations to liberty gave birth, in the oppression, to the idea of
+> anarchism: the idea of the total negation of a social system based on
+> the principles of classes and the State, and its replacement by a free
+> non-statist society of workers under self-management.
+>
+> "So anarchism does not derive from the abstract reflections of an
+> intellectual or a philosopher, but from the direct struggle of workers
+> against capitalism, from the needs and necessities of the workers,
+> from their aspirations to liberty and equality, aspirations which
+> become particularly alive in the best heroic period of the life and
+> struggle of the working masses.
+>
+> "The outstanding anarchist thinkers, Bakunin, Kropotkin and others,
+> did not invent the idea of anarchism, but, having discovered it in the
+> masses, simply helped by the strength of their thought and knowledge
+> to specify and spread it." [pp. 15-16]
+
+Like the anarchist movement in general, the Makhnovists were a mass
+movement of working class people resisting the forces of authority, both
+Red (Communist) and White (Tsarist/Capitalist) in the Ukraine from 1917
+to 1921. As Peter Marshall notes *"anarchism . . . has traditionally
+found its chief supporters amongst workers and peasants."* [**Demanding
+the Impossible**, p. 652]
+
+Anarchism was created in, and by, the struggle of the oppressed for
+freedom. For Kropotkin, for example, *"Anarchism . . . originated in
+everyday struggles"* and *"the Anarchist movement was renewed each time
+it received an impression from some great practical lesson: it derived
+its origin from the teachings of life itself."* [**Evolution and
+Environment**, p. 58 and p. 57] For Proudhon, *"the proof"* of his
+mutualist ideas lay in the *"current practice, revolutionary practice"*
+of *"those labour associations . . . which have spontaneously . . . been
+formed in Paris and Lyon . . . [show that the] organisation of credit
+and organisation of labour amount to one and the same."* [**No Gods, No
+Masters**, vol. 1, pp. 59-60] Indeed, as one historian argues, there was
+*"close similarity between the associational ideal of Proudhon . . . and
+the program of the Lyon Mutualists"* and that there was *"a remarkable
+convergence [between the ideas], and it is likely that Proudhon was able
+to articulate his positive program more coherently because of the
+example of the silk workers of Lyon. The socialist ideal that he
+championed was already being realised, to a certain extent, by such
+workers."* [K. Steven Vincent, **Pierre-Joseph Proudhon and the Rise of
+French Republican Socialism**, p. 164]
+
+Thus anarchism comes from the fight for liberty and our desires to lead
+a fully human life, one in which we have time to live, to love and to
+play. It was not created by a few people divorced from life, in ivory
+towers looking down upon society and making judgements upon it based on
+their notions of what is right and wrong. Rather, it was a product of
+working class struggle and resistance to authority, oppression and
+exploitation. As Albert Meltzer put it:
+
+> *"There were never theoreticians of Anarchism as such, though it
+> produced a number of theoreticians who discussed aspects of its
+> philosophy. Anarchism has remained a creed that has been worked out in
+> action rather than as the putting into practice of an intellectual
+> idea. Very often, a bourgeois writer comes along and writes down what
+> has already been worked out in practice by workers and peasants; he
+> [or she] is attributed by bourgeois historians as being a leader, and
+> by successive bourgeois writers (citing the bourgeois historians) as
+> being one more case that proves the working class relies on bourgeois
+> leadership."* [**Anarchism: Arguments for and against**, p. 18]
+
+In Kropotkin's eyes, *"Anarchism had its origins in the same creative,
+constructive activity of the masses which has worked out in times past
+all the social institutions of mankind -- and in the revolts . . .
+against the representatives of force, external to these social
+institutions, who had laid their hands on these institutions and used
+them for their own advantage."* More recently, *"Anarchy was brought
+forth by the same critical and revolutionary protest which gave birth to
+Socialism in general."* Anarchism, unlike other forms of socialism,
+*"lifted its sacrilegious arm, not only against Capitalism, but also
+against these pillars of Capitalism: Law, Authority, and the State."*
+All anarchist writers did was to *"work out a general expression of
+[anarchism's] principles, and the theoretical and scientific basis of
+its teachings"* derived from the experiences of working class people in
+struggle as well as analysing the evolutionary tendencies of society in
+general. [**Op. Cit.**, p. 19 and p. 57]
+
+However, anarchistic tendencies and organisations in society have
+existed long before Proudhon put pen to paper in 1840 and declared
+himself an anarchist. While anarchism, as a specific political theory,
+was born with the rise of capitalism (Anarchism *"emerged at the end of
+the eighteenth century . . .[and] took up the dual challenge of
+overthrowing both Capital and the State."* [Peter Marshall, **Op.
+Cit.**, p. 4]) anarchist writers have analysed history for libertarian
+tendencies. Kropotkin argued, for example, that *"from all times there
+have been Anarchists and Statists."* [**Op. Cit.**, p. 16] In **Mutual
+Aid** (and elsewhere) Kropotkin analysed the libertarian aspects of
+previous societies and noted those that successfully implemented (to
+some degree) anarchist organisation or aspects of anarchism. He
+recognised this tendency of actual examples of anarchistic ideas to
+predate the creation of the "official" anarchist movement and argued
+that:
+
+> *"From the remotest, stone-age antiquity, men [and women] have
+> realised the evils that resulted from letting some of them acquire
+> personal authority. . . Consequently they developed in the primitive
+> clan, the village community, the medieval guild . . . and finally in
+> the free medieval city, such institutions as enabled them to resist
+> the encroachments upon their life and fortunes both of those strangers
+> who conquered them, and those clansmen of their own who endeavoured to
+> establish their personal authority."* [**Anarchism**, pp. 158-9]
+
+Kropotkin placed the struggle of working class people (from which modern
+anarchism sprung) on par with these older forms of popular organisation.
+He argued that *"the labour combinations. . . were an outcome of the
+same popular resistance to the growing power of the few -- the
+capitalists in this case"* as were the clan, the village community and
+so on, as were *"the strikingly independent, freely federated activity
+of the 'Sections' of Paris and all great cities and many small
+'Communes' during the French Revolution"* in 1793. [**Op. Cit.**, p.
+159]
+
+Thus, while anarchism as a political theory is an expression of working
+class struggle and self-activity against capitalism and the modern
+state, the ideas of anarchism have continually expressed themselves in
+action throughout human existence. Many indigenous peoples in North
+America and elsewhere, for example, practised anarchism for thousands of
+years before anarchism as a specific political theory existed.
+Similarly, anarchistic tendencies and organisations have existed in
+every major revolution -- the New England Town Meetings during the
+American Revolution, the Parisian 'Sections' during the French
+Revolution, the workers' councils and factory committees during the
+Russian Revolution to name just a few examples (see Murray Bookchin's
+**The Third Revolution** for details). This is to be expected if
+anarchism is, as we argue, a product of resistance to authority then any
+society with authorities will provoke resistance to them and generate
+anarchistic tendencies (and, of course, any societies without
+authorities cannot help but being anarchistic).
+
+In other words, anarchism is an expression of the struggle against
+oppression and exploitation, a generalisation of working people's
+experiences and analyses of what is wrong with the current system and an
+expression of our hopes and dreams for a better future. This struggle
+existed before it was called anarchism, but the historic anarchist
+movement (i.e. groups of people calling their ideas anarchism and aiming
+for an anarchist society) is essentially a product of working class
+struggle against capitalism and the state, against oppression and
+exploitation, and **for** a free society of free and equal individuals.
