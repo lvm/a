@@ -4,7 +4,7 @@ Seccion J - Que hacen los anarquistas?
 [Introduccion](secJint.html)
 ----------------------------
 
-[J.1 Estan envueltos en lucas sociales?](secJ1.html)
+[J.1 Estan envueltos en luchas sociales?](secJ1.html)
 --------------------------------------------------------------
 
 [J.2 Que es la accion directa?](secJ2.html)
