@@ -1,28 +1,28 @@
-Section J - What do anarchists do?
+Seccion J - Que hacen los anarquistas?
 ==================================
 
-[Introduction](secJint.html)
+[Introduccion](secJint.html)
 ----------------------------
 
-[J.1 Are anarchists involved in social struggles?](secJ1.html)
+[J.1 Estan envueltos en lucas sociales?](secJ1.html)
 --------------------------------------------------------------
 
-[J.2 What is direct action?](secJ2.html)
+[J.2 Que es la accion directa?](secJ2.html)
 ----------------------------------------
 
-[J.3 What kinds of organisation do anarchists build?](secJ3.html)
+[J.3 Que clase de organizaciones crean?](secJ3.html)
 -----------------------------------------------------------------
 
-[J.4 What trends in society aid anarchist activity?](secJ4.html)
+[J.4 Que tendencias auxilian las actividades anarquistas en la sociedad?](secJ4.html)
 ----------------------------------------------------------------
 
-[J.5 What alternative social organisations do anarchists create?](secJ5.html)
+[J.5 Que organizaciones sociales alternativas crean?](secJ5.html)
 -----------------------------------------------------------------------------
 
-[J.6 What methods of child rearing do anarchists advocate?](secJ6.html)
+[J.6 Que metodos de cria de ninos son partidarios?](secJ6.html)
 -----------------------------------------------------------------------
 
-[J.7 What do anarchists mean by social revolution?](secJ7.html)
+[J.7 Que quieren decir por revolucion social?](secJ7.html)
 ---------------------------------------------------------------
 
 
