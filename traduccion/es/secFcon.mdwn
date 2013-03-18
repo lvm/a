@@ -1,47 +1,31 @@
-Section F - Is "anarcho"-capitalism a type of anarchism?
+Seccion F - Es "anarco"-capitalismo un tipo de anarquismo?
 ========================================================
 
-[Introduction](secFint.html)
+[Introduccion](secFint.html)
 ----------------------------
 
-[](secF1.html)
-
-F.1 Are "anarcho"-capitalists really anarchists?
+[F.1 Son "anarco"-capitalistas realmente anarquistas?](secF1.html)
 ------------------------------------------------
 
-[](secF2.html)
-
-F.2 What do "anarcho"-capitalists mean by freedom?
+[F.2 Que quieren decir por libertad los "anarco"-capitalistas?](secF2.html)
 --------------------------------------------------
 
-[](secF3.html)
-
-F.3 Why do "anarcho"-capitalists generally place no value on equality?
+[F.3 Por que los "anarco"-capitalistas generalmente no dan ningun valor a la equalidad?](secF3.html)
 ----------------------------------------------------------------------
 
-[](secF4.html)
-
-F.4 What is the right-"libertarian" position on private property?
+[F.4 Cual es la posicion de los "libertarios" de derecha en la propiedad privada?](secF4.html)
 -----------------------------------------------------------------
 
-[](secF5.html)
-
-F.5 Will privatising "the commons" increase liberty?
+[F.5 Incrementara la libertad la privatizacion de "los comunes"?](secF5.html)
 ----------------------------------------------------
 
-[](secF6.html)
-
-F.6 Is "anarcho" capitalism against the state?
+[F.6 Esta en contra del estado el "anarco"-capitalismo?](secF6.html)
 ----------------------------------------------
 
-[](secF7.html)
-
-F.7 How does the history of "anarcho"-capitalism show that it is not anarchist?
+[F.7 Como muestra la historia que el "anarco"-capitalismo no muestra que es anarquista?](secF7.html)
 -------------------------------------------------------------------------------
 
-[](secF8.html)
-
-F.8 What role did the state take in the creation of capitalism?
+[F.8 Que rol jugo el estado en la creacion del capitalismo?](secF8.html)
 ---------------------------------------------------------------
 
 
