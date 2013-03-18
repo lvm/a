@@ -1,40 +1,40 @@
-Section D - How do statism and capitalism affect society?
-=========================================================
+Seccion D - Como afectan a la sociedad el estatismo y el capitalismo?
+=====================================================================
 
-Introduction
+Introduccion
 ------------
 
-[D.1 Why does state intervention occur?](secD1.html)
-----------------------------------------------------
+[D.1 Por que sucede la intervencion del estado?](secD1.html)
+------------------------------------------------------------
 
-[D.2 What influence does wealth have over politics?](secD2.html)
-----------------------------------------------------------------
+[D.2 Que influencia tiene la riqueza sobre la politica?](secD2.html)
+--------------------------------------------------------------------
 
-[D.3 How does wealth influence the mass media?](secD3.html)
------------------------------------------------------------
+[D.3 Como influencia la riqueza en los medios masivos?](secD3.html)
+-------------------------------------------------------------------
 
-[D.4 What is the relationship between capitalism and the ecological crisis?](secD4.html)
-----------------------------------------------------------------------------------------
+[D.4 Cual es la relacion entre el capitalismo y la crisis ecologica?](secD4.html)
+---------------------------------------------------------------------------------
 
-[D.5 What causes imperialism?](secD5.html)
-------------------------------------------
+[D.5 Que causa imperialismo?](secD5.html)
+-----------------------------------------
 
-[D.6 Are anarchists against Nationalism?](secD6.html)
------------------------------------------------------
+[D.6 Estan los anarquistas contra el nacionalismo?](secD6.html)
+---------------------------------------------------------------
 
-[D.7 Are anarchists opposed to National Liberation struggles?](secD7.html)
---------------------------------------------------------------------------
+[D.7 Se oponen los anarquistas a las luchas por la liberacion nacional?](secD7.html)
+------------------------------------------------------------------------------------
 
-[D.8 What causes militarism and what are its effects?](secD8.html)
-------------------------------------------------------------------
+[D.8 Que causa el militarismo y cuales son sus efectos?](secD8.html)
+--------------------------------------------------------------------
 
-[D.9 Why does political power become concentrated under capitalism?](secD9.html)
---------------------------------------------------------------------------------
+[D.9 Por que el poder politico se concentra bajo el capitalismo?](secD9.html)
+-----------------------------------------------------------------------------
 
-[D.10 How does capitalism affect technology?](secD10.html)
-----------------------------------------------------------
+[D.10 Como afecta el capitalismo a la tecnologia?](secD10.html)
+---------------------------------------------------------------
 
-[D.11 Can politics and economics be separated from each other?](secD11.html)
+[D.11 Pueden la politica y la economia separarse de si mismo?](secD11.html)
 ----------------------------------------------------------------------------
 
 
