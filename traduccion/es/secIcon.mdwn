@@ -1,30 +1,31 @@
-Section I - What would an anarchist society look like?
+Seccion I - Como se veria una sociedad anarquista?
+======================================================
 
-[Introduction](secIint.html)
+[Introduccion](secIint.html)
 ----------------------------
 
-[I.1 Isn't libertarian socialism an oxymoron?](secI1.html)
+[I.1 No es acaso el socialismo libertario un oximoron?](secI1.html)
 ----------------------------------------------------------
 
-[I.2 Is this a blueprint for an anarchist society?](secI2.html)
+[I.2 Es esto un cianotipo para una sociedad anarquista?](secI2.html)
 ---------------------------------------------------------------
 
-[I.3 What could the economic structure of an anarchist society look like?](secI3.html)
+[I.3 Como podria verse la estructura economica de una sociedad anarquista?](secI3.html)
 --------------------------------------------------------------------------------------
 
-[I.4 How would an anarchist economy function?](secI4.html)
+[I.4 Como podria funcionar una economia anarquista?](secI4.html)
 ----------------------------------------------------------
 
-[I.5 What would the social structure of anarchy look like?](secI5.html)
+[I.5 Como podria verse la estructura social de una sociedad anarquista?](secI5.html)
 -----------------------------------------------------------------------
 
-[I.6 What about the *"Tragedy of the Commons"*?](secI6.html)
+[I.6 Que sucede con *"Tragedy of the Commons"*?](secI6.html)
 ------------------------------------------------------------
 
-[I.7 Won't Libertarian Socialism destroy individuality?](secI7.html)
+[I.7 No destruiria individualiad el socialismo libertario?](secI7.html)
 --------------------------------------------------------------------
 
-[I.8 Does revolutionary Spain show that libertarian socialism can work in practice?](secI8.html)
+[I.8 Muestra la Espana revolucionaria que el socialismo libertario puede funcionar en la practica?](secI8.html)
 ------------------------------------------------------------------------------------------------
 
 
