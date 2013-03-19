@@ -1,43 +1,44 @@
-Section C - What are the myths of capitalist economics?
-=======================================================
+Seccion C - Cuales son los mitos de la economia capitalista?
+============================================================
 
-[Introduction](secCint.html)
+[Introduccion](secCint.html)
 ----------------------------
 
-[C.1 What is wrong with economics?](secC1.html)
+[C.1 Que esta mal con la economia?](secC1.html)
 -----------------------------------------------
 
-[C.2 Why is capitalism exploitative?](secC2.html)
+[C.2 Por que el capitalismo es explotador?](secC2.html)
 -------------------------------------------------
 
-[C.3 What determines the distribution between labour and capital?](secC3.html)
-------------------------------------------------------------------------------
-
-[C.4 Why does the market become dominated by Big Business?](secC4.html)
------------------------------------------------------------------------
-
-[C.5 Why does Big Business get a bigger slice of profits?](secC5.html)
-----------------------------------------------------------------------
-
-[C.6 Can market dominance by Big Business change?](secC6.html)
---------------------------------------------------------------
-
-[C.7 What causes the capitalist business cycle?](secC7.html)
-------------------------------------------------------------
-
-[C.8 Is state control of money the cause of the business cycle?](secC8.html)
+[C.3 Que determina la distribucion entre la labor y el capital?](secC3.html)
 ----------------------------------------------------------------------------
 
-[C.9 Would laissez-faire policies reduce unemployment, as supporters of "free market" capitalism claim?](secC9.html)
---------------------------------------------------------------------------------------------------------------------
+[C.4 Por que el mercado fue dominado por las grandes empresas?](secC4.html)
+-----------------------------------------------------------------------
+
+[C.5 Por que las grandes empresas obtienen una mayor parte de las ganancias?](secC5.html)
+-----------------------------------------------------------------------------------------
+
+[C.6 Puede cambiar el dominio de mercado de las grandes empresas?](secC6.html)
+------------------------------------------------------------------------------
+
+[C.7 Que causa el ciclo comercial capitalista?](secC7.html)
+------------------------------------------------------------
+
+[C.8 Esta el estado en control del dinero por el ciclo comercial capitalista?](secC8.html)
+------------------------------------------------------------------------------------------
+
+[C.9 Pueden las politicas laissez-faire reducir el desempleo, como partidarios de la demanda del "libre mercado" capitalista?](secC9.html)
+------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### 
 
-[C.10 Is "free market" capitalism the best way to reduce poverty?](secC10.html)
--------------------------------------------------------------------------------
+[C.10 Es el "libre mercado" capitalista la mejor manera de reducir la pobreza?](secC10.html)
+--------------------------------------------------------------------------------------------
 
-[C.11 Doesn't neo-liberalism in Chile prove that the free market benefits everyone?](secC11.html)
--------------------------------------------------------------------------------------------------
+[C.11 Acaso los neo-liberalistas en Chile no probaron que el libre mercado beneficia a todos?](secC11.html)
+-----------------------------------------------------------------------------------------------------------
 
-[C.12 Doesn't Hong Kong show the potentials of "free market" capitalism?](secC12.html)
+[C.12 Acaso Hong King no muestra los potenciales del "libre mercado" capitalista?](secC12.html)
 --------------------------------------------------------------------------------------
