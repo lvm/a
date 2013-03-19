@@ -1,27 +1,26 @@
-Sites of interest to Anarchists
-===============================
+Sitios de interes para Anarquistas
+==================================
 
-***Web-pages by organisations or on topics which anarchists may find
-useful.***
+***Paginas web por organizaciones de topicos los cuales los anarquistas pueden encontrar utiles***
 
-Click on the flag to go back to ***"An Anarchist FAQ"*** main page
+Click en la bandera para volver a la pagina principal de ***"An Anarchist FAQ"***
 
 [![](flag.gif)](index.html)
 
-[Papers, Magazines and Journals](arlinks.html#otherpapers) \
+[Papers, Revistas y Jornales](arlinks.html#otherpapers) \
 
-[Groups and Organisations](arlinks.html#othergroups) \
+[Grupos y organizaciones](arlinks.html#othergroups) \
 
-[Labour movement sites](arlinks.html#otherlabour) \
+[Sitios de movimientos laborales](arlinks.html#otherlabour) \
 
-[Situationist and Libertarian Marxist sites](arlinks.html#otherlibmarx)
+[Sitios Situacionistas y Marxistas Libertarios](arlinks.html#otherlibmarx)
 
-[General sites of interest](arlinks.html#othergeneral)
+[Sitios de interes general](arlinks.html#othergeneral)
 
-Papers, Magazines and Journals
+Papers, Revistas y Jornales
 ------------------------------
 
-***Interesting on-line magazines, papers and journals.***
+***Jornales, papers y revistas online.***
 
 [Lobster: Journal of parapolitics, intelligence and State
 Research](http://www.lobster-magazine.co.uk/) \
@@ -78,10 +77,10 @@ Mainstream](http://www.altpr.org/) \
 Good US based magazine which, as wel as reviewing the radical press, has
 articles on current issues.
 
-Groups and Organisations
+Grupos y organizaciones
 ------------------------
 
-***Non-anarchist but interesting on-line groups.***
+***Grupos on-line no-anarquistas pero relevantes.***
 
 [Independent Media Center](http://www.indymedia.org/) \
 Essential source for independent reporting on demos (plus extensive
@@ -239,8 +238,8 @@ imperialism in Afghanistan.
 Analysis](http://slash.autonomedia.org/) \
 Useful webpage for news and analysis for radicals.
 
-Labour movement sites
----------------------
+Sitios de movimientos laborales
+-------------------------------
 
 [LabourNet](http://www.labournet.org) \
 [LabourNet UK](http://www.labournet.net) \
@@ -284,13 +283,13 @@ Italian "base union" webpage. Militant rank-and-file ran labour unions.
 [McDonalds Workers Resistance](http://www.geocities.com/mwrposse3/) \
 For all rebel McDonalds' workers!
 
-Situationist and Libertarian Marxist sites
-------------------------------------------
+Sitios Situacionistas y Marxistas Libertarios
+---------------------------------------------
 
-***Not all Marxists are authoritarians or Leninists. Some support
-self-managed class struggle, working class autonomy and a self-managed
-socialist society. Here are a few sites on this minority trend within
-Marxism.***
+***No todos los Marxistas son autoritarios o Leninistas. Algunos
+apoyan a la lucha de clases auto-gestionada, clases trabajadoras autonomas
+y sociedades socialistas auto-gestionadas. Aqui hay algunos sitios en
+las tendencias minoristas dentro del Marxismo***
 
 [Situationist International
 Archives](http://www.nothingness.org/SI/index.html) \
@@ -387,10 +386,10 @@ Multi-lingual council communist webpage.
 [The Commoner](http://www.commoner.org.uk/) \
 A web journal for other values. An automonist Marxist webpage.
 
-General sites of interest
+Sitios de interes general
 -------------------------
 
-***General sites useful to anarchists and libertarians***
+***Sitios en general utiles para anarquistas y libertarios.***
 
 [Critiques Of
 Libertarianism](http://world.std.com/~mhuben/libindex.html) \
