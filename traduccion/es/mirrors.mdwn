@@ -1,7 +1,7 @@
 An Anarchist FAQ Webpage Mirrors
 --------------------------------
 
-### *An Anarchist FAQ* main site:
+### sitio principal de *An Anarchist FAQ*:
 
 [www.anarchistfaq.org](http://www.anarchistfaq.org/) \
 [www.anarchismfaq.org](http://www.anarchismfaq.org/)
@@ -9,16 +9,16 @@ An Anarchist FAQ Webpage Mirrors
 
 * * * * *
 
-The FAQ is now mirrored at the following sites (which we know of)
+Este FAQ esta espejado en los siguientes sitios (que nosotros sepamos)
 
 * * * * *
 
-***Original site:*** \
+***Sitio Original:*** \
 
 [http://www.geocities.com/CapitolHill/1931/](http://www.geocities.com/CapitolHill/1931/)\
 
-***Other sites:*** \
- Some of these mirror sites may contain older versions of ***"An
+***Otros sitios:*** \
+ Algunos de estos *mirrors* pueden contener versiones anteriores de ***"An
 Anarchist FAQ"*** \
  [http://anarchism.ws/faq/](http://anarchism.ws/faq/)\
 
@@ -33,7 +33,7 @@ Anarchist FAQ"*** \
 
 [http://tofuwurst.staticky.com/anarchy/](http://tofuwurst.staticky.com/anarchy/)\
 
-[http://chat.carleton.ca/\~sgoodhew/anarchy/mirrors/anarchist\_faq/index.html](%20http://chat.carleton.ca/~sgoodhew/anarchy/mirrors/anarchist_faq/index.html)
+[http://chat.carleton.ca/\~sgoodhew/anarchy/mirrors/anarchist\_faq/index.html](http://chat.carleton.ca/~sgoodhew/anarchy/mirrors/anarchist_faq/index.html)
 \
 
 [http://www.secret-paradise.com/anarcho/](http://www.secret-paradise.com/anarcho/)
@@ -66,7 +66,7 @@ Anarchist FAQ"*** \
 
 * * * * *
 
-[![](flag.gif)](index.html) \
-Click on the flag to return to ***"An Anarchist FAQ"*** index page.
+[![](flag.gif)](links.html) \
+ Click en la bandera para links de otros sitios anarquistas \
 
 * * * * *
