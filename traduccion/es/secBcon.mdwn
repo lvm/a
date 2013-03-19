@@ -1,28 +1,28 @@
-Section B - Why do anarchists oppose the current system?
-========================================================
+Seccion B - Por que los anarquistas se oponen al modelo actual?
+===============================================================
 
-[Introduction](secBint.html)
+[Introduccion](secBint.html)
 ----------------------------
 
-[B.1 Why are anarchists against authority and hierarchy?](secB1.html)
----------------------------------------------------------------------
+[B.1 Por que los anarquistas se oponen a la autoridad y la jerarquia?](secB1.html)
+-----------------------------------------------------------------------------------
 
-[B.2 Why are anarchists against the state?](secB2.html)
--------------------------------------------------------
+[B.2 Por que los anarquistas se oponen a el estado?](secB2.html)
+-----------------------------------------------------------------
 
-[B.3 Why are anarchists against private property?](secB3.html)
---------------------------------------------------------------
+[B.3 Por que los anarquistas se oponen a la propiedad privada?](secB3.html)
+---------------------------------------------------------------------------
 
-[B.4 How does capitalism affect liberty?](secB4.html)
------------------------------------------------------
-
-[B.5 Is capitalism empowering and based on human action?](secB5.html)
----------------------------------------------------------------------
-
-[B.6 But won't decisions made by individuals with their own money be the best?](secB6.html)
--------------------------------------------------------------------------------------------
-
-[B.7 What classes exist within modern society?](secB7.html)
+[B.4 Como afecta el capitalismo a la libertad?](secB4.html)
 -----------------------------------------------------------
+
+[B.5 Es el capitalismo potenciador y basado en el accionar humano?](secB5.html)
+-------------------------------------------------------------------------------
+
+[B.6 Pero acaso las decisiones tomadas por los individuos con su propio dinero no es lo mejor?](secB6.html)
+-----------------------------------------------------------------------------------------------------------
+
+[B.7 Que clases existen dentro de la sociedad moderna?](secB7.html)
+-------------------------------------------------------------------
 
 
