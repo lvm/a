@@ -1,19 +1,19 @@
 An Anarchist FAQ Webpage Downloads
 ----------------------------------
 
-Downloadable html, pdf, word and text versions
+Versiones html, pdf, word y texto plano.
 
-For downloadable html, word and text versions of the current FAQ, [click
-here](http://flag.blackened.net/intanark/faq/mirror.html).
+Para versiones descargables html , word and texto plano del FAQ actual, [click
+aqui](http://flag.blackened.net/intanark/faq/mirror.html).
 
-For uncompressed text versions of the current FAQ, [click
-here](http://flag.blackened.net/intanark/faq/text/)
+Para versiones sin comprimir en texto plano del FAQ actual, [click
+aqui](http://flag.blackened.net/intanark/faq/text/)
 
-For pdf format versions of the current FAQ, [click here](pdf.html)\
+Para versiones en formato pdf del FAQ actual, [click aqui](pdf.html)\
 
 * * * * *
 
-[![](flag.gif)](index.html) \
-Click on the flag to return to ***"An Anarchist FAQ"*** index page
+[![](flag.gif)](links.html) \
+ Click en la bandera para links de otros sitios anarquistas \
 
 * * * * *
