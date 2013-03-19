@@ -7,9 +7,9 @@ Para versiones descargables html , word and texto plano del FAQ actual, [click
 aqui](http://flag.blackened.net/intanark/faq/mirror.html).
 
 Para versiones sin comprimir en texto plano del FAQ actual, [click
-aqui](http://flag.blackened.net/intanark/faq/text/)
+aqui](http://flag.blackened.net/intanark/faq/text/).
 
-Para versiones en formato pdf del FAQ actual, [click aqui](pdf.html)\
+Para versiones en formato pdf del FAQ actual, [click aqui](pdf.html).
 
 * * * * *
 
