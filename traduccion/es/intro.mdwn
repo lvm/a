@@ -1,6 +1,6 @@
 ![](flag2.gif)
 
-Introduction
+Introducción
 ============
 
 *"Proletarians of the world, look into the depths of your own beings,
@@ -9,166 +9,179 @@ else"* \
  - Peter Arshinov \
 **The History of the Makhnovist Movement**
 
-Welcome to our FAQ on anarchism
+Bienvenido a nuestras Freguntas Frecuentes sobre Anarquismo
 -------------------------------
 
-This FAQ was written by anarchists across the world in an attempt to
-present anarchist ideas and theory to those interested in it. It is a
-co-operative effort, produced by a (virtual) working group and it exists
-to present a useful organising tool for anarchists on-line and,
-hopefully, in the real world. It desires to present arguments on why you
-should be an anarchist as well as refuting common arguments against
-anarchism and other proposed solutions to the social problems we face.
+Estas Preguntas Frecuentes fueron escritas por anarquistas de todo el
+mundo en un intento de presentar la ideología y teoría anarquistas a
+aquell@s interesad@s. Es un esfuerzo cooperativo, llevado a cabo por un
+grupo de trabajo (virtual) y existe para presentar una herramienta de
+organización útil tanto para anarquistas en internet como, esperamos, en
+el mundo real. Pretende presentar argumentos acerca de por qué deberías
+ser anarquista, así como refutar argumentos comunes contra el anarquismo
+y otras posibles soluciones a los problemas sociales a los que nos
+enfrentamos.
 
-As anarchist ideas seem so at odds with "common-sense" (such as "of
-course we need a state and capitalism") we need to indicate **why**
-anarchists think like we do. Unlike many political theories, anarchism
-rejects flip answers and instead bases its ideas and ideals in an
-in-depth analysis of society and humanity. In order to do both anarchism
-and the reader justice we have summarised our arguments as much as
-possible without making them simplistic. We know that it is a lengthy
-document and may put off the casual observer but its length is
-unavoidable.
+Como las ideas anarquistas parecen tan raras ante las de "sentido común"
+(tales como "por supuesto que necesitamos un estado y capitalismo")
+necesitamos señalar **por qué** los anarquistas pensamos como pensamos. A
+diferencia de muchas teorías políticas, el anarquismo rechaza respuestas
+rápidas y en lugar de eso, basa sus ideas e ideales en un análisis
+profundo de la sociedad y la humanidad. Para hacerles justicia tanto al
+anarquismo como al lector, hemos resumido nuestros argumentos lo más
+posible, sin llegar a hacerlos simplistas. Sabemos que es un documento
+largo y que puede echar para atrás al observador casual, pero su
+longitud es inevitable.
 
-Readers may consider our use of extensive quoting as being an example of
-a *"quotation [being] a handy thing to have about, saving one the
-trouble of thinking for oneself."* (A.A. Milne) This is not the case of
-course. We have included extensive quotations by many anarchist figures
-for three reasons. Firstly, to indicate that we are **not** making up
-our claims of what certain anarchists thought or argued for. Secondly,
-and most importantly, it allows us to link the past voices of anarchism
-with its present adherents. And lastly, the quotes are used for their
-ability to convey ideas succinctly rather than as an appeal to
-"authority."
+L@s lector@s pueden considerar nuestro uso de citas extensas como un
+ejemplo de que *"las citas [son] una cosa práctica para tener a mano,
+salvandonos de tener que pensar por uno mismo."* (A.A. Milne) Este no es
+el caso, obviamente. Hemos incluido muchas referencias de muchas figuras
+anarquistas por tres razones. Primero, para mostrar que **no** estamos
+inventando nuestras afirmaciones sobre lo que ciertos anarquistas
+pensaban o argumentaban.  Segundo, y más importante, nos permite unir
+las voces pasadas del anarquismo con sus partidarios actuales. Y por
+último, las citas se utilizan por su capacidad para transmitir ideas de
+forma concisa, más que por apelar a la "autoridad".
 
-In addition, many quotes are used in order to allow readers to
-investigate the ideas of those quoted and to summarise facts and so save
-space. For example, a quote by Noam Chomsky on the development of
-capitalism by state protection ensures that we base our arguments on
-facts without having to present all the evidence and references Chomsky
-uses. Similarly, we quote experts on certain subjects (such as
-economics, for example) to support and bolster our analysis and claims.
+Además, muchas citas se utilizan para permitir a los lectores investigar
+las ideas de aquellos referenciados además de resumir los hechos y
+ahorrar espacio. Por ejemplo, una cita a Noam Chomsky sobre el
+desarrollo del capitalismo por la proteccion estatal asegura que basamos
+nuestros argumentos en hechos sin tener que presentar todas las
+evidencias y referencias que Chomsky utiliza. Análogamente,
+referenciamos a expertos en diversas materias (como economía, por
+ejemplo) para apoyar y reforzar nuestros análisis y afirmaciones.
 
-We should also indicate the history of this FAQ. It was started in 1995
-when a group of anarchists got together in order to write an FAQ
-refuting the claims of certain "libertarian" capitalists to being
-anarchists. Those who were involved in this project had spent many an
-hour on-line refuting claims by these people that capitalism and
-anarchism could go together. Finally, a group of net-activists decided
-the best thing was to produce an FAQ explaining why anarchism hates
-capitalism and why "anarcho" capitalists are not anarchists. However,
-after the suggestion of Mike Huben (who maintains the ***"Critiques of
-Libertarianism"*** web-page) it was decided that a pro-Anarchist FAQ
-would be a better idea than an anti-"anarcho"-capitalist one. So the
-Anarchist FAQ was born. It still bears some of the signs of its
-past-history. For example it gives the likes of Ayn Rand, Murray
-Rothbard, and so on, far too much space outside of Section F -- they
-really are not that important. However, as they present extreme examples
-of everyday capitalist ideology and assumptions, they do have their uses
--- they state clearly the authoritarian implications of capitalist
-ideology which its more moderate supporters try to hide or minimise.
+También deberíamos comentar la historia de este FAQ. Fue iniciado en
+1995 cuando un grupo de anarquistas se reunieron para escribir unas
+Preguntas Frecuentes refutando las afirmaciones sobre ser anarquistas de
+ciertos capitalistas "libertarios". Aquellos involucrados en este
+proyecto habían gastado muchas horas on-line refutando a esta gente que
+decía que capitalismo y anarquismo podían ir juntos. Finalmente, un
+grupo de activistas de la red decidió que lo mejor era realizar un FAQ
+explicando por qué el anarquismo odia al capitalismo y porqué los
+"anarco" capitalistas no son anarquistas. Sin embargo, tras la
+sugerencia de Mike Huben (que mantiene la página web ***"Críticas al
+libertarianismo"***), se decidió que un FAQ pro-Anarquistas sería mejor
+idea que uno anti-"anarco"-capitalistas. Así nació el FAQ Anarquista.
+Aún se notan algunos signos de su historia pasada.  Por ejemplo, le da a
+gente como Ayn Rand, Murray Rothbard y demás, muchísimo espacio afuera
+de la sección F -- realmente no son tan importantes. Aún así, como
+presentan ejemplos extremos de la ideología capitalista cotidiana y sus
+supuestos, tienen sus usos -- plantean claramente las implicaciones
+autoritarias de la ideología capitalista, que sus más moderados
+seguidores tratan de ocultar o minimizar.
 
-We think that we have produced a useful on-line resource for anarchists
-and other anti-capitalists to use. Perhaps, in light of this, we should
-dedicate this anarchist FAQ to the many on-line "libertarian"
-capitalists who, because of their inane arguments, prompted us to start
-this work. Then again, that would give them too much credit. Outside the
-net they are irrelevant and on the net they are just annoying. As you
-may guess, sections F and G contain the bulk of this early
-anti-Libertarian FAQ and are included purely to refute the claim that an
-anarchist can be a supporter of capitalism that is relatively common on
-the net (in the real world this would not be required as almost all
-anarchists think that "anarcho"-capitalism is an oxymoron and that its
-supporters are not part of the anarchist movement).
+Pensamos que hemos elaborado un recurso útil on-line para que usen
+anarquistas y otros anticapitalistas. Quizá, según esto, deberíamos
+dedicar estas Preguntas Frequentes anarquistas a todos aquellos
+capitalistas "libertarios" de la red, quienes, gracias a sus estúpidos
+argumentos, nos impulsaron a comenzar este trabajo. Pero eso sería
+darles demasiado crédito.  Fuera de la red, son irrelevantes, y dentro
+de la red son simplemente pesados. Como puedes suponer, las secciones F
+y G contienen la mayor parte de toda este primer FAQ anti-libertarios y
+están incluídas puramente para refutar la afirmación de que un
+anarquista puede ser partidario del capitalismo, argumento muy sostenido
+en la red (en el mundo real no debería ser necesario esto, ya que todos
+los anarquistas piensan que el "anarco" capitalismo es un oxímoron y que
+sus partidarios no son parte del movimiento anarquista.
 
-So, while coming from a very specific reason, the FAQ has expanded into
-more than we originally imagined. It has become a general introduction
-about anarchism, its ideas and history. Because anarchism recognises
-that there are no easy answers and that freedom must be based on
-individual responsibility the FAQ is quite in-depth. As it also
-challenges a lot of assumptions, we have had to cover a lot of ground.
-We also admit that some of the "frequently asked questions" we have
-included are more frequently asked than others. This is due to the need
-to include relevant arguments and facts which otherwise may not have
-been included.
+Entonces, si bien partió de una razón muy específica, el FAQ se ha
+extendido a mucho más de lo que originalmente imaginamos. Se ha
+convertido en una introducción general sobre anarquismo, sus ideas y su
+historia. Porque el anarquismo reconoce que no existen respuestas
+fáciles y que la libertad ha de estar basada en la responsabilidad
+individual, este FAQ es bastante detallado. Como también desafía muchos
+supuestos, hemos tenido que cubrir muchos campos. También admitimos que
+algunas de las "preguntas frecuentemente respondidas" (FAQ) que hemos
+incluido son mucho más frecuentemente preguntadas que otras. Esto se
+debe a la necesidad de incluir argumentos y hechos relevantes que de
+otro modo no habrían sido incluidos.
 
-We are sure that many anarchists will not agree 100% with what we have
-written in the FAQ. That is to be expected in a movement based upon
-individual freedom and critical thought. However, we are sure that most
-anarchists will agree with most of what we present and respect those
-parts with which they do disagree with as genuine expressions of
-anarchist ideas and ideals. The anarchist movement is marked by
-wide-spread disagreement and argument about various aspects of anarchist
-ideas and how to apply them (but also, we must add, a wide-spread
-tolerance of differing viewpoints and a willingness to work together in
-spite of minor disagreements). We have attempted to reflect this in the
-FAQ and hope we have done a good job in presenting the ideas of all the
-anarchist tendencies we discuss.
+Estamos seguros de que muchos anarquistas no coincidirán 100% con lo que
+hemos escrito en este FAQ. Eso es esperable de un movimiento basado en
+la libertad individual y el pensamiento crítico. Aún así, estamos
+seguros de que la mayoría de los anarquistas estarán de acuerdo con la
+mayor parte de lo que aquí exponemos, y respetarán a aquellas partes con
+las que discrepen, como una genuina expresión de las ideas e ideales
+anarquistas. El movimiento anarquista está marcado por extensos
+desacuerdos y debates sobre varios aspectos de las ideas anarquistas y
+cómo aplicarlas (pero también debemos añadir que marcado por una extensa
+tolerancia hacia los distintos puntos de vista y las voluntades de
+trabajar juntos a pesar de las pequeñas diferencias). Hemos intentado
+reflejar esto en las Preguntas Frequentes y esperamos haber hecho un
+buen trabajo al presentar las ideas de todas las tendencias anarquistas
+que presentamos.
 
-We have no desire to write in stone what anarchism is and is not.
-Instead the FAQ is a starting point for people to read and learn for
-themselves about anarchism and translate that learning into direct
-action and self-activity. By so doing, we make anarchism a living
-theory, a product of individual and social self-activity. Only by
-applying our ideas in practice can we find their strengths and
-limitations and so develop anarchist theory in new directions and in
-light of new experiences. We hope that the FAQ both reflects and aids
-this process of self-activity and self-education.
+No pretendemos escribir en piedra qué es el anarquismo y qué no lo es.
+En lugar de eso, el FAQ es un punto de partida para que la gente lea y
+aprenda por sí mismos sobre anarquismo y traduzca este aprendizaje en
+acción directa y activismo autónomo. Al hacerlo, hacemos del anarquismo
+una teoría viva, un producto del activismo autónomo individual y social.
+Sólo poniendo nuestras ideas en práctica podemos encontrar sus
+fortalezas y sus limitaciones y así desarrollar la teoría anarquista en
+nuevas direcciones y a la luz de nuevas experiencias. Esperamos que las
+FAQ reflejen y ayuden este proceso autodidacta y autónomo.
 
-We are sure that there are many issues that the FAQ does not address. If
-you think of anything we could add or feel you have a question and
-answer which should be included, get in contact with us. The FAQ is not
-our "property" but belongs to the whole anarchist movement and so aims
-to be an organic, living creation. We desire to see it grow and expand
-with new ideas and inputs from as many people as possible. If you want
-to get involved with the FAQ then contact us. Similarly, if others
-(particularly anarchists) want to distribute all or part of it then feel
-free. It is a resource for the movement. For this reason we have
-"copylefted" An Anarchist FAQ (see
+Sabemos que hay muchos aspectos que no están tratados en las FAQ. Si
+crees que hay algo que deberíamos añadir o tienes preguntas o respuestas
+que deberían ser incluidas, ponte en contacto con nosotros. Las FAQ no
+son nuestra "porpiedad", sino que pertenece a todo el movimiento
+anarquista y por eso queremos que sea una creación orgánica, viva.
+Deseamos verla crecer y expandirse con nuevas ideas y aportes de tanta
+gente como sea posible. Si quieres verte involucrad@ con las FAQ,
+contacta con nosotros. Igualmente, si otros (particularmente
+anarquistas) quieren distribuirlas enteras o partes de ellas, que se
+sientan libres. Es un recurso para el movimiento. Por esta razón hemos
+"liberado" a Un FAQ Anarquista (ver
 [http://www.gnu.org/copyleft/copyleft.html](http://www.gnu.org/copyleft/copyleft.html)
-for details). By so doing we ensure that the FAQ remains a free product,
-available for use by all.
+para más detalles).
+Haciendo esto nos aseguramos que las FAQ permanecen como un producto
+libre, disponible para ser usado por tod@s.
 
-One last point. Language has changed a lot over the years and this
-applies to anarchist thinkers too. The use of the term "man" to refer to
-humanity is one such change. Needless to say, in today's world such
-usage is inappropriate as it effectively ignores half the human race.
-For this reason the FAQ has tried to be gender neutral. However, this
-awareness is relatively recent and many anarchists (even the female ones
-like Emma Goldman) used the term "man" to refer to humanity as a whole.
-When we are quoting past comrades who use "man" in this way, it
-obviously means humanity as a whole rather than the male sex. Where
-possible, we add "woman", "women", "her" and so on but if this would
-result in making the quote unreadable, we have left it as it stands. We
-hope this makes our position clear.
+Un último punto. El lenguaje ha cambiado mucho a través de los años, y
+esto se aplica a los pensadores anarquistas también. El uso del término
+"hombre" para referirse a la humanidad es uno de esos cambios. No es
+necesario decir que hoy dia ese uso es inapropiado ya que efectivamente
+ignora a la mitad de la raza humana. Por esto en las FAQ hemos intentado
+usar un género neutro.  Aún así, esta conciencia es relativamente
+reciente y muchos anarquistas (incluso las mujeres como Emma Goldman)
+usaban el término "hombre" para referirse a la humanidad en su conjunto.
+Cuando estamos citando a nuestros camaradas pasados que usaban el
+término "hombre" en este sentido, obviamente significa humanidad en su
+totalidad y no sexo masculino. Cuando es posible, añadimos "mujer",
+"mujeres" y demás, salvo que hacer esto resulte en hacer la referencia
+ilegible. Esperamos que esto deje nuestra postura clara.
 
-So we hope that this FAQ entertains you and makes you think. Hopefully
-it will produce a few more anarchists and speed up the creation of an
-anarchist society. If all else fails, we have enjoyed ourselves creating
-the FAQ and have shown anarchism to be a viable, coherent political
-idea.
+Así que esperamos que estas FAQ te entretengan y te hagan pensar. Ojalá
+que haga que existan más anarquistas y acelere la creación de una
+sociedad anarquista. Si todo lo demás falla, nosotr@s hemos disfrutado
+haciendo las FAQ y hemos mostrado que el anarquismo es una idea política
+coherente y viable.
 
-We dedicate this work to the millions of anarchists, living and dead,
-who tried and are trying to create a better world. An Anarchist FAQ was
-officially released on July 19th, 1996 for that reason -- to celebrate
-the Spanish Revolution of 1936 and the heroism of the Spanish anarchist
-movement. We hope that our work here helps make the world a freer place.
+Dedicamos este trabajo a los millones de anarquistas, viv@s y muert@s, que
+intentaron e intentan crear un mundo mejor. Un FAQ Anarquista fue lanzado
+oficialmente el 19 de julio de 1996 por esa razón -- para celebrar la
+Revolución Española de 1936 y el heroísmo del movimiento anarquista español.
+Esperamos que nuestro trabajo aquí ayude a conseguir del mundo un lugar más
+libre.
 
-The following self-proclaimed anarchists are (mostly) responsible for
-this FAQ:
+Los siguientes anarquistas autoproclamados son (principalmente) responsables
+por este FAQ:
 
-We would like to thank the following for their contributions and
-feedback:
+Nos gustaría agradecer a las siguientes personas sus contribuciones y
+realimentación:
 
-***"An Anarchist FAQ"***, **Version 14.0** \
- Copyright (C) 1995-2010 The Anarchist FAQ Editorial Collective: \
-Iain McKay, Gary Elkin, Dave Neal, Ed Boraas
+***"An Anarchist FAQ"***, **Version 14.0** Copyright (C) 1995-2009 The
+Anarchist FAQ Editorial Collective: Iain McKay, Gary Elkin, Dave Neal, Ed
+Boraas
 
-Permission is granted to copy, distribute and/or modify this document
-under the terms of the GNU Free Documentation License, Version 1.1 or
-any later version published by the Free Software Foundation, and/or the
-terms of the GNU General Public License, Version 2.0 or any later
-version published by the Free Software Foundation.
+Se otorga permiso para copiar, distribuir y/o modificar este documento
+bajo los términos de la GNU Free Documentation License, Versión 1.1 o
+cualquiera posterior publicada por la Free Software Foundation, y/o los
+términos de la GNU General Public License, Versión 2.0 o cualquier versión
+posterior publicada por la Free Software Foundation.
 
-See the Licenses page at [http://www.gnu.org/](http://www.gnu.org/) for
-more details.
+Mire la página Licencias en [http://www.gnu.org/](http://www.gnu.org/) para más
+detalles.
