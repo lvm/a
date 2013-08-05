@@ -305,141 +305,136 @@ participás. Si dejás de hacerlo, la anarquía se desmorona. La lucha social es
 el medio por el cual nos aseguramos que la anarquía se vuelva más fuerte y
 crezca.
 
-J.1.2 Are anarchists against reforms?
--------------------------------------
+J.1.2 ¿Los anarquistas están en contra de las reformas?
+-------------------------------------------------------
 
-No, we are not. While most anarchists are against reformism (namely the
-notion that we can somehow reform capitalism and the state away) we are
-most definitely in favour of reforms (i.e. improvements in the here and
-now). Anarchists are radicals; as such, we seek the root causes of
-societal problems. Reformists seek to ameliorate the symptoms of
-societal problems, while anarchists focus on the causes.
+No, no lo estamos. Si bien la mayoría de los anaquistas están en contra del
+reformismo (es decir la noción de que podemos de algún modo reformar el
+capitalismo y el estado hasta desaparecerlos), definitivamente apoyamos las
+reformas (o sea las mejoras aquí y ahora). Los anarquistas son radicales; como
+tales, buscamos la raíz de los problemas sociales. Los reformistas tratan de
+aliviar los síntomas de los problemas sociales, mientras que los anarquistas se
+enfocan en las causas.
 
-This does not mean, however, that we ignore struggles for reforms in the
-here and now. The claim that anarchists are against such improvements
-are often put forth by opponents of anarchism in an effort to paint us
-as irrelevant extremists with no practical outlet for our ideas beyond
-abstract calls for revolution. This is not true. Libertarians are well
-aware that we can act to make our lives better while, at the same time,
-seeking to remove the root causes of the problems we face. (see, for
-example, Emma Goldman's account of her recognition of how false it was
-deny the need for short-term reforms in favour of revolution. [**Living
-My Life**, vol. 1, p. 52]). In the words of the revolutionary
-syndicalist Emile Pouget:
+Sin embargo, esto no significa que ignoramos las luchas por reformas en el
+presente. La afirmación de que los anarquistas están en contra de tales mejoras
+a menudo es sostenida por los oponentes del anarquismo, en un esfuerzo por
+mostrarnos como extremistas irrelevantes sin propuestas prácticas sobre
+nuestras ideas, más allá del llamado abstracto a la revolución. Esto no es
+cierto. Los libertarios son muy conscientes de que podemos actuar para mejorar
+nuestras vidas mientras que, al mismo tiempo, buscamos remover las raices de
+los problemas que enfrentamos. (ver, por ejemplo, las consideraciones de Emma
+Goldman sobre lo equivocado de negar la necesidad de reformas de corto plazo en
+favor de la revolución [**Living My Life**, vol. 1, p. 52]). En palabras del
+sindicalista revolucionario Emile Pouget:
 
-> *"Trade union endeavour has a double aim: with tireless persistence,
-> it must pursue betterment of the working class's current conditions.
-> But, without letting themselves become obsessed with this passing
-> concern, the workers should take care to make possible and imminent
-> the essential act of comprehensive emancipation: the expropriation of
-> capital.*
+> *"Los esfuerzos sindicales tienen un doble objetivo: con persistencia
+> incansable debe perseguir el mejoramiento de las actuales condiciones de la
+> clase trabajadora. Pero, sin obsesionarse con esta preocupación pasajera, los
+> trabajadores deben ocuparse de volver posible e inminente el acto esencial de
+> emancipación integral: la expropiación del capital."*
 
-> *"At present, trade union action is designed to win partial and
-> gradual improvements which, far from constituting a goal, can only be
-> considered as a means of stepping up demands and wresting further
-> improvements from capitalism . . .*
+> *"En el presente, la acción de los sindicatos está orientada a lograr mejoras
+> parciales y graduales las cuales, lejos de constituir una meta, sólo pueden
+> considerarse como medios de intensificar las demandas para arrebatar nuevas
+> mejoras al capitalismo (...)"*
 
-> *"This question of partial improvements served as the pretext for
-> attempts to sow discord in the trades associations. Politicians . . .
-> have tried to . . . stir up ill-feeling and to split the unions into
-> two camps, by categorising workers as reformists and as
-> revolutionaries. The better to discredit the latter, they have dubbed
-> them 'the advocates of all or nothing' and they have falsely
-> represented them as supposed adversaries of improvements achievable
-> right now.*
+> *"Esta cuestión de las reformas parciales sirvió como pretexto para intentar
+> sembrar discordia en los gremios. Los políticos (...) han tratado de (...)
+> despertar rencores y de dividir a los sindicatos en dos campos, categorizando
+> a los trabajadores como reformistas y como revolucionarios. Para desacreditar
+> a estos últimos los han caracterizados como 'los defensores del todo o
+> nada' y los han descripto falsamente como supuestos adversarios de las
+> mejoras que puedan obtenerse inmediatamente."*
 
-> *"The most that can be said about this nonsense is that it is witless.
-> There is not a worker . . . who, on grounds of principle or for
-> reasons of tactics, would insist upon working ten hours for an
-> employer instead of eight hours, while earning six francs instead of
-> seven . . .*
+> "Lo máximo que puede decirse acerca de este disparate es que es insensato. No
+> hay un trabajador (...) que, basado en sus principios o por razones tácticas,
+> insista en trabajar diez horas para un empleador en vez de ocho horas,
+> ganando seis francos en vez de siete (...)"*
 
-> *"What appears to afford some credence to such chicanery is the fact
-> that the unions, cured by the cruel lessons of experience from all
-> hope in government intervention, are justifiably mistrustful of it.
-> They know that the State, whose function is to act as capital's
-> gendarme, is, by its very nature, inclined to tip the scales in favour
-> of the employer side. So, whenever a reform is brought about by legal
-> avenues, they do not fall upon it with the relish of a frog devouring
-> the red rag that conceals the hook, they greet it with all due
-> caution, especially as this reform is made effective only if the
-> workers are organised to insist forcefully upon its implementation.*
+> *"Lo que aparenta otorgar alguna credibilidad a tal chicana es el hecho de que
+> los sindicatos, curados por las crueles lecciones de la experiencia de toda
+> esperanza en la intervención del gobierno, son justificadamente desconfados
+> del mismo. Saben que el Estado, cuya función es actuar como el gendarme del
+> capital, es, por su propia naturaleza, parcial a inclinar la balanza en favor
+> de la patronal. Por eso, cada vez que una reforma se realiza por vías
+> legales, no caen sobre ella con el deleite de la rana devorando el trapo rojo
+> que oculta el anzuelo, sino que lo reciben con toda la debida precaución,
+> especialmente en tanto esta reforma se hace efectiva sólo si los trabajadores
+> están organizados para insistir con fuerza en su implementación."*
 
-> *"The trade unions are even more wary of gifts from the government
-> because they have often found these to be poison gifts . . . Wanting
-> real improvements . . . instead of waiting until the government is
-> generous enough to bestow them, they wrest them in open battle,
-> through direct action.*
+> *"Los sindicatos son incluso más recelosos de los regalos provenientes del
+> gobierno porque frecuentemente han hallado que vienen envenenados (...).
+> Prefiriendo mejoras reales (...), en vez de esperar hasta que los gobiernos
+> sean lo suficientemente generosos de ofrecerlas, pelean por ellas
+> abiertamente a través de la acción directa."*
 
-> *"If, as sometimes is the case, the improvement they seek is subject
-> to the law, the trade unions strive to obtain it through outside
-> pressure brought to bear upon the authorities and not by trying to
-> return specially mandated deputies to Parliament, a puerile pursuit
-> that might drag on for centuries before there was a majority in favour
-> of the yearned-for reform.*
+> *"Tal como sucede a veces, si el avance buscado es de materia legal, los
+> sindicatos presionan a las autoridades para obtenerlo, en vez de tratar de
+> colocar representantes en el Parlamento, una búsqueda pueril que podría
+> prolongarse siglos antes de lograr una mayoría que esté a favor de la reforma
+> anhelada."*
 
-> *"When the desired improvement is to be wrestled directly from the
-> capitalist, the trades associations resort to vigorous pressure to
-> convey their wishes. Their methods may well vary, although the direct
-> action principle underlies them all . . .*
+> *"Cuando la mejora deseada debe arrancarse directamente de los capitalistas,
+> los sindicatos recurren a una presión vigorosa para lograr sus deseos. Sus
+> métodos pueden variar, pero en todos subyace el principio de acción directa
+> (...)"*
 
-> *"But, whatever the improvement won, it must always represent a
-> reduction in capitalist privileges and be a partial expropriation. So
-> . . . the fine distinction between 'reformist' and 'revolutionary'
-> evaporates and one is led to the conclusion that the only really
-> reformist workers are the revolutionary syndicalists."* [**No Gods, No
-> Masters**, vol. 2, pp. 71-3]
+> *"Pero, cualquiera sea la mejora obtenida, siempre debe representar una
+> reducción de los privilegios capitalistas y debe ser una expropiación
+> parcial. Por eso (...) la fina distinción entre 'reformista' y
+> 'revolucionario' se evapora y uno tiende a concluir que los únicos
+> trabajadores realmente reformistas son los sindicalistas revolucionarios."*
+> [Emile Pouget, **No Gods, No Masters**, vol. 2, pp. 71-3]
 
-Pouget was referring to revolutionary unions but his argument can be
-generalised to all social movements.
+Pouget se refería a los gremios revolucionarios pero su argumento puede ser
+generalizado a todos los movimientos sociales.
 
-By seeking improvements from below by direct action, solidarity and the
-organisation of those who directly suffer the injustice, anarchists can
-make reforms more substantial, effective and long lasting than "reforms"
-made from above by reformists. By recognising that the effectiveness of
-a reform is dependent on the power of the oppressed to resist those who
-would dominate them, anarchists seek change from the bottom-up and so
-make reforms real rather than just words gathering dust in the law
-books.
+Al perseguir mejoras desde abajo a través de la acción directa, la solidaridad y
+la organización de aquellos que sufren directamente la injusticia, los
+anarquistas pueden elaborar reformas más sustanciales, efectivas y durables que
+las "reformas" logradas desde arriba por los reformistas. Al reconocer que la
+efectividad de una reforma depende del poder de los oprimidos que resisten ante
+aquellos que los dominan, los anarquistas buscan el cambio desde abajo hacia
+arriba, y por lo tanto hacen reales las reformas, en vez de sólo palabras
+juntando polvo en los libros de la ley.
 
-For example, a reformist sees poverty and looks at ways to lessen the
-destructive and debilitating effects of it: this produced things like
-the minimum wage, affirmative action, the projects in the USA and
-similar reforms in other countries. An anarchist looks at poverty and
-says, "what causes this?" and attacks that source of poverty, rather
-than the symptoms. While reformists may succeed in the short run with
-their institutional panaceas, the festering problems remain untreated,
-dooming reform to eventual costly, inevitable failure -- measured in
-human lives, no less. Like a quack that treats the symptoms of a disease
-without getting rid of what causes it, all the reformist can promise is
-short-term improvements for a condition that never goes away and may
-ultimately kill the sufferer. The anarchist, like a real doctor,
-investigates the causes of the illness and treats them while fighting
-the symptoms.
+Por ejemplo, un reformista ve la pobreza y busca modos de disminuir sus efectos
+debilitadores y destructivos: esto produjo cosas como el salario mínimo, la
+acción afirmativa, los proyectos en Estados Unidos y reformas similares en
+otros países. Un anarquista mira la pobreza y se pregunta "¿qué causa esto?" y
+ataca la raíz más que los síntomas. Mientras que los reformistas pueden
+triunfar en el corto plazo con sus panaceas institucionales, el foco infeccioso
+permanece sin tratamiento, condenando la reforma a un eventual fracaso, costoso
+e inevitable - medido nada menos que en vidas humanas. Como un matasanos que
+trata los síntomas de una enfermedad sin atacar sus causas, todo lo que puede
+prometer el reformismo son mejoras de corto plazo para una dolencia que nunca
+se va y que finalmente puede matar al paciente. El anarquista, como un médico
+verdadero, investiga y trata la fuente del problema sin desatender los
+síntomas.
 
-Therefore, anarchists are of the opinion that *"[w]hile preaching
-against every kind of government, and demanding complete freedom, we
-must support all struggles for partial freedom, because we are convinced
-that one learns through struggle, and that once one begins to enjoy a
-little freedom one ends by wanting it all. We must always be with the
-people . . . [and] get them to understand . . . [what] they may demand
-should be obtained by their own efforts and that they should despise and
-detest whoever is part of, or aspires to, government."* [Malatesta,
-**Errico Malatesta: His Life and Ideas** p. 195]
+Por lo tanto, los anarquistas opinan que *"mientras se predica contra toda
+forma de gobierno, demandando completa libertad, debemos apoyar las luchas por
+libertades parciales, porque estamos convencidos de que se aprende durante la
+lucha, y una vez que se empieza a disfrutar de un poco de libertad uno termina
+queriéndola toda. Siempre debemos estar con la gente (...) [y] hacer que
+entiendan (...) [que] lo que sea que exigan deberían obtenerlo por sus propios
+esfuerzos, despreciando y detestando a quien sea parte del gobierno o aspire a
+serlo."* [Malatesta, **Errico Malatesta: His Life and Ideas**, p. 195]
 
-So, anarchists are not opposed to struggles for reforms and improvements
-in the here and now. Indeed, few anarchists think that an anarchist
-society will occur without a long period of anarchist activity
-encouraging and working within social struggle against injustice. Thus
-Malatesta's words:
+Entonces, los anarquistas no se oponen a las luchas por reformas y mejoras en
+el aquí y ahora. De hecho pocos anarquistas piensan que una sociedad anarquista
+se materializará sin un largo período de actividades anárquicas alentando las
+luchas sociales y trabajando contra la injusticia. Por ello las palabras de
+Malatesta:
 
-> *"the subject is not whether we accomplish Anarchism today, tomorrow
-> or within ten centuries, but that we walk towards Anarchism today,
-> tomorrow and always."* [**Towards Anarchism**, p. 75]
+> *"el tema no es si logramos el anarquismo hoy, mañana o dentro de diez
+> siglos, sino si nos dirigimos hacia el anarquismo hoy, mañana y siempre."*
+> [Malatesta, **Towards Anarchism**, p. 75]
 
-So, when fighting for improvements anarchists do so in an anarchist way,
-one that encourages self-management, direct action and the creation of
-libertarian solutions and alternatives to both capitalism and the state.
+De este modo, cuando los anarquistas pelean por mejoras lo hacen a su modo, uno
+que favorece la autogestión, la acción directa y la creación de respuestas
+libertarias y alternativas tanto al capitalismo y como al estado.
 
 J.1.3 Why are anarchists against reformism?
 -------------------------------------------
